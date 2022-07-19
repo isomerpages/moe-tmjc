@@ -20,3 +20,10 @@ Since its founding in 1986, the College, driven by the desire to continually ai
 <img src="/images/2016%2030th%20Anniversary%20Formation.jpeg" 
      style="width:50%">
 As the educational landscape became more diversified, students embarked on a journey that sought to develop within them a zest for innovation, a passion for enterprise, and the imagination to be truly creative. The College worked towards the creation of an even more challenging environment of intellectual exchange that would provide greater opportunities for TPJC students to broaden their worldview, grow socially and develop as leaders in preparation for the realities of the globalised economy. The College also continued to rise to the demands of the present and future guided by the unchanging ideal of its motto, ‘Aim & Achieve’.
+
+### Leadership
+
+**Our Principal**
+
+**1986-1992**  
+<b><u>Mr Yahya Aljaru</b></u>
