@@ -1,4 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: Admissions
+    collection: admissions
   - title: Useful Links
     collection: useful-links
