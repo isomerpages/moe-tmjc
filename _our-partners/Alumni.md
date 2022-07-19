@@ -9,3 +9,10 @@ TMJC is indeed blessed with alumni from both of our parent colleges, as well as 
 
 <center>On 18 July 2021, the first TMJC Alumni Executive Committee was formed.  
 They are: </center>
+
+![](/images/Alumni.jpeg)
+![](/images/alumni%202.jpeg)
+
+The Alumni Executive Committee can be contacted at [tmjcalumni@gmail.com](mailto:tmjcalumni@gmail.com).
+
+_updated on 21 September 2021_
