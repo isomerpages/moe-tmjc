@@ -122,3 +122,16 @@ The College also believed that CCA was an important platform to develop characte
 The Theatre Studies & Drama (TSD) Elective Programme commenced in Tampines Junior College in 2007. Riding on TPJC's vibrant performing arts culture and environment, the programme saw 26 students in the pioneer cohort and the conversion of the AV Theatrette to the Black Box, which became ‘home’ to many generations of TSDians.
 
 Over the years, under the stewardship of various Programme Directors, the programme’s presence on campus expanded as students held public performances to showcase examination pieces to their peers, teachers and parents. With students of the programme doing well academically, they became proud ambassadors of the demanding yet fulfilling academic programme.
+
+<img src="/images/The%20Imaginary%20Invalid,%20Dinie%20Mifdhal,%202014.jpeg" 
+     style="width:50%">
+		 
+In 2017, the programme celebrated its 10th Anniversary by reaffirming its role in nurturing students anchored in the TSDian Values: Love, Courage, Faith, Truth and Belief. The programme also strengthened its presence within the Singapore Theatre education landscape, playing major roles in building strong partnerships with professional industry stakeholders to nurture future leaders of the vibrant Singapore Arts landscape.
+
+**(ii) Malay Language Elective Programme**
+
+Tampines Junior College was selected to offer the Malay Language Elective Programme (MLEP)  in 2001. The programme aimed to enhance students’ knowledge of the Malay language, literature and culture and provide students with the opportunity to be effectively bilingual.
+
+![](/images/malay%20language%20elective%20programme.png)
+
+A wide array of enrichment programmes such as the MLEP Series of Lectures, the MLEP Literature Camp, talks by renowned writers and creative writing workshops engaged students in meaningful activities that improved their language skills and interest in the learning of the Malay language, literature and culture. To provide students with the opportunity to use the Malay language in an environment that promoted an exclusive use of the language, the College organised international immersion trips to Indonesia, Brunei and Malaysia.  The  College also collaborated with the National Arts Council and Malay Language Learning and Promotion Committee and schools offering Higher Malay Language to promote the learning and appreciation of the Malay language, literature and culture among students from other educational institutions.
