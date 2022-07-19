@@ -85,3 +85,17 @@ Ms Pamela Yoong was the sixth and final Principal of Tampines Junior College. Th
 <center><b><u>Mr Sim Hong Boon</u></b></center>
 
 Mr Sim Hong Boon was the first and only Chairman of the TPJC College Advisory Committee (CAC). Over the years, Mr Sim built a very strong partnership with the principals and staff of the College. Mr Sim, together with other CAC members, initiated awards to support different groups of students and contributed generously to the College by sponsoring many College events such as the annual CAC Dinner for all staff. In addition, he provided internship opportunities to students at his accounting and auditing firm. Staff and students appreciated his humble and approachable nature as he willingly shared his experiences in the private and commercial sectors and advised students on career opportunities in finance and accounting. It was evident that Tampines Junior College had a special place in his heart.
+
+### Milestones
+
+**Community Involvement**
+
+<img src="/images/image25.jpeg" 
+     style="width:50%">
+Service to the community was an essential part of TPJC’s mission of producing all rounded students who would be good citizens, conscious of their responsibility to the College, family, society and nation. From the time of its founding, the College organised various projects to raise funds for the less privileged. In 2016, in collaboration with the North-East Community Development Council and Loyang Tua Pek Kong, the College raised S$60 000 for charity as part of its 30th Anniversary Celebrations with a 100000 km Walk/Run Challenge.
+
+<img src="/images/2005%20Overseas%20Community%20Involvement%20Programme%20to%20Phuket.jpeg" 
+     style="width:50%">
+Over the years, projects that involved service to the community became part of the College’s Values In Action Project known as Project Ohana (family). 
+
+Some of the beneficiaries of Project Ohana were the less privileged in the Tampines area. Overseas Community Involvement Programmes and Overseas Values In Action Projects gave students opportunities to contribute to the less privileged in our neighbouring countries too. TPJCians volunteered their services in Cambodia, Vietnam and Indonesia by either helping to improve the infrastructure in village schools or teaching the children to read, write and speak simple English. Students also went to Kolkata, India to volunteer at various homes run by Mother Teresa’s Missionaries of Charity. It was indeed the College’s vision and mission to instill in its students the belief that they were all part of a larger family.
