@@ -157,3 +157,9 @@ Dr Kelvin Khng graduated from the Class of 1999 and was a graduate from the Nati
 <center><b><u>Mr Hishammudin Hasan (87A14)</u></b></center>
 
 During his time in TPJC, Mr Hishammudin Hasan (Hisham) represented the College in both English and Malay Language debate competitions. After being an Army Officer, he joined Nestle Singapore, embarking on a 14-year career during which he became the Vice-President of the company at the young age of 29. He subsequently joined two other multinational companies (Mondelez & Danone), taking on regional roles. Hisham was also the Executive Director and Deputy CEO of 7-Eleven Malaysia and was appointed as the Chief Executive Officer of Central Sugars Malaysia (CSR) in 2018.
+
+<img src="/images/Winston%202.jpeg" 
+     style="width:50%">
+<center><b><u>Mr Winston Goh Whye-Sen (86S07)</u></b></center>
+
+Mr Winston Goh Whye-Sen graduated from the Class of 1986 and was part of the 1st Student Council. As a student, he represented Singapore at the 11th ASEAN Schools Athletics Championship in Thailand. He served in the Ministry of Foreign Affairs and also worked in the Overseas Singaporean Unit (OSU) under the Prime Minister’s Office before subsequently joining the Ministry of Defence in 2014. Winston was a very active alumnus who served as a founding member of the TPJC Alumni Committee. He was appointed as a member of the College Advisory Committee in 2016.
