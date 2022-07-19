@@ -150,3 +150,8 @@ Mr Mohamed Faizal Mohamed Abdul Kadir received concurrent and several scholarshi
 <center><b><u>Dr Kelvin Khng (98S01)</u></b></center>
 
 Dr Kelvin Khng graduated from the Class of 1999 and was a graduate from the National University of Singapore, Faculty of Dentistry. He obtained his Master of Science degree in Oral Sciences from the University of Iowa, USA. He teaches the undergraduates part-time at the Faculty of Dentistry, National University of Singapore and also lectures general dentists and dental specialists regionally. Dr Khng is also a member, fellow and diplomate of the American Board of Prosthodontics, the President of the Prosthodontic Society of Singapore as well as a member of the Singapore Dental Association. He was appointed as a member of the College Advisory Committee in 2016.
+
+
+<img src="/images/Hishammudin%20Hasan.jpeg" 
+     style="width:50%">
+<center><b><u>Mr Hishammudin Hasan (87A14)</u></b></center>
