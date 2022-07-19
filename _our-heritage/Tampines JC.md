@@ -144,3 +144,9 @@ A wide array of enrichment programmes such as the MLEP Series of Lectures, the M
   
 
 Mr Mohamed Faizal Mohamed Abdul Kadir received concurrent and several scholarships to read Law at the National University of Singapore (NUS) and study negotiation at Oxford University. He held numerous appointments both in Singapore and internationally and was recognised for his extensive contribution to the legal field by being presented several awards including the Public Administration Medal (Bronze) in 2014 and the Ten Outstanding Young Persons of the World Award. He set up the TPJC Scholarship which recognised students who excelled in the JC1 Year-End Examinations.
+
+<img src="/images/Kelvin%20Khng.jpeg" 
+     style="width:50%">
+<center><b><u>Dr Kelvin Khng (98S01)</u></b></center>
+
+Dr Kelvin Khng graduated from the Class of 1999 and was a graduate from the National University of Singapore, Faculty of Dentistry. He obtained his Master of Science degree in Oral Sciences from the University of Iowa, USA. He teaches the undergraduates part-time at the Faculty of Dentistry, National University of Singapore and also lectures general dentists and dental specialists regionally. Dr Khng is also a member, fellow and diplomate of the American Board of Prosthodontics, the President of the Prosthodontic Society of Singapore as well as a member of the Singapore Dental Association. He was appointed as a member of the College Advisory Committee in 2016.
