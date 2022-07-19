@@ -23,7 +23,7 @@ As the educational landscape became more diversified, students embarked on a jou
 
 ### Leadership
 
-**Our Principal**
+<strong><center>Our Principal</strong></center>
 
 <img src="/images/Mr%20Yahya%20Aljaru.jpeg" 
      style="width:25%">
