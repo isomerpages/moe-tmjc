@@ -170,3 +170,10 @@ Mr Winston Goh Whye-Sen graduated from the Class of 1986 and was part of the 1st
 <center><b><u>Mr Justin Sng (01S03)</u></b></center>
 
 Mr Justin Sng was one of our student leaders who graduated from the Class of 2002 and studied Life Sciences in the National University of Singapore. As an entrepreneur, Justin started his own company, Aquaforce Private Limited, which deals with the maintenance of water pumping systems. Justin was active in supporting the needy students in TPJC through the TPJC Financial Assistance Scheme, and set up the TPJC Alumni Award for Student Leadership.
+
+
+<img src="/images/Liza%20Rahmat.jpg" 
+     style="width:50%">
+<center><b><u>Ms Liza binte Rahmat (89A05)</u></b></center>
+
+Ms Liza binte Rahmat graduated with a Degree of Bachelor of Arts (BA) in Geography and Psychology from the National University of Singapore. She then proceeded to teach Geography and English at Beatty Secondary and was Subject Head (National Education) in 2002 and Head of Department (Pastoral Care and Career Guidance) in 2003. Liza was subsequently the Vice-Principal of Xinghua Primary, Greenridge Primary and Tanjong Katong Primary. In 2012, Liza obtained a Master of Arts (Educational Management) from Nanyang Technological University. In 2017, she was appointed as Principal of Meridian Primary School.
