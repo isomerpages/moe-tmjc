@@ -163,3 +163,10 @@ During his time in TPJC, Mr Hishammudin Hasan (Hisham) represented the College i
 <center><b><u>Mr Winston Goh Whye-Sen (86S07)</u></b></center>
 
 Mr Winston Goh Whye-Sen graduated from the Class of 1986 and was part of the 1st Student Council. As a student, he represented Singapore at the 11th ASEAN Schools Athletics Championship in Thailand. He served in the Ministry of Foreign Affairs and also worked in the Overseas Singaporean Unit (OSU) under the Prime Minister’s Office before subsequently joining the Ministry of Defence in 2014. Winston was a very active alumnus who served as a founding member of the TPJC Alumni Committee. He was appointed as a member of the College Advisory Committee in 2016.
+
+
+<img src="/images/Justin%20Sng.jpg" 
+     style="width:50%">
+<center><b><u>Mr Justin Sng (01S03)</u></b></center>
+
+Mr Justin Sng was one of our student leaders who graduated from the Class of 2002 and studied Life Sciences in the National University of Singapore. As an entrepreneur, Justin started his own company, Aquaforce Private Limited, which deals with the maintenance of water pumping systems. Justin was active in supporting the needy students in TPJC through the TPJC Financial Assistance Scheme, and set up the TPJC Alumni Award for Student Leadership.
