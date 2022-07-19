@@ -32,3 +32,20 @@ As the educational landscape became more diversified, students embarked on a jou
 <center><b><u>Mr Yahya Aljaru</u></b></center>
 
 Mr Yahya Aljaru founded Tampines Junior College and was its Principal from 1986 to 1992. As the College’s first Principal, he put in place processes that empowered teachers and helped students realise their potential. He was best remembered as a humble and compassionate man who dedicated his life to helping and serving others. By encouraging staff and students to work closely together and to offer views and suggestions to contribute to the progress of the College, he built a close-knit family and nurtured the “kampong spirit” in TPJC. A firm believer in a holistic education, he led the College in developing compassionate young men and women who served their community and put others before self. It was precisely this spirit that guided the College in its vision and mission of serving the community.
+
+<img src="/images/Mr%20Lee%20Kah%20Chuen.jpeg" 
+     style="width:25%">
+		 
+<center><b>1993-1997</b></center>
+<center><b><u>Mr Lee Kah Chuen</u></b></center>
+
+Mr Lee Kah Chuen opened the College to the growing Tampines community through two Fun Fairs. College spirit and unity were further strengthened as students and staff collaborated well to ensure the success of these ventures. The funds raised from these events contributed significantly to improvements in infrastructure to accommodate the College’s increasing student population.
+
+
+<img src="/images/Mrs%20Susan%20Chan.jpeg" 
+     style="width:25%">
+		 
+<center><b>1997-2002</b></center>
+<center><b><u>Mrs Susan Chan</u></b></center>
+
+Mrs Susan Chan was a firm supporter of the performing arts groups and under her leadership, the College showcased the many talents of its students. Public performances such as the Malay Cultural Society’s Manifestasi and the College’s staging of The Mikado were instrumental in putting TPJC on the arts map. TPJC was also invited to host the MOE Malay Elective Programme.
