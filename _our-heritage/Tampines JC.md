@@ -49,3 +49,13 @@ Mr Lee Kah Chuen opened the College to the growing Tampines community through tw
 <center><b><u>Mrs Susan Chan</u></b></center>
 
 Mrs Susan Chan was a firm supporter of the performing arts groups and under her leadership, the College showcased the many talents of its students. Public performances such as the Malay Cultural Society’s Manifestasi and the College’s staging of The Mikado were instrumental in putting TPJC on the arts map. TPJC was also invited to host the MOE Malay Elective Programme.
+
+
+<img src="/images/Mrs%20Goh%20Hwee%20Choo.jpeg" 
+     style="width:25%">
+		 
+<center><b>2002-2006</b></center>
+<center><b><u>Mrs Goh Hwee Choo</u></b></center>
+
+Mrs Goh Hwee Choo believed strongly that education was a social leveller. She thus put in place various structures to ensure that students from less privileged backgrounds received the support that they needed. Mrs Goh also directed the creation of a Heritage Corridor to recognise the achievements of students and staff as part of the College’s 20th anniversary celebrations.
+
