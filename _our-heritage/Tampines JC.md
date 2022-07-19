@@ -99,3 +99,16 @@ Service to the community was an essential part of TPJC’s mission of producing 
 Over the years, projects that involved service to the community became part of the College’s Values In Action Project known as Project Ohana (family). 
 
 Some of the beneficiaries of Project Ohana were the less privileged in the Tampines area. Overseas Community Involvement Programmes and Overseas Values In Action Projects gave students opportunities to contribute to the less privileged in our neighbouring countries too. TPJCians volunteered their services in Cambodia, Vietnam and Indonesia by either helping to improve the infrastructure in village schools or teaching the children to read, write and speak simple English. Students also went to Kolkata, India to volunteer at various homes run by Mother Teresa’s Missionaries of Charity. It was indeed the College’s vision and mission to instill in its students the belief that they were all part of a larger family.
+
+**Sports and Performing Arts**
+
+<img src="/images/Sea%20Carnival_2001.jpeg" 
+     style="width:50%">
+Tampines Junior College offered a wide variety of Sports and Performing Arts Co-Curricular Activities (CCAs) that made for a vibrant College life for students. The Sea Sports Carnival, where students competed in kayaking, canoeing and dragon boating, was one of the highlights of the College’s sporting calendar. Over the years, the College fielded teams for many competitions with various CCAs winning trophies and medals. Some notable achievements were those made by the Chinese Pugilistic Society which distinguished itself at the National Wushu Championships in 2001. Together with other CCAs, the Air Rifle and Rock Climbing Clubs not only showcased students’ talents and skills, but also won several National Championships.
+
+<img src="/images/Panorama_ZEST!%202018_MDC.jpeg" 
+     style="width:50%">
+		 
+Students from the Performing Arts had many opportunities to shine at public performances and international competitions. There were several outstanding performances such as _The Canterbury Tales_, the College’s first public production in 1989, the Choir’s annual concert, _Plaisir de Chanson_, as well as _Panorama_, a combined Performing Arts concert. Besides achieving the Distinction Award or Gold Award at the Singapore Youth Festival, the Choir also excelled in prestigious international competitions like the Third Musica Mundi International Choral Competition in Germany in 1998. The College Band also performed outstandingly well at the Singapore Youth Festival and in the 4th International Alpine Music Festival Saas Fee in Switzerland in 2001, the Band won a Silver award.   
+  
+The College also believed that CCA was an important platform to develop character and leadership and conducted programmes like the Leadership Training Camp and Student Leadership Congress, in line with the College’s vision, ‘A Leader in Every Student’.
