@@ -139,60 +139,60 @@ A wide array of enrichment programmes such as the MLEP Series of Lectures, the M
 ### Significant Alumni
 
 <img src="/images/Mohamed%20Faizal%20Photo%20(for%20TPJC).jpeg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Mr Mohamed Faizal Mohamed Abdul Kadir (97S18)</u></b></center>
   
 
 Mr Mohamed Faizal Mohamed Abdul Kadir received concurrent and several scholarships to read Law at the National University of Singapore (NUS) and study negotiation at Oxford University. He held numerous appointments both in Singapore and internationally and was recognised for his extensive contribution to the legal field by being presented several awards including the Public Administration Medal (Bronze) in 2014 and the Ten Outstanding Young Persons of the World Award. He set up the TPJC Scholarship which recognised students who excelled in the JC1 Year-End Examinations.
 
 <img src="/images/Kelvin%20Khng.jpeg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Dr Kelvin Khng (98S01)</u></b></center>
 
 Dr Kelvin Khng graduated from the Class of 1999 and was a graduate from the National University of Singapore, Faculty of Dentistry. He obtained his Master of Science degree in Oral Sciences from the University of Iowa, USA. He teaches the undergraduates part-time at the Faculty of Dentistry, National University of Singapore and also lectures general dentists and dental specialists regionally. Dr Khng is also a member, fellow and diplomate of the American Board of Prosthodontics, the President of the Prosthodontic Society of Singapore as well as a member of the Singapore Dental Association. He was appointed as a member of the College Advisory Committee in 2016.
 
 
 <img src="/images/Hishammudin%20Hasan.jpeg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Mr Hishammudin Hasan (87A14)</u></b></center>
 
 During his time in TPJC, Mr Hishammudin Hasan (Hisham) represented the College in both English and Malay Language debate competitions. After being an Army Officer, he joined Nestle Singapore, embarking on a 14-year career during which he became the Vice-President of the company at the young age of 29. He subsequently joined two other multinational companies (Mondelez & Danone), taking on regional roles. Hisham was also the Executive Director and Deputy CEO of 7-Eleven Malaysia and was appointed as the Chief Executive Officer of Central Sugars Malaysia (CSR) in 2018.
 
 <img src="/images/Winston%202.jpeg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Mr Winston Goh Whye-Sen (86S07)</u></b></center>
 
 Mr Winston Goh Whye-Sen graduated from the Class of 1986 and was part of the 1st Student Council. As a student, he represented Singapore at the 11th ASEAN Schools Athletics Championship in Thailand. He served in the Ministry of Foreign Affairs and also worked in the Overseas Singaporean Unit (OSU) under the Prime Minister’s Office before subsequently joining the Ministry of Defence in 2014. Winston was a very active alumnus who served as a founding member of the TPJC Alumni Committee. He was appointed as a member of the College Advisory Committee in 2016.
 
 
 <img src="/images/Justin%20Sng.jpg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Mr Justin Sng (01S03)</u></b></center>
 
 Mr Justin Sng was one of our student leaders who graduated from the Class of 2002 and studied Life Sciences in the National University of Singapore. As an entrepreneur, Justin started his own company, Aquaforce Private Limited, which deals with the maintenance of water pumping systems. Justin was active in supporting the needy students in TPJC through the TPJC Financial Assistance Scheme, and set up the TPJC Alumni Award for Student Leadership.
 
 
 <img src="/images/Liza%20Rahmat.jpg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Ms Liza binte Rahmat (89A05)</u></b></center>
 
 Ms Liza binte Rahmat graduated with a Degree of Bachelor of Arts (BA) in Geography and Psychology from the National University of Singapore. She then proceeded to teach Geography and English at Beatty Secondary and was Subject Head (National Education) in 2002 and Head of Department (Pastoral Care and Career Guidance) in 2003. Liza was subsequently the Vice-Principal of Xinghua Primary, Greenridge Primary and Tanjong Katong Primary. In 2012, Liza obtained a Master of Arts (Educational Management) from Nanyang Technological University. In 2017, she was appointed as Principal of Meridian Primary School.
 
 <img src="/images/Loretta%20Yuen.jpg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Ms Loretta Yuen (91C09)</u></b></center>
 
 Ms Loretta Yuen was appointed General Counsel and Head of Group Legal and Regulatory Compliance in 2010 and Executive Vice-President in 2015. Loretta oversees legal and regulatory risks across OCBC Bank and its subsidiaries, and provides advice on regulatory risks and legal issues involved in management decisions. Loretta has over 17 years of experience in banking and finance. She was conferred the IBF Distinguished Fellow award in 2016, recognising her as a significant role model who serves as a beacon of excellence for the financial industry.
 
 <img src="/images/Goh%20Hwai%20Kar.jpeg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Ms Goh Hwai Kar (94S08)</u></b></center>
 
 After graduating with a Bachelor in Accountancy (First Class) and a Master in Business, Ms Goh Hwai Kar joined the aviation industry. In her 17 years of experience with the airport, she has held senior positions in various airport business and operations functions. She was also the Vice-President of the People Services for Changi Airport Group (Singapore), leading the teams in functions spanning across Human Resource, Business Partnership, Talent Acquisition, Employer Branding and Scholarship as well as Workplace Transformation and People Facilitation.
 
 
 <img src="/images/Amrin%20Amin.jpg" 
-     style="width:50%">
+     style="width:30%">
 <center><b><u>Mr Amrin Amin (95A01)</u></b></center>
 
 Mr Amrin Amin graduated from the Class of 1996. He studied law at National University of Singapore and Columbia University in New York. He served in the Students’ Union at NUS and as Class President for his law class. Upon graduation, he worked as a corporate lawyer before becoming the Senior Parliamentary Secretary for Ministry of Home Affairs and Ministry of Health and  Member of Parliament representing the Sembawang Group Representation Constituency (Woodlands).
