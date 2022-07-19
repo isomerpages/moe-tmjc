@@ -27,3 +27,7 @@ As the educational landscape became more diversified, students embarked on a jou
 
 **1986-1992**  
 <b><u>Mr Yahya Aljaru</b></u>
+
+Mr Yahya Aljaru founded Tampines Junior College and was its Principal from 1986 to 1992. As the College’s first Principal, he put in place processes that empowered teachers and helped students realise their potential. He was best remembered as a humble and compassionate man who dedicated his life to helping and serving others. By encouraging staff and students to work closely together and to offer views and suggestions to contribute to the progress of the College, he built a close-knit family and nurtured the “kampong spirit” in TPJC. A firm believer in a holistic education, he led the College in developing compassionate young men and women who served their community and put others before self. It was precisely this spirit that guided the College in its vision and mission of serving the community.
+<img src="/images/Mr%20Yahya%20Aljaru.jpeg" 
+     style="width:25%" align= "right">
