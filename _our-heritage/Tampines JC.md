@@ -59,3 +59,9 @@ Mrs Susan Chan was a firm supporter of the performing arts groups and under her 
 
 Mrs Goh Hwee Choo believed strongly that education was a social leveller. She thus put in place various structures to ensure that students from less privileged backgrounds received the support that they needed. Mrs Goh also directed the creation of a Heritage Corridor to recognise the achievements of students and staff as part of the College’s 20th anniversary celebrations.
 
+
+<img src="/images/Ms%20Helen%20Choo.jpeg" 
+     style="width:25%">
+		 
+<center><b>2006-2014</b></center>
+<center><b><u>Ms Helen Choo</u></b></center>
