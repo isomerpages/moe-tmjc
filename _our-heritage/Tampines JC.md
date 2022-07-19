@@ -177,3 +177,24 @@ Mr Justin Sng was one of our student leaders who graduated from the Class of 200
 <center><b><u>Ms Liza binte Rahmat (89A05)</u></b></center>
 
 Ms Liza binte Rahmat graduated with a Degree of Bachelor of Arts (BA) in Geography and Psychology from the National University of Singapore. She then proceeded to teach Geography and English at Beatty Secondary and was Subject Head (National Education) in 2002 and Head of Department (Pastoral Care and Career Guidance) in 2003. Liza was subsequently the Vice-Principal of Xinghua Primary, Greenridge Primary and Tanjong Katong Primary. In 2012, Liza obtained a Master of Arts (Educational Management) from Nanyang Technological University. In 2017, she was appointed as Principal of Meridian Primary School.
+
+<img src="/images/Loretta%20Yuen.jpg" 
+     style="width:50%">
+<center><b><u>Ms Loretta Yuen (91C09)</u></b></center>
+
+Ms Loretta Yuen was appointed General Counsel and Head of Group Legal and Regulatory Compliance in 2010 and Executive Vice-President in 2015. Loretta oversees legal and regulatory risks across OCBC Bank and its subsidiaries, and provides advice on regulatory risks and legal issues involved in management decisions. Loretta has over 17 years of experience in banking and finance. She was conferred the IBF Distinguished Fellow award in 2016, recognising her as a significant role model who serves as a beacon of excellence for the financial industry.
+
+<img src="/images/Goh%20Hwai%20Kar.jpeg" 
+     style="width:50%">
+<center><b><u>Ms Goh Hwai Kar (94S08)</u></b></center>
+
+After graduating with a Bachelor in Accountancy (First Class) and a Master in Business, Ms Goh Hwai Kar joined the aviation industry. In her 17 years of experience with the airport, she has held senior positions in various airport business and operations functions. She was also the Vice-President of the People Services for Changi Airport Group (Singapore), leading the teams in functions spanning across Human Resource, Business Partnership, Talent Acquisition, Employer Branding and Scholarship as well as Workplace Transformation and People Facilitation.
+
+
+<img src="/images/Amrin%20Amin.jpg" 
+     style="width:50%">
+<center><b><u>Mr Amrin Amin (95A01)</u></b></center>
+
+Mr Amrin Amin graduated from the Class of 1996. He studied law at National University of Singapore and Columbia University in New York. He served in the Students’ Union at NUS and as Class President for his law class. Upon graduation, he worked as a corporate lawyer before becoming the Senior Parliamentary Secretary for Ministry of Home Affairs and Ministry of Health and  Member of Parliament representing the Sembawang Group Representation Constituency (Woodlands).
+
+_updated on 16 January 2019_
