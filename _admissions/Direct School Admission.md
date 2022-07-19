@@ -107,6 +107,6 @@ Applicants not being offered a place in Phase 1 **need not re-submit** an appl
 
 After the trials/auditions/interviews, only successful candidates for DSA offers will be notified by the College by **6 Sep 2022.**
 
-General inquiries regarding DSA can be made via email to Mrs Rosalind Lim (Head of Admissions) at **loh_wee_chin_rosalind@schools.gov.sg**.
+General inquiries regarding DSA can be made via email to Mrs Rosalind Lim (Head of Admissions) at <a href="loh_wee_chin_rosalind@schools.gov.sg">loh_wee_chin_rosalind@schools.gov.sg</a>.
 
 You may click on [this link](https://dsa.tmjc.edu.sg/) to submit the **DSA Online Application** for admission to TMJC.
