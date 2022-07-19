@@ -2,4 +2,5 @@ collections:
   our-partners:
     output: true
     order:
+      - Parents.md
       - College Advisory Committee (CAC).md
