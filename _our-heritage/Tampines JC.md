@@ -137,3 +137,10 @@ Tampines Junior College was selected to offer the Malay Language Elective Progra
 A wide array of enrichment programmes such as the MLEP Series of Lectures, the MLEP Literature Camp, talks by renowned writers and creative writing workshops engaged students in meaningful activities that improved their language skills and interest in the learning of the Malay language, literature and culture. To provide students with the opportunity to use the Malay language in an environment that promoted an exclusive use of the language, the College organised international immersion trips to Indonesia, Brunei and Malaysia.  The  College also collaborated with the National Arts Council and Malay Language Learning and Promotion Committee and schools offering Higher Malay Language to promote the learning and appreciation of the Malay language, literature and culture among students from other educational institutions.
 
 ### Significant Alumni
+
+<img src="/images/Mohamed%20Faizal%20Photo%20(for%20TPJC).jpeg" 
+     style="width:50%">
+<center><b><u>Mr Mohamed Faizal Mohamed Abdul Kadir (97S18)</u></b></center>
+  
+
+Mr Mohamed Faizal Mohamed Abdul Kadir received concurrent and several scholarships to read Law at the National University of Singapore (NUS) and study negotiation at Oxford University. He held numerous appointments both in Singapore and internationally and was recognised for his extensive contribution to the legal field by being presented several awards including the Public Administration Medal (Bronze) in 2014 and the Ten Outstanding Young Persons of the World Award. He set up the TPJC Scholarship which recognised students who excelled in the JC1 Year-End Examinations.
