@@ -112,3 +112,13 @@ Tampines Junior College offered a wide variety of Sports and Performing Arts Co-
 Students from the Performing Arts had many opportunities to shine at public performances and international competitions. There were several outstanding performances such as _The Canterbury Tales_, the College’s first public production in 1989, the Choir’s annual concert, _Plaisir de Chanson_, as well as _Panorama_, a combined Performing Arts concert. Besides achieving the Distinction Award or Gold Award at the Singapore Youth Festival, the Choir also excelled in prestigious international competitions like the Third Musica Mundi International Choral Competition in Germany in 1998. The College Band also performed outstandingly well at the Singapore Youth Festival and in the 4th International Alpine Music Festival Saas Fee in Switzerland in 2001, the Band won a Silver award.   
   
 The College also believed that CCA was an important platform to develop character and leadership and conducted programmes like the Leadership Training Camp and Student Leadership Congress, in line with the College’s vision, ‘A Leader in Every Student’.
+
+### Academic Elective Programmes
+
+**(i) Drama Elective Programme**
+<img src="/images/Manic%20Composure,%20Cheong%20Lynn%20Ee,%202014.jpeg" 
+     style="width:50%">
+
+The Theatre Studies & Drama (TSD) Elective Programme commenced in Tampines Junior College in 2007. Riding on TPJC's vibrant performing arts culture and environment, the programme saw 26 students in the pioneer cohort and the conversion of the AV Theatrette to the Black Box, which became ‘home’ to many generations of TSDians.
+
+Over the years, under the stewardship of various Programme Directors, the programme’s presence on campus expanded as students held public performances to showcase examination pieces to their peers, teachers and parents. With students of the programme doing well academically, they became proud ambassadors of the demanding yet fulfilling academic programme.
