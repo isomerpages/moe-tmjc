@@ -76,3 +76,12 @@ Under Ms Helen Choo’s stewardship, the MOE Drama Elective Programme was starte
 <center><b><u>Ms Pamela Yoong</u></b></center>
 
 Ms Pamela Yoong was the sixth and final Principal of Tampines Junior College. Through collaborations with external organisations, parents and alumni, she strengthened the TPJC Ohana (family) spirit and created new opportunities to broaden students’ experiences beyond the classroom. In 2016, as part of the College’s 30th anniversary celebrations, TPJC initiated a tripartite partnership with the North-East Community Development Council and Loyang Tua Pek Kong to embark on a 100,000 km challenge, raising $60,000 to support the lower income families in the North-East district.  Ms Pamela Yoong led Tampines Junior College in the merger with Meridian Junior College. On 11 Jan 2018, MOE announced that Ms Pamela Yoong would be the founding Principal of Tampines Meridian Junior College.
+
+<b><center>Our CAC Chairman</center></b>
+
+<img src="/images/image4.jpeg" 
+     style="width:25%">
+		 
+<center><b><u>Mr Sim Hong Boon</u></b></center>
+
+Mr Sim Hong Boon was the first and only Chairman of the TPJC College Advisory Committee (CAC). Over the years, Mr Sim built a very strong partnership with the principals and staff of the College. Mr Sim, together with other CAC members, initiated awards to support different groups of students and contributed generously to the College by sponsoring many College events such as the annual CAC Dinner for all staff. In addition, he provided internship opportunities to students at his accounting and auditing firm. Staff and students appreciated his humble and approachable nature as he willingly shared his experiences in the private and commercial sectors and advised students on career opportunities in finance and accounting. It was evident that Tampines Junior College had a special place in his heart.
