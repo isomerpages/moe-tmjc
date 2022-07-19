@@ -13,7 +13,8 @@ The College recognises that the family is the child’s first and most important
 
 <center>Parents Support Group Showing their "Welcome On-Board Care Pack”</center>
 
-![](/images/TMJC-OurPartner-Parents_02.jpeg)
+<img src="/images/TMJC-OurPartner-Parents_02.jpeg" 
+     style="width:50%">
 
 <center>Welcome On-Board Care Pack for our Parents Support Group</center>
 
