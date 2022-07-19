@@ -16,3 +16,9 @@ They are: </center>
 The Alumni Executive Committee can be contacted at [tmjcalumni@gmail.com](mailto:tmjcalumni@gmail.com).
 
 _updated on 21 September 2021_
+
+### Alumni Newsletters
+
+* [# Issue 1/2022](/files/TMJC%20Alumni%20Newsletter%202022%201.pdf)
+
+ _updated on 18 April 2022_
