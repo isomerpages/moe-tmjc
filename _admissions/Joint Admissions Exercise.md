@@ -15,7 +15,7 @@ The following groups of students (not on Direct School Admission) are eligible t
 Applicants may apply for the Joint Admissions Exercise (JAE) registration via JAE Internet System (JAE-IS) within 5 calendar days after the release of the Singapore-Cambridge GCE ‘O’ Level Examination results.
 
 
-### JAE Appeal Procedure**  
+### JAE Appeal Procedure
 
 The Appeal period starts after the JAE posting results.
 
