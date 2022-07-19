@@ -155,3 +155,5 @@ Dr Kelvin Khng graduated from the Class of 1999 and was a graduate from the Nati
 <img src="/images/Hishammudin%20Hasan.jpeg" 
      style="width:50%">
 <center><b><u>Mr Hishammudin Hasan (87A14)</u></b></center>
+
+During his time in TPJC, Mr Hishammudin Hasan (Hisham) represented the College in both English and Malay Language debate competitions. After being an Army Officer, he joined Nestle Singapore, embarking on a 14-year career during which he became the Vice-President of the company at the young age of 29. He subsequently joined two other multinational companies (Mondelez & Danone), taking on regional roles. Hisham was also the Executive Director and Deputy CEO of 7-Eleven Malaysia and was appointed as the Chief Executive Officer of Central Sugars Malaysia (CSR) in 2018.
