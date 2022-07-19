@@ -3,7 +3,7 @@ title: Direct School Admission
 permalink: /admissions/direct-school-admission
 description: ""
 ---
-## 2022 Direct School Admission Exercise (DSA)
+# 2022 Direct School Admission Exercise (DSA)
 
 
 The DSA-JC exercise aims to promote holistic education by giving participating JCs the flexibility in selecting secondary school students for admission to JC1 based on their achievements and talents while upholding key principles of transparency, fairness, and meritocracy. It provides students with the opportunities to demonstrate a more diverse range of achievements and talents in seeking admission to JCs. 
@@ -62,3 +62,51 @@ The following **talent areas** are open for DSA applications in TMJC.
   </tr>
 </tbody>
 </table>
+
+### DSA Selection Criteria
+
+Applicants will be selected based on their performance during auditions/trials/interviews.  In addition, applicants would need to fulfil the following:
+
+*   Acceptable academic results
+*   Good conduct
+*   Track record in the chosen area of Sports/Performing Arts
+*   Achievements/Awards in National/Regional/International Competitions
+*   Representation at Zonal/National competitions, National or Club level
+*   Relevant experience in the performing arts
+
+### Application Procedure
+
+If you are interested in applying to Tampines Meridian Junior College through the DSA-JC exercise, you are required to complete the following:
+
+1)  All applications must be submitted online using the stipulated [DSA application form](https://dsa.tmjc.edu.sg/).
+
+2) A personal statement (not more than 500 words) is required for the applicants to state the reasons for applying to TMJC via DSA in the online application form.
+
+3) Upload the following supporting documents to the [DSA Online Application Portal](https://dsa.tmjc.edu.sg/).
+
+*   CCA records (all available records)
+*   VIA records (all available records)
+*   Sec 1 to 3 academic results (Mid-year & End-of-year Exams)
+*   Sec 4 Mid-year academic results
+
+Incomplete applications (e.g. without a complete set of supporting documents, or insufficient information provided on the online application form) will not be accepted or considered.
+
+### JC DSA Application Timeline
+
+Deadline for submission of online DSA application:
+
+**Phase 1:       18 Jul 2022***
+
+**Phase 2:       12 Aug 2022***
+
+* Applicants are advised to submit their applications early and by the deadline for Phase 1 or Phase 2 as shown above, in order for the application to be duly considered.  Click [here](/files/2022%20DSA%20Trial%20Dates%204%20Jul%202022.pdf) to access the **dates for DSA trials/auditions/interviews.**
+
+Applicants not being offered a place in Phase 1 **need not re-submit** an application for Phase 2 as the application will be considered for both phases.
+
+**Shortlisted applicants** will be notified to attend **trials/auditions/interviews** by **29 August 2022.**  
+
+After the trials/auditions/interviews, only successful candidates for DSA offers will be notified by the College by **6 Sep 2022.**
+
+General inquiries regarding DSA can be made via email to Mrs Rosalind Lim (Head of Admissions) at **loh_wee_chin_rosalind@schools.gov.sg**.
+
+You may click on [this link](https://dsa.tmjc.edu.sg/) to submit the **DSA Online Application** for admission to TMJC.
