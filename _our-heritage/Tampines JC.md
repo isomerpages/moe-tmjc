@@ -65,3 +65,14 @@ Mrs Goh Hwee Choo believed strongly that education was a social leveller. She th
 		 
 <center><b>2006-2014</b></center>
 <center><b><u>Ms Helen Choo</u></b></center>
+
+Under Ms Helen Choo’s stewardship, the MOE Drama Elective Programme was started in 2007. Ms Choo placed much emphasis on character and leadership development and hence, strongly supported many Values In Action (VIA) projects, both local and overseas. She was also instrumental in the garnering of support of parents and alumni through the TPJC Partnership Framework.
+
+
+<img src="/images/(new)%20Ms%20Pamela%20Yoong.jpeg" 
+     style="width:25%">
+		 
+<center><b>2014-2018</b></center>
+<center><b><u>Ms Pamela Yoong</u></b></center>
+
+Ms Pamela Yoong was the sixth and final Principal of Tampines Junior College. Through collaborations with external organisations, parents and alumni, she strengthened the TPJC Ohana (family) spirit and created new opportunities to broaden students’ experiences beyond the classroom. In 2016, as part of the College’s 30th anniversary celebrations, TPJC initiated a tripartite partnership with the North-East Community Development Council and Loyang Tua Pek Kong to embark on a 100,000 km challenge, raising $60,000 to support the lower income families in the North-East district.  Ms Pamela Yoong led Tampines Junior College in the merger with Meridian Junior College. On 11 Jan 2018, MOE announced that Ms Pamela Yoong would be the founding Principal of Tampines Meridian Junior College.
