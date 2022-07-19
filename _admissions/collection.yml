@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - Joint Admissions Exercise.md
       - Direct School Admission.md
