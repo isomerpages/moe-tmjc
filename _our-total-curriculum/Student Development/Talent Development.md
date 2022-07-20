@@ -20,3 +20,14 @@ Students will be immersed in a wide array of opportunities offered in Talent Dev
 
 ![](/images/TMJC-CCP_SD_TD_02.jpeg)
 <center>International Biomedical Quiz, 7 April 2021</center>
+
+![](/images/TMJC-CCP_SD_TD_03.jpeg)
+<center>In-house Research & Presentation, 1 April 2021</center>
+
+![](/images/TMJC-CCP_SD_TD_04.jpeg)
+<center>Post Budget Dialogue with Mr Desmond Tan, 27 March 2021</center>
+
+![](/images/TMJC-CCP_SD_TD_05.jpeg)
+<center>Awardees of LTA Young Transport Engineer Book Prize, 14 August 2020</center>
+
+_updated on 25 August 2021_
