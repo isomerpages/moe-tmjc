@@ -39,7 +39,7 @@ Mr Lim Yan Hock (2015-2018) continue to build  upon the strong foundations of t
 <b><center><u>Our School Advisory Committee Chairmen</u></center></b>
 
 <img src="/images/Prof%20Tan%20Teck%20Meng.jpg" 
-     style="width:40%">
+     style="width:35%">
 		 
 <center><b>2003-Oct 2009</b></center>
 <center><b><u>Professor Tan Teck Meng</u></b></center>
