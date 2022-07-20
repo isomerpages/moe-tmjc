@@ -24,7 +24,6 @@ The subject combinations offered by the College are based on the guidelines from
       
     
 4.  Students who wish to offer 4H2 subject combinations are required to have a L1R5 (raw score) of 11 points or better, and meet the guidelines for relevant subjects, in addition to obtaining good results for the relevant subjects.  This is to ensure that students are able to handle the rigour of 4H2 subject combinations.  
-     
 5.  A minimum number of 15 students has to be met for any particular subject combination or class to be formed.
 
 ### Table 1:  Subjects Offered At TMJC
