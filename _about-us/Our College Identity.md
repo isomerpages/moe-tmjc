@@ -3,7 +3,7 @@ title: Our College Identity
 permalink: /about-us/our-college-identity
 description: ""
 ---
-###
+### Our Logo
 
 <img src="/images/tmjc.jpeg" 
      style="width:55%">
@@ -45,3 +45,37 @@ Our hearts and minds inspired, <br>
 Together as we grow. <br>
 We’re Tampines Meridian! <br>
 Our stories will be told.
+
+![](/images/TMJC-OurCollegeAnthem_02.jpg)
+
+_College Anthem Committee:  
+ Ms Karen Ng, Mr Chua Wei Ming, Ms Ann Koh, Mr Conrad Lee, Ms Vanessa Nunis, Mr Wee Liang Tong_
+ 
+ 
+### Our Uniform
+
+
+  
+The TMJC uniform comprises a white top and a khaki bottom, which was a combination chosen by students and staff out of several designs. The design went through several phases which culminated in a voting process by the pioneering batches of students.
+
+<img src="/images/TMJC-OurCollegeAnthem_05_v2.jpg" 
+     style="width:75%">
+
+<img src="/images/TMJC-OurCollegeAnthem_06.jpg" 
+     style="width:75%">
+<center>Badge Pinning Ceremony 2019</center>
+
+<strong><center>Likewise, the pioneer batch of students had their voice heard in choosing the design for the PE T-Shirt.</center></strong>
+
+<img src="/images/TMJC-OurCollegeAnthem_07_v2.jpg" 
+     style="width:75%">
+		 
+<img src="/images/TMJC-OurCollegeAnthem_08.jpg" 
+     style="width:75%">
+		 
+<center>The College PE Attire was designed by Tham Yong Hao, 18S101</center>
+
+
+![](/images/TMJC-OurCollegeAnthem_09.jpg)
+
+<center>Out with the old, in with the new’, _The Straits Times_, 8 January 2019</center>
