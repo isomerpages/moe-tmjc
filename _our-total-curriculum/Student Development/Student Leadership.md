@@ -24,3 +24,12 @@ Through our holistic Student Leadership Programme, we hope that our student lead
 
 ![](/images/TMJC-CCP_SD_SL_04.jpeg)
 <center>CG Leaders showing appreciation to our School Leaders</center>
+
+![](/images/TMJC-CCP_SD_SL_05.jpeg)
+<center>JC2 councillors sharing experience with juniors</center>
+
+![](/images/TMJC-CCP_SD_SL_06.jpeg)
+<center>Orientation Group Leaders Training Workshop</center>
+
+![](/images/TMJC-CCP_SD_SL_07.jpeg)
+<center>Team building Game during Council Training Workshop</center>
