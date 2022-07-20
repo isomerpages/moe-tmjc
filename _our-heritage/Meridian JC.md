@@ -135,3 +135,13 @@ Displaced by the Vietnam War, Sanva, a Laotian, was born in a refugee camp in Th
 <center><b><u>Lavanya Selvamani (15S412)</u></b></center>
 
 Lavanya displayed tremendous courage when faced with the challenge of having to repeat her JC1 year. Not only did she approach it with a positive attitude, she also readily shared her personal story with her juniors so that they could learn from it. Guided by her favourite mantra “I aspire to inspire before I expire”, her leadership potential shone through very quickly and strongly. The college nominated her for the 2016 National Young Leader Award and she was shortlisted as a Top 5 finalist, eventually winning the accolade Peoples’ Choice. Fluent in Mandarin, she is currently pursuing medicine in Jinzhou Medical University, China.
+
+
+<img src="/images/Fazall.jpg" style="width:30%">
+<center><b><u>K K H Fazall Abdull Hameed (08A101)</u></b></center>
+
+Fazall is a dreamer - and a doer. He was part of the team that saw MJC’s English Drama Club win its first ever Singapore Youth Festival (Gold) Award. As a councillor, Fazall and his team convinced the school administration to hold the JC1 Year End Bash at an external venue for the very first time. Upon graduation, Fazall went on to complete his business degree in Malaysia, picked up Turkish during a year abroad in Istanbul and also became a competitive cheerleader. He credits the courage that he now possesses to his experience as a Meridian Councillor.
+
+
+<img src="/images/Arravind.jpg" style="width:50%">
+<center><b><u>Arravind s/o Udayakumar (12S206)</u></b></center>
