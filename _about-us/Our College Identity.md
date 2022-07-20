@@ -79,3 +79,33 @@ The TMJC uniform comprises a white top and a khaki bottom, which was a combinati
 ![](/images/TMJC-OurCollegeAnthem_09.jpg)
 
 <center>Out with the old, in with the new’, The Straits Times_, 8 January 2019</center>
+
+### Our Polo T-Shirt
+
+TMJC’s Polo T-Shirt was launched on the 12th July 2019 during TM Celebrates!, an event to mark our first birthday since our Heritage Gallery was launched on 6 July 2018. The design was chosen based on students’ votes and is part of our official College Uniform.
+
+![](/images/TMJC-OurCollegeAnthem_10.jpg)
+
+<center>College Polo T-Shirt was designed by Clarisha Tanadia Adrian Tan, 19S204</center>
+
+### Our College Tracksuit
+
+To present a unified appearance of our TMJC CCA Teams, the College officially launched the Tracksuit on 7 August 2020 as part of TM Celebrates!  
+  
+The Tracksuit comprises the Jacket and the track pants. The jacket can be customised to reflect the name of the College CCA Teams and the track pants may be worn in lieu of the College PE shorts.
+
+![](/images/TMJC-OurCollegeAnthem_14.jpg)
+<center>College Tracksuit designed by Karen Natalie (20S201)</center>
+
+![](/images/TMJC-OurCollegeAnthem_12.jpg)
+![](/images/TMJC-OurCollegeAnthem_13.jpg)
+
+### Our House Crests
+  
+Our House Crests depicting mythical constellations of legendary birds were launched on the 12th of July 2019 during TM Celebrates!, an event to mark our first birthday since our Heritage Gallery was launched on 6 July 2018. The designs and naming of our Houses were inspired by the legacy of our parent colleges’ House Systems, that of Legendary Birds (Tampines JC) and Mythical Constellations (Meridian JC).
+
+![](/images/TMJC-OurCollegeAnthem_11.jpg)
+
+<center>College House Crests was designed by He Miao, 18S305</center>
+
+_updated on  13 January 2022_
