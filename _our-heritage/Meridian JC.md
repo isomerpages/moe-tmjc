@@ -21,7 +21,17 @@ On 25th February 2005, the College hosted its official opening ceremony and the 
 <b><center><u> Our Principals</u></center></b>
 
 <img src="/images/Ms%20Esther%20Lai.jpg" 
-     style="width:25%">
+     style="width:30%">
 		 
 <center><b>2003-2014</b></center>
 <center><b><u>Ms Esther Lai Choon Lian</u></b></center>
+
+Ms Esther Lai was the first principal of Meridian Junior College. Under her leadership, the College focussed on realising its vision – to be a leading institution that gave the best educational experience for its students. The College quickly grew by leaps and bounds. From “the college in Pasir Ris”, it became one of the most popular JCs in the east. This clarity of purpose spurred MJC to grow quickly to became a college of choice, defined by its values Courage, Purpose, Character, and shaped by its core approach to holistic student development Construct, Connect, Cultivate.
+
+<img src="/images/Mr%20Lim%20Yan%20Hock.jpg" 
+     style="width:30%">
+		 
+<center><b>2015-2018</b></center>
+<center><b><u>Mr Lim Yan Hock</u></b></center>
+
+Mr Lim Yan Hock (2015-2018) continue to build  upon the strong foundations of the College by focusing on the holistic development of students as well as staff. New infrastructural innovations such as the Lecture Recording System helped students better manage self-directed learning, while new awards such as the Meridian Staff Service Award deepened staff’s sense of purpose and belonging to the College. Mr Lim also oversaw the smooth merger process with Tampines JC.
