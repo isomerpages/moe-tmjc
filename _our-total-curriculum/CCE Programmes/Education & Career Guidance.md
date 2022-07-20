@@ -16,3 +16,17 @@ Through a comprehensive ECG experience, we hope to develop students who are futu
 ![](/images/TMJC-CCP_ECG_02.jpeg)
 
 <center>Higher Education and Career Fair</center>
+
+![](/images/TMJC-CCP_ECG_03.jpeg)
+<center>Higher Education and Career Fair</center>
+
+![](/images/TMJC-CCP_ECG_04.jpeg)
+<center>ECG Teacher Facilitation of Industry Professional Sharing Sessions</center>
+
+![](/images/TMJC-CCP_ECG_05.jpeg)
+<center>Industry Professional Online Sharing</center>
+
+<img src="/images/TMJC-CCP_ECG_06.jpeg" 
+     style="width:75%">
+<center>Life Skills (Personal Grooming and Etiquette) Training</center>
+
