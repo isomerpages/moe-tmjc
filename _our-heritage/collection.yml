@@ -2,5 +2,6 @@ collections:
   our-heritage:
     output: true
     order:
+      - Meridian JC.md
       - Tampines JC.md
       - Tampines Meridian JC.md
