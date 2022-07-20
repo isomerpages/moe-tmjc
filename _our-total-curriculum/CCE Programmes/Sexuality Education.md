@@ -123,7 +123,7 @@ third_nav_title: CCE Programmes
 
 6. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.  
 
-7.  Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions
+7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions
 
 **At Tampines Meridian Junior College, the _eTeens_ programme will be implemented as follows in 2022:**
 
@@ -159,9 +159,9 @@ third_nav_title: CCE Programmes
 
 ### Information for Parents
 
-8.  Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.  
+8. Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-9.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt%20Out%20Form%202022%20Annex%20A.pdf). The completed form is to be submitted by 26/01/2022 for JC2 and 15/07/2022 for JC1.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt%20Out%20Form%202022%20Annex%20A.pdf). The completed form is to be submitted by 26/01/2022 for JC2 and 15/07/2022 for JC1.
 
 10. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20JCCI%202022%20Annex%20B.pdf). The completed form is to be submitted by 15/07/2022.  
 
