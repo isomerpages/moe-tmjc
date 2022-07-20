@@ -78,4 +78,4 @@ The TMJC uniform comprises a white top and a khaki bottom, which was a combinati
 
 ![](/images/TMJC-OurCollegeAnthem_09.jpg)
 
-<center>Out with the old, in with the new’, _The Straits Times_, 8 January 2019</center>
+<center>Out with the old, in with the new’, The Straits Times_, 8 January 2019</center>
