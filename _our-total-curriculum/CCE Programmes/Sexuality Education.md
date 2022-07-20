@@ -71,3 +71,48 @@ third_nav_title: CCE Programmes
   </tr>
 </tbody>
 </table>
+
+
+<b><center> JUNIOR COLLEGE 2</center></b>
+<b><center>“Love Matters (2nd Edition)” Teaching & Learning resource package </center></b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e2rw{background-color:#ECECEC;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+.tg .tg-gct1{background-color:#FFF;border-color:inherit;color:#222;text-align:center;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-e2rw">UNIT</th>
+    <th class="tg-e2rw">LESSONS / DURATION</th>
+    <th class="tg-e2rw">LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
+    <th class="tg-e2rw">TIME PERIOD<br>(e.g. Term 1 Week 4)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ats7" rowspan="2">Lessons about Love (Part 7)</td>
+    <td class="tg-gct1"><span style="font-weight:normal">4</span><br><span style="background-color:initial">(50 mins)</span><br></td>
+    <td class="tg-0f6e"><span style="font-weight:normal">• </span>identify signs of an unhealthy dating relationship and the early indications of a breakdown of relationship <br>• appreciate that one can emerge stronger despite having gone through a breakup<br>• explore beliefs about marriage<br>• know the possible psychological impact on children experiencing parental separation or divorce<br>• recognise the importance of having family support for a relationship<br>• aspire to develop similar enduring character traits and qualities that one would consider in a life partner<br>• appreciate that marriage is a lifetime commitment and that there will be challenges in marriage as in any other relationships</td>
+    <td class="tg-gct1"><span style="font-weight:normal">Term 1 Week 7/8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gct1"><span style="font-weight:normal">5</span><br><span style="font-weight:normal;background-color:initial">(50 mins)</span></td>
+    <td class="tg-0f6e">• recognise that personal decisions on how one displays own affections in public can affect others<br>• discern the impact of new media on relationship building</td>
+    <td class="tg-gct1"><span style="font-weight:normal">Term 1 Week 8/9</span></td>
+  </tr>
+  <tr>
+    <td class="tg-gct1"><span style="font-weight:normal">NA</span></td>
+    <td class="tg-gct1"><span style="font-weight:normal">6</span><br><span style="font-weight:normal;background-color:initial">(50 mins)</span></td>
+    <td class="tg-ats7"><span style="font-weight:bold;font-style:normal">This will be a culminating formative assessment task for students to consolidate what they have learnt from the previous lessons.</span></td>
+    <td class="tg-gct1"><span style="font-weight:normal">Term 1 Week 9/10</span></td>
+  </tr>
+</tbody>
+</table>
