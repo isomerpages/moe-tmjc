@@ -14,3 +14,5 @@ With the global landscape becoming increasingly interconnected, it is important 
 
 ![](/images/TMJC-CCP_OverseasExposure_03.jpeg)
 <center>Rice planting during Cultural Immersion@Vietnam in 2019</center>
+
+_updated on 23 August 2021_
