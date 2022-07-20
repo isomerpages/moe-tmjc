@@ -167,3 +167,5 @@ third_nav_title: CCE Programmes
 11. Parents can contact the school at [TMJC@MOE.EDU.SG](mailto:TMJC@MOE.EDU.SG) for discussion or to seek clarification about the school’s sexuality education programme.  
 
 12. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+
+_updated on  11 January 2022_
