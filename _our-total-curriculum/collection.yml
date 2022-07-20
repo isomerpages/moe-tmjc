@@ -2,10 +2,10 @@ collections:
   our-total-curriculum:
     output: true
     order:
-      - CCE Programmes/Education & Career Guidance.md
-      - CCE Programmes/Citizenship Education.md
-      - CCE Programmes/Character Education.md
       - CCE Programmes/.keep
+      - CCE Programmes/Character Education.md
+      - CCE Programmes/Citizenship Education.md
+      - CCE Programmes/Education & Career Guidance.md
       - Instructional Programmes/Knowledge Skills.md
       - Instructional Programmes/Subject Combinations.md
       - Instructional Programmes/Overview of our Teaching & Learning.md
