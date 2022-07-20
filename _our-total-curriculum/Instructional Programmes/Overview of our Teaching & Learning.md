@@ -42,3 +42,11 @@ The T&L framework is represented in the form of a spiral, which symbolises the r
   </tr>
 </tbody>
 </table>
+
+### Cool Moves Award & Gallery
+  
+Innovation is in the DNA of TMJC. And in this spirit, the TMJC Cool Moves Award was inaugurated in 2019 to recognise staff innovation in teaching and learning.  
+  
+Nominations are rigorously judged according to the College’s “Ice-Cube” innovation rubric which measures a project’s strengths in the areas of Innovation, Implementation and Impact (three ‘I’s). Each nomination is also advocated by a Teacher Leader who would confer with the project team to better understand their work, and make an independent assessment to the judging panel.
+
+[TMJC Cool Moves Gallery](https://sites.google.com/moe.edu.sg/tmjccoolmovesgallery/home)
