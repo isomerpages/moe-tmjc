@@ -2,4 +2,4 @@ collections:
   our-total-curriculum:
     output: true
     order:
-      - Instructional Programme/.keep
+      - Instructional Programmes/.keep
