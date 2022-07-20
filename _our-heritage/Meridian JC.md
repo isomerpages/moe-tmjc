@@ -75,3 +75,15 @@ Apart from the Sports CCAs, the Performing Arts groups also undertook many hour
 Relate & Enrich with Affection, Compassion and Hope (REACH) Projects
 
 What also made MJC special was the active role that every student played in giving back to the community. This was accomplished through REACH, a bottom-up, student-led, service-learning programme that focussed on developing long-term partnerships with charitable organisations, both locally and overseas. Through various platforms like Youth Connect!, blood donation drives and fund-raising events, students learnt about social issues and became advocates for the less privileged in the community.
+
+<b><center><u>15th Anniversary - Looking Back at 15 Years of The Meridian Journey</u></center></b>
+<img src="/images/Homecoming%20Concert%20under%20the%20stars.jpg" 
+     style="width:50%">
+		 
+Nothing makes for good stories as when old friends meet. In March 2017, scores of Meridians gathered as part of the Homecoming 15th Anniversary celebrations. It was a special moment as the Meridian family reminisced about the story of MJC, and how it began with an empty plot of land in Pasir Ris. Teachers, too, shared that they were specially selected to be part of the dynamic team that would help launch the College. A sense of pride and accomplishment filled the air during the celebrations. Meridians felt that they had indeed done their best to grow the College into a leading institution acclaimed for its pursuit of excellence and richness of learning experiences.
+
+<b><center><u>Programmes</u></center></b>
+
+Construct-Connect-Cultivate was MJC’s holistic curriculum framework that aimed to prepare students for the 21st Century to embody the traits of engaged Global Citizens, Critical Thinkers, Self-Directed Learners, Confident Communicators and Collaborators, and Strength of Character.
+
+<b><center>Academic: Construct</center></b>
