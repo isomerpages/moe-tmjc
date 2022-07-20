@@ -39,8 +39,8 @@ third_nav_title: CCE Programmes
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -53,7 +53,7 @@ third_nav_title: CCE Programmes
 </thead>
 <tbody>
   <tr>
-    <td class="tg-tsok">1</td>
+    <td class="tg-lygy">1</td>
     <td class="tg-tsok"><span style="background-color:initial">(50 mins)</span><br></td>
     <td class="tg-l2bf"><br><span style="background-color:initial">• navigate challenges in a dating relationship</span><br><span style="background-color:initial">• </span>identify early indications of a breakdown in a relationship<br><span style="background-color:initial">• </span><span style="font-weight:bold">know when to seek help and who to turn to for support</span><br><span style="background-color:initial">• </span>appreciate that one can emerge stronger and be better prepared for future relationships<br><span style="font-weight:700">• </span><span style="background-color:initial">develop a deeper understanding of what dating and family violence entails and be reminded of the importance of respect for others</span><br><br></td>
     <td class="tg-lygy"><span style="font-weight:normal">Term 3 Week 8</span></td>
@@ -61,13 +61,13 @@ third_nav_title: CCE Programmes
   <tr>
     <td class="tg-lygy"><span style="font-weight:normal"> 2</span></td>
     <td class="tg-lygy"><span style="background-color:initial">(50 mins)</span></td>
-    <td class="tg-l2bf"><br><span style="background-color:initial">•</span> <span style="background-color:initial">examine</span> <span style="background-color:initial">issues related to abstinence</span><br><span style="background-color:initial">•</span> explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<span style="background-color:initial">•</span> understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br><span style="background-color:initial">•</span> <span style="font-weight:bold;background-color:initial">understand that in so doing, one</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">makes responsible decisions for oneself and others,</span><span style="font-weight:bold"> </span>and accepts the consequences of doing so<br><br><br></td>
+    <td class="tg-l2bf"><br><span style="background-color:initial">•</span> <span style="background-color:initial">examine</span> <span style="background-color:initial">issues related to abstinence</span><br><span style="background-color:initial">•</span> explore the tension between being free to make personal choices regardless of consequences, and being responsible for the consequences of their choices<br><span style="background-color:initial">•</span> understand that, in the face of conflicting voices and perspectives, they need to focus on integrity, and choose to act in accordance with sound values and moral principles<br><span style="background-color:initial">•</span> <span style="background-color:initial">understand that in so doing, one</span> <span style="background-color:initial">makes responsible decisions for oneself and others,</span> and accepts the consequences of doing so<br><br><br></td>
     <td class="tg-lygy"><span style="font-weight:normal">Term 3 Week 9</span></td>
   </tr>
   <tr>
     <td class="tg-lygy"><span style="font-weight:normal">3</span></td>
     <td class="tg-lygy"><span style="background-color:initial">(50 mins)</span></td>
-    <td class="tg-tsok"><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> examine issues related to abortion and the impact of sexually transmitted infections (STIs)</span><br><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">understand that one has to make responsible decisions for both self and others</span><br><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">understand that sexual abstinence is the only way to remove any risks that come with casual sex</span><br><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">know how to support friends or others who may be pregnant or have STIs </span><br><br><br></td>
+    <td class="tg-tsok"><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> examine issues related to abortion and the impact of sexually transmitted infections (STIs)</span><br><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">understand that one has to make responsible decisions for both self and others</span><br><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">understand that sexual abstinence is the only way to remove any risks that come with casual sex</span><br><span style="font-weight:bold;background-color:initial">•</span><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">know how to support friends or others who may be pregnant or have STIs </span></td>
     <td class="tg-tsok"><span style="font-weight:normal;background-color:initial">Term 3 Week 10</span></td>
   </tr>
 </tbody>
