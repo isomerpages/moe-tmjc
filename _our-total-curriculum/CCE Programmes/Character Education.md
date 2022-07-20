@@ -13,3 +13,11 @@ In order to better engage students, our CCE lessons adopt a variety of approache
 ![](/images/TMJC-CCP_CharacterEducation_03.jpeg)
 <center>CCE Lesson in Action </center>
 
+![](/images/TMJC-CCP_CharacterEducation_01.jpeg)
+<center>Chapter 5 e-Portfolio</center>
+
+![](/images/TMJC-CCP_CharacterEducation_02.jpeg)
+<center>TMJC Living Out Your Values Everyday (L.O.V.E) Week Poster</center>
+
+
+_updated on 23 August 2021_
