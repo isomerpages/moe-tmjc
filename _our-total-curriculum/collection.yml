@@ -2,6 +2,7 @@ collections:
   our-total-curriculum:
     output: true
     order:
+      - CCE Programmes/Overseas Exposure.md
       - CCE Programmes/Values in Action.md
       - CCE Programmes/Sexuality Education.md
       - CCE Programmes/.keep
