@@ -120,3 +120,13 @@ No student development programme is complete without student leaders at the helm
 
 Upon graduating from MJC, Rachel set her sights on becoming a successful entrepreneur. From selling pre-loved dresses on a blogshop, she became a co-founder of the local fashion label Love, Bonito. With little technical know-how but lots of guts and grit, she transformed Love, Bonito into a multi-million dollar fashion retailer. She was recognised for her contributions to society and for empowering females when MediaCorp presented her with the Women Entrepreneur Award (Pulsar) in 2017.  In 2018, she secured a US$13 million funding for her business. Rachel is a proud Meridian who embodies the spirit of “entrepreneurial dare”.
 
+<img src="/images/Ross.jpg" style="width:30%">
+<center><b><u>Ross Lam Ee (13S307)</u></b></center>
+
+Ross Lam was the college’s 2014 Outstanding Student Volunteer of the Year. He was an active volunteer at the Animal Concerns Research & Education Society and worked at raising awareness for animal welfare through regular sharing sessions with others. For instance, he came back to college during Youth Connect! 2017 to share with the JC1s about his journey in service-learning. Together with his friends from Tampines JC, Ross also organised the Singapore University of Technology & Design awareness programme on environmental conservation. Finally, he volunteered for the Council for Third Age and worked with the Tampines North Community Centre on various community projects.
+
+
+<img src="/images/Sanva.jpg" style="width:50%">
+<center><b><u>Sanva Saephan (06S101)</u></b></center>
+
+Displaced by the Vietnam War, Sanva, a Laotian, was born in a refugee camp in Thailand. When he came to Singapore on an ASEAN scholarship, he knew what his purpose was: to help develop his country, Laos and give back to the larger society. Accordingly, Sanvar set up the Yaonnoy Centre in Vientiane, a social enterprise to provide English and Chinese enrichment courses. He also wrote two books, with proceeds going towards building a primary school in Laos. In 2017, Sanva received the ASEAN Corporate Social Responsibility Fellowship and he also presented at TEDx on his philosophy of gratitude and giving.
