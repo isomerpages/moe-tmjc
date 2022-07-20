@@ -15,3 +15,7 @@ Meridian Junior College (MJC) was established in 2003 after DPM Teo Chee Hean, t
      style="width:55%">
 		 
 On 25th February 2005, the College hosted its official opening ceremony and the inaugural College Day was held on 23rd July that same year. Anchored by the values of Courage, Purpose and Character, MJC had lived true to its name and mission of cultivating learned men and women of calibre with the heart and will to lead and serve in a challenging world.
+
+### Leadership
+
+<b><center><u> Our Principals</u></center></b>
