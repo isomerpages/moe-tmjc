@@ -2,4 +2,5 @@ collections:
   our-total-curriculum:
     output: true
     order:
+      - Instructional Programmes/Overview of our Teaching & Learning.md
       - Instructional Programmes/.keep
