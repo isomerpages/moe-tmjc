@@ -87,3 +87,25 @@ Nothing makes for good stories as when old friends meet. In March 2017, scores o
 Construct-Connect-Cultivate was MJC’s holistic curriculum framework that aimed to prepare students for the 21st Century to embody the traits of engaged Global Citizens, Critical Thinkers, Self-Directed Learners, Confident Communicators and Collaborators, and Strength of Character.
 
 <b><center>Academic: Construct</center></b>
+
+<img src="/images/Stellar%20academic%20performance.jpg" 
+     style="width:50%">
+<i><center>Pedagogical Developments</i></center>
+
+In 2005, when the first set of results were released, the pioneer batch of students proved sceptics wrong with an excellent performance at the GCE A-Level Examinations. True to form, in subsequent years, MJC performed well at the national examinations. This was largely due to the student-centred pedagogical pursuits and approaches that the college had adopted for all subjects since its inception.
+
+<b><center>Non-Academic: Connect & Cultivate</center></b>
+
+<img src="/images/CGE.jpg" 
+     style="width:50%">
+		 
+
+<i><center>Developing Local and Global Citizenship</center></i>
+
+The college’s effort to shape students into globally-connected, yet locally-rooted citizens grew out of the realisation that students needed to acquire 21st Century Competencies such as global awareness to thrive in today’s globally-connected environment. This was achieved through platforms such as Global Lite Bites, a weekly current affairs sharing session, and GoGlobal, the college’s internationalisation programme.
+
+<img src="/images/Chrystal%20Electives.jpg" 
+     style="width:50%">
+<i><center>Cultivating Values-Centric Students and Leaders</center></i>
+
+
