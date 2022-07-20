@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/.keep
