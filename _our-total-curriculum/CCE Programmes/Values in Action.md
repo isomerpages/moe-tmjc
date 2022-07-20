@@ -41,3 +41,5 @@ Some of our key signature VIA programme include:
 
 ![](/images/TMJC-CCP_VIA_04.jpeg)
 <center>TM Sparkles - students doing their part to maintain the cleanliness of their home away from home</center>
+
+_updated on 23 August 2021_
