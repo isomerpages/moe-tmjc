@@ -33,3 +33,5 @@ Through our holistic Student Leadership Programme, we hope that our student lead
 
 ![](/images/TMJC-CCP_SD_SL_07.jpeg)
 <center>Team building Game during Council Training Workshop</center>
+
+_updated on 25 August 2021_
