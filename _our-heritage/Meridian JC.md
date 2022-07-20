@@ -90,7 +90,7 @@ Construct-Connect-Cultivate was MJC’s holistic curriculum framework that aimed
 
 <img src="/images/Stellar%20academic%20performance.jpg" 
      style="width:50%">
-<i><center>Pedagogical Developments</i></center>
+<i> <center>Pedagogical Developments</center> </i>
 
 In 2005, when the first set of results were released, the pioneer batch of students proved sceptics wrong with an excellent performance at the GCE A-Level Examinations. True to form, in subsequent years, MJC performed well at the national examinations. This was largely due to the student-centred pedagogical pursuits and approaches that the college had adopted for all subjects since its inception.
 
@@ -100,13 +100,13 @@ In 2005, when the first set of results were released, the pioneer batch of stude
      style="width:50%">
 		 
 
-<i><center>Developing Local and Global Citizenship</i></center>
+<i> <center>Developing Local and Global Citizenship</i> </center>
 
 The college’s effort to shape students into globally-connected, yet locally-rooted citizens grew out of the realisation that students needed to acquire 21st Century Competencies such as global awareness to thrive in today’s globally-connected environment. This was achieved through platforms such as Global Lite Bites, a weekly current affairs sharing session, and GoGlobal, the college’s internationalisation programme.
 
 <img src="/images/Chrystal%20Electives.jpg" 
      style="width:50%">
-<i><center>Cultivating Values-Centric Students and Leaders</center></i>
+<i> <center>Cultivating Values-Centric Students and Leaders </center> </i>
 
 The college values of Courage, Purpose and Character underpin all of the college’s student development and CCA programmes. The core programme was anchored by Chrystal, the college’s signature character development programme, which was based on the four core principles of Resilience, Integrity, Respect and Civic-Mindedness. 
 
