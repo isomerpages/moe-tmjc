@@ -127,7 +127,7 @@ third_nav_title: CCE Programmes
 
 **At Tampines Meridian Junior College, the _eTeens_ programme will be implemented as follows in 2022:**
 
-<b><center>JUNIOR COLLEGE 1</b></center>
+<b><center>JUNIOR COLLEGE 1</center></b>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
