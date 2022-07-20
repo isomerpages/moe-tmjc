@@ -19,3 +19,9 @@ On 25th February 2005, the College hosted its official opening ceremony and the 
 ### Leadership
 
 <b><center><u> Our Principals</u></center></b>
+
+<img src="/images/Ms%20Esther%20Lai.jpg" 
+     style="width:25%">
+		 
+<center><b>2003-2014</b></center>
+<center><b><u>Ms Esther Lai Choon Lian</u></b></center>
