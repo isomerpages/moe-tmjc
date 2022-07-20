@@ -100,7 +100,7 @@ In 2005, when the first set of results were released, the pioneer batch of stude
      style="width:50%">
 		 
 
-<i><center>Developing Local and Global Citizenship</center></i>
+<i><center>Developing Local and Global Citizenship</i></center>
 
 The college’s effort to shape students into globally-connected, yet locally-rooted citizens grew out of the realisation that students needed to acquire 21st Century Competencies such as global awareness to thrive in today’s globally-connected environment. This was achieved through platforms such as Global Lite Bites, a weekly current affairs sharing session, and GoGlobal, the college’s internationalisation programme.
 
