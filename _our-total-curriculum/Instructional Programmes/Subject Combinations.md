@@ -159,3 +159,6 @@ The subject combinations offered by the College are based on the guidelines from
 ### Table 2: Arts Stream
 
 (Minimum class size of 15 must be met for any particular combination to be offered)
+![](/images/Table%202%20Arts%20Stream_080721.jpeg)
+
+<center>There are 3 compulsory H1 subjects: PW, GP, MTL.</center>
