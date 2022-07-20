@@ -2,13 +2,13 @@ collections:
   our-total-curriculum:
     output: true
     order:
-      - CCE Programmes/Overseas Exposure.md
-      - CCE Programmes/Values in Action.md
-      - CCE Programmes/Sexuality Education.md
       - CCE Programmes/.keep
       - CCE Programmes/Character Education.md
       - CCE Programmes/Citizenship Education.md
       - CCE Programmes/Education & Career Guidance.md
+      - CCE Programmes/Sexuality Education.md
+      - CCE Programmes/Values in Action.md
+      - CCE Programmes/Overseas Exposure.md
       - Instructional Programmes/Knowledge Skills.md
       - Instructional Programmes/Subject Combinations.md
       - Instructional Programmes/Overview of our Teaching & Learning.md
