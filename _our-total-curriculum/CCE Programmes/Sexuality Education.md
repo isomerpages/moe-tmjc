@@ -27,3 +27,6 @@ third_nav_title: CCE Programmes
 5. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.  
 
 **At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in 2022:**
+
+<b><center> JUNIOR COLLEGE 1 </center></b>
+<b><center>Theme 3B from Module: Developing Healthy Relationships </center></b>
