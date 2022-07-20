@@ -35,3 +35,11 @@ Ms Esther Lai was the first principal of Meridian Junior College. Under her lead
 <center><b><u>Mr Lim Yan Hock</u></b></center>
 
 Mr Lim Yan Hock (2015-2018) continue to build  upon the strong foundations of the College by focusing on the holistic development of students as well as staff. New infrastructural innovations such as the Lecture Recording System helped students better manage self-directed learning, while new awards such as the Meridian Staff Service Award deepened staff’s sense of purpose and belonging to the College. Mr Lim also oversaw the smooth merger process with Tampines JC.
+
+<b><center><u>Our School Advisory Committee Chairmen</u></center></b>
+
+<img src="/images/Prof%20Tan%20Teck%20Meng.jpg" 
+     style="width:40%">
+		 
+<center><b>2003-Oct 2009</b></center>
+<center><b><u>Professor Tan Teck Meng</u></b></center>
