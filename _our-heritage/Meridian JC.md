@@ -130,3 +130,8 @@ Ross Lam was the college’s 2014 Outstanding Student Volunteer of the Year. He 
 <center><b><u>Sanva Saephan (06S101)</u></b></center>
 
 Displaced by the Vietnam War, Sanva, a Laotian, was born in a refugee camp in Thailand. When he came to Singapore on an ASEAN scholarship, he knew what his purpose was: to help develop his country, Laos and give back to the larger society. Accordingly, Sanvar set up the Yaonnoy Centre in Vientiane, a social enterprise to provide English and Chinese enrichment courses. He also wrote two books, with proceeds going towards building a primary school in Laos. In 2017, Sanva received the ASEAN Corporate Social Responsibility Fellowship and he also presented at TEDx on his philosophy of gratitude and giving.
+
+<img src="/images/Lavanya.jpg" style="width:30%">
+<center><b><u>Lavanya Selvamani (15S412)</u></b></center>
+
+Lavanya displayed tremendous courage when faced with the challenge of having to repeat her JC1 year. Not only did she approach it with a positive attitude, she also readily shared her personal story with her juniors so that they could learn from it. Guided by her favourite mantra “I aspire to inspire before I expire”, her leadership potential shone through very quickly and strongly. The college nominated her for the 2016 National Young Leader Award and she was shortlisted as a Top 5 finalist, eventually winning the accolade Peoples’ Choice. Fluent in Mandarin, she is currently pursuing medicine in Jinzhou Medical University, China.
