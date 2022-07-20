@@ -71,3 +71,7 @@ Apart from the Sports CCAs, the Performing Arts groups also undertook many hour
 <b><center><u>Community Impact</u></center></b>
 <img src="/images/Project%20Festive.jpg" 
      style="width:50%">
+		 
+Relate & Enrich with Affection, Compassion and Hope (REACH) Projects
+
+What also made MJC special was the active role that every student played in giving back to the community. This was accomplished through REACH, a bottom-up, student-led, service-learning programme that focussed on developing long-term partnerships with charitable organisations, both locally and overseas. Through various platforms like Youth Connect!, blood donation drives and fund-raising events, students learnt about social issues and became advocates for the less privileged in the community.
