@@ -115,7 +115,7 @@ No student development programme is complete without student leaders at the helm
 ### Alumni
 
 <img src="/images/Rachel%20Lim.jpg" 
-     style="width:30%">
+     style="width:25%">
 <center><b><u>Rachel Lim (04A203)</u></b></center>
 
 Upon graduating from MJC, Rachel set her sights on becoming a successful entrepreneur. From selling pre-loved dresses on a blogshop, she became a co-founder of the local fashion label Love, Bonito. With little technical know-how but lots of guts and grit, she transformed Love, Bonito into a multi-million dollar fashion retailer. She was recognised for her contributions to society and for empowering females when MediaCorp presented her with the Women Entrepreneur Award (Pulsar) in 2017.  In 2018, she secured a US$13 million funding for her business. Rachel is a proud Meridian who embodies the spirit of “entrepreneurial dare”.
