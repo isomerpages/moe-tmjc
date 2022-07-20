@@ -17,3 +17,6 @@ My dear students, are you ready for 2022?
 ### Lets be the One
 
 In TMJC, we always start with looking at what we can do. We believe that even when we are but one, even if we think we are a mere tiny one, we have the strength to make a difference. There is a lovely poem that aptly summarises the importance and the power of the One.
+
+<img src="/images/2022-TMJC-PrincipleMessage_01.jpeg" 
+     style="width:40%">
