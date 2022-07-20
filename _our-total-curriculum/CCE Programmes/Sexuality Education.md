@@ -159,11 +159,12 @@ third_nav_title: CCE Programmes
 
 ### Information for Parents
 
-
 8. Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.  
   
 9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt%20Out%20Form%202022%20Annex%20A.pdf). The completed form is to be submitted by 26/01/2022 for JC2 and 15/07/2022 for JC1.
 
 10. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20JCCI%202022%20Annex%20B.pdf). The completed form is to be submitted by 15/07/2022.  
+
 11. Parents can contact the school at [TMJC@MOE.EDU.SG](mailto:TMJC@MOE.EDU.SG) for discussion or to seek clarification about the school’s sexuality education programme.  
+
 12. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
