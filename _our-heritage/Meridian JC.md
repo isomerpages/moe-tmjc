@@ -154,7 +154,8 @@ Arravind was the first president of The Meridian Council (TMC) when it was forme
 
 KidsAccomplish! is a Yale-NUS student initiative that organises non-academic enrichment classes for upper primary school students. This is the brainchild of Saza Faradilla, the college’s 2013 Outstanding Student of the Year. She first conceptualised the programme after volunteering at Tampines Family Service Centre and completing an internship at Halogen Foundation, a youth leadership development organisation. Having received the Global Leader Scholarship Award, she will be working at the Association of Women for Action and Research as a Community Engagement Executive. She hopes to be part of the United Nations and serve the vulnerable in the world.
 
-![](/images/chelsea.png)
+
+<img src="/images/chelsea.png" style="width:60%">
 <center><b><u>Chelsea Ann Sim Shu Zhen (12A201)</u></b></center>
 
 Chelsea overcame the odds to win the Gold medal in the Women’s Individual Poomsae Finals, Singapore’s first Taekwondo title at the SEA Games since 1995. The then 19-year-old beat off competitors such as the 2014 Poomsae World Champion, to better her Silver medal effort at the 2013 Games. This was indeed a remarkable achievement for Chelsea who balanced her A-Level studies with rigorous Taekwondo practices. Her diligence paid off and she achieved stellar results for both the A-Levels and at the SEA Games. She said during an interview with The Straits Times, “There are sacrifices to be made, but if you have a good sense of discipline and keep focussed on a goal in mind, it’s definitely possible”. Her coach described her as a “chili padi” – small in size but extremely dynamic and explosive in technique. Since 2014, she has won more than 30 medals in various competitions, including two Gold medals in the 2017 Commonwealth Championships and a Bronze in the 2017 29th SEA Games.
