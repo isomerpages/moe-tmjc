@@ -108,4 +108,8 @@ The college’s effort to shape students into globally-connected, yet locally-ro
      style="width:50%">
 <i><center>Cultivating Values-Centric Students and Leaders</center></i>
 
+The college values of Courage, Purpose and Character underpin all of the college’s student development and CCA programmes. The core programme was anchored by Chrystal, the college’s signature character development programme, which was based on the four core principles of Resilience, Integrity, Respect and Civic-Mindedness. 
 
+No student development programme is complete without student leaders at the helm. The LEAD programme, with its focus on grooming student leaders into “people influencers” with a strong moral compass, had been pivotal in this regard.
+
+### Alumni
