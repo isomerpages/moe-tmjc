@@ -4,9 +4,7 @@ permalink: /our-total-curriculum/Instructional-Programmes/subject-combinations
 description: ""
 third_nav_title: Instructional Programmes
 ---
-Overview
---------
-
+## Overview
   
 The subject combinations offered by the College are based on the guidelines from the Ministry of Education.
 
@@ -156,8 +154,14 @@ The subject combinations offered by the College are based on the guidelines from
 </table>
 
 ### Table 2: Arts Stream
-
 (Minimum class size of 15 must be met for any particular combination to be offered)
 ![](/images/Table%202%20Arts%20Stream_080721.jpeg)
 
 <center>There are 3 compulsory H1 subjects: PW, GP, MTL.</center>
+
+### Table 3: Science Stream
+(Minimum class size of 15 must be met for any particular combination to be offered)
+![](/images/Table%203%20Science%20Stream_080721.jpeg)
+<center>There are 3 compulsory H1 subjects: PW, GP, MTL.</center>
+
+_updated on 08 July 2021_
