@@ -18,3 +18,17 @@ The students’ VIA experiences are guided by **SPARK framework** in four key 
 4. plan how they can **K**eep up with  contributing to positive change in the community beyond their journey in TMJC.  
   
 We hope that, through these experiences, our students can become socially responsible and engaged citizens who are willing and able to spark positive change in local and global communities.
+
+
+<img src="/images/TMJC-CCP_VIA_01.jpeg" 
+     style="width:50%">
+		 
+Some of our key signature VIA programme include:  
+
+*   TM Connects, an annual Community Awareness event for students to gain awareness and have a better understanding of different community issues.  
+    
+*   CG VIA, where each class is given the opportunity to initiate student-led VIA projects based on their areas of interest and the organisation that they would like to serve.  
+      
+*   TM Sparkles, a College-wide Cleanliness Project which encourages TMJC students to take responsibility for the cleanliness of venues they use frequently.
+
+*   TM EcoGreen, a program that aims to nurture our College as stewards of the environment where we learn and practise environmental sustainability through the 4 Cs: Curriculum, Campus, Culture and Community.
