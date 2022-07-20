@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message/Day 1 Message 2019.md
       - Principal's Message/Day 1 Message 2020.md
       - Principal's Message/Day 1 Message 2021.md
       - Principal's Message/Day 1 Message 2022.md
