@@ -2,11 +2,11 @@ collections:
   our-total-curriculum:
     output: true
     order:
-      - Student Development/Scholarships.md
-      - Student Development/Talent Development.md
-      - Student Development/Student Well Being.md
-      - Student Development/Student Leadership.md
       - Student Development/.keep
+      - Student Development/Student Leadership.md
+      - Student Development/Student Well Being.md
+      - Student Development/Talent Development.md
+      - Student Development/Scholarships.md
       - CCE Programmes/.keep
       - CCE Programmes/Character Education.md
       - CCE Programmes/Citizenship Education.md
