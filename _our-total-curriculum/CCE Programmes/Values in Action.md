@@ -32,3 +32,12 @@ Some of our key signature VIA programme include:
 *   TM Sparkles, a College-wide Cleanliness Project which encourages TMJC students to take responsibility for the cleanliness of venues they use frequently.
 
 *   TM EcoGreen, a program that aims to nurture our College as stewards of the environment where we learn and practise environmental sustainability through the 4 Cs: Curriculum, Campus, Culture and Community.
+
+![](/images/TMJC-CCP_VIA_02.jpeg)
+<center>TM Connects 2021</center>
+
+![](/images/TMJC-CCP_VIA_03.jpeg)
+<center>TM EcoGreen - our Greenhouses</center>
+
+![](/images/TMJC-CCP_VIA_04.jpeg)
+<center>TM Sparkles - students doing their part to maintain the cleanliness of their home away from home</center>
