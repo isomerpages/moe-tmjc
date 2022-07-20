@@ -147,3 +147,7 @@ Fazall is a dreamer - and a doer. He was part of the team that saw MJC’s Engli
 <center><b><u>Arravind s/o Udayakumar (12S206)</u></b></center>
 
 Arravind was the first president of The Meridian Council (TMC) when it was formed in 2012 by combining the Students’ Council with the House Committees. It was a role that he readily embraced as he led with great conviction and exemplary leadership. While studying at the Singapore Management University, he was a teaching assistant for the university’s Management Communication 101 course and a student consultant for UOB-SMU Enterprise, providing different levels of advice to a start-up company. Arravind was also the organiser of the ActiveSG Kabaddi competition in 2017 with the intention of promoting Indian culture through traditional sports. He has given back to both local and overseas communities through projects such as the “$5 A Day Challenge” to raise awareness about world hunger and Project Xingfu to improve the quality of learning for children in China. He will graduate from SMU with a Bachelor of Science (Economics) in 2018.
+
+
+<img src="/images/Saza.jpg" style="width:50%">
+<center><b><u>Saza Faradilla bte Zaini (12A301)</u></b></center>
