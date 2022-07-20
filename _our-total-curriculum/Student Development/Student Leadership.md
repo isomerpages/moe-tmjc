@@ -28,10 +28,14 @@ Through our holistic Student Leadership Programme, we hope that our student lead
 ![](/images/TMJC-CCP_SD_SL_05.jpeg)
 <center>JC2 councillors sharing experience with juniors</center>
 
-![](/images/TMJC-CCP_SD_SL_06.jpeg)
+
+<img src="/images/TMJC-CCP_SD_SL_06.jpeg" 
+     style="width:60%">
 <center>Orientation Group Leaders Training Workshop</center>
 
-![](/images/TMJC-CCP_SD_SL_07.jpeg)
+
+<img src="/images/TMJC-CCP_SD_SL_07.jpeg" 
+     style="width:60%">
 <center>Team building Game during Council Training Workshop</center>
 
 _updated on 25 August 2021_
