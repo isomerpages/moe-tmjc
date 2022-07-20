@@ -15,3 +15,14 @@ In TMJC, selected students hold an appointment as Citizenship Education Ambassad
 
 ![](/images/TMJC-CCP_CitizenshipEducation_01.jpeg)
 <center>Wall commemorating Total Defence Day - Our Cluster Superintendent, Ms Ranjit Kaur, Vice-Principals & the Organising Committee</center>
+
+![](/images/TMJC-CCP_CitizenshipEducation_02.jpeg)
+<center>2019 NDP Celebrations - Balloon Drop containing aspirations of TMJC students</center>
+
+![](/images/TMJC-CCP_CitizenshipEducation_03.jpeg)
+<center>Fostering 21st CC Cultural Awareness - Q&A Engagement with the Danish Ambassador, Her Excellency Ms Sandra Jensen Landi</center>
+
+![](/images/TMJC-CCP_CitizenshipEducation_04.jpeg)
+<center> Classroom Broadcast of the 2021 Total Defence Day Message by Minister for Defence Dr Ng Eng Hen </center>
+
+_updated on 23 August 2021_
