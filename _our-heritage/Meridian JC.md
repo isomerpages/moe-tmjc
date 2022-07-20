@@ -43,3 +43,31 @@ Mr Lim Yan Hock (2015-2018) continue to build  upon the strong foundations of t
 		 
 <center><b>2003-Oct 2009</b></center>
 <center><b><u>Professor Tan Teck Meng</u></b></center>
+
+Meridian Junior College is greatly indebted to Professor Tan Teck Meng for the invaluable advice and ideas that he provided to help the school, and his deep generosity in supporting the students and staff in so many ways. A case in point would be how he helped needy students tide through financial difficulties by personally donating $10,000 to seed a bursary fund. To encourage MJC’s top students to aspire to greater heights, he came up with the idea to turn his own 60th birthday celebration into a fund-raising event, donating all monetary gifts amounting to $72,000 to start MJC’s own scholarship fund. In honour of his commitment to the development of Meridian students, the scholarship was named The Professor Tan Teck Meng Scholarship. In its fledgling years, MJC owed much of its steady growth to Prof Tan, and his legacy lives on in the scores of students he has helped.
+
+![](/images/Dr%20Jeremy%20Lim.jpg)
+
+<center><b>2009-2018</b></center>
+<center><b><u>Dr Jeremy Lim</u></b></center>
+
+Dr Jeremy Lim was the College’s second and longest-serving SAC Chairman. A medical doctor by training, he has now ventured into consulting and advising multi-national clients in the healthcare sector and volunteering with various NGOs. At heart, he is an educator: besides holding appointments in a number of universities, he also conducts courses for university students and writes regularly for both the scientific and popular media. MJC had the good fortune to be touched by his big-hearted gestures of appreciating the hard work of teachers, through sumptuous feasts and generous support. In recognition of his outstanding contributions to the College, Dr Lim was presented with the MOE Service to Education Award in 2015.
+
+### Milestones
+
+<b><center><u>CCA Highlights</u></center></b>
+
+
+<img src="/images/Soccer%20Boys.jpg" 
+     style="width:75%">
+		 
+MJC’s Sports Co-Curricular Activities (CCAs) always had a firm place in the hearts of Meridians. There were many memorable moments. The Wushu, Taekwondo, Floorball and Football teams all performed consistently well in the annual National Inter-school games. Most notably, since 2004, the Football Boys team had dominated the A Division scene with 13 finals and 9 Championship titles.
+
+<img src="/images/Dance.jpg" 
+     style="width:75%">
+
+Apart from the Sports CCAs, the Performing Arts groups also undertook many hours of practice to fine-tune their craft. Their awe-inspiring performances on stage bore testament to their hard work and talent. A case in point would be how the College’s Choir, Guitar Ensemble, Symphonic Band, Dance Society, English Drama Club and Chinese Orchestra always did the College proud at public performances and at the Singapore Youth Festival.
+
+<b><center><u>Community Impact</u></center></b>
+<img src="/images/Project%20Festive.jpg" 
+     style="width:50%">
