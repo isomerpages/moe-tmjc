@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - Our Campus/Sheltered Courts.md
+      - Our Campus/.keep
+      - Our Campus/Multi Purpose Hall.md
+      - Our Campus/Plaza.md
+      - Our Campus/Lecture Theatres.md
+      - Our Campus/Seminar Rooms.md
+      - Our Campus/Tutorial Classrooms.md
+      - Our Campus/Library.md
       - Our Campus/Rock Wall.md
       - Our Campus/Sports Field.md
-      - Our Campus/Library.md
-      - Our Campus/Tutorial Classrooms.md
-      - Our Campus/Seminar Rooms.md
-      - Our Campus/Lecture Theatres.md
-      - Our Campus/Plaza.md
-      - Our Campus/Multi Purpose Hall.md
-      - Our Campus/.keep
+      - Our Campus/Sheltered Courts.md
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/Day 1 Message 2021.md
