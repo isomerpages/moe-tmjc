@@ -15,3 +15,14 @@ During examination periods, the MPH is a conducive study area for students in th
 <a href="https://teliportme.com/view/1835512?utm_medium=android&utm_source=share-panorama">
 <img src="/images/click%20here.png"  
      style="width:30%">
+	
+	
+<img src="/images/MPH1.jpeg">
+
+<img src="/images/MPH2.jpeg">
+
+<img src="/images/MPH3.jpeg">
+	
+<img src="/images/MPH4.jpeg">
+	
+<img src="/images/MPH5.jpeg">
