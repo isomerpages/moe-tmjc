@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/Sports Field.md
       - Our Campus/Library.md
       - Our Campus/Tutorial Classrooms.md
       - Our Campus/Seminar Rooms.md
