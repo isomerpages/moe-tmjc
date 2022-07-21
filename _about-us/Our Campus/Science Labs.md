@@ -28,4 +28,3 @@ Fully equipped with subject-specific instruments and apparatus, our Science Labs
 ![](/images/labs3.jpeg)
 	
 ![](/images/labs4.jpeg)
-	
