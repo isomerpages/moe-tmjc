@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Staff Photos.md
       - Our Staff/Our Staff.md
       - Our Staff/.keep
       - Principal's Message/.keep
