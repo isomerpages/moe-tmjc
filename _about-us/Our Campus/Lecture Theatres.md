@@ -11,3 +11,13 @@ In TMJC, there are five lecture theatres with different seating capacities,  in
 <a href="https://teliportme.com/view/1835944?utm_medium=android&utm_source=share-panorama">
 <img src="/images/click%20here.png"  
      style="width:30%">
+	
+
+
+<img src="/images/LT1.jpeg">
+
+<img src="/images/LT2.jpeg">
+
+<img src="/images/LT3.jpeg">
+	
+<img src="/images/LT4.jpeg">
