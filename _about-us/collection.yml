@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/Multi Purpose Hall.md
       - Our Campus/.keep
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
