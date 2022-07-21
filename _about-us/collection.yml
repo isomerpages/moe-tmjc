@@ -2,6 +2,13 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message/.keep
+      - Principal's Message/Day 1 Message 2022.md
+      - Principal's Message/Day 1 Message 2021.md
+      - Principal's Message/Day 1 Message 2020.md
+      - Principal's Message/Day 1 Message 2019.md
+      - Vision Mission Values.md
+      - Our College Identity.md
       - Our Campus/.keep
       - Our Campus/Multi Purpose Hall.md
       - Our Campus/Plaza.md
@@ -23,10 +30,3 @@ collections:
       - Our Campus/Study Areas.md
       - Our Campus/Café.md
       - Our Campus/Greenhouses.md
-      - Principal's Message/.keep
-      - Principal's Message/Day 1 Message 2022.md
-      - Principal's Message/Day 1 Message 2021.md
-      - Principal's Message/Day 1 Message 2020.md
-      - Principal's Message/Day 1 Message 2019.md
-      - Vision Mission Values.md
-      - Our College Identity.md
