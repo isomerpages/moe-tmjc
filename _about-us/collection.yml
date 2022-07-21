@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/Staff Photos.md
-      - Our Staff/Our Staff.md
       - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/Staff Photos.md
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/Day 1 Message 2021.md
