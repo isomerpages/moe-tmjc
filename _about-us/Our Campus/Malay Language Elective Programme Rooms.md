@@ -6,13 +6,13 @@ third_nav_title: Our Campus
 ---
 As one of the centres to offer the Malay Language Elective Programme (MLEP). The College’s MLEP room is a special facility equipped to provide for the wide array of cultural and literary enrichment activities that engage our MLEP students in meaningful and holistic learning experiences.
 
-<b>Level 1</b>
+<b>Room 1</b>
 
 <a href="https://teliportme.com/view/1835941?utm_medium=android&utm_source=share-panorama">
 <img src="/images/click%20here.png"  
      style="width:30%">
 	
-<b>Level 2</b>
+<b>Room 2</b>
 	
 <a href="https://teliportme.com/view/1835942?utm_medium=android&utm_source=tshare-panorama">
 <img src="/images/click%20here.png"  
@@ -29,5 +29,3 @@ As one of the centres to offer the Malay Language Elective Programme (MLEP). The
 ![](/images/elective5.jpeg)
 	
 ![](/images/elective6.jpeg)
-	
-
