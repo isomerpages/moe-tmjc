@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/Sheltered Courts.md
       - Our Campus/Rock Wall.md
       - Our Campus/Sports Field.md
       - Our Campus/Library.md
