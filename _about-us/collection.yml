@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/Lecture Theatres.md
       - Our Campus/Plaza.md
       - Our Campus/Multi Purpose Hall.md
       - Our Campus/.keep
