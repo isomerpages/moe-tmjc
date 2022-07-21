@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/Greenhouses.md
       - Our Campus/Café.md
       - Our Campus/Study Areas.md
       - Our Campus/Atrium & Heritage.md
