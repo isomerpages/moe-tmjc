@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our College Identity.md
-      - Vision Mission Values.md
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/Day 1 Message 2021.md
       - Principal's Message/Day 1 Message 2020.md
       - Principal's Message/Day 1 Message 2019.md
+      - Vision Mission Values.md
+      - Our College Identity.md
