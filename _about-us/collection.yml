@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/School Gym.md
       - Our Campus/Dance Studio.md
       - Our Campus/Fully Air Conditioned School Hall.md
       - Our Campus/Science Labs.md
