@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus/Science Labs.md
       - Our Campus/Performance Lab.md
       - Our Campus/Malay Language Elective Programme Rooms.md
       - Our Campus/Art Room.md
