@@ -2,17 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Campus/Greenhouses.md
-      - Our Campus/Café.md
-      - Our Campus/Study Areas.md
-      - Our Campus/Atrium & Heritage.md
-      - Our Campus/School Gym.md
-      - Our Campus/Dance Studio.md
-      - Our Campus/Fully Air Conditioned School Hall.md
-      - Our Campus/Science Labs.md
-      - Our Campus/Performance Lab.md
-      - Our Campus/Malay Language Elective Programme Rooms.md
-      - Our Campus/Art Room.md
       - Our Campus/.keep
       - Our Campus/Multi Purpose Hall.md
       - Our Campus/Plaza.md
@@ -23,6 +12,17 @@ collections:
       - Our Campus/Rock Wall.md
       - Our Campus/Sports Field.md
       - Our Campus/Sheltered Courts.md
+      - Our Campus/Art Room.md
+      - Our Campus/Malay Language Elective Programme Rooms.md
+      - Our Campus/Performance Lab.md
+      - Our Campus/Science Labs.md
+      - Our Campus/Fully Air Conditioned School Hall.md
+      - Our Campus/Dance Studio.md
+      - Our Campus/School Gym.md
+      - Our Campus/Atrium & Heritage.md
+      - Our Campus/Study Areas.md
+      - Our Campus/Café.md
+      - Our Campus/Greenhouses.md
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/Day 1 Message 2021.md
