@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements/Staff Achievements 2019.md
       - Our Achievements/Staff Achievements 2020.md
       - Our Achievements/MOE TMJC Awards.md
       - Our Achievements/National & External Awards.md
