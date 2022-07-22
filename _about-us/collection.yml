@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements/Tampines Meridian Junior College (Class of 2020 & 2021)
+        Awards.md
       - Our Achievements/Staff Achievements 2019.md
       - Our Achievements/Staff Achievements 2020.md
       - Our Achievements/MOE TMJC Awards.md
