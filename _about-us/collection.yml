@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements/MOE TMJC Awards.md
       - Our Achievements/National & External Awards.md
       - Our Achievements/Tampines Meridian Junior College (Class of 2019)
         Awards.md
