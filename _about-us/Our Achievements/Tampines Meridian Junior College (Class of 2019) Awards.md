@@ -89,3 +89,107 @@ We would like to express our heartiest congratulations to all the awardees!
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">OUTSTANDING STUDENT VOLUNTEER</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2">This award recognises student who has displayed outstanding service to the community.  </td>
+  </tr>
+  <tr>
+    <td class="tg-4ufn"><br>AW MING HUI, VERNICE (18S412)</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">SPORTSPERSON OF THE YEAR</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2">This award recognises student who has attained outstanding achievements in Sports.</td>
+  </tr>
+  <tr>
+    <td class="tg-4ufn">TIONG CHUAN YAO (18S209)<br></td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">BEST PERFORMING ARTS AWARD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2">This award recognises student who has attained outstanding achievements in the Performing Arts.  </td>
+  </tr>
+  <tr>
+    <td class="tg-4ufn">SEAN LIM JING HENG (18S101)</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-a4yv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-a4yv">2019 JC2 EDUSAVE CHARACTER AWARD</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a3j2">This award recognises students who have displayed consistent exemplary character.</td>
+  </tr>
+  <tr>
+    <td class="tg-4ufn"><br><span style="background-color:initial">LIM SONG YI (18A201)</span><br>CHERYL CHONG HUI QING (18A303)<br>JOVAN WONG (18S101)<br>CHAN CHOON YONG (18S101)<br>TEO JUN RUI JONATHAN (18S201)<br>NICHOLAS NG ZE KAI (18S201)<br>MOHAMMAD TAHIR B HAIRUL (18S204)<br>LEE CHU XUAN STACY (18S207)<br>MOK XI TIAN (18S211)<br>FARAH BINTE ABDUL RAHIM (18S302)<br>LIM YU XUAN (18S305)<br>SITI UMAIRAH BTE FATHUL RAHMAN (18S305)<br>CLARABELLE CHAN (18S308)<br>TOH HOW CHER ANDY (18S404)<br>GOH WEN KANG (18S412)<br>TEO YONG RAY (18S415)<br>MUHAMMAD DANIAL AFIQ BIN FHARICK (18S502)</td>
+  </tr>
+</tbody>
+</table>
