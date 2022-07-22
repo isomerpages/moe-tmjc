@@ -2,6 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements/Tampines Meridian Junior College (Class of 2019)
+        Awards.md
       - Our Achievements/.keep
       - Our Achievements/Student Achievements 2021.md
       - Our Achievements/Student Achievements 2020.md
