@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements/Student Achievements 2019.md
-      - Our Achievements/Student Achievements 2020.md
-      - Our Achievements/Student Achievements 2021.md
       - Our Achievements/.keep
+      - Our Achievements/Student Achievements 2021.md
+      - Our Achievements/Student Achievements 2020.md
+      - Our Achievements/Student Achievements 2019.md
       - Our Staff/.keep
       - Our Staff/Our Staff.md
       - Our Staff/Staff Photos.md
