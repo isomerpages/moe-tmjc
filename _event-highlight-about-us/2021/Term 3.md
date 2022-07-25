@@ -480,3 +480,23 @@ For the keynote address, our College invited Ms. Wendy Chua, a psychologist, fou
 We thank all parents who joined us for a meaningful evening. The College looks forward to forging stronger partnerships with parents in our collective efforts towards developing our students holistically.
 
 ![](/images/2021-T3-Events-PTERaisingAResilientTeen_01.jpeg)
+
+### University Application Information Session for JC2
+
+The University Application Information Session is part of the Higher Education Festival and aims to provide the JC2 students with important local and overseas university application information and resources to help them make informed decisions about their future higher education. The session consists of online talks by Project Access and UniBridge, organisations set up by existing overseas Singapore students who are keen on supporting youths in finding out more about overseas education opportunities. The session also includes a talk by our College’s  ECG counsellor, Ms Kun Mei Ying, to provide students with information on the local university landscape and the possible university pathways a student can take upon entering a university.  
+  
+These talks will be further supported by a series of sharing/talks by 6 local autonomous universities (NUS, NTU, SIT, SMU, SUSS, SUTD) in the coming weeks. They will be sharing about their new programmes and general admission criteria. We hope that these online sharing and talks can prepare students for their university applications, especially in light of impending deadlines for some overseas university applications. We also believe that having an end in mind can motivate the students in their pursuit of excellence.
+
+![](/images/2021-T3-Events-UniversityApplicationSession_01.jpeg)
+
+### 13th International Model United Nations Conference 2021
+
+On 7 and 8 June 2021, the following students were selected to attend the 13th International Model United Nations Conference 2021 organised by ACS (I).
+
+Lim Liang Ying (20A301)  <br>
+Hannah Ng Jia En (20A302)  <br>
+Yap Zhi Kang (20A101)  <br>
+Ha Thi Mai Huong, Samantha (20A101)  <br>
+Jeanette Goh (20A202)  <br>
+Isabel Wong (20S211)  <br>
+Prior to the two-day conference, the students had to do research and prepare opening speeches and position papers on issues impacting their assigned countries. At the end of the conference, one of our students, Lim Liang Ying (20A301), was awarded the Certificate of Commendation – Outstanding Delegate, for her efforts. Congratulations to Liang Ying and the other participants for a job well done!
