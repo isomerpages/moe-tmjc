@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Event Highlights/.keep
-      - Event Highlights/Term 1.md
       - Our Achievements/.keep
       - Our Achievements/Student Achievements 2021.md
       - Our Achievements/Student Achievements 2020.md
