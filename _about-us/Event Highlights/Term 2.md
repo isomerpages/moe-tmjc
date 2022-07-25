@@ -181,3 +181,25 @@ For TMJC, it is important for us to build a strong alumni community to support t
 After the meeting, our TMJC Alumni Exco also had the opportunity to observe and participate in the Passing of Torch Ceremony of our Tampines Meridian Student Council during their Student Leaders Training.
 
 ![](/images/2022-T2-Events-TMJCAlumniExcoMeeting_01.jpeg)
+
+### Student Leaders Training
+
+On the 8th and 9th of April 2022, TMJC held its Student Leaders Training for the Civics Groups Chairpersons (CGCs), Peer Support Leaders (PSLs) and the Tampines Meridian Student Council (TMSC). All 3 groups of leaders aimed to bring their juniors together to build camaraderie, lay the foundations of leadership knowledge and skills as well as share their own rich experiences.  
+  
+JC2 Student Leaders carefully curated their respective programmes for the various Student Leader groups. The newly elected CGCs had their hands full as they went on a journey of self-discovery while working together to challenge the process and seek solutions to potential problems. The newly elected PSLs were equipped with useful knowledge and skills to better support their peers and gained confidence from the honest sharing of their seniors.  
+
+  
+The 4th TMSC had spent months carefully curating a meaningful training programme consisting of both workshops and games that would initiate their juniors into the role of a student councillor. As encouraging the College Spirit through house-based activities is one of the aims of the Student Council, a House Bonding Session which allowed House seniors to reflect and impart lessons learnt from their own leadership journey experiences to their juniors was also carried out.  
+Unique to the TMSC leadership experience is the Passing of Torch Ceremony, an initiation ceremony carried out at the end of the TMSC Training programme that simulates the symbolic passing of the responsibilities of the TMSC through the generations of TMSC. A flame was passed from the teacher advisors to the alumni representatives of previous TMSC cohorts, then to the 4th TMSC and then finally to our newly initiated 5th TMSC. This tradition has been a very meaningful one signifying the graduation of the 4th TMSC and the start of the SC journey of the 5th TMSC. It also marked the passing of responsibilities, legacy and vision as a TMSC from the 4th to the 5th batch.   
+With the strong friendships forged, wise words from their seniors and guidance from their teachers, the College is confident that this batch of Student Leaders will give their utmost best to support their peers, lead their classes and serve their College.  
+  
+“When leaders are doing their best, they Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act, and Encourage the Heart.” – Jim Kouzes & Barry Posner, authors of The Leadership Challenge.'
+
+![](/images/2022-T2-Events-StudentLeadersTraining_01.jpeg)
+
+### Healthy April @ TMJC!
+
+In the month of April, TMJC celebrates the gift of life and encourages each other to lead healthy lives!   
+TMJC Healthy April 2022 began with the staff learning some easy but helpful stretching exercises with the exercise band during one of our Staff Meetings. It was a wonderful time of being together and engaging in a communal activity with great benefits to our body!  
+  
+Fresh fruits in the colors of the Rainbow were also given to every colleague during that meeting. We are a firm believer that regular exercise must be paired with a healthy diet!
