@@ -236,23 +236,22 @@ Congratulations to all awardees! We are indeed proud of your achievements!
 
 ![](/images/2022-T2-Events-AustralianInformaticsOlympiad_01.jpeg)
 
-Singapore Physics & Biology Olympiads
--------------------------------------
+### Singapore Physics & Biology Olympiads
+
 
   
 In November 2021, 8 JC1 Physics and 14 JC1 Biology students represented the College at the Singapore Physics & Biology Olympiads respectively.  
   
 Preparation for the competition required much independent learning as students had to internalise and apply concepts typically taught in JC2 via self-reading and consolidation sessions.  
 
-We are proud to share that one of our students was awarded a Bronze medal for the  Physics Olympiad while 6 students received a Certificate of Merit for the Biology  Olympiad. The winners are as follows:**  
-Physics**
+We are proud to share that one of our students was awarded a Bronze medal for the  Physics Olympiad while 6 students received a Certificate of Merit for the Biology  Olympiad. The winners are as follows:
 
+**Physics**   <br>
 **Bronze medal**
 
 LE TE QUOC DAT 21S101
 
-**Biology** 
-
+**Biology**  <br>
 **Merit award**
 
 1. NATHANIEL HUGO GRATIAN LIN 21S301
