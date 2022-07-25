@@ -88,3 +88,29 @@ General Paper (GP) Day which was held on 6 May 2022 took on a bold new direction
 As Unconferences are participant-driven and less top-down than conventional conferences, our students were actively involved in the brainstorming and selection of topics for Breakout Rooms. The discussions in Breakout Rooms were also facilitated by a group of student facilitators who were trained by The Birthday Collective to adopt Open Space Technology, an innovative and emergent facilitation technique. Rich, authentic and meaningful dialogues took place in the Breakout Rooms as students shared their views on a range of local issues of significance such as gender inequality, mental health, work-life harmony, elitism and casual racism. Students were empowered to gain ownership of important local issues and come up with their own solutions which led to the development of active advocacy and empathy.  
   
 In the week leading up to GP Day, students also enjoyed an exciting range of Fringe Activities which included the 2nd run of our JC1 Meme Competition, a GP Day Special Edition Kahoot Quiz which revolved around local trivia, and lunch-time video screenings of local music and walking tours hosted by Singaporean celebrities and influencers.
+
+![](/images/2022-T2-Events-GPDay_01.jpeg)
+
+### International Biomedical Quiz
+
+  
+In April this year, 20 Biology students represented the College at the International Biomedical Quiz. Preparation for the competition required them to read widely and beyond the syllabus on Oncology, which includes the diagnosis and treatment of Cancer.  
+  
+We are proud to share that our students won one silver award, two bronze medals, and 6 merit awards.  
+  
+Silver Award:  <br>
+ZHAO PEISONG (21S302)  <br>
+  
+Bronze Awards:  <br>
+NATHANIEL HUGO GRATIAN LIN (21S301)  <br>
+LOW YONG XIANG (21S304)  <br>
+  
+Merit Awards:  <br>
+DO THIEN PHUC (21S301)  <br>
+KOUNLASATTY MANIVONG (21S301)  <br>
+LIM JING HENG JACKY (21S301)  <br>
+BRYAN LIM WAY HERN (21S307)  <br>
+JULIA THET MON SOE (21S307)  <br>
+YVONNE LIAW QIAN YU (21S308)  
+  
+Congratulations to all participants!
