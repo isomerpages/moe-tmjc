@@ -80,3 +80,11 @@ Both teams played hard and showed much sportsmanship. Our girls demonstrated adm
 Congratulations to our girls!
 
 ![](/images/2022-T2-Events-FloorballGirls_01.jpeg)
+
+### GP Day 2022
+
+General Paper (GP) Day which was held on 6 May 2022 took on a bold new direction as we hosted our inaugural GP Day Unconference in partnership with The Birthday Collective. The Birthday Collective is a not-for-profit organisation that encourages actionable and involved advocacy.  The theme for the GP Day Unconference was “ **_RESTART SG: Possibilities for the road ahead_** ” and the aim of the Unconference was to create a safe place for conversations about Singapore, and to appreciate and respect the diversity of opinions among Singaporeans while discussing how we can grow and progress together as a nation.  
+  
+As Unconferences are participant-driven and less top-down than conventional conferences, our students were actively involved in the brainstorming and selection of topics for Breakout Rooms. The discussions in Breakout Rooms were also facilitated by a group of student facilitators who were trained by The Birthday Collective to adopt Open Space Technology, an innovative and emergent facilitation technique. Rich, authentic and meaningful dialogues took place in the Breakout Rooms as students shared their views on a range of local issues of significance such as gender inequality, mental health, work-life harmony, elitism and casual racism. Students were empowered to gain ownership of important local issues and come up with their own solutions which led to the development of active advocacy and empathy.  
+  
+In the week leading up to GP Day, students also enjoyed an exciting range of Fringe Activities which included the 2nd run of our JC1 Meme Competition, a GP Day Special Edition Kahoot Quiz which revolved around local trivia, and lunch-time video screenings of local music and walking tours hosted by Singaporean celebrities and influencers.
