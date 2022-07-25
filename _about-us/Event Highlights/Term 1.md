@@ -43,3 +43,11 @@ We thank our partner organisations and students from selected JC2 CGs and CCA wh
 TMJC commemorated Total Defence Day (TDD) from 15 February to 11 March 2022 under the theme “Together, We Keep Singapore Strong”. Introduced in 1984 to mark the day Singapore fell to Japanese troops in 1942, the annual TDD Commemoration exhorts every Singaporean to play their part to keep Singapore safe, secure and independent.  
   
 Amid Singapore’s transition towards COVID resilience, the significance of the day becomes more pronounced. In light of this, during their Character & Citizenship Education lessons, students took perspective, discussed what Total Defence meant to them and learnt about the role they can play in Singapore’s national defence. The commemoration culminated in a mural display outside the General Office, a collaboration between the Citizenship Education Committee and the Art Unit. The Total Defence Mural functions as a daily visual reminder to all TMJC students on the importance of being united and adaptable in Singapore’s journey towards living with COVID.
+
+![](/images/2022-T1-Events-TotalDefenceDay_01.jpeg)
+
+### Badge Pinning Ceremony
+  
+On 28 February 2022, the College held our annual Badge Pinning Ceremony. The ceremony symbolises the journey taken together by the JC1s and JC2s as they forge ahead as one TMJC student body.  
+  
+During the ceremony, CG Chairpersons and Peer Support Leaders from each JC2 class presented the College collar pins to their JC1 juniors to welcome them to the TMJC family. The JC2 seniors were also given the opportunity to share words of advice on what is truly essential in creating a memorable and meaningful 2 years in TMJC. Having walked through the journey themselves, the JC2 seniors’ words of advice left a great impact on their juniors. The JC1s then proudly put on their College collar pins together, signifying the official start of their wonderful and exciting journey ahead in TMJC.
