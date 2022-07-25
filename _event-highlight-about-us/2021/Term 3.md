@@ -328,3 +328,39 @@ _Dance - Certificate of Distinction_
 The Performing Arts groups would like to express our greatest appreciation to Ms Yoong, our school leaders, teachers, school attendants and our friends for supporting us throughout this SYF journey!_
 
 ![](/images/2021-T3-Events-SYFPrizePresentation_01.jpeg)
+
+### National Day Celebrations & TM Celebrates!
+  
+On 6 August, TMJC celebrated her third anniversary alongside Singapore's 56th birthday! To mark this special day, the College put together a unique programme that was safe, engaging, and meaningful under the twin themes “Together, Our Singapore Spirit” and “Be Better Together.”  
+After the special National Day Observance Ceremony that included immersive video snippets of the upcoming National Day Parade rehearsal, students participated in innovative peer-designed games at the CG and inter-house levels. These educational games were played within classes to minimise intermingling and students learnt about interesting facts surrounding the history and culture of Singapore and the College.  
+  
+As part of the finale, every CG Chairperson flew a CG-designed paper plane in the parade square to symbolise reaching new heights together amid the pandemic. Each CG then contributed a piece of jigsaw puzzle that came together in an in-house student-designed jigsaw mural showcasing the vibrant CCA culture of TMJC.  
+  
+The close of the celebrations featured other key highlights of the combined celebrations. This included the launch of the College Digital Clock which symbolises the unity of the TMJC family through good and bad times. Finally, there was the launch of student-designed College keepsakes, such as the Tote Bag and other limited edition stationeries like the L-shaped file and post-it pads designed by our students. With every celebration there will be food; students were treated to delicious Krispy Kreme doughnuts and refreshing Vitamin Drink.  
+  
+Happy Birthday, Singapore! Happy Birthday, TMJC!
+
+![](/images/2021-T3-Events-NationalDayTMCelebrate_01.jpeg)
+
+### Fastest Fingers Graphing Calculator Competition
+
+For several years running, TMJC has been the organiser for the Inter-school Fastest Fingers Graphing Calculator Competition (FFGCC). This year, 51 participants from 10 schools battled their way for a spot in the finals that was held on 4th August 2021. Due to COVID-19 pandemic, this is also the first time that the competition is held online, where various ICT platforms are used to support the format of the competition, without compromising on the learning and integrity of competition. It was held successfully, and it received positive feedback from teachers and participants.  
+  
+Five schools, namely, ACJC, DHS, NYJC, RI and TMJC, made it to the finals and we are proud to announce that the team from TMJC, comprising Nguyen Xuan Nam (20S101), Run Xinghuan (20S101), Gordon Tay Zhun Xiang (20S202) and Chan Wei Ning (20S202) came in 4th after putting up a tough fight.
+
+![](/images/2021-T3-Events-FFGCC_01.jpeg)
+
+### 2021 International Mathematics Modelling Challenge (IMMC)
+
+From 15 to 19 March earlier this year, our College participated in the 2021 International Mathematics Modelling Challenge (IMMC), organised by the Academy of Singapore Teachers, National Junior College and Raffles Girls School.  
+  
+A total of 49 teams participated, and our TMJC team has done well, constructing a mathematical model to quantify and compare the performance of an individual sport and adapt it to a team sport.  
+  
+We are proud to share that the following students have received a Certificate of Merit. They are:  
+  
+Run Xinghuan (20S101)  <br>
+Koh Liang Han (20S204)  <br>
+Darius Toh Zheng Ting (20S207)  <br>
+Joshua Leong Zi Xi (20S301)  
+  
+Well done!
