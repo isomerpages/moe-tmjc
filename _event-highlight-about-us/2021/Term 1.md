@@ -110,3 +110,53 @@ The tembusu tree which was chosen to be planted, is a large, evergreen tree that
 This ceremony was led by the School Leaders, together with student representatives from the 2019-2020 Student Council:  Naseemah D/O Ahamed Ali Khan (19A302/ President), Vaishalika Jain (19A202/ Vice-President); Chantal Poh Cheng Hoon (19A201 / Vice President) and Sivalogamoorthy Shrikeesan (19S212/ Vice President).
 
 ![](/images/2021-T1-Events-TreePlantingCeremony_01.jpeg)
+
+### Chinese New Year 人日 (Ren2 Ri4) Celebrations  
+
+Still soaking in the festive atmosphere, TMJC came together to celebrate 人日 (Ren2 Ri4) in advance on 17 February 2021. Our Staff Welfare Committee prepared cookies and cakes for each department to enjoy. 
+
+On behalf of staff who contributed funds on a voluntary basis, our School Leaders presented angbaos to appreciate our College cleaners, attendants, IT support staff and security guards, for keeping our work environment clean, safe and conducive.
+
+![](/images/2021-T1-Events-CNYRen2Ri4_01.jpeg)
+
+### TMJC Chinese New Year Celebrations 2021
+
+On 11 February 2021, the TMJC family celebrated the arrival of the Chinese New Year. The festive celebration consisted of two components.  
+  
+The first component, “Understanding the Uniqueness of Singapore’s Chinese Culture via the Lens of the Chinese Diaspora”, is anchored in Citizenship Education. It aims to foster national pride in our students and to highlight Singapore’s unique Chinese culture amidst the threat of cultural dilution wrought by globalisation. In this segment, a 30-minute student-directed mini-film, consisting of 3 parts: Looking Back, Looking Out, Looking Forward, was screened and broadcasted to various venues.
+
+![](/images/2021-T1-Events-CNYCelebration_01.jpeg)
+
+The second component of the celebration offered challenges to the JC1 and JC2 Civic Groups (CG) titled “The Plum Blossom Challenge” and “The Lantern Making Challenge” respectively.  In the first challenge, each JC1 CG had to complete five tasks related to the Chinese New Year, and prizes were given to the top 5 CGs who completed the tasks in the shortest time. For the JC2s, each CG had to make lanterns using red packets which were later hung on display within the college premises. Similarly, the 5 CGs with the most creatively designed lanterns won prizes.
+
+![](/images/2021-T1-Events-CNYCelebration_02.jpeg)
+
+Despite all faces covered by masks due to the pandemic, the joyous expressions and emotions shone through brightly. The event ended in high spirits with the School Leaders completing the Plum Blossom Tree with the “Plum Blossoms”.  
+  
+Have an Oxpicious Year!
+
+![](/images/2021-T1-Events-CNYCelebration_03.jpeg)
+
+### Chinese New Year Celebrations with our International Scholars
+
+  
+On 11 February 2021, TMJC gathered our international scholars to exchange well wishes for the Lunar New Year. Given the global pandemic, our international students were unable to return to their home countries to celebrate the Lunar New Year with their families nor have their families visit them in Singapore. To help make the festive season meaningful for them nevertheless, our 24 JC2 scholars and 26 JC1 scholars met our Principal, Ms Yoong, to exchange well wishes. During the session, Ms Yoong shared words of blessings to them on behalf of the College, and each of the student then shared words of blessings in their native languages to Ms Yoong, who symbolically received the words of blessings on behalf of the College.
+
+![](/images/2021-T1-Events-CNYNYCelebrationWithIntScholars_01.jpeg)
+
+### Staff Professional Development Day 2
+
+TMJC’s Staff Professional Development Day 2 focuses on the principles of sound e-pedagogy, as Singapore schools gear up for the implementation of Blended Learning. After a keynote sharing on the “Whats” and “Hows” of effective E-Pedagogy, capped by an exciting Kahoot quiz, teachers also had the opportunity to have hands-on practice on ICT tools such as the new features of Student Learning Space (SLS), Google Classroom, and Powtoons.
+
+![](/images/2021-T1-Events-StaffPDDay2_01.jpeg)
+
+### CCA, Modern Dance's Participation in the Pasir Ris-Punggol GRC IAEC Virtual Deepavali Celebrations 2020
+
+On 28 November last year, our CCA, Modern Dance, was invited to put up a dance performance for the Pasir Ris-Punggol GRC Virtual Deepavali Celebrations, where Senior Minister & Coordinating Minister for National Security, Mr Teo Chee Hean was the Guest-of-Honour.
+
+  
+This was an important event for the residents to come together to celebrate this festival and enhance the mood of celebration amongst our residents of Pasir Ris and Punggol. To thank our dancers for being part of this, the organisers have thus presented the College a Certificate of Appreciation for our involvement.
+
+  
+On 8 February 2021, Kelly Tan Jing Ying (20S303) and Camille Chua Yu En (20S101) therefore represented the dancers in presenting the Certificate of Appreciation to our Principal, Ms Yoong. The dancers thanked Ms Yoong for her support and having provided them the opportunity to perform for this meaningful virtual celebration.   
+Good job, dancers, for your service to our community!
