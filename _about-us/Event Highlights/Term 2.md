@@ -37,3 +37,22 @@ Through Ambassador Wong’s sharing, students were sensitised to the key princip
 The college would like to thank Ambassador Wong for this most enriching session. The college would also like to thank the Ministry of Foreign Affairs and the Ministry of Education (Character & Citizenship Education Branch) for co-organising this dialogue for the benefit of our students.
 
 ![](/images/2022-T2-Events-SGPerspectives_01A.jpeg)
+
+### Arts and Humanities Week
+  
+
+The inaugural Arts and Humanities Week took place from the 9th to 13th of May this year. The theme, 'Making Waves', captured the spirit of the week that allowed Arts and Humanities students to make waves by sharing their interest in their subjects with each other as well as the College.
+
+![](/images/2022-T2-Events-ArtsHumanitiesWeek_01.jpeg)
+
+Led by a JC2 Student Organising Committee, both JC1 and JC2 students came together to curate a spectrum of projects to showcase, bringing together skills and content learnt from various Arts and Humanities subjects. There were skits, exhibitions, crafts, poetry recitations, and games that allowed those who attended to learn something new and get a taste of how the arts and humanities can be relevant to society.
+
+![](/images/2022-T2-Events-ArtsHumanitiesWeek_02.jpeg)
+
+The Week also featured a Speaker Series, specifically for the Arts and Humanities students. On Wednesday, 11th May, NUS History Professor, Ian Gordon, shared his knowledge about how History and Art, in the form of comics, can work together. And on Friday, 13th May, Jamie Lee and Mark Tan from the Madhatter Project demonstrated how History and Literature can be weaved together in the performing arts as a platform to reach out to people and share ideas on important issues.
+
+![](/images/2022-T2-Events-ArtsHumanitiesWeek_03.jpeg)
+
+The week ended with a Finale Concert displaying some of the very best showcase projects, a Kahoot Quiz and a video montage capturing the many engaging moments of the week. The Arts and Humanities students will indeed continue to make waves here in TMJC.
+
+![](/images/2022-T2-Events-ArtsHumanitiesWeek_04.jpeg)
