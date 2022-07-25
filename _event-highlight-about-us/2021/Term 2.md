@@ -247,3 +247,50 @@ TMJC’s Mathematics Awareness Fortnight (MAF) was held from 12 April – 23 Apr
 This year, due to the COVID-19 pandemic, the MAF was conducted via Google Classroom and students participated, as a class, in a plethora of daily quests ranging from challenging Math problems to fun puzzles such as Tower of Hanoi and Sudoku. To make the learning even more meaningful, each letter in the word InfiniTuM represents a value or quality students need to demonstrate in order to complete the daily quests.  
   
 The highlight of the MAF was the MAF Electives, conducted during one of the Math lectures by TMJC Math teachers. During the MAF Electives, students were exposed to topics and applications of Math outside the curriculum such as Fun with Ciphers (Cryptography), Shortest Paths and Optimization (Graph Theory) as well as Math and Monopoly.
+
+![](/images/2021-T2-Events-MathAwarenessFortnight_01A.jpeg)
+
+### International Friendship Day x EU @ Your School 2021
+
+From 19 – 23 April, TMJC commemorated International Friendship Day to imbue in students an appreciation for diversity and cross-cultural awareness. The theme was ‘Singapore in the World’ and the commemoration focused on deepening students’ understanding of ASEAN, one of the world’s fastest-growing economies. Our international students created a series of engaging multimedia presentations that featured the unique sights, sounds and stories of Southeast Asia. To increase their cultural sensitivity, students also participated in culturally significant games and pastimes such as shadow puppetry during their Character & Citizenship lessons.  
+  
+The commemoration came to a close with a visit from distinguished representatives of the Royal Danish Embassy. Students had the invaluable opportunity to hear from the Danish Ambassador to Singapore, Ms Sandra Jensen Landi. Her visit is part of the “EU @ Your School Project” that seeks to broaden global perspectives through an introduction to the rich and diverse cultures of Europe. Students learnt about the EU and many interesting aspects of Danish culture. Our newly minted Citizenship Education Ambassadors also engaged her in dialogue on contemporary issues that impact Denmark, ASEAN and the World. The College would like to thank Ambassador Landi and Deputy Head of Mission Mrs Birgit Dohmann Chang for taking time off their busy schedules to grace us with their presence.
+
+![](/images/2021-T2-Events-IFD_01.jpeg)
+
+### Mother Tongue Languages’ Fortnight 2021
+
+This year’s Mother Tongue Languages’ (MTL) Fortnight was held from 5 to 19 April, with the theme, “Embrace our Ethnicity”.  The three  Language Units in the MTL Department held an array of enrichment activities to immerse our students culturally.  
+  
+Common enrichment activities, such as class and online quizzes on language and cultural knowledge, a special book display in the library, broadcast of ethnic songs before Morning Assemblies, and sharing of inspirational quotes during Morning Assemblies were carried out.  
+  
+The highlight organised by the  Chinese Language (CL) Unit was the talk given by our local director, Royston Tan. During the talk which focussed on the theme “Taste. Memories”, Royston shared from his experience as a director, the meaning of different food to him as he was growing up.  At the end of the talk, each student was presented with an “ang ku kueh”, a traditional Chinese delicacy. Its significance can also be understood on a deeper level, as the character “ku” in the Hokkien dialect connotes a long-lasting relationship which we hope our students may forge with their cultural heritage. The Unit also organised song dedications at our Multi-Purpose Hall for students to dedicate Chinese songs to their peers and teachers during the afternoons.  
+  
+For the Malay Language Unit, the highlight was “Rapsodi Puisi” (Poetry Rhapsody), where students presented selected Malay poems artistically through various performance modes such as acting, singing, and dancing.  They displayed a high level of enthusiasm as they explored many creative ways to reimagine their poems artistically. Apart from that, the H2 Malay Language & Literature students also displayed their linguistic flair by recreating catchy lyrics of a popular Malay song in the “Change the Lyrics” competition.  
+  
+Last but not least, the Tamil Language (TL) Unit organised a traditional arts workshop introducing various Indian traditional dances and music. The Tamil students also undertook a Values-In-Action project to design colourful posters and pen down greetings in the Tamil language for our migrant worker friends to commemorate the Tamil New Year which was observed during the MTL Fortnight. In collaboration with the VIA committee, the posters were sent out together with care packs to the dormitories. A bilingual traveling exhibition by the Indian Heritage Centre about traditional Indian games and crafts was also put up at the Atrium for all students to enrich their cultural knowledge.  
+  
+All in all, the students had an enriching learning experience this year during the MTL Fortnight, truly embracing their ethnicity in different forms!
+
+![](/images/2021-T2-Events-MTLFortnight_01.jpeg)
+
+### Bringing Smiles to our Tamil Migrant Workers Community
+
+With the mindfulness that our Tamil migrant workers had to spend Tamil New Year (Puthaandu) Celebrations away from home due to the ongoing safe management considerations in the dormitories, our JC1 Tamil students decided to reach out to them to spread some festive cheer.  
+  
+Hence, in conjunction with the Mother Tongue Fortnight Activities, our JC1 Tamil students planned a Values-In-Action project. Our students packed 530 Care Packs that consisted of daily essentials such as toiletries and detergents, and heartwarming messages of gratitude in their Mother Tongue Language. These Care Packs were sent on 14 April 2021, the day of Tamil New Year, with the help of Migrant Workers Centre, an organisation that looks into the welfare of migrant workers in Singapore.
+
+We are glad that these efforts by our J1 Tamil students brought some smiles to our Tamil migrant workers!
+
+![](/images/2021-T2-Events-BringingSmiles_01.jpeg)
+
+### Release of Project Work Results
+
+Today, the JC2 students of TMJC received their Project Work results. The College is proud of them for having done very well in spite of the challenges and restrictions due to the pandemic last year.  
+  
+The Principal, Ms Yoong, reminded the students to show gratitude and remember those who have walked alongside them in their journey. In her words, “If you want to go fast, go alone. If you want to go far, go together.”  
+
+<img src="/images/2021-T2-Events-PWResults_01.jpeg" 
+     style="width:40%">
+  
+Indeed, with our ‘hearts and minds inspired’, let us press on as a cohort for the A Level Examination!
