@@ -190,3 +190,60 @@ Mariyya Binte Abdul Rashid (TSD) 20A301 <br>
 Tan Kai Rui (Art) 21S212
 
 ![](/images/2021-T2-Events-ARTery_01.jpeg)
+
+### General Paper Day - ‘View from the Pop!’
+
+TMJC’s General Paper (GP) Day was held on Friday, 7 May, with the theme ‘View from the Pop!’. The 3-part series of activities that began in late April aimed to foster an appreciation of the wide-ranging impact that pop culture has on our daily lives and to examine pop culture through the lens of GP.  
+  
+Part 1 involved a CG Meme Competition where CGs were tasked to create memes featuring pop culture trends. The Top 5 winning entries were posted on the GP Department’s Instagram page.  
+  
+Part 2 featured documentary screenings that helped students better understand the social, political and economic impact of the Disney Princess Trope and the K-wave phenomenon that has taken the world by storm.  
+  
+The series of activities ended on a high with Part 3. Students chose and enthusiastically participated in 1 of the 5 in-house talks specially designed by our very own TMJC teachers. To cultivate student interest in local, regional and global issues that impact their lives, the topics on offer explored trending issues close to the hearts of young people. This included the rise of social media influencers and ‘woke’ culture.
+
+![](/images/2021-T2-Events-GeneralPaperDay_01.jpeg)
+
+### Student Development Trainings
+ 
+_“When leaders are doing their best, they Model the Way, Inspire a Shared Vision, Challenge the Process, Enable Others to Act, and Encourage the Heart_.” – Jim Kouzes & Barry Posner, authors of The Leadership Challenge.  
+
+In TMJC, our student leaders are well supported in their leadership journey. Many platforms and opportunities are provided for our student leaders to reflect on their experiences, celebrate their successes and be better together. Both the Student Council Camp and  CG Leaders’ Training were held on 9 and 10 April 2021 to give our newly elected Student Councillors, Civics Group Chairpersons and Peer Support Leaders an opportunity to build camaraderie and learn from the experiences of their seniors.  
+
+Even as they mature in their leadership roles, they can look forward to deepening their learning and reflection. For instance, this year’s Student Leaders’ Congress held on 5 February 2021 was a timely opportunity for the JC2 leaders to reflect on the 5 Leadership Practices and seek advice from their alumni to prepare for the challenges ahead. With the strong friendships forged, wise words from their seniors and guidance from their alumni and teachers, we are confident that our student leaders will give their utmost best as they lead their peers.
+
+![](/images/2021-T2-Events-SDTrainings_01.jpeg)
+
+### Mother's Day 2021
+
+On 7 May 2021, to honour the heart work that our staff has devoted to the students of TMJC,  our Principal, Ms Yoong, got together our Student Councillors, CG Chairpersons and Peer Support Leaders to present carnations that signify a mother’s love, and present mini cheesecakes for all staff.  
+  
+Thank you to our Staff Welfare Committee and Student Leadership Committee for coordinating and executing this. We are grateful for all the mummies & daddies of TMJC!
+
+![](/images/2021-T2-Events-MothersDay_01.jpeg)
+
+### College Day
+
+On 30 April, we celebrated the efforts and achievements of the Class of 2019 and the Class of 2020. To quote our Principal, Ms Yoong, “there is a saying: when life gives you lemons, make lemonade. But I say, in order to make the lemonade, you will need more than just lemons. You need sugar, you need water and better still, some ice, and of course a nice tall glass container to make that delightfully delicious glass of lemonade, most palatable.” As a result, College Day this year was a lemonade celebration conducted in two separate College Day ceremonies with the entire College Day online for viewing and all awardees physically present to be recognised while adhering to safe management measures. Pre-recorded performances by Performing Arts Co-Curricular Activities were also showcased during the ceremonies. College Day 2021 was made even more memorable with the first batch of awardees who managed to accumulate all three Academic medals - the Bronze, Silver, and Gold medals, as a result of consistently performing among the top 10% of their cohort, receiving theirs in a special box.
+
+It was wonderful to have the opportunity to welcome the awardees back home during these uncertain times as we recall the resilience and courage they showed in embracing the challenges posed by COVID-19 during their time in the College. It was heartening to recognise and witness the achievements of the recipients on this day and be able to catch up with them.
+
+We sincerely wish the awardees all the very best in their future endeavours and well done to all awardees - we are proud of you & we look forward to having you back as alumni being involved in various College activities!
+
+### College Day
+
+On 30 April, we celebrated the efforts and achievements of the Class of 2019 and the Class of 2020. To quote our Principal, Ms Yoong, “there is a saying: when life gives you lemons, make lemonade. But I say, in order to make the lemonade, you will need more than just lemons. You need sugar, you need water and better still, some ice, and of course a nice tall glass container to make that delightfully delicious glass of lemonade, most palatable.” As a result, College Day this year was a lemonade celebration conducted in two separate College Day ceremonies with the entire College Day online for viewing and all awardees physically present to be recognised while adhering to safe management measures. Pre-recorded performances by Performing Arts Co-Curricular Activities were also showcased during the ceremonies. College Day 2021 was made even more memorable with the first batch of awardees who managed to accumulate all three Academic medals - the Bronze, Silver, and Gold medals, as a result of consistently performing among the top 10% of their cohort, receiving theirs in a special box.
+
+It was wonderful to have the opportunity to welcome the awardees back home during these uncertain times as we recall the resilience and courage they showed in embracing the challenges posed by COVID-19 during their time in the College. It was heartening to recognise and witness the achievements of the recipients on this day and be able to catch up with them.
+
+We sincerely wish the awardees all the very best in their future endeavours and well done to all awardees - we are proud of you & we look forward to having you back as alumni being involved in various College activities!
+
+![](/images/2021-T2-Events-CollegeDay_01.jpeg)
+
+### Mathematics Awareness Fortnight (MAF)
+
+TMJC’s Mathematics Awareness Fortnight (MAF) was held from 12 April – 23 April 2021. The MAF encourages students to develop a spirit of inquiry beyond the curriculum, discover and appreciate the beauty of Mathematics in different areas of our lives and experience the joy of learning Mathematics. The theme for this year is “To InfiniTuM and Beyond!”. Student volunteers were empowered and mentored by Mathematics Subject Tutors to come up with interesting and fun activities for their peers.  
+
+  
+This year, due to the COVID-19 pandemic, the MAF was conducted via Google Classroom and students participated, as a class, in a plethora of daily quests ranging from challenging Math problems to fun puzzles such as Tower of Hanoi and Sudoku. To make the learning even more meaningful, each letter in the word InfiniTuM represents a value or quality students need to demonstrate in order to complete the daily quests.  
+  
+The highlight of the MAF was the MAF Electives, conducted during one of the Math lectures by TMJC Math teachers. During the MAF Electives, students were exposed to topics and applications of Math outside the curriculum such as Fun with Ciphers (Cryptography), Shortest Paths and Optimization (Graph Theory) as well as Math and Monopoly.
