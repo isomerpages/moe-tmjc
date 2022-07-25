@@ -2,5 +2,6 @@ collections:
   event-highlight-about-us:
     output: true
     order:
+      - 2021/.keep
       - Term 1.md
       - Term 2.md
