@@ -262,3 +262,16 @@ LE TE QUOC DAT 21S101
 6. ZHAO PEISONG 21S302
 
 ![](/images/2022-T2-Events-PhysicsBiologyOlympiads_01.jpeg)
+
+### School Visit by Mr. Tony Low, Zonal Director for Schools (East)
+
+On 30 March 2022, Zonal Director for Schools (East), Mr. Tony Low, visited TMJC.  
+
+  
+The visit is an outreach practice by the Ministry of Education (MOE) where senior management in MOE visits schools to engage in dialogue with staff on professional matters and to better understand our students’ learning and well-being.  
+  
+The visit to TMJC started with a tour of our College, led by the student leaders of the Tampines Meridian Student Council. Mr. Low visited various parts of our Campus which included observing a Theatre Studies & Drama lesson in the Performance Lab, and also had the opportunity to hear the sharing by our students about our College’s green efforts at our Greenhouses.  
+  
+During the dialogue, our staff were enthusiastic and raised questions to seek clarifications on educational policies. It was a valuable session for the participants as Mr. Low, through his responses, provided a macro-perspective of the Ministry’s work in supporting schools across all levels.
+
+![](/images/2022-T2-Events-ZonalDirectorVisit_01.jpeg)
