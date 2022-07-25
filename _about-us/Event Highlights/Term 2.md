@@ -56,3 +56,27 @@ The Week also featured a Speaker Series, specifically for the Arts and Humanitie
 The week ended with a Finale Concert displaying some of the very best showcase projects, a Kahoot Quiz and a video montage capturing the many engaging moments of the week. The Arts and Humanities students will indeed continue to make waves here in TMJC.
 
 ![](/images/2022-T2-Events-ArtsHumanitiesWeek_04.jpeg)
+
+### International Friendship Day x EU @ Your School 2022
+  
+From 18 April – 9 May, TMJC commemorated International Friendship Day to imbue in students an appreciation for diversity and cross-cultural awareness. The theme was ‘Singapore in Asia (and Beyond)’ and the commemoration focused on deepening students’ understanding of the friendships nurtured in the ASEAN region, one of the world’s fastest-growing economic blocs. Our international students created a series of engaging multimedia presentations that featured the unique sights, sounds and stories of Southeast Asia. To increase their cultural sensitivity via hands-on learning, students participated in culturally significant games and pastimes such as shadow puppetry during their Character & Citizenship lessons. Students also learnt about the opportunities present in ASEAN to combat climate change together, a matter of grave importance given that the region is one of the world’s most vulnerable to climate change.  
+  
+To gain exposure to the world beyond ASEAN, students had the invaluable opportunity to hear from the Danish Ambassador to Singapore, Ms Sandra Jensen Landi. Her visit is part of the “EU @ Your School Project” that seeks to broaden global perspectives through an introduction to the rich and diverse cultures of Europe. Students learnt about the EU and many interesting aspects of Danish culture. Our newly minted Citizenship Education Ambassadors also engaged her in dialogue on contemporary issues that impact Denmark, ASEAN and the World.  
+  
+The commemoration came to a close with a special invitation from the Royal Danish Embassy for one of our Citizenship Education Ambassadors to join the Deputy Head of Mission, Ms Birgit Dohmann Chang, in a tree-planting activity on 9 May to commemorate Europe Day 2022. The event demonstrated Singapore-EU solidarity with Ukraine and symbolised hope for a brighter future through the joint commitment between the EU and Singapore to combat climate change.  
+  
+The College would like to thank the Royal Danish Embassy for enriching our students in myriad ways!
+
+![](/images/2022-T2-Events-IFD_01.jpeg)
+
+### Floorball Girls Win
+
+Today our Floorball Girls Team played against VJC's Floorball Team at the National School Games 'A' Division Finals.   
+  
+Excited, a hundred-strong team of supporters from both JC1 and JC2 made their way down to Our Tampines Hub to cheer them on. The college spirit was strong!  
+  
+Both teams played hard and showed much sportsmanship. Our girls demonstrated admirable determination and a fighting spirit, emerging victorious!  
+  
+Congratulations to our girls!
+
+![](/images/2022-T2-Events-FloorballGirls_01.jpeg)
