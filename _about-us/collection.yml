@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Event Highlights/Term 1.md
-      - Event Highlights/Term 2.md
       - Event Highlights/.keep
+      - Event Highlights/Term 2.md
+      - Event Highlights/Term 1.md
       - Our Achievements/.keep
       - Our Achievements/Student Achievements 2021.md
       - Our Achievements/Student Achievements 2020.md
