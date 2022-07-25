@@ -130,3 +130,107 @@ The first day saw a series of informative JC Curriculum Talk and a Dialogue with
 ![](/images/2022-T1-Events-JC1Orientation_01.jpeg)
 
 The subsequent days of Orientation shed light on the robust College Spirit and vibrant student experiences here in TMJC. Dynamic House walk-in dances that the OGLs had prepared for months to fervently receive our JC1s sparked off the Day 2 activities. A series of icebreakers and bonding games were curated to pave the way for new friendships. In addition, the OGLs took on the roles as College Tour Ambassadors and enthusiastically introduced our College venues and facilities to the JC1s.
+
+![](/images/2022-T1-Events-JC1Orientation_02.jpeg)
+
+On Day 3, the adventure continued as the JC1s partook in an exciting Scavenger Hunt experience which taught the JC1s the significance of our College Anthem. In addition, the JC1s were given the opportunity to warm up and dance as they learnt the 2022 College Mass Dance choreographed to the song, “We’re All In This Together”. This song was specially selected to induct the JC1s into our TMJC family and reinforce the understanding that we will “Be Better Together, United as One”.
+
+![](/images/2022-T1-Events-JC1Orientation_03.jpeg)
+
+On Day 4, the OGLs facilitated fun and enriching Internal Games that taught our OGMs the importance of our College values. The JC1s experienced the climax of Orientation as they watched the myriad of live Finale House and CCA performances that were uniquely designed to inspire the JC1s with our exuberant College Spirit. The OGLs also continued to model the way by encouraging their juniors to innovate and upcycle used bottles and cans with environmental sustainability as their motivation.
+
+![](/images/2022-T1-Events-JC1Orientation_04.jpeg)
+
+Day 5 brought the Orientation adventure to an exhilarating end as the JC2 CCA Leaders’ inspired our juniors with the iconic CCA Leaders’ Walk-in and Oath Taking Ceremony. The day ended with a meaningful JC1 CCA Recruitment Exercise and CCA Booth Exhibition where our Performing Arts, Sports and Games, and Clubs and Societies CCA Leaders shared with their juniors about their heartfelt CCA life in TMJC, and the unique experiences their CCA can offer, so as to help our JC1s to make an informed decision.
+
+![](/images/2022-T1-Events-JC1Orientation_05.jpeg)
+
+All in all, our JC1s enjoyed Orientation, grew in character, and became a part of the TMJC Family. Our JC2 OGLs also rose to the challenge of inducting the JC1s in an innovative way amidst the challenging considerations to keep the College family safe.  
+  
+Welcome to TMJC once again, JC1s!
+
+### Chinese New Year Celebrations with our International Scholars
+  
+On 31 January 2022, as part of our TMJC CNY Celebrations, our 24 JC2 International Scholars met our Principal, Ms Pamela Yoong, to exchange well wishes for the Lunar New Year. During the session, Ms Yoong shared words of blessings with them on behalf of the College. In return, our scholars shared hopes for the College in line with the positive qualities of the Tiger.  
+  
+This year, our Scholars were unable to return to their home countries to celebrate the Lunar New Year with their families nor have their families visit them in Singapore. As such, this made this occasion meaningful and special for our Scholars as we celebrated with them as a TMJC family.  
+  
+The College wishes our Scholars a Happy Lunar New Year!
+
+![](/images/2022-T1-Events-CNYCelebrationsIntScholars_01.jpeg)
+
+### TMJC Chinese New Year Celebrations 2022
+
+As we enter the Lunar Year of the Tiger, our TMJC family celebrated the annual Chinese New Year joyously on 31 January. Despite the ongoing pandemic, our festive spirits were not dampened. 
+
+The celebration kicked off with a music performance by our very own Chinese Orchestra, building a joyful atmosphere. This was followed by the screening of two in-house productions:  “虎 and Huat is behind our Lunar New Year traditions” by the Citizenship Education Student Committee and “Our Lunar New Year traditions” by Talent Development students, revolving around the theme of celebrating the rich cultural traditions of the Lunar New Year, locally and in different Asian communities.
+
+![](/images/2022-T1-Events-CNYCelebrations_01_v2.jpeg)
+
+The second highlight of the celebration was the “Pawsome! Challenge”. Each JC 2 civics group came together to complete a series of meaningful activities related to the theme “Year of Courage and Strength”. Some of the interesting tasks included: each class taking a new year well-wishes video with their Civics Tutor, acting out their interpretation of the symbolic characteristics of tiger, as well as using red packets to piece together the Chinese character - 虎 (Tiger). The time spent together has indeed bonded the class!
+
+![](/images/2022-T1-Events-CNYCelebrations_02.jpeg)
+
+Our CCA groups, Guitar Ensemble, Choir, and Wushu also presented captivating video performances of celebratory music, songs, and martial arts, heightening the festive cheer. As part of Lunar New Year tradition, the student leaders presented mandarin oranges to our school leaders, tutors and staff to express gratitude and appreciation.  
+  
+Our teachers also participated in the Inter-department CNY Challenge in LT4 organised by our Staff Welfare Committee. Each department displayed their creativity to complete the tasks, which included Lantern Making and Spring Festival Couplet Making. The fun and laughter shared were truly memorable.
+
+![](/images/2022-T1-Events-CNYCelebrations_03.jpeg)
+
+The celebration ended on a high note, with our School Leaders pasting 4 Chinese characters “虎虎生威” (Forging ahead with the vigour and vitality of the tiger) on the large colourful decal “TMJC celebrates CNY 2022”, motivating TMJCians to embody courage and strength as they journey forward in the year ahead.
+
+![](/images/2022-T1-Events-CNYCelebrations_04.jpeg)
+
+### CCE Facilitation Skills Workshop for JC1 Teachers
+
+On 26 and 27 January 2022, TMJC conducted our very own in-house professional development workshop, which focuses on sharpening our teachers’ facilitation skills to create greater intellectual, affective, and experiential engagement for our students in CCE lessons. During the workshop, teachers examined how “Clarifying”, “Sensitising” and “Influencing” questions could be employed to facilitate the discussions on contemporary issues with students. Thereafter, teachers also had the opportunity to explore the use of the Context-Dimension Frame to promote dialogic teaching in the classroom, with the aim to engage our students in critical thinking and open discourse, and encourage active participation through the sharing of multiple perspectives.
+
+![](/images/2022-T1-Events-CCEFacilitationSkills_01.jpeg)
+
+JC1 Awards Ceremony
+-------------------
+
+On 26 January 2022, TMJC held our JC1 Awards Ceremony to recognise and celebrate the good work of students in their JC1 journey in 2021.  This year, the College introduced the Highest Distinction in Subject award to recognise students who have attained distinction and outstanding performance in the different academic subjects. Students who performed well in their JC1 assessments were presented with the TMJC Book Prize (Bronze) and they can continue to strive to achieve the Silver medal for exemplary performance in JC2 Assessments and the Gold medal for sterling results at the GCE A-Level Examinations. This series of awards serve to inspire our students to apply themselves consistently and to strive for personal bests in their academic journey in TMJC.
+
+![](/images/2022-T1-Events-JC1AwardsCeremony_01.jpeg)
+
+Our Guest-of-Honour, Mr Jonathan Lim, an alumnus of one of our parent colleges (Tampines JC), motivated the cohort with his opening address and presented the MOE Edusave Character Award as well as the TMJC Alumni Scholarship to deserving students.  
+  
+Congratulations to all our award recipients!
+
+![](/images/2022-T1-Events-JC1AwardsCeremony_02.jpeg)
+
+### TM Unite2
+![](/images/2022-T1-Events-TMUnite2_01.jpeg)
+
+On 21 January 2022, TM Unite2, a cohort Values in Action (VIA) programme for the JC2 students to unite together to serve and make a positive impact on our community was carried out. The programme also provided opportunities for some of the JC2 students to step forward to lead the cohort in this VIA event.  
+The theme for TM Unite2 this year was ‘Reduce, Reuse & Recycle for a Greener Future’. This is in alignment with the Singapore Green Plan where we hope that everyone can play a part to reduce carbon emissions, keep our environment clean, and make saving resources and energy a way of life in Singapore. Through a series of fun and engaging hands-on activities related to environmental issues, students were able to gain more experiential insights on  the 3Rs (Reduce, Reuse, and Recycle).  Our JC2 Civic Groups embarked on different reuse projects to transform by-products and waste materials, from items that are otherwise useless or unwanted, into functional products. These upcycled products will be given to the beneficiaries at AMKFSC Community Services. Through this programme, we hope to inspire all TMJC students to be young stewards for the environment.
+
+![](/images/2022-T1-Events-TMUnite2_02.jpeg)
+
+### Staff Professional Development (19 Jan)
+
+On 19 Jan 2022, TMJC teachers came together for the 1st Professional Development (PD) Time!  
+  
+To support the College’s 2022 TMJC Staff Professional Development (PD) Focus on “Understanding and Embracing Assessment Literacy”, the TMJC PD Toolkit was revisited. The Toolkit is made up of 3 components - self diagnosis tool, feedback tool and recommended PD Activities for staff.  
+  
+Grow Me 2!, a four-steps cycle was also introduced to help the staff familarise and internalise the use of the PD Toolkit. Our College’s Instructional Mentors facilitated the session and shared more about how we can infuse mentoring language during our peer conversations as part of our  Grow Me 2! Cycle.  
+  
+The staff is excited to start their Grow Me 2! Cycle and we look forward to learning from one another in TMJC!
+
+![](/images/2022-T1-Events-StaffPD_01.jpeg)
+
+### ideaSLAM! Virtual Hackathon
+  
+In December 2021, a team of five students took part in the ideaSLAM! Virtual Hackathon. ideaSLAM! is Singapore’s largest Pre-University idea-pitching hackathon that is open to all Junior Colleges, MI, Polytechnics, and ITEs, with the aim of fostering a strong and cohesive entrepreneurial scene amongst tertiary schools in Singapore.  
+Despite this competition being our students’ first Hackathon experience, we are pleased to share that **out of 49 teams**, our students emerged **4th**. The judges were impressed by the effort, creativity, and enthusiasm of our TMJC students.  
+  
+The team comprises:
+
+*   PAULYNE SANTOS ANTHONY, 21S203 (Leader)
+*   SHAYMUS CHAN JANG REN, 21S201
+*   KENT KARSTEN PANGESTU, 21S203
+*   NG YEE SUNG, 21S203
+*   DOMINIC LEE YU HONG, 21S301
+
+Well done, and congratulations to our TMJC Team!
