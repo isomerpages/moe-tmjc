@@ -291,3 +291,11 @@ Chua Cheng Yung, Ryan Patrick (20S308), Chan Yi Xuan (20S301) and Ng Yan Jie Max
   
 **Recurve Womens Team category: Silver** <br>
 Hadhinah Bte Mohamed Hanes (20S204), Chan Wei Ning (20S202) and Marianne Nadine Baeza Marasigan (20S308)
+
+**Compound Womens Team category:Gold** <br>
+Cwen Tan (20S303), Nichole Yang Xiu Li (20S301) and Joy Chang Kit Ying (20S209)  
+  
+**Compound Womens Team category: Silver** <br>
+Kaamilah Asha Menon (20S302), Lee Zhi Qing (20S302) and Ng Yan Hui (20S210)
+
+![](/images/2021-T4-Events-NationalInterSchoolArcheryChamp.jpeg)
