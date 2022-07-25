@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Event Highlights/Term 1.md
       - Event Highlights/Term 2.md
       - Event Highlights/.keep
       - Our Achievements/.keep
