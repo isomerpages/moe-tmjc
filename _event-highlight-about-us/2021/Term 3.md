@@ -364,3 +364,117 @@ Darius Toh Zheng Ting (20S207)  <br>
 Joshua Leong Zi Xi (20S301)  
   
 Well done!
+
+![](/images/2021-T3-Events-IMMC_01.jpeg)
+
+### Healthcare Scholarships 2021
+
+We are pleased to share that a total of six TMJC students and alumni have been awarded the Healthcare Scholarships this year.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ob57{background-color:#F3F3F3;color:#222;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf">S/N</th>
+    <th class="tg-l2bf">Name</th>
+    <th class="tg-l2bf">Scholarship Scheme</th>
+    <th class="tg-l2bf">Award Type</th>
+    <th class="tg-l2bf">Discipline</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ob57">1</td>
+    <td class="tg-ob57">Teo Jia Yu</td>
+    <td class="tg-ob57">HMA</td>
+    <td class="tg-ob57">Mid Term</td>
+    <td class="tg-ob57">Medical Social Work</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">2</td>
+    <td class="tg-tsok">Andrina Seek</td>
+    <td class="tg-tsok">HMA</td>
+    <td class="tg-tsok">Full Term</td>
+    <td class="tg-tsok">Nursing</td>
+  </tr>
+  <tr>
+    <td class="tg-ob57">3</td>
+    <td class="tg-ob57">Aw Cher Leong</td>
+    <td class="tg-ob57">CNS</td>
+    <td class="tg-ob57">Full Term</td>
+    <td class="tg-ob57">Nursing</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">4</td>
+    <td class="tg-tsok">Nur Haziqah D/O Salimuddeen Ahamed</td>
+    <td class="tg-tsok">CCS</td>
+    <td class="tg-tsok">Full Term</td>
+    <td class="tg-tsok">Occupational Therapy</td>
+  </tr>
+  <tr>
+    <td class="tg-ob57">5</td>
+    <td class="tg-ob57">Jessica Chua Ern Ting</td>
+    <td class="tg-ob57">HMA</td>
+    <td class="tg-ob57">Full Term</td>
+    <td class="tg-ob57">Occupational Therapy</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">6</td>
+    <td class="tg-tsok">Tan Yi Hui, Valerie</td>
+    <td class="tg-tsok">CCS</td>
+    <td class="tg-tsok">Mid Term</td>
+    <td class="tg-tsok">Social Work</td>
+  </tr>
+</tbody>
+</table>
+
+The awardees have been recognised in a Healthcare Scholarships Award Ceremony 2021 - Care to Make a Difference. The Award Ceremony was held virtually this year, on 28 July 2021, in the presence of Health Minister Mr Ong Ye Kung as well as the senior management members from the Ministry of Health.  
+  
+Our heartiest congratulations to these students! We wish you all the best as you embark on a fulfilling career in nursing or allied health and play a part in shaping the future of Singapore’s healthcare.
+
+![](/images/2021-T3-Events-HealthcareScholarships_01.jpeg)
+
+### Racial Harmony Day Commemoration 2021  
+  
+This year's Racial Harmony Day (RHD) Commemoration commenced on 21 July with the theme 'Singapore's Multiculturalism at a Crossroads'. The 3-part commemoration sought to help students appreciate Singapore’s fragile racial harmony on a deeper level through being aware of milestones in race relations and recent developments that have threatened to derail it.  
+  
+Part 1 was a RHD-themed TikTok Competition held in collaboration with the Modern Dance Society that enthused students in celebrating Singapore’s racial harmony through dance, a cultural cornerstone.  
+  
+Part 2 consisted of a virtual experiential gallery tour that was broadcasted on 21 and 22 July during morning assembly. The Citizenship Education Committee collaborated with The Red Marker to create an immersive 3D virtual tour that charted Singapore’s arduous journey towards fostering a multicultural identity.  
+  
+Part 3 comprised a call-to-action during the follow-up CCE lesson, where students reflected on their implicit racial bias as a crucial first step towards combating racism. They also learnt how to talk about race in a thoughtful and sensitive manner, a matter of vital importance in the age of social media where tensions are easily inflamed.  
+  
+Through these activities, we hope that students will develop a renewed sense of purpose to protect Singapore’s multicultural harmony.
+
+![](/images/2021-T3-Events-RacialHarmonyDay_01.jpeg)
+
+### National Olympiad in Informatics 2021
+
+On 20th March 2021, two of our JC1 students, Le Tu Quoc Dat and Nguyen Anh Duc from 21S101, participated in the Singapore National Olympiad in Informatics (NOI), organised by National University of Singapore, School of Computing.  
+  
+NOI is a competition modelled after the International Olympiad in Informatics, the ultimate international competition in computing. With the aim to equip students with knowledge beyond that of a mere IT application user, in line with our national goal of creating an IT-savvy nation, NOI emphasises creativity in problem solving on the one hand, and programming skill and expertise on the other.  
+  
+We are pleased to share that Le Tu Quoc Dat (21S101) has been awarded the Silver award for this competition.  
+  
+Well done, students!  
+  
+National Olympiad in Informatics 2021
+
+![](/images/2021-T3-Events-NationalOlympiad_01.jpeg)
+
+### Parents Engagement Webinar - Raising a Resilient Teen
+
+On the evening of 16th July 2021, the College organised a Parents Engagement Webinar on the topic of “Raising a Resilient Teen”. The session aimed to provide parents of our students with tips on how to help their child grow from the unique challenges presented at the JC level and to build resilience.  
+  
+For the keynote address, our College invited Ms. Wendy Chua, a psychologist, founder, and managing director of WAND INSPIRATION, and a mother of four children, to share with us her expertise and experience in working with adolescents. Together with Ms. Chua, Mdm Aslindah, Head of TMJC’s English Department and a mother of two teenage sons, and Ms. Naseemah Khan, an alumnus of TMJC, were the panelists for the forum panel discussion,  where they shared their unique perspectives on how parents can support their children in developing a growth mindset and how to keep communication channels open.  
+  
+We thank all parents who joined us for a meaningful evening. The College looks forward to forging stronger partnerships with parents in our collective efforts towards developing our students holistically.
