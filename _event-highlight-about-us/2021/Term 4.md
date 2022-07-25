@@ -83,3 +83,177 @@ The next segment involved a virtual Farewell Assembly with videos of well wish
 Mementos which included a Farewell Booklet and a limited edition TMJC caricature key chains were also specially prepared for the cohort. On top of that, Student Leaders also received a charging cable kit in appreciation of their service and contribution.
 
 ![](/images/2021-T4-Events-JC2AwardCeremony_03.jpeg)
+
+We are glad to have made it through the past two years together with the JC2 students, particularly in facing the uncertainties and challenges of Covid-19, and we are proud that our students have emerged stronger and have become more resilient.  
+  
+Indeed, as our College Anthem goes,  
+_“With courage and resilience, with honour we’ll succeed…”  
+_The A-Level examinations are only a few weeks away.  We hope that our students will do their utmost, give their best and finish this journey well.Wishing our JC2 students all the best in their A-Levels!  
+  
+  
+
+### JC1 Higher Education and Careers Fest
+  
+In this year’s TMJC JC1 Higher Education & Career Fest, on 8 October, we are very fortunate to have speakers from a range of vocations to share on their work experiences and their passion in their vocation. Some of these speakers are members of the Rotary Club of Raffles City, an organisation consisting of business, professional and community leaders who are dedicated to providing service to others and advancing world understanding, goodwill and peace. We also have speakers who are part of our alumni and speakers who are industry professionals from various fields. The students took this opportunity to ask questions and engage with the speakers as they got a taste of what it is like to work in various industries.  
+  
+We hope that through this event, the students are able to better understand the current trends in the job landscape, especially as the local economy adjusts to the new normal, as well as the future challenges they will face in navigating the complex world of work. Equipped with this knowledge, we hope that the students are able to make informed decisions about their future higher education and career decisions as they progress beyond their A-Levels.
+
+![](/images/2021-T4-Events-JC1CareerFest_01.jpeg)
+
+### JC1 SG Perspectives - Ministry of Foreign Affairs Virtual Engagement Session
+
+On 7 October, JC1 students had the unique opportunity to engage Singapore’s Non-Resident Ambassador to the African Union and Ethiopia, His Excellency Mr A Selverajah. The Ambassador’s virtual engagement session was part of the ‘SG Perspectives’ Programme which seeks to broaden students’ perspectives of Singapore’s foreign policy and how it affects them.  
+  
+Through Ambassador Selverajah’s sharing, students were sensitised to the key principles of Singapore’s foreign policy and her persistent vulnerabilities as a small country. Students also learnt about how foreign policy impacts their lives. Finally, they engaged him in dialogue on contemporary issues that impact Singapore—such as the recently-passed Foreign Interference (Countermeasures) Act, US-China tensions and the US withdrawal from Afghanistan.  
+  
+The College would like to thank Ambassador A Selverajah for this most enriching session. The College would also like to thank the Ministry of Foreign Affairs and the Ministry of Education (Character & Citizenship Education Branch) for co-organising this dialogue for the benefit of our students.
+
+![](/images/2021-T4-Events-SGPerspectivesSession_01.jpeg)
+### National Youth Achievement Award (Gold)
+The National Youth Achievement Award is one of the premier youth development programmes in Singapore which aims to develop personal qualities of self-reliance, perseverance and a sense of responsibility to self, to society and to the nation. To achieve the Gold Award, students have to fulfil a series of requirements in different areas such as Community Leadership Initiative.  
+  
+We are pleased to share that four of our JC2 students have attained the National Youth Achievement Award (Gold) this year. They are:
+
+* REN YUN TING, 20S101
+
+* CHERYL TAN WEI XUAN, 20S201
+
+* HO EN YI, 20S302
+
+* DERICK TAY WEI XIAN, 20S412  
+  
+All four students have taken the initiative to step up and fulfil all requirements despite the challenges that Covid-19 posed. Whilst one student advocated environmental sustainability, the remaining three students organised a virtual learning journey to bring children to various attractions around Singapore as part of the requirement.  
+  
+Congratulations to all awardees! We are proud of your achievement!
+
+![](/images/2021-T4-Events-NationalYouthAchievement_01.jpeg)
+
+### Virtual Teaching Scholarship Presentation Ceremony
+
+Every year, MOE awards the Teaching Scholarship and Award to candidates who possess good leadership qualities, a deep passion for teaching, and a strong desire to contribute to the Education Service. This year, MOE held the TSPC in virtual format for the 2020 and 2021 recipients on the 28th of September.
+
+![](/images/2021-T4-Events-VirtualTeachingScholarship_01.jpeg)
+
+We are proud to share that 13 of our former students have been awarded the Teaching Scholarship/Award in 2020/2021.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4ufn">SN</th>
+    <th class="tg-4ufn">Name</th>
+    <th class="tg-4ufn">CG</th>
+    <th class="tg-4ufn">Scholarship/Award</th>
+    <th class="tg-4ufn">Year of Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tsok">1</td>
+    <td class="tg-lygy">Lee Wen Han</td>
+    <td class="tg-lygy">MJC14S103</td>
+    <td class="tg-lygy">Teaching Scholarship (Local)</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">2</td>
+    <td class="tg-lygy">Chua Wei Jian</td>
+    <td class="tg-lygy">MJC16S307</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">3</td>
+    <td class="tg-lygy">Colin Leong Tze Yeen*</td>
+    <td class="tg-lygy">TPJC16A01</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">4</td>
+    <td class="tg-lygy">Fadhli Rusydi Bin Fadzil</td>
+    <td class="tg-lygy">TPJC16A04</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">5</td>
+    <td class="tg-lygy">Hana Syazwani Binte Sulaiman*</td>
+    <td class="tg-lygy">MJC18A301</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">6</td>
+    <td class="tg-lygy">Natalie Goh Chang Xiu*</td>
+    <td class="tg-lygy">TPJC15A06</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">7</td>
+    <td class="tg-lygy">Nur Amirah Binte Roslee</td>
+    <td class="tg-lygy">MJC18A301</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">8</td>
+    <td class="tg-lygy">Nyam Hsu Tse Sarah</td>
+    <td class="tg-lygy">MJC18S306</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2020</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">9</td>
+    <td class="tg-lygy">Chua Yee Khai</td>
+    <td class="tg-lygy">MJC17S102</td>
+    <td class="tg-lygy">Teaching Scholarship (Local)</td>
+    <td class="tg-lygy">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">10</td>
+    <td class="tg-lygy">Avery Dahril Sateria</td>
+    <td class="tg-lygy">TPJC15S24</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">11</td>
+    <td class="tg-lygy">Huang Yanmou</td>
+    <td class="tg-lygy">MJC17S205</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">12</td>
+    <td class="tg-lygy">Ong Xian En, Joel</td>
+    <td class="tg-lygy">MJC17S211</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2021</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">13</td>
+    <td class="tg-lygy">Tay Yong Khin</td>
+    <td class="tg-lygy">MJC17S210</td>
+    <td class="tg-lygy">Teaching Award</td>
+    <td class="tg-lygy">2021</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/2021-T4-Events-VirtualTeachingScholarship_02.jpeg)
+
+We wish them all the best in their studies and look forward to their contributions to the teaching fraternity!
+
+_Pictures courtesy of MOE._  
+_*Recipients were not able to attend the ceremony, hence their pictures were not available._
