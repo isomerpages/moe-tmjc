@@ -326,3 +326,5 @@ _Guitar Ensemble - Certificate of Accomplishment_  <br>
 _Dance - Certificate of Distinction_
   
 The Performing Arts groups would like to express our greatest appreciation to Ms Yoong, our school leaders, teachers, school attendants and our friends for supporting us throughout this SYF journey!_
+
+![](/images/2021-T3-Events-SYFPrizePresentation_01.jpeg)
