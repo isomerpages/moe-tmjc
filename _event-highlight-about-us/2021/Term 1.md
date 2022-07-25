@@ -47,3 +47,66 @@ The second segment were CG-based sessions that allowed parents the opportunity t
 Borrowing the African proverb, ‘it takes a village to raise a child’, the College thus looks forward to a strong collaboration with our students’ parents for their holistic development.
 
 ### TM Connects 2021
+
+![](/images/2021-T1-Events-TMConnects_01.jpeg)
+
+TM Connects is a community awareness event organised by the TMJC Values-In-Action Committee. The theme for TM Connects 2021 is “Opening Minds, Impacting Lives”.  
+  
+Through TM Connects, we hope students can gain awareness and have a better understanding of different community issues, explore areas of interest and choose the organisations that they would like to serve. Thereafter, we hope TMJC students can seek to bring about positive change to the community.  
+  
+We thank our partners who have shared enthusiastically with our students via a virtual platform during the session!  
+_Due to the current Covid-19 situation, TM Connects 2021 was carried out virtually on_ _5 March 2021 from 2.30pm to 5pm via Zoom._
+
+![](/images/2021-T1-Events-TMConnects_02.jpeg)
+![](/images/2021-T1-Events-TMConnects_03.jpeg)
+
+### NUS Project and Facilities Management Essay Prize
+  
+In December 2020, three of our students participated in the inaugural NUS PFM (Project and Facilities Management) Essay Prize 2020 – a competition organised by the Department of Building of the School of Design and Environment, National University of Singapore. We are pleased to share that Chew Zi Lim (20S212) was awarded Honourable Mention while Punnita Bumrungpanichtaworn (20S101) and Mai Nguyen Truc Linh (20S101) attained Certificates of Participation. Zi Lim was recognised in a prize ceremony at NUS University Town on 26 February 2021.  
+  
+We are proud of our students’ achievements!
+
+![](/images/2021-T1-Events-PFMEssayPrizeCeremony_01.jpeg)
+
+### JC1 Initiation Ceremony
+
+On 22 February 2021, the College held our annual JC1 Initiation Ceremony. This Ceremony is another TMJC tradition that the College has established despite being a young College. The ceremony is intended to symbolise the seniors welcoming the juniors and the journeying together of the JC1s and JC2s as they move ahead together as one TMJC student body.  
+
+  
+During the ceremony, that took place across various venues due to Safe Management Measures, CG Chairpersons and Peer Support Leaders from each JC2 class presented the College collar pins to their JC1 juniors, to welcome them to the TMJC family. The JC1s then proudly put on their College collar pins, to signify them embracing and being part of the TMJC family officially.
+
+![](/images/2021-T1-Events-JC1InitiationCeremony_01.jpeg)
+
+### Total Defence Day Commemoration 2021
+  
+TMJC commemorated Total Defence Day (TDD) from 17 to 24 February 2021 under the theme “Together, We Keep Singapore Stronger”. Introduced in 1984 to mark the day Singapore fell to Japanese troops in 1942, the annual TDD Commemoration exhorts every Singaporean to play their part to keep Singapore safe, secure and independent. Amid the COVID-19 pandemic, the significance of Total Defence becomes more pronounced. Social cohesion is imperative to successfully battle the virus. In light of this, during their Character & Citizenship Education lessons, students learnt about recent developments that undermined Singapore’s ability to overcome the pandemic. These include lax adherence to Safe Management Measures among some, the bystander effect and fake news regarding vaccines. They also learnt about the significant role they can play in fostering Psychological and Digital Defence in the community. The commemoration culminated in a Wall Art Display outside the General Office with students’ pledges as part of the design. We were honoured by Ms Ranjit Kaur, our Cluster Superintendent, who graced the occasion. The Wall Display functions as a daily visual reminder to all TMJC students on the importance of being ‘Stronger Together’ to combat COVID-19.
+
+![](/images/2021-T1-Events-TDD_01.jpeg)
+
+### Release of GCE A-Level Examination Results
+
+On 19th February 2021, our JC3s returned to college to receive their GCE A-Level Examinations results.  
+  
+With the current ongoing pandemic, our seniors cooperated well with the necessary Safe Management Measures in place to ensure a smooth collection process as we welcomed them warmly back to our campus.
+
+![](/images/2021-T1-Events-ALevelResults_01.jpeg)
+
+The decentralised collections at the various classrooms began with a sharing by Ms Jacqueline Tan (Subject Head, Education and Career Guidance) on the pathways post-JC education, and the various support the College is providing to support the students in their decision-making and application processes. Subsequently, our Principal, Ms Pamela Yoong, shared the achievements of the 2019-2020 Cohort via a live broadcast. With anticipations escalating, Civic Tutors then distributed the results to individual students.
+
+![](/images/2021-T1-Events-ALevelResults_02.jpeg)
+
+As they plan their next step, may we wish our JC3s a wonderful journey ahead filled with courage and resilience. Our heartiest congratulations to you for your stellar results. TMJC is very proud of you!
+
+![](/images/2021-T1-Events-ALevelResults_03.jpeg)
+
+### Tree Planting Ceremony 2021
+
+On 19th February 2021, TMJC held our 2nd Tree-Planting Ceremony. It represents a new beginning for the Class of 2020 as they graduate from College, whilst leaving fond memories deeply etched to the grounds of the College.  
+The Tree-Planting Ceremony is a tradition TMJC started in 2020, as it commemorates the shared experiences and achievements of each cohort of students.  
+
+  
+The tembusu tree which was chosen to be planted, is a large, evergreen tree that matures with stately beauty, and can provide shelter for all. It is highly robust and can grow in almost any type of soil, testifying to its resilience. Such attributes symbolise the values and character that the College hopes to imbue in TMJC students.  
+  
+This ceremony was led by the School Leaders, together with student representatives from the 2019-2020 Student Council:  Naseemah D/O Ahamed Ali Khan (19A302/ President), Vaishalika Jain (19A202/ Vice-President); Chantal Poh Cheng Hoon (19A201 / Vice President) and Sivalogamoorthy Shrikeesan (19S212/ Vice President).
+
+![](/images/2021-T1-Events-TreePlantingCeremony_01.jpeg)
