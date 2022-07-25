@@ -478,3 +478,5 @@ On the evening of 16th July 2021, the College organised a Parents Engagement Web
 For the keynote address, our College invited Ms. Wendy Chua, a psychologist, founder, and managing director of WAND INSPIRATION, and a mother of four children, to share with us her expertise and experience in working with adolescents. Together with Ms. Chua, Mdm Aslindah, Head of TMJC’s English Department and a mother of two teenage sons, and Ms. Naseemah Khan, an alumnus of TMJC, were the panelists for the forum panel discussion,  where they shared their unique perspectives on how parents can support their children in developing a growth mindset and how to keep communication channels open.  
   
 We thank all parents who joined us for a meaningful evening. The College looks forward to forging stronger partnerships with parents in our collective efforts towards developing our students holistically.
+
+![](/images/2021-T3-Events-PTERaisingAResilientTeen_01.jpeg)
