@@ -233,3 +233,35 @@ Tampines Meridian Junior College conducted our first ever E-Open House this year
 Since December 2020, parents and students have been able to ‘visit’ the College via our E-Open House website. Visitors are treated to many colourful snippets of College life in TMJC, through the eyes of our very own students. These comprises first-hand walkthroughs of the College grounds, our CCAs and programmes offered at TMJC.  
 A highlight was our Live Webinar held on 13 January, Wednesday. Our School Leaders introduced our College to participants, and engaged in an informative Q&A session. We thank all parents and students who joined us online for the Webinar, and thank you for your lively participation.   
 The format of the Open House this year has certainly been a novel way to experience the warmth and culture of TMJC. We look forward to welcoming our new batch of JC1s!
+
+![](/images/2021-T1-Events-E-OpenhouseLiveWebinar_01.jpeg)
+
+### DSA Induction Programme
+
+At TMJC, we believe in supporting our students in every way possible.   
+13 January marks the day we welcome our J1 students who have joined the College through the Direct Schools Admissions (DSA) pathway. Our School Leaders, Admissions In-Charge and Year Head met them and shared the Induction Programme that has been planned specially for them.  
+To give the students a head start to the instructional programme and build their academic foundation, they will be undergoing a curated series of lessons over the next couple of weeks before the rest of their peers join them.   
+Here’s wishing our 2021 DSA students all the best in their new journey ahead!
+
+![](/images/2021-T1-Events-DSA_01.jpeg)
+
+### Tampines Meridian Student Leaders’ Investiture
+
+The Tampines Meridian Student Leaders’ Investiture was held on our first day back in College on 11 January 2021. The Investiture marks the day our Tampines Meridian Student Council, CG Chairpersons, Peer Support Leaders, and CCA Exco members are recognised as the new student leaders of the College. This year, the theme chosen was ‘Spark’. It is chosen to remind our student leaders that they are the ‘sparks’ that have the spirit to push others through tough times, and ignite the fiery passion within the students in TMJC.  
+  
+During the event, our student leaders were presented with a student leaders’ badge as a symbolic token of recognition of their undertaking. The design of the badge in the form of a compass serves to remind our student leaders that they are to serve as a guide to their peers. The event drew to a close with a badge-pinning ceremony and the recitation of the Student Leaders’ Oath.
+
+![](/images/2021-T1-Events-StudentsLeadersInvest_01.jpeg)
+
+### First Day of School at Tampines Meridian Junior College 2021  
+
+On 11 January 2021, TMJC welcomed our students back to College with a series of “Back-to-School” activities lined up for them to reconnect with their friends and teachers.   
+For the first time, the College used the Broadcast System to broadcast the National Anthem and the College Anthem to students in their respective CG classrooms for the Morning Assembly. The day then began with the Student Leaders’ Investiture which was streamed live to the cohort in their respective classrooms. As a symbolic gesture of appreciation and care, and a treasured tradition of TMJC, Civics Tutors presented lollipops to their students and students presented apples to their teachers in return.
+
+![](/images/2021-T1-Events-1stDayofSchool_01.jpeg)
+
+The “Back-to-School” programme includes a Dialogue Session with our School Leaders, a communal breakfast provided by the College for the students to bond with their Civics Tutors and fellow classmates, and five different games such as Taboo, Football, Captain’s Ball, Basketball and Orientation-style games where staff and students had friendly matches against each other. It was indeed refreshing to see staff and students playing hard, and all showed courage and resilience!
+
+![](/images/2021-T1-Events-1stDayofSchool_02_v2.jpeg)
+
+Here’s to a great 2021 ahead, TMJC! Let’s “Be Better, Together”.
