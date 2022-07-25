@@ -144,3 +144,40 @@ The second part was held on the 5th May 2022 where the College provided a Hari R
 The College would like to take this opportunity to wish all Muslims ‘Selamat Hari Raya!’.
 
 ![](/images/2022-T2-Events-HariRayaCelebrations_03.jpeg)
+
+MTL Fortnight 2022- Embracing our Language and Culture
+------------------------------------------------------
+
+With the objective to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures, the MTL Department organized the Mother Tongue Fortnight 2022 for our students.Three student emcees kick-started our event on 18 April, presenting to the college the Fortnight’s programme highlights in 3 different Mother Tongue Languages. With “A Quote A Day”, our student presenters also shared a Chinese, Malay, or Tamil proverb with their insights during morning assembly, to motivate their peers in their learning.  
+  
+A whole array of common enrichment activities was carried out by the 3 language units to ignite the students’ interest in mother tongue languages. This included: the broadcasting of ethnic songs before morning assemblies, online quizzes on language and cultural knowledge, and students’ presentation of cultural topics during lesson time.  
+The Malay unit organized the Translation Competition for the H2 MLL students to sharpen their language skills. The H2 MLL students were also facilitators for the J1 H1 Malay Cultural Trail, actively engaging the J1 students to take part in an exciting time of completing station games. Each station comprised of interactive games that revolved around Malay belief systems, traditional folklores, delicious cuisines, and nostalgic games. The trail activities culminated in the finale when members in each group had to dress up one representative by tying the traditional _kain samping_. The group with the most creative design would emerge as the winner.  
+Presenting Tamil as a language close to the students’ hearts, was the main theme of the Tamil unit’s enrichment activities. The H2 TLL students embarked on a quest to create short videos to document the history of the Tamil Language and Culture in Singapore. They attended a guided tour around the Indian Heritage Centre with a docent who explained interesting artifacts on Tamil Language, Literature, and Culture.  The students would choose one artifact and create a video to share their learning takeaways. The H2 TLL, H1Tamil and Higher Tamil students participated in an Indian Traditional Folk Music Workshop to learn about various traditional music instruments. One of the highlights was for each student to learn to play the Parai, a drum used in traditional folk music. Students had an exhilarating time drumming to the beats of folk music and appreciating the cultural aspects of the music.  
+  
+Music and movies were the main highlights of our Chinese unit’s enrichment activities. We have invited renowned local movie directors Royston Tan and Jun Chong to share with our J1 H1 Chinese and Higher Chinese students meaningful local short films and movies that focused on cultural themes. Local singers Rao Zi Jie and Cherelle sang their hearts out with a repertoire of Chinese pop songs, bringing joy to our student audience. The H2 CLL students hosted the Chinese Song Dedication in Multi-Purpose Hall, providing a platform for students to dedicate songs to their teachers and peers. Last but not least, the J1 and J2 H2CLL students also took part in the Modern Poetry Appreciation and Translation Workshop, conducted by local poet Chow Teck Seng. Under the guidance of Poet Chow, the students had an enriching session of analysing and translating poems.  
+  
+All participating students were also gifted a highlighter with a proverb in their respective Mother Tongue, to encourage them to embrace their mother tongue language and culture. This encapsulated the essence of the Mother Tongue Fortnight 2022: “To learn a language is to have one more window from which to look at the world”.
+
+![](/images/2022-T2-Events-MotherTongueFortnight_01.jpeg)
+
+### Mathematics Awareness Fortnight (MAF)
+
+TMJC’s Mathematics Awareness Fortnight (MAF) was held from 11 April – 22 April 2022. The MAF encourages students to develop a spirit of inquiry beyond the curriculum, discover and appreciate the beauty of Mathematics in different areas of our lives, and experience the joy of learning Mathematics.  
+
+  
+The theme for this year is “TMJC Mathematics Cup 2022”. Student volunteers were empowered and mentored by Mathematics Subject Tutors to come up with interesting and fun activities for their peers.  
+  
+Similar to last year, the MAF was conducted via Google Classroom and students participated, as a class, in a plethora of 5 challenges ranging from challenging Math problems to fun puzzles such as The Soccer Globe, Soccer-doku, and The Lost Trophy.  
+  
+The highlight of the MAF was the MAF Electives, conducted during one of the Math lessons by TMJC Math teachers. During the MAF Electives, students were exposed to topics and applications of Math outside the curriculum such as the Math of COVID and Probability in Betting as well as Drawing with Graphing Calculator.
+
+![](/images/2022-T2-Events-MAF_01.jpeg)
+
+### TMJC Alumni Exco Meeting With School Leaders
+  
+On 9th April 2022, the TMJC Alumni Exco had a meeting with our School Leaders. With the easing of the Covid-19 measures, we were able to host a face-to-face meeting on campus.   
+For TMJC, it is important for us to build a strong alumni community to support the holistic development of our TMJCians. This first face-to-face meeting for the year serves to chart the work from the previous year, set directions for the different activities, and share the work plans for various subcommittees. During the meeting, the Partnerships Committee shared about our TMJC OnePlus Alumni Model, which connects the current TMJC Alumni with Alumni of our Parent Colleges’ (TPJC and MJC).  
+  
+After the meeting, our TMJC Alumni Exco also had the opportunity to observe and participate in the Passing of Torch Ceremony of our Tampines Meridian Student Council during their Student Leaders Training.
+
+![](/images/2022-T2-Events-TMJCAlumniExcoMeeting_01.jpeg)
