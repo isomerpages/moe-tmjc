@@ -500,3 +500,20 @@ Ha Thi Mai Huong, Samantha (20A101)  <br>
 Jeanette Goh (20A202)  <br>
 Isabel Wong (20S211)  <br>
 Prior to the two-day conference, the students had to do research and prepare opening speeches and position papers on issues impacting their assigned countries. At the end of the conference, one of our students, Lim Liang Ying (20A301), was awarded the Certificate of Commendation – Outstanding Delegate, for her efforts. Congratulations to Liang Ying and the other participants for a job well done!
+
+![](/images/2021-T3-Events-13IMUNC_01.jpeg)
+
+### History Sejarah Inquisition and ASEAN Plus Summit 2021
+
+Earlier this year, four of our Humanities students participated in the Sejarah Inquisition, a national History competition organised by the National University of Singapore. The College is proud that they have achieved a commendable 2nd Runner Up!  
+  
+They are:  
+Kieran Chan Yi Jun (20S413)  
+Tan Yiting (20S413)  
+Ng Shi Hui (20S413)  
+Thian Ning, Eunice (20S413)  
+  
+In addition, in June, 8 students from the Talent Development Programme and History participated in the ASEAN Plus Summit hosted by Dunman High School.  We would like to congratulate, in particular, Mohammad Danial Lutfi Bin Mohammad Suhaini (20A201) for achieving an Honourable Mention.  
+  
+TMJC’s Delegates:  
+Tham Jia Yi (20S501), Ho Chee Choun (20S501), Mohammad Danial Lutfi Bin Mohammad Suhaini (20A201), Nugraprana Laksmana (20S501), Pearlene Chua Pei Ling (20A302), Alison Tay Xian Ling (20A101), Lim Ka Yin Nicole (20A101), Derick Tay Wei Xian (20S412)
