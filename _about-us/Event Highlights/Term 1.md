@@ -51,3 +51,82 @@ Amid Singapore’s transition towards COVID resilience, the significance of the 
 On 28 February 2022, the College held our annual Badge Pinning Ceremony. The ceremony symbolises the journey taken together by the JC1s and JC2s as they forge ahead as one TMJC student body.  
   
 During the ceremony, CG Chairpersons and Peer Support Leaders from each JC2 class presented the College collar pins to their JC1 juniors to welcome them to the TMJC family. The JC2 seniors were also given the opportunity to share words of advice on what is truly essential in creating a memorable and meaningful 2 years in TMJC. Having walked through the journey themselves, the JC2 seniors’ words of advice left a great impact on their juniors. The JC1s then proudly put on their College collar pins together, signifying the official start of their wonderful and exciting journey ahead in TMJC.
+
+![](/images/2022-T1-Events-BadgePinningCeremony_01.jpeg)
+
+### 2021 A-Level Results Celebratory Treat
+
+In TMJC, we believe in celebrating the efforts and hard work of our students in striving for excellence.  
+  
+On 25 February 2022, our staff and students were treated to doughnuts, pastries, and ice cream as we celebrate the hard work of the Class of 2021 and their stellar results at the 2021 A-Level Examinations.  
+  
+May this motivate and inspire our current students to do well too in all their endeavours!
+
+![](/images/2022-T1-Events-ALevelCelebratoryTreat_01.jpeg)
+
+### Tembusu Tree-Planting Ceremony 2022
+  
+On 22nd February 2022, TMJC held our 3rd Tree-Planting Ceremony. It represents a new beginning for the Class of 2021 as they graduate from College, whilst leaving fond memories deeply etched to the grounds of the College.  
+This ceremony was led by Our School Leaders, Year Heads, together with student representatives from the 3rd Tampines Meridian Student Council:  Ms Joanne Lin Min Hui (20S303 / President) and Mr Jves Tan (20S207 / Vice-President).  
+
+  
+The Tembusu Tree-Planting Ceremony is a tradition TMJC started in 2020, as it commemorates the shared experiences and achievements of each cohort of students. The Tembusu Tree is chosen as it is a large, evergreen tree that matures with stately beauty, and can provide shelter for all. It is highly robust and can grow in almost any type of soil, testifying to its resilience. Such attributes symbolise the values and character that the College hopes to imbue in TMJC students.
+
+![](/images/2022-T1-Events-TembusuTreePlanting_01.jpeg)
+
+### Release of 2021 GCE A-Level Examination Results
+
+
+On 22nd February 2022, our Class of 2021 returned to college to receive their GCE A-Level Examinations results.  
+  
+Through a live broadcast, our Principal, Ms Pamela Yoong, shared the achievements of the Class of 2021. With anticipations escalating, Civic Tutors then distributed the results to individual students.  
+  
+As they plan their next step, the College is here to support them in their journey ahead.  
+  
+Our heartiest congratulations to the Class of 2021 for your stellar results. As we celebrate together, we look out for one another!  
+TMJC is very proud of you!
+
+![](/images/2022-T1-Events-A-LevelResults_01.jpeg)
+
+### Staff Professional Development (PD) 2
+
+On the morning of 16 Feb 2022, our teachers came together for Staff PD Time 2.  
+  
+The focus for that morning was on Formative Assessments and comprised of 2 parts:  
+  
+Part 1 was a Zoom broadcast where our Instructional Mentors shared about how teachers can use the Analysis of Student Work tool in understanding where our students are and how we can move them to the next level.  
+  
+During Part 2, our Teachers-Leaders, together with their 2021 Professional Learning Team (PLT) members shared their team's progress and key learning takeaways at the various breakout venues.  
+  
+There were a total of 5 breakout sessions for our TMJC teachers to choose from, namely, Growth Mindset, Differentiated Instructions, HOTWARE, Peer feedback, and iGlow.  
+  
+Our teachers were inspired by the passionate sharing and are ready to try some of the strategies in their own classrooms!
+
+![](/images/2022-T1-Events-StaffPDSession_01.jpeg)
+
+### Gifts from our Hearts
+
+On 15 Feb 2022, 29 Festive Hampers were presented to the seniors at COMNET@476A Pasir Ris. These hampers were gifts from our TMJC Staff's heart where each department came together to put together hampers filled with necessities for our seniors.  
+  
+Through this endeavour, the College hopes to share some festive joy and care by reaching out to the seniors in our Pasir Ris Community. ❤
+
+![](/images/2022-T1-Events-GiftsFromOurHearts_01.jpeg)
+
+### Appreciation to our Support Staff
+
+On 9 Feb 2022, together with our School leaders, the TMJC Staff Wellbeing Committee presented Ang Baos to our college Support Staff to thank them for supporting us in our college daily operations.  
+  
+The Ang Baos are voluntary contributions from our staff and we would like to thank them for their generosity in appreciating our hardworking OSOs, Contract Cleaners, Security Guards, and ICT personnel!  
+  
+Thank you, TMJC Support Staff!
+
+![](/images/2022-T1-Events-SupportStaffAppreciation_01.jpeg)
+
+### JC1 Orientation & CCA Recruitment 2022
+
+On the 7th of February 2022, TMJC kicked off our JC1 Orientation, Voyage, to receive our 5th batch of students. As our JC1s begin their JC journey, Voyage hopes to take them beyond their academic pursuits and bond them together, ready to embrace challenges as a team. The image of a ship setting off on a journey, aims to evoke excitement and build teamwork amongst the JC1s. In this journey, all staff and students will unite as a family to overcome all obstacles.  
+The first day saw a series of informative JC Curriculum Talk and a Dialogue with School Leaders and Academic Heads that allowed students the opportunity to get a better understanding of the academic demands and rigor of the various disciplines. Students also enthusiastically visited the subject booths to find out more about the different subjects offered in TMJC.
+
+![](/images/2022-T1-Events-JC1Orientation_01.jpeg)
+
+The subsequent days of Orientation shed light on the robust College Spirit and vibrant student experiences here in TMJC. Dynamic House walk-in dances that the OGLs had prepared for months to fervently receive our JC1s sparked off the Day 2 activities. A series of icebreakers and bonding games were curated to pave the way for new friendships. In addition, the OGLs took on the roles as College Tour Ambassadors and enthusiastically introduced our College venues and facilities to the JC1s.
