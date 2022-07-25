@@ -2,4 +2,5 @@ collections:
   event-highlight-about-us:
     output: true
     order:
+      - Term 1.md
       - Term 2.md
