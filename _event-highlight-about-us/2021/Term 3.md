@@ -525,3 +525,15 @@ Tham Jia Yi (20S501), Ho Chee Choun (20S501), Mohammad Danial Lutfi Bin Mohammad
 L.O.V.E.3 Week 2021, which stands for _Living Our Values Everyday, Everywhere, with Everyone_, took place this year from 12th July to 16th July. L.O.V.E.3 Week is a week dedicated to celebrating the values that we believe in as an individual and as a TMJC family. The objectives of L.O.V.E.3 Week are to inspire students to live out our College values and allow them to develop strong moral reasoning capabilities through the discussion of moral dilemmas.  
   
 The series of activities comprise of video interviews featuring members of the TMJC family and how they lived out our College values amidst the challenges, daily moral dilemma polls on instagram to allow TMJC students to take a vote on their course of action, and a CCE lesson featuring different moral dilemmas for both JC1 and JC2 students. In particular, the students were especially engaged in the CCE lesson, as they were introduced to different moral reasoning frameworks, took a poll on their course of action and engaged in tag-team debates with their peers. We were also encouraged by the active participation in the daily moral dilemma instagram polls, as TMJC students took a stance on the various issues polled. Through these activities, our students developed stronger self-awareness of the moral reasoning framework they tend to adopt and built empathy as they learnt to take on multiple perspectives. Most importantly, these discussions on moral dilemmas allowed our students to reflect on the ethical dimensions and implications of their choices, highlighting the importance of developing a strong moral compass.
+
+![](/images/2021-T3-Events-LOVE3Week_01.jpeg)
+
+### Student Leaders Investiture
+
+The Tampines Meridian Junior College Student Leaders’ Investiture for the Class of 2022 took place on 14 July 2021. This event recognised our newly elected JC1 student leaders which comprises the 4th Tampines Meridian Student Council, CCA leaders, CG Chairpersons and Peer Support Leaders. The event signified the official start to their term in office.  
+The theme of the Student Leaders’ Investiture was “Soaring Beyond” - a reminder that our student leaders should aspire to challenge themselves and step out of their comfort zones, strive to be better every day and be a positive influence to the people around them. Our student leaders are thus encouraged to pursue a spirit of excellence and embrace tribulations with tenacity in their leadership journey, soaring beyond their limits.  
+  
+The online ceremony began with an opening address by Ms Yoong, our Principal, followed by speeches from the 3rd Tampines Meridian Student Council President, Joanne Lin Min Hui, and the 4th Tampines Meridian Student Council President, El’yez Mu’arif. The Badge-pinning and Oath-taking ceremony followed thereafter, symbolising the start of our student leaders’ leadership journeys.  
+
+  
+We congratulate our incoming batch of student leaders and wish them a fruitful learning experience throughout their leadership journey in TMJC!
