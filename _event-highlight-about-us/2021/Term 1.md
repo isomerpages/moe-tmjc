@@ -160,3 +160,76 @@ This was an important event for the residents to come together to celebrate this
   
 On 8 February 2021, Kelly Tan Jing Ying (20S303) and Camille Chua Yu En (20S101) therefore represented the dancers in presenting the Certificate of Appreciation to our Principal, Ms Yoong. The dancers thanked Ms Yoong for her support and having provided them the opportunity to perform for this meaningful virtual celebration.   
 Good job, dancers, for your service to our community!
+
+![](/images/2021-T1-Events-CCAModernDance_01.jpeg)
+
+### JC1 Orientation & CCA Recruitment Exercise  
+
+On the 29th of January 2021, TMJC kicked off our Orientation, ARISE, to receive our 4th batch of students. The theme, “ARISE” was a call to action for our incoming JC1s to build upon the legacy of their seniors by upholding our College values of Integrity, Courage, Resilience and Compassion.  
+  
+The first day saw a series of informative Academic Subject Talks and a Dialogue with School Leaders and Academic Heads that allowed students the opportunity to get a better understanding of the academic demands and rigour of the various disciplines. Students were also enthusiastically brought around the campus by their Orientation Group Leaders (OGLs) to orientate them to the College layout and facilities.  
+  
+The subsequent days of Orientation were when the fun truly picked up. The TMJC Spirit caught on fast amongst the juniors. Day 2 started with the vibrant walk-in dances that the OGLs had rehearsed for months to perform as a warm welcome to the JC1s. The JC1s also had a chance to get up on their feet and learn the 2021 College Mass Dance choreographed to the song, “This Is Me”, which was carefully selected to empower the JC1s to be themselves and celebrate what is unique about every one of us - a reflection of the College culture we want to nurture.  
+  
+On Day 3, the adventures continued with games that provided bonding opportunities and gave them a taste of TMJC life.  It also featured cheers that were pre-recorded with the help of our alumni so as to keep our traditions alive across the generations of TMJC students.  
+  
+Day 4 brought the Orientation to an exciting end. Our JC1s were also able to watch the pre-recorded Finale performances by their talented OGLs. The OGLs continued to model the way by encouraging their juniors to innovate and upcycle used bottles through a Make-Your-Own-Instrument competition during this segment as well. The day ended with a colourful CCA Recruitment Exercise where our Performing Arts, Sports, and Games as well as Clubs and Societies Leaders shared with their juniors about CCA life in TMJC, and the unique experiences their CCA can offer, so as to help our JC1s to make an informed choice regarding their CCA.  
+  
+Our JC1s enjoyed the experience, grew in character, and became a part of the TMJC Family. Our JC2 OGLs also rose to the challenge of inducting the JC1s in an innovative way amidst the challenging considerations to keep the College family safe.  
+  
+Welcome to TMJC, once again, JC1s!
+
+![](/images/2021-T1-Events-JC1Orientation_01.jpeg)
+
+### TMJC “EXCEL FEST”
+From 20th Jan to 3rd Feb 2021, TMJC held its inaugural “EXCEL FEST” to celebrate our culture of staff innovation and collaboration.  
+  
+In line with safe management measures (SMM), the “Fest” was an example of blended learning in action.  
+  
+First, staff were given access to the new Cool Moves Online Gallery, which is a Google Site where the winning entries for the College’s “Cool Moves Teaching and Learning Innovation Awards” were curated. On the site, staff could access resources shared by the teams as well as a video presentation about the project.  
+  
+Next, staff signed up for panel discussions with winning teams so that they can pose questions and engage in dialogues with them to find out more about the nuts and bolts of implementation, etc. It was heartening to see that staff were engaged in these “Kopi Sessions” and asked many good questions!  
+Looking forward to the next TMJC EXCEL FEST where we can showcase even more of our colleagues’ innovations!
+
+### JC1 Awards Ceremony
+
+On 27 January 2021, TMJC held our JC1 Awards Ceremony to recognise and celebrate the achievements of our students in their JC1 journey in 2020.The ceremony began with our principal, Ms Yoong’s Opening Address, in which she highlighted the intent of two of the awards. The first was the TMJC Book Prize, which serves to recognise students who have consistently demonstrated stellar academic performances over the milestone assessments throughout their two years with the college. The second was the TMJC Alumni Scholarship, which is made possible only due to the generous donations of our parent colleges’ alumni.  
+  
+Mr Shawn Ng, our Guest-of-Honour, who is an alumnus of Meridian Junior College,  then took the stage to address his TMJC juniors. In his address, he encouraged his juniors to begin with the end in mind, foster meaningful friendships, and support each other, not to sweat the small stuff and enjoy the process.  
+  
+The ceremony then proceeded to present the following awards: the TMJC Book Prize (Bronze), the MOE Edusave Character Award, and the TMJC Alumni Scholarship.  
+  
+Our heartiest congratulations to all awardees!
+
+![](/images/2021-T1-Events-JC1AwardsCeremony_01.jpeg)
+
+### Staff Professional Development Day 1
+  
+The Staff Professional Development (PD) Day 1 is the first in a series of in-house professional development activities lined up for the year.
+
+The focus of PD Day 1 is to orientate the teachers regarding the use of the TMJC Professional Development Toolkit. After self-assessing their level of practice in the areas of “Learner”, “Learning” and “Environment”, teachers formed small groups to co-construct their professional development plans for the year, including peer observations and dialogues.
+
+The programme concluded with the launch of the TMJC’s first EXCEL Fest week, showcasing the winning projects from the College’s own Cool Moves awards which recognises purposeful innovation in teaching and learning. 
+
+### The National Young Leader Award
+
+![](/images/2021-T1-Events-NYLA_01.jpeg)
+
+The National Young Leader Award was launched by Halogen Foundation Singapore to recognise young leaders who have demonstrated passion and conviction in activities that make a positive impact in their communities.  
+  
+We are proud to announce that the following TMJC student leaders are recognised as being in the Top 50 for the National Young Leader Award 2020:  
+  
+Rashi Ketan Jobalia (20A202)   <br>
+Chantal Poh Cheng Hoon (19A201)  <br>
+Vaishalika Jain (19A202)  <br>
+  
+Our heartiest congratulations to our three student leaders. We are proud of you!
+
+### E-Open House
+
+Tampines Meridian Junior College conducted our first ever E-Open House this year!  
+
+  
+Since December 2020, parents and students have been able to ‘visit’ the College via our E-Open House website. Visitors are treated to many colourful snippets of College life in TMJC, through the eyes of our very own students. These comprises first-hand walkthroughs of the College grounds, our CCAs and programmes offered at TMJC.  
+A highlight was our Live Webinar held on 13 January, Wednesday. Our School Leaders introduced our College to participants, and engaged in an informative Q&A session. We thank all parents and students who joined us online for the Webinar, and thank you for your lively participation.   
+The format of the Open House this year has certainly been a novel way to experience the warmth and culture of TMJC. We look forward to welcoming our new batch of JC1s!
