@@ -537,3 +537,5 @@ The online ceremony began with an opening address by Ms Yoong, our Principal, fo
 
   
 We congratulate our incoming batch of student leaders and wish them a fruitful learning experience throughout their leadership journey in TMJC!
+
+![](/images/2021-T3-Events-StudentLeadersInvestiture_01.jpeg)
