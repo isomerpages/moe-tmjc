@@ -203,3 +203,61 @@ In the month of April, TMJC celebrates the gift of life and encourages each othe
 TMJC Healthy April 2022 began with the staff learning some easy but helpful stretching exercises with the exercise band during one of our Staff Meetings. It was a wonderful time of being together and engaging in a communal activity with great benefits to our body!  
   
 Fresh fruits in the colors of the Rainbow were also given to every colleague during that meeting. We are a firm believer that regular exercise must be paired with a healthy diet!
+
+![](/images/2022-T2-Events-HealthyApril_01.jpeg)
+
+### DRAMANEKA 2022
+
+DRAMANEKA 2022 is a pilot project by our JC2 Malay Language Elective Programme (MLEP) students to recreate scenes from drama texts offered by the H2 Malay Language and Literature syllabus so as to heighten their understanding of the texts. Through recreation of some important scenes in those selected dramas, students could explore the importance of characterization in presenting pertinent ideas to the audience.
+
+The two texts selected for this project are _Anjing Untuk Diplomat_ (_A Dog for the Diplomat_) by Hamed Ismail and _Terbelenggu_ (_Trapped_) by Amanah Mustafi.
+
+Culminated on 1 April 2022, students were given three weeks to prepare for the presentation which included sourcing appropriate costumes, props, and audio effects as well as memorising lines. Despite the short time, they took up the challenge and showed sheer dedication and good teamwork to ensure that everything ran smoothly. Without much experience in theater productions, the students displayed pure grit and courage to learn new skills and rise to the tasks assigned. Their portrayal of the important characters in both dramas is indeed praiseworthy.
+
+Hopefully, this project will continue for the years to come and become a useful platform for our MLEP students to nurture their love for Malay literature.
+
+![](/images/2022-T2-Events-MLEPDramaneka_01.jpeg)
+
+### Green Bean Soup Treat by Ms Yoong
+
+The March holidays came and went in a jiffy! Before we knew it, Term 2 was in full swing! To kick start this brand new term, Our Principal, Ms Yoong has kindly catered refreshing Green Bean Soup for all staff to enjoy on the 25th of March! The warm, yummilicious dessert was catered by our Muslim and Western canteen stalls.  
+  
+Thank you, Ms Yoong!
+
+![](/images/2022-T2-Events-GreenBeanSoupTreat_01.jpeg)
+
+### Australian Informatics Olympiad
+
+On 26 August 2021, two of our JC1 students (Le Tu Quoc Dat and Nguyen Anh Duc from 21S101) participated in the Australian Informatics Olympiad. We are pleased to share that Le Tu Quoc Dat was awarded the Silver Medal while Nguyen Anh Duc was awarded the Bronze Medal.  
+  
+The Australian Informatics Olympiad is an annual open computer programming competition which focuses on the students’ problem solving through their programming skills.  
+  
+Congratulations to all awardees! We are indeed proud of your achievements!
+
+![](/images/2022-T2-Events-AustralianInformaticsOlympiad_01.jpeg)
+
+Singapore Physics & Biology Olympiads
+-------------------------------------
+
+  
+In November 2021, 8 JC1 Physics and 14 JC1 Biology students represented the College at the Singapore Physics & Biology Olympiads respectively.  
+  
+Preparation for the competition required much independent learning as students had to internalise and apply concepts typically taught in JC2 via self-reading and consolidation sessions.  
+
+We are proud to share that one of our students was awarded a Bronze medal for the  Physics Olympiad while 6 students received a Certificate of Merit for the Biology  Olympiad. The winners are as follows:**  
+Physics**
+
+**Bronze medal**
+
+LE TE QUOC DAT 21S101
+
+**Biology** 
+
+**Merit award**
+
+1. NATHANIEL HUGO GRATIAN LIN 21S301
+2. WENG JE JED 21S301
+3. KOUNLASATTY MANIVONG 21S301
+4. JEROME TAM YU YANG 21S301
+5. YVONNE LIAW QIAN YU 21S308
+6. ZHAO PEISONG 21S302
