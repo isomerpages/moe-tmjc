@@ -257,3 +257,37 @@ We wish them all the best in their studies and look forward to their contributio
 
 _Pictures courtesy of MOE._  
 _*Recipients were not able to attend the ceremony, hence their pictures were not available._
+
+### JC1 Exam Motivation Pack
+
+As our JC1s begin their Year-End Examinations next week, our TMJC Parents Support Group (PSG), together with our Peer Support Leaders (PSL) showed their encouragement by sponsoring and distributing the Exam Motivation Pack to the JC1 cohort.  
+  
+In the spirit to motivate and spur our students to do their best, each pack consists of a cookie, a drink, a motivational bookmark, together with a personalised note from their respective CG’s PSL.  
+  
+The PSG and PSL wish all the best to our JC1 students for the upcoming exams!
+
+![](/images/2021-T4-Events-JC1ExamMotivationPack.jpeg)
+
+### National Inter-School Archery Championships 2021
+
+Earlier in May this year, our TMJC Archery took part in the National Inter-School Archery Championships 2021.  
+  
+Despite the disruptions due to the Covid-19 pandemic, we are proud that our archers performed well, with 5 individual medallists and 5 team medallists. Well done!  
+  
+**Compound Mens Individual category:** <br>
+Tan Bing Hua, Nicholas (20S208): Individual Silver  <br>
+Sanford Ng Zhe Wei (20S211): Individual Bronze  
+  
+**Compound Womens Individual category:**  
+Cwen Tan (20S303): Individual Gold  <br>
+Nichole Yang Xiu Li (20S301): Individual Silver  <br>
+Joy Chang Kit Ying (20S209): Individual Bronze  
+  
+**Recurve Mens Team category: Silver**   <br>
+Chung Yu Yong, Chaim (20S207), Ryan Lai Zhen Hao (20S202) and Yap Jin Hng (20S402)  
+  
+**Recurve Mens Team category: Bronze**  <br>
+Chua Cheng Yung, Ryan Patrick (20S308), Chan Yi Xuan (20S301) and Ng Yan Jie Maximus (20S304)  
+  
+**Recurve Womens Team category: Silver** <br>
+Hadhinah Bte Mohamed Hanes (20S204), Chan Wei Ning (20S202) and Marianne Nadine Baeza Marasigan (20S308)
