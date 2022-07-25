@@ -234,3 +234,42 @@ The team comprises:
 *   DOMINIC LEE YU HONG, 21S301
 
 Well done, and congratulations to our TMJC Team!
+
+![](/images/2022-T1-Events-ideaSLAM_01.jpeg)
+
+### E-Open House 2022
+
+Tampines Meridian Junior College conducted our 2nd E-Open House this year!  
+In this year’s edition, prospective students and visitors were able to have an insight into the vibrant and colourful snippets of College life in TMJC through interviews with students and staff who showcase various aspects of our College life.  
+  
+In these interviews, our students and staff also share a typical day in TMJC and introduce some of our CCAs and Programmes. Despite not being able to tour the campus physically, our E-Open House Website hosts an interactive campus map for visitors to check out our College’s facilities in 3D such as our Sheltered Courts, Performance Lab, and our very own TMJC Garden!  
+
+A highlight for the e-Open House was our TM Engage on 14th January, Friday which included the School Leaders’ Live Webinar and Online Subject Consultations. In the morning, our School Leaders introduced our College to prospective students and engaged in an informative Q&A session. Later in the afternoon, the various Academic Departments also held online Subject Consultation Sessions so that prospective students could clarify their doubts with our Subject Tutors. We thank all prospective students and parents who joined us online for your lively participation!  
+  
+We hope that our E-Open House has been both informative and enjoyable. Our Student Councillors have worked hard behind the scenes to design, prepare, and curate the content of our E-Open House Website ([https://tmjc-oh.squarespace.com/](https://tmjc-oh.squarespace.com/)).  
+  
+We look forward to welcoming our new batch of JC1s into our TMJC family!
+
+![](/images/2022-T1-Events-EOpenHouse_01.jpeg)
+
+### TMTalks - Student Leaders’ Dialogue
+
+On 13 January 2022, our TMJC Student Councillors organised their first student body engagement session this year, TMTalks!  
+  
+Concurrent sessions were conducted to engage CCA Leaders, CG Chairpersons, Peer Support Leaders, and student volunteers to gather feedback and insights into the concerns they have on how to improve the school environment. The participants were candid in their sharing and provided many constructive ideas to improve their well-being and learning environment.  
+  
+The College hopes that through these meaningful conversations, we are embodying a culture of empowerment and care for our students.
+
+![](/images/2022-T1-Events-TMTalks_01.jpeg)
+
+### First Day of School at Tampines Meridian Junior College 2022
+
+On 11 January 2022, TMJC welcomed our JC2s back to college with our unique “Back-to-School” programme.  
+
+The exciting programme included creating a class banner to depict our College’s theme for the year – “Be Better Together, United as One”, Dialogue Session with our School Leaders, a communal breakfast provided by the College for the students to bond with their Civics Tutors and classmates, and various Staff vs Students Games.  
+  
+Both staff and students had a wonderful time playing games such as Frisbee, Taboo, Soccer, Basketball, and Orientation-style station games. In the spirit of camaraderie and sportsmanship, the College community bonded over this friendly competition!  
+  
+Here’s to a wonderful 2022 ahead, TMJC - United as One!
+
+![](/images/2022-T1-Events-FirstDaySchProg_01.jpeg)
