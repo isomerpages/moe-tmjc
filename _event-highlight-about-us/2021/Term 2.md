@@ -76,3 +76,117 @@ The second initiative is led by Teo Jun Rui Jonathan (18S201), where he plans to
 The third initiative is led by Heng Jee Xuen (19A301) and Medenilla Athena Joelle Saura (18S310), where they plan to show the alumni's support for their juniors as they understand how important it is to have a strong support system as students prepare for the A Levels.  
   
 Thank you alumni for having the heart and taking the initiative to serve the College even after you have graduated. A special shout-out to all TMJC alumni/students, do support these alumni initiatives and play your part in one way or another too. Do stay tuned for more updates about their meaningful alumni initiatives!
+
+![](/images/2021-T2-Events-EnvisioningTogetherWithTMJCAlumni_01.jpeg)
+
+### Parents Engagement Talk - What is General Paper & Project Work?
+
+On the evening of 25th May 2021, the College organised a Parents Engagement Talk, “What is General Paper & Project Work?”. The session aimed to allow parents of our students to have better clarity and understanding of these new subjects their children are sitting for at the  GCE A-Level Examinations.  
+
+  
+The session had Mdm Aslindah, Head of the English Department, and Ms Tang Jie Ting, Subject Head for Project Work, sharing more about General Paper and Project Work respectively. The demands and requirements of the two subjects, scope of assessments, and strategies parents could adopt in supporting their child through their journey with these subjects were shared.  
+  
+The turnout was very encouraging, and we thank all parents for joining us. The College hopes to continue forging stronger partnerships with parents through future events.
+
+![](/images/2021-T2-Events-ParentsEngagementTalk_01.jpeg)
+
+### ODAC Earth Week 2021
+
+Ever since the United Nations designated 22nd April as Earth Day in 1970, Earth Day has become widely recognised as the largest civic movement in the world! To commemorate Earth Day 2021, TMJC ODAC organised Earth Week 2021 – A Values In Action (VIA) project aimed at spreading the awareness of the impacts of climate change and strategies the College can adopt for mitigation.
+
+![](/images/2021-T2-Events-ODACEarthWeek_01.jpeg)
+
+The commemoration consisted of three parts, of which the first two were a collaboration between ODAC and the Citizenship Education Committee. First, the students delivered an informative and compelling presentation to the College on the need for climate action which was followed by an inter-civics group quiz. The second was a college-wide recycling drive where civics groups contributed used pens and electronic waste for recycling. With the active participation of TMJC students, ODAC managed to collect 673 used pens which will be recycled or donated to needy students via ‘Save That Pen’, an organisation that aims to recycle pens to reduce plastic waste in Singapore.
+
+![](/images/2021-T2-Events-ODACEarthWeek_02.jpeg)
+
+Finally, the project culminated in an upcycling activity where 26 other CCAs in TMJC participated by painting on square pieces of cloth which were eventually stitched together into a banner as a symbol of solidarity towards environmental conservation. While the main design was sketched by the ODAC students, each participating CCA also had the opportunity to design their own tile. The banner was presented to the school and will be hung up as a constant reminder for all of us to play a part in saving the only Earth we have!
+
+![](/images/2021-T2-Events-ODACEarthWeek_03.jpeg)
+
+### TMJC Hari Raya Celebrations 2021
+
+To celebrate this joyous occasion, our College organised a two-part programme. The first part was an online assembly programme on the 11th and 12th May 2021, for the JC1 and JC2 respectively. The opening segment featured an impressive Silat and Kompang performance by our own Malay Language Elective Programme students. Following this was an educational video, ‘Hari Raya Myths Busted!’ by our Citizenship Education Student Ambassadors on some of the misconceptions that the public has on the meaning of Hari Raya and the fasting month of Ramadan. This video addressed existing assumptions such as relating Hari Raya to the new year in the Islamic calendar and the assumption that Muslims can drink water during the fasting month. The online programme ended with a video collage of meaningful Hari Raya greetings by our staff and students to all Muslims in TMJC!  
+  
+The second part was held on the 18th of May where the College provided a Hari Raya Lunch Bento Set for all our Muslim students. The students enjoyed their scrumptious meals, keeping to safe distancing measures, at our  Heritage Gallery.  
+The College would like to take this opportunity to wish a safe ‘Selamat Hari Raya!’.
+
+![](/images/2021-T2-Events-TMJCHariRaya_01_v2.jpeg)
+
+### 1st Virtual Parent Support Group Engagement Session
+
+On the evening of 7th May, the College held its first Virtual Parent Support Group (PSG) Engagement meeting through Zoom.  
+  
+The session saw an opportunity to share about the TMJC Partnership Framework, to understand the profile of the PSG members to understand their needs, capabilities, and willingness to contribute.  
+  
+It was a fruitful engagement session where PSG members brainstormed several initiatives during the Breakout Session and kicked-started some of them with the establishment of two Working Groups.  
+  
+To showcase our College’s sincere hospitality and to cherish the PSG’s active participation, we prepared a “Welcome On-Board Care Pack”. The students will deliver the snack pack to their parents, symbolising this partnership between the College, the parents, and their child.
+
+![](/images/2021-T2-Events-VirtualPSGEngagement_01.jpeg)
+
+### 10th International Biomedical Quiz
+
+On 7 April 2021, 8 of our JC2 students participated in the 10th International Biomedical Quiz (IBQ). IBQ is an annual event which aims to provide a platform for students across the world to develop their aptitude and potential in the biomedical disciplines through independent work and applying critical thinking to solve authentic medical challenges.  
+  
+We are pleased to share that we have attained 2 Bronze Awards, 1 Merit Award and 1 Honorable Mention. The student awardees are as follows:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-gsbf{background-color:#007F89;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-ufhz{background-color:#F3F3F3;color:#282828;text-align:left;vertical-align:middle}
+.tg .tg-s3ls{background-color:#FFF;color:#282828;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-gsbf"><span style="font-weight:bold;color:#FFF;background-color:#007F89">Name of Student</span></th>
+    <th class="tg-gsbf"><span style="font-weight:bold;color:#FFF;background-color:#007F89">CG</span></th>
+    <th class="tg-gsbf"><span style="font-weight:bold;color:#FFF;background-color:#007F89">Award</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">GERALD NG</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S301</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">Bronze Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">WONG CHIN JIE</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S301</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">Bronze Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> AAKASH SANJAY MEHTA</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S101</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> Merit Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> JOASH GOH ZHI HENG</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S301</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> Honorable Award</span></td>
+  </tr>
+</tbody>
+</table>
+
+Our heartiest congratulations to all student awardees!
+
+### ARTery - TMJC Arts Webinar 2021
+
+On Wednesday, the 5th of May, the Department of Arts and Aesthetics organised **ARTery 2021**, a webinar-style programme created to enrich students’ exposure and understanding of the Arts. The programme explored how the Arts can interact, influence, and inform the larger society and community through critical discussion.  
+The programme was targeted to Upper Secondary students from our E1 Cluster Schools and we were excited to be virtual hosts to students from Hai Sing Catholic School, Loyang View Secondary School, and Meridian Secondary School for an artful afternoon. We also extended our invitation to our TMJC students to be live audience members for the Opening Lecture and the Student-Panel Discussion.   
+
+The topic for this year’s webinar was **_‘Arts and the Environment’_**.  As Singapore looks toward fulfilling its Green Plan, we believe it is pertinent for students to gain awareness and investigate the role of the Arts and Art-making in engaging with environmental issues.  
+  
+Ms Siti Rafidah delivered the Opening Lecture, ‘Making Space: The Role of the Arts in Singapore’s Landscape’, followed by two concurrent Workshops; ‘Exploring Spatial Relationships with our Environment(s)’ prepared and presented by Mr Choy Wai Wan (TSD) and ‘Challenging Commercialised Contemporary Society: Creating Playful Artworks’ prepared by Mr Edmund Heng (Art). The programme concluded with a Panel Discussion on ‘How Do the Arts Affect the Environment?’, moderated by Mr Khairulnizam (TSD), together with four student-panelists: 
+ 
+Keegan Goh (Art) 21S212 <br>
+Lim Ryi, Erin (TSD) 20A301 <br>
+Mariyya Binte Abdul Rashid (TSD) 20A301 <br>
+Tan Kai Rui (Art) 21S212
+
+![](/images/2021-T2-Events-ARTery_01.jpeg)
