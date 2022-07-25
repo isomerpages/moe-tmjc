@@ -294,3 +294,169 @@ Indeed, with our ‘hearts and minds inspired’, let us press on as a cohort fo
 
 <img src="/images/2021-T2-Events-PWResults_01.jpeg" 
      style="width:40%">
+		 
+### Commendable Act by TMJC Students
+
+On 5 April, Monday, Lee Long Sum, Ethan (21S206) happened to witness an elderly man fall down a staircase at Pasir Ris West Plaza. He rushed over to the man’s assistance, who had started bleeding from a cut on the head and his knee. Together with a passer-by, they helped the man up and Ethan then called the ambulance immediately. Yun Yourong, Lucius (21S201), who was then looking for Ethan, saw the situation and went over to assist. Lucius made efforts to converse with the elderly man, so as to help reassure him and to keep him conscious. When time passed and the ambulance had not arrived after about 20 minutes, Ethan was able to contact the driver, and assisted to provide specific directions for the medical personnel to where they were. Before the elderly man went away with the ambulance, he expressed his gratitude to both Lucius and Ethan.  
+  
+Two of TMJC’s College Values are ‘Courage’ and ‘Compassion’. We are therefore extremely proud that two of our students have embodied these values and chose to step up to proffer help. Well done, Lucius & Ethan!
+
+![](/images/2021-T2-Events-CommendableAct_01.jpeg)
+
+### Achievements at the 32nd Singapore Chemistry Olympiad
+
+On 28 October and 18 November 2020, fifteen JC1 students represented the College at the 32nd Singapore Chemistry Olympiad.  
+  
+
+They are:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s3ls{background-color:#FFF;color:#282828;text-align:left;vertical-align:middle}
+.tg .tg-ufhz{background-color:#F3F3F3;color:#282828;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s3ls"><span style="color:#282828;background-color:#FFF">AAKASH SANJAY MEHTA</span></th>
+    <th class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S101</span></th>
+    <th class="tg-s3ls"><span style="color:#282828;background-color:#FFF">JOASH GOH ZHI HENG</span></th>
+    <th class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S301</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">LEE JIE YIN</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S101</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">JOSHUA LEONG ZI XI</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S301</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">REN YUN TING</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S101</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> PYACE PHYO MIN</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S301 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> TAY TIAN WEN</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S201</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> CHU HUI LING</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S304</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> KOO WEI JIE</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S202 </span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> LIN JING'AN, JULIUS</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S304 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> KOH LIANG HAN</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S204</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> PANG YU JING</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S305 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> NG TIONG GHEE</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S204</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> DERICK TAY WEI XIAN</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S412</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> CHOO YANKAI THOMAS</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S301</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+We are proud to share that Koo Wei Jie (20S202) and Pang Yu Jing (20S305) were awarded a Bronze medal, while Koh Liang Han (20S204) received a Certificate of Merit.  
+
+Well done to all our students who gave their best!
+
+![](/images/2021-T2-Events-32ndChemistryOlympiad_01.jpeg)
+
+### Post-Budget Youth Dialogue
+
+On 27 March 2021, 13 of our JC2 students from our Talent Development Programme participated in a Post Budget Youth Dialogue with Mr Desmond Tan, Minister of State (MOS) in the Ministry for Home Affairs and the Ministry for Sustainability and the Environment.   
+During the Dialogue, students were engaged in critical discussions on how Budget 2021 will make an impact on businesses and families, as well as ensuring Singapore's sustainability and growth.  
+  
+The facilitated session was an eye-opening and meaningful experience for our students as they were able to share their aspirations and concerns about Singapore's sustainable future.  
+  
+
+Names of Participants:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s3ls{background-color:#FFF;color:#282828;text-align:left;vertical-align:middle}
+.tg .tg-ufhz{background-color:#F3F3F3;color:#282828;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s3ls"><span style="color:#282828;background-color:#FFF">AAKASH SANJAY MEHTA</span></th>
+    <th class="tg-s3ls"><span style="color:#282828;background-color:#FFF">20S101</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">AHMAD ABDULLAH B MOHAMAD MUNIR</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3">20S212</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> LIU YITING</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S212</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> HO SHENG WEI</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S211</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> TEO WEI YANG, DEREK      </span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S203</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> DARREN LENG JUN HENG</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S204</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> REN YUN TING</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S101</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> TOH XIAN ZONG</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S201</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> JAVIER LAI YONG LE</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S302</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> PANG YU JING</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S305</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> TOLENTINO ALEXANDRA MORALES</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S307</span></td>
+  </tr>
+  <tr>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> TAN YI CHENG</span></td>
+    <td class="tg-ufhz"><span style="color:#282828;background-color:#F3F3F3"> 20S411</span></td>
+  </tr>
+  <tr>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> NG TIONG GHEE</span></td>
+    <td class="tg-s3ls"><span style="color:#282828;background-color:#FFF"> 20S204</span><br><br></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/2021-T2-Events-PostBudgetYouthDialogue_01.jpeg)
