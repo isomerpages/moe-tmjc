@@ -507,13 +507,13 @@ Prior to the two-day conference, the students had to do research and prepare ope
 
 Earlier this year, four of our Humanities students participated in the Sejarah Inquisition, a national History competition organised by the National University of Singapore. The College is proud that they have achieved a commendable 2nd Runner Up!  
   
-They are:  
-Kieran Chan Yi Jun (20S413)  
-Tan Yiting (20S413)  
-Ng Shi Hui (20S413)  
+They are:  <br>
+Kieran Chan Yi Jun (20S413)  <br>
+Tan Yiting (20S413)  <br>
+Ng Shi Hui (20S413)  <br>
 Thian Ning, Eunice (20S413)  
   
 In addition, in June, 8 students from the Talent Development Programme and History participated in the ASEAN Plus Summit hosted by Dunman High School.  We would like to congratulate, in particular, Mohammad Danial Lutfi Bin Mohammad Suhaini (20A201) for achieving an Honourable Mention.  
   
-TMJC’s Delegates:  
+TMJC’s Delegates:  <br>
 Tham Jia Yi (20S501), Ho Chee Choun (20S501), Mohammad Danial Lutfi Bin Mohammad Suhaini (20A201), Nugraprana Laksmana (20S501), Pearlene Chua Pei Ling (20A302), Alison Tay Xian Ling (20A101), Lim Ka Yin Nicole (20A101), Derick Tay Wei Xian (20S412)
