@@ -66,3 +66,4 @@ There’s a special pride in teachers, and a love for what you do.  <br>
 And appreciation’s always shared between those young lives and you.  
   
 Wishing all TMJC staff a Happy Teacher's Day!
+
