@@ -539,3 +539,43 @@ The online ceremony began with an opening address by Ms Yoong, our Principal, fo
 We congratulate our incoming batch of student leaders and wish them a fruitful learning experience throughout their leadership journey in TMJC!
 
 ![](/images/2021-T3-Events-StudentLeadersInvestiture_01.jpeg)
+
+### National Day Awards
+
+The Awards recognise various forms of merit and service to Singapore. Due to COVID-19, the 2020 National Day Awards investiture ceremony was postponed and held on 4 April 2021.  
+  
+Congratulations to our staff who are recipients of the National Day Awards 2020!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ob57{background-color:#F3F3F3;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tsok">Mdm Lee Hwei Ching Serena</th>
+    <th class="tg-tsok">Long Service Medal</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ob57">Mdm Tamichelvi d/o N Narayanasamy</td>
+    <td class="tg-ob57">Long Service Medal</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">Mr Henry Low Swee Kim</td>
+    <td class="tg-tsok">Long Service Medal</td>
+  </tr>
+  <tr>
+    <td class="tg-ob57">Mr Koh Sze Wei</td>
+    <td class="tg-ob57">Commendation Medal</td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/2021-T3-Events-NationalDayAwards_01.jpeg)
