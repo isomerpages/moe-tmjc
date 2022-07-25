@@ -1,4 +1,5 @@
 collections:
   event-highlight-about-us:
     output: true
-    order: []
+    order:
+      - Term 2.md
