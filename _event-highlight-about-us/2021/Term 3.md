@@ -304,10 +304,25 @@ Congratulations to all awardees! We are proud of all your achievements and we wi
 
 TMJC is proud to share that four of our students have received the Singapore Olympic Foundation (SOF) Peter Lim Scholarship, encouragement awards. Our students have received the awards based on their good sporting performance in their respective fields.  
   
-They are:  
-Excellence in Netball - Teo Yi Jing, Geraldine (20S207)  
-Excellence in Floorball - Yee Jia Zhen (20S203)  
-Excellence in Floorball - Mahirah Bte Zakaria (20S210)  
+They are:  <br>
+Excellence in Netball - Teo Yi Jing, Geraldine (20S207)  <br>
+Excellence in Floorball - Yee Jia Zhen (20S203)  <br>
+Excellence in Floorball - Mahirah Bte Zakaria (20S210)  <br>
 Excellence in Athletics - Wong Zhao Yuen (20S301)  
   
 We congratulate these students for receiving their awards!
+
+![](/images/2021-T3-Events-SOFPeterLimScholarships_01.jpeg)
+
+### Singapore Youth Festival Arts (SYF) Presentation of Certificates
+
+The SYF Arts Presentation is a benchmarking platform that offers opportunities for continuous learning and improvement through feedback. It showcases the creativity, vibrancy, and resilience of our youths as our nation stands united in the face of current challenges.  
+  
+On 16 August 2021, the CCA EXCO members of the Performing Arts Groups represented all TMJC Performing Arts Groups members who have participated in the 2021 SYF Arts Presentation to present the SYF certificates of achievement to our Principal, Ms Yoong.  
+  
+_Band (Flexible Band & Percussion Ensemble) - Certificate of Accomplishment_ <br>
+_Chinese Orchestra - Certificate of Accomplishment_  <br>
+_Guitar Ensemble - Certificate of Accomplishment_  <br>
+_Dance - Certificate of Distinction_
+  
+The Performing Arts groups would like to express our greatest appreciation to Ms Yoong, our school leaders, teachers, school attendants and our friends for supporting us throughout this SYF journey!_
