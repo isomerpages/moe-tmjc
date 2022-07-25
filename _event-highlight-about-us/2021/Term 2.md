@@ -289,8 +289,8 @@ We are glad that these efforts by our J1 Tamil students brought some smiles to o
 Today, the JC2 students of TMJC received their Project Work results. The College is proud of them for having done very well in spite of the challenges and restrictions due to the pandemic last year.  
   
 The Principal, Ms Yoong, reminded the students to show gratitude and remember those who have walked alongside them in their journey. In her words, “If you want to go fast, go alone. If you want to go far, go together.”  
+  
+Indeed, with our ‘hearts and minds inspired’, let us press on as a cohort for the A Level Examination!
 
 <img src="/images/2021-T2-Events-PWResults_01.jpeg" 
      style="width:40%">
-  
-Indeed, with our ‘hearts and minds inspired’, let us press on as a cohort for the A Level Examination!
