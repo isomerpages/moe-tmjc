@@ -114,3 +114,33 @@ JULIA THET MON SOE (21S307)  <br>
 YVONNE LIAW QIAN YU (21S308)  
   
 Congratulations to all participants!
+
+![](/images/2022-T2-Events-BiomedQuiz_01.jpeg)
+
+### College Day 2022
+
+On 29 April, the College celebrated the efforts and achievements of the Class of 2021.College Day 2022 exemplifies the College theme “Be Better Together.” With a relaxation of SMM, this is the first College Day after two years where there are live performances by students. The guests, awardees, parents and staff came together to enjoy the wonderful music and movements presented by the Symphonic Band and Modern Dance, and witnessed the presentation of awards to distinguished students.
+
+![](/images/2022-T2-Events-CollegeDay_01.jpeg)
+
+At the ceremony, our Principal, Ms Pamela Yoong recounted how the graduating cohort of 2021 braved their two years in JC with the full suite of safe management measures, and despite most College activities pivoting online, the cohort still grew together as a close-knit community and made lasting friendships and beautiful memories. Indeed, the Class of 2021 pulled in the most impressive A-Level achievements thus far, attesting to the proud fact that even the pandemic could not thwart their determination to reach for the stars.
+
+![](/images/2022-T2-Events-CollegeDay_02.jpeg)
+
+The College sincerely wishes the awardees all the very best in their future endeavours.  
+  
+TMJCians of the Class of 2021: we are proud of you & we look forward to having you back as alumni among our TMJC family! Be Better Together!
+
+### TMJC Hari Raya Celebrations 2022
+
+To celebrate this joyous occasion, our College organised a two-part programme. The first part was an online assembly programme on the 25th April 2022. The opening segment featured an impressive Malay traditional dance performance by our own Malay Language Elective Programme (MLEP) students. This graceful performance was choreographed by the students, with the help of their teacher mentors to showcase a glimpse of our college’s MLEP niche programme that focuses on the beautiful Malay heritage and culture.
+![](/images/2022-T2-Events-HariRayaCelebrations_01.jpeg)
+
+Following this was an educational video, ‘Hari Raya, around the world!’ by our Citizenship Education Student Ambassadors. This video showcased some popular practices by Muslims during Ramadan which include, eating of the dates and Terawih prayers. Hari Raya is also celebrated differently in Singapore, Philippines and the Middle East. The online programme ended with a video collage of meaningful Hari Raya greetings by our staff and students to all Muslims in TMJC!
+
+![](/images/2022-T2-Events-HariRayaCelebrations_02.jpeg)
+
+The second part was held on the 5th May 2022 where the College provided a Hari Raya Lunch Bento Set for all our Muslim students. Our JC1 and JC2 MLEP students hosted the session by welcoming all students and distributing the lunch packs to them. The students enjoyed their scrumptious meals at our Heritage Gallery.  
+The College would like to take this opportunity to wish all Muslims ‘Selamat Hari Raya!’.
+
+![](/images/2022-T2-Events-HariRayaCelebrations_03.jpeg)
