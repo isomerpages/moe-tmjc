@@ -123,4 +123,3 @@ On 3 and 4 May, TMJC proudly hosted the respective College Day cum Home-coming o
 ![](/images/tpjc.png)
 
 On both days, former students and their parents, staff, college advisory committee members, and other college partners gathered at TMJC to celebrate the achievements of the final cohorts from both colleges. Beyond academic achievements, the College Days also recognised students for their exemplary leadership and character.
-
