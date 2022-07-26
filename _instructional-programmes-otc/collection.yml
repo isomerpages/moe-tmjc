@@ -2,9 +2,9 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
-      - MOE Elective Programmes/Drama Elective Programme (DEP).md
-      - MOE Elective Programmes/Malay Language Elective Programme (MLEP).md
       - MOE Elective Programmes/.keep
+      - MOE Elective Programmes/Malay Language Elective Programme (MLEP).md
+      - MOE Elective Programmes/Drama Elective Programme (DEP).md
       - Physical Education.md
       - Mathematics & Sciences/.keep
       - Mathematics & Sciences/Biology.md
