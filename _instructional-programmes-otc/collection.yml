@@ -2,6 +2,7 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
+      - Languages/H1 Mother Tongue Languages.md
       - Languages/.keep
       - Overview of our Teaching & Learning.md
       - Subject Combinations.md
