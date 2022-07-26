@@ -2,4 +2,5 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
+      - Subject Combinations.md
       - Overview of our Teaching & Learning.md
