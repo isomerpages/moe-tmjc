@@ -210,3 +210,103 @@ Here’s wishing one and all happiness and good health in the new lunar year! �
 On 4th Feb 2019, the eve of Chinese New Year, the MTL department organised a special CG and OG-bonding Bingo activity for the cohort to usher in the new year. This bonding activity has allowed the students to better understand the customs and traditions of the Lunar New Year celebrations and have fun together in the process.
 
 ![](/images/2019-T1-Events-CNY2019_2.jpeg)
+
+We ended our Chinese New Year celebrations as a TMJC family with a mass Lo-Hei session with our CAC members, EAS, contract cleaners, canteen vendors, staff and students. Our teachers also brought their little ones along to immerse in this joyous festive celebration! Happy Chinese New Year to everyone!  
+  
+
+### Project REach 2019
+![](/images/2019-T1-Events-ProjectREach_1.jpeg)
+
+On 26 January 2019, staff and students of TMJC came together to spread the Chinese New Year festive cheer to Pasir Ris residents while collecting old clothes and newspapers to raise funds.  "Project REach" is the college’s very first values-in-action (VIA) effort. The name aptly summarises our outreach effort to the Pasir Ris community with the alphabets "P", "R", "E" representing our collaboration with Pasir Ris East.
+
+![](/images/2019-T1-Events-ProjectREach_2.jpeg)
+
+With the support of the residents, our college managed to collect 5.5 tonnes of old clothes and 12.7 tonnes of newspapers and papers, raising a total of $2372.00 for the Pasir Ris East Community Development Welfare Fund. These funds will be used to purchase necessities and home improvement items for low-income households in Pasir Ris East.
+
+![](/images/2019-T1-Events-ProjectREach_3.jpeg)
+
+TMJC is grateful for the residents’ support and we will continue to find ways to give back to the community. It was also a great opportunity for our students and staff to work together for a worthy cause.  
+  
+
+### Staff Bonding & Dinner
+
+On 18 January 2019, the staff of TMJC embarked on different fun-filled learning and bonding activities that promoted team building, communication, problem-solving, decision-making and trust-building. 
+
+In the evening, the staff enjoyed a scrumptious dinner at Concorde Hotel Ballroom to bond as a college. The event was filled with fun games and our very first family portrait was taken.
+
+![](/images/2019-T1-Events-StaffBondingDinner_1.jpeg)
+![](/images/2019-T1-Events-StaffBondingDinner_2.jpeg)
+![](/images/2019-T1-Events-StaffBondingDinner_3.jpeg)
+
+The TMJC family spirit shone through brightly and will continue to grow from strength to strength!  
+  
+
+### TMJC First Open House 2019
+
+On 15th January 2019, TMJC held its Open House. The day began with an exciting showcase of talents by some of the CCA groups.
+
+![](/images/2019-T1-Events-OpenHouse2019_1.jpeg)
+![](/images/2019-T1-Events-OpenHouse2019_2.jpeg)
+
+This was followed by the official opening by TMJC’s principal, Ms Pamela Yoong, flanked by the mascots of both parent colleges TPJC and MJC.
+
+![](/images/2019-T1-Events-OpenHouse2019_3.jpeg)
+
+Prospective students had the opportunity to learn more about the A Level curriculum and our co-curricular programmes through the exciting subject and CCA exhibition booths helmed by welcoming staff and students, sit in our demo Subject lectures, and also got to hear from our Principal as she shared more about TMJC.
+
+![](/images/2019-T1-Events-OpenHouse2019_5.jpeg)
+
+Visitors got to experience TMJC’s vibrant spirit, immersed in a carnival atmosphere where they were treated to delicious  treats. They also witnessed the invigorating Clan Dance put up by TMJC’s JC2 students, and were brought on guided tours through the college to learn about its many new and upgraded facilities.
+
+![](/images/2019-T1-Events-OpenHouse2019_4.jpeg)
+
+We hope our visitors got a good sense of what TMJC has to offer and left with positive memories of meeting our warm and happy TMJC family. See you next year!  
+  
+
+### First Day of School at Tampines Meridian Junior College
+
+On 7 January 2019, TMJC opened its doors for the first time for its JC2 cohort of students.
+
+The day began with the lowering of the flags of both parent colleges, Tampines JC and Meridian JC, to remind the college of its heritage, followed by the raising of the new TMJC college flag along with the state flag.
+
+![](/images/flag%20ceremony.jpeg)
+
+Students then bonded with their Civics Tutors and fellow classmates over Cohort Breakfast, where they were treated to an assortment of pastry, fruits and drinks.
+
+![](/images/CT%20Time%20and%20%20Cohort%20Breakfast.jpeg)
+
+TMJC Principal, Ms Pamela Yoong, addressed the cohort in the Hall, encouraging everyone to seize the moment and give their best for the year ahead.
+
+![](/images/Principal%20Talk_Panoramic.jpg)
+
+Students also presented a gift of apples to their tutors as well as college support staff, to show their appreciation for the guidance and care shown by the college.  
+
+  
+The programme ended on a high note as a team of teachers pitted themselves against a student team in a friendly soccer-match to literally kick off the new academic year on our newly-turfed field.
+
+![](/images/Friendly%20Soccer%20Staff%20And%20Students.jpeg)
+
+The entire programme was also reported by The Straits Times, Lianhe Zaobao, Wanbao, Berita Harian, and Channel 8 News.   
+
+  
+
+### Open House 2019
+![](/images/2019-T1-Events-MessageOfTheDay_01.jpeg)
+
+##### Welcome to Tampines Meridian Junior College (TMJC)
+
+TMJC will be formed from the merger of Tampines Junior College and Meridian Junior College with effect from 2019.
+
+Come and immerse yourself in the TMJC Experience and discover how our broad-based and holistic education develops every TMJC student to his full potential.  Walk around our campus with our student guides, explore the engaging and unique programmes, and chat with our dedicated teachers to find out more about what we do.
+
+  
+##### When is it?
+
+
+Date: 15 January 2019  <br>
+Time: 1030 - 1600
+
+  
+##### Where will it be held?
+
+21 Pasir Ris Street 71, Singapore 518799 (former site of Meridian JC)
