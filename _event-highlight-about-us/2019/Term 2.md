@@ -123,3 +123,82 @@ On 3 and 4 May, TMJC proudly hosted the respective College Day cum Home-coming o
 ![](/images/tpjc.png)
 
 On both days, former students and their parents, staff, college advisory committee members, and other college partners gathered at TMJC to celebrate the achievements of the final cohorts from both colleges. Beyond academic achievements, the College Days also recognised students for their exemplary leadership and character.
+
+![](/images/MJC.png)
+
+Both College Days also served as Home-Coming events for the respective parent colleges, as former students and staff, beyond awardees, were invited back for a reunion. At the respective lunch and dinner receptions, there were much laughter and conversation as the guests reminisced on shared memories.  
+
+ We hope our guests had a memorable and meaningful College Day, and that our former students from both parent colleges will look upon TMJC as their shared alma mater, and to come back to inspire their juniors to aim high and go far. 
+
+  
+
+  
+### Tampines Meridian Symphonic Winds - Singapore Youth Festival Arts Presentation
+
+  
+On 2nd May 2019, the Tampines Meridian Symphonic Winds participated in the biennial Singapore Youth Festival (SYF) Arts Presentation (Concert Band category). They had been preparing for their performance for months, and cherished the learning experience it provided. The Band would like to thank the College for its unwavering support and hopes to continue contributing to a vibrant arts culture in the College.
+
+![](/images/TM%20Symphonic%20Winds%20-%20SYF%20Arts%20Presentation.jpeg)
+
+Here is Mrs Pang and the teachers sending them off and wishing them all the best before the performance.  
+  
+
+  
+### English Drama Performance
+![](/images/Club_1.jpeg)
+
+The (English) Drama CCA performed to 3 sold out shows at Centre 42 along Waterloo Street on the 26th and 27th April 2019.
+
+![](/images/drama.jpeg)
+
+The show, titled _the first person i ever hated was myself_, was the result of a collaborative script writing effort between the CCA’s Director Ms Ellison Tan and the current batch of JC2 students. The piece explores the angst and struggles experienced by youths in society today, how they learn to be honest about feelings they do not always know how to articulate, and how they try to come to terms with these feelings. 
+
+  
+  
+### TMJChoir SYF 2019
+![](/images/TMJChoir%20SYF%202019_3.jpeg)
+Tampines Meridian Junior College’s Choir participated in their first Singapore Youth Festival (SYF) Arts Presentation 2019 on 17th April 2019.
+![](/images/TMJChoir%20SYF%202019_1.jpeg)
+
+The journey leading up to the SYF Presentation was certainly not an easy one as the choristers had to master the songs with a comprehensive understanding of every sections’ parts, to create depth and give colour to the song, and bring meaning to the text they sing. Through this, they learnt the importance of self discipline and how an ensemble works because the essence of any song could only be conveyed when they voices blended seamlessly together. All these would not have been possible without the tireless effort and dedication of everyone - from the singers to the teachers and the conductor.
+![](/images/TMJChoir%20SYF%202019_2.jpeg)
+
+(Here is Mrs Pang and the teachers sending them off and wishing them all the best before the performance.) 
+
+  
+  
+### Dance Society SYF Presentation 2019
+![](/images/2019%20Dance%20SYF%20(with%20teachers%20and%20instructors).jpeg)
+
+The 1st batch of Tampines Meridian Junior College dancers from the Dance Society participated in the Singapore Youth Festival (SYF) Arts Presentation 2019 on 12th April 2019. Performing a piece titled, ‘Unrelenting’, our dancers truly showed much resilience and strength in their journey to the SYF and we are very proud of them!
+
+![](/images/2019%20Dance%20SYF%20(with%20Minister%20Ong).jpeg)
+
+The dancers had the privilege to meet up with Minister for Education Mr Ong Ye Kung before leaving for their performance. Here is Minister Ong sending them off and wishing them all the best for their performance. 
+
+  
+  
+### TM Student Councillors' Camp
+![](/images/TMSC%20Camp%20photo.jpeg)
+
+Over the weekend, the new batch of councillors (in red) were initiated by their seniors (in blue at the TMSC camp held in college. In a meaningful ceremony, each senior lighted the candle of a junior to signify the hand over; the juniors then lighted the tea-lights making up ‘TMSC’ to mark the start of their journey as a Tampines Meridian Student Councillor.   
+  
+
+  
+### Mother Tongue Fortnight 2019
+
+Mother Tongue Fortnight 2019 took place from 3 April to 17 April, with numerous activities for all students held during language lessons and outside curriculum time. These activities included classroom Kahoot quizzes, scrabble competitions and poetry workshops. The highlight of the fortnight – the Mother Tongue Fortnight Enrichment Day, took place on the afternoon of 12 April.    
+ **“The Songs We Sang” – Talk and Performance by Director Eva Tang and Xinyao Pioneer Huang Hongmo**
+ 
+ ![](/images/MTL%20FINAL%201.jpeg)
+ 
+ The enrichment activity was a talk by local renowned director Eva Tang on her documentary “The Songs We Sang”. Through snippets and anecdotes of the documentary, Ms Tang shared with students about the origin and history of Xinyao which once swept the nation from the 1980s. The talk was peppered with live performances by Huang Hongmo, whom along with Liang Wern Fook and others, are seen as pioneers of the genre.    
+**“Jejak Budaya” – Malay Cultural Trail**
+
+![](/images/MTL%20Final%202.jpeg)
+
+As part of MT Enrichment Day, the Malay Language Unit organised a Cultural Trail for all students taking H1 Malay Language and H2 Malay Language and Literature. The cultural trail was an exciting race to various booths that tested the students’ cultural knowledge. For example, students had to identify tunes from traditional Malay musical instruments such as ‘rebana’ and ‘gong’. They also had the opportunity to identify various herbs and spices used in Malay cuisine as well as guess names of traditional Malay desserts. The students had fun competing against and sharing their cultural knowledge with one another, and the event ended with a delicious feast of traditional Malay desserts such as ‘putri salat’ and ‘nagasari’.             
+  
+**Tamil Beyond Classrooms**
+![](/images/MTL%20FINAL%203.jpeg)
+
