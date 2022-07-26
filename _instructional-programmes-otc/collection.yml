@@ -2,6 +2,7 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
+      - Humanities & the Arts/Theatre Studies & Drama.md
       - Humanities & the Arts/Literature in English.md
       - Humanities & the Arts/History.md
       - Humanities & the Arts/Geography.md
