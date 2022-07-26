@@ -42,3 +42,31 @@ The nominations are now open.
   
 Please email the completed nomination form to foo.lin.ying@tmjc.edu.sg by **17 May 2022 (Tues).**
 Thank you and we look forward to your nominations.
+
+![](/images/Announcement_EconomicsTeacherAward_02.jpeg)
+
+### Nomination for the Distinguished Chinese Language Teachers Awards 2022
+![](/images/Announcement_DCLT%20Awards%202022_02.jpeg)
+
+The Distinguished Chinese Language Teachers Awards 2022 is organised by Lianhe Zaobao and ZBSchools.sg.  
+  
+The awards are co-organised by the Singapore Centre for Chinese Language, Society of Chinese Education Singapore, Singapore Chinese Teachers Union and Singapore Middle School with support from the Ministry of Education. The awards aim to give due recognition to teachers who:
+
+*    inspire interest in the Chinese language and culture,
+
+*   use creative and engaging teaching methods/learning activities,
+
+*   possess a passion for teaching, and
+
+*   command respect from students, parents and fellow teachers.  
+  
+If this sounds like a teacher you know, nominate him or her for the award now!
+
+Nomination Process:
+
+Nominations can be made online at [dclta2022.sphevents.com.sg](http://dclta2022.sphevents.com.sg/)
+  
+The nomination closes on **30 April 2022.**
+
+### Nominations for Awards 2022
+
