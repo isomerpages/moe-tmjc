@@ -2,6 +2,12 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
+      - Overview of our Teaching & Learning.md
+      - Subject Combinations.md
+      - Knowledge Skills.md
+      - Languages/.keep
+      - Languages/H1 Mother Tongue Languages.md
+      - Languages/H2 Mother Tongue Language and Literature.md
       - Humanities & the Arts/.keep
       - Humanities & the Arts/Art.md
       - Humanities & the Arts/Economics.md
@@ -9,9 +15,3 @@ collections:
       - Humanities & the Arts/History.md
       - Humanities & the Arts/Literature in English.md
       - Humanities & the Arts/Theatre Studies & Drama.md
-      - Languages/.keep
-      - Languages/H1 Mother Tongue Languages.md
-      - Languages/H2 Mother Tongue Language and Literature.md
-      - Overview of our Teaching & Learning.md
-      - Subject Combinations.md
-      - Knowledge Skills.md
