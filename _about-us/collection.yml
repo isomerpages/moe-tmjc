@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Announcements/2019.md
-      - Announcements/2020.md
-      - Announcements/2021.md
-      - Announcements/Announcements.md
       - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/2021.md
+      - Announcements/2020.md
+      - Announcements/2019.md
       - Media Stories/2021.md
       - Media Stories/.keep
       - Our Achievements/.keep
