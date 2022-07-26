@@ -188,3 +188,10 @@ Happy Father’s (& belated Mother’s) Day, everyone!
 On 2nd June, students and staff returned to college after almost two months of Circuit Breaker measures.For these two weeks, the JC2 students will be back in college while the JC1s continue with HBL. Everyone dutifully donned their masks and queued patiently to be scanned for entry. There was a strange mix of excitement and seriousness in the air – excited to finally be back at college and to meet fellow students and teachers, but also seriousness because everyone was vigilant about following the safety measures put in place.  
 
 Ms Yoong, our principal, together with the school leadership team, addressed the staff and the students separately over several sessions, to welcome everyone back and reiterate the importance of adhering to SAFE measures (**S**afe distancing; **A**dhere to well-being practices; **F**ollow Seating Arrangements; **E**ncourage good hygiene practices). Everyone was also treated to fresh apples, courtesy of the college, to symbolise a healthy beginning to Term 3, and to remember to stay healthy!
+
+![](/images/back%20in%20college%20after%20circuit%20breaker.png)
+
+
+As an icing on the cake, our staff were given another treat – our teachers Mr Vanson Lim and Ms Heng Wei Ling, tied the knot recently, and decided to treat the staff to a hearty celebratory lunch, while, of course, observing SAFE measures too. Congratulations to our newly-weds!
+
+Here’s to a safe and fruitful Term 3, TMJC!
