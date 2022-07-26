@@ -106,3 +106,40 @@ On 2 February 2020, TMJC’s Chinese Orchestra, Choir and Wushu performed at the
 On 24 January, our staff, students and the College Advisory Committee gathered for a college Lo-Hei to celebrate Chinese New Year together, and to kick-start the year with some well-tossed blessings! Huat ah!
 
 ![](/images/IMG-5681.jpeg)
+
+Before the Lo-Hei, students and teachers got together to make CNY lanterns, and the most creative ones won prizes. Staff also brought their little ones to join in the celebrations as one TMJC family!
+
+![](/images/CNY%20Celebrations%20Montage%20.png)
+
+### JC1 Awards Ceremony
+
+On 22 January, TMJC held its first JC1 Awards Ceremony.  
+  
+The ceremony recognises and celebrates the consistent good work of students in the JC1 assessments. Students who have performed well were presented with the Bronze medal. This series of awards will serve to inspire our students to apply themselves consistently for their entire JC learning journey, and to challenge themselves to achieve their personal bests.  
+  
+The Guest of Honour, Mrs Aileen Koh, an alumna of TPJC and a member of the TMJC College Advisory Committee, motivated the cohort with her opening address, and presented the MOE Edusave Character Award certificates, as well as the TMJC Alumni Scholarships to well-deserving students.  
+  
+Congratulations, award winners!
+
+![](/images/2020-T1-Events-JC1AwardsCeremony.jpeg)
+
+### Visit by students from Senior State High School 5 Semarang (Indonesia)
+  
+On 21 January 2020, our JC2 MLEP students received thirteen students from Senior State High School 5 Semarang, Indonesia. Our visitors were given an overview of the Singapore junior college education system and they also had the opportunity to interact with our MLEP students, attend lessons, and go on a guided tour around the college premises. We were also privileged to watch a captivating ethnic performance put up specially by the Indonesian students.
+
+![](/images/2020-T1-Events-VisitByStudentInSemarang.jpeg)
+
+### TMJC Open House 2020
+![](/images/2020-T1-Events-TMJCOpenHousel_01.jpeg)
+
+TMJC held its Open House today to give prospective students and their parents a glimpse of our vibrant college life. The day began with a rousing opening ceremony, where staff, students and guests witnessed the symbolic dawning of a new day, which was accompanied by electrifying mass dance performances put up by the five student houses. 
+
+ Throughout the day, guests were greeted by our friendly student guides who took them on college campus tours; they also met our teachers who answered their queries regarding various subjects; and they got a taste of our lively CCAs at their respective booths. At the Principal’s Talk, our Principal, Ms Pamela Yoong, along with the Vice-Principals, shared about the distinctive programmes and features of TMJC. Guests were also treated to free hotdogs and had fun at our photobooth!
+
+ All in all, guests, staff and students all had a great time today immersed in TMJC’s dynamic and vibrant culture! 
+
+### First singing of the college anthem by JC2 cohort
+
+On 13 January, the JC2 cohort officially sang the College Anthem for the first time during morning assembly.
+
+![](/images/First%20College%20Anthem%20Singing.jpeg)
