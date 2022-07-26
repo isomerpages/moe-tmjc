@@ -115,3 +115,32 @@ Nominees should be 
 Nominations can also be made online at [https://go.gov.sg/mitt-tl-2022-tl](https://go.gov.sg/mitt-tl-2022-tl) and [https://go.gov.sg/mitt-2022-form-el.](https://go.gov.sg/mitt-2022-form-el.)
 
 Do note that the online nomination closes on **29 April 2022**.
+
+![](/images/Announcement_Nomination%20of%20Awards%202022_04.jpeg)
+
+**Nominate your English Teacher (GP and Literature) for the Inspiring Teacher of English Award 2022.**  
+Nominations for the annual _Inspiring Teacher of English_ awards 2022  
+
+*   **exemplify** the use of good spoken and written English
+*   **promote** learning-focused interaction during English lessons
+*   **choose** pedagogies appropriate to learners’ readiness, interests, and learning profiles
+
+**Nomination Process**
+
+Nomination forms can be downloaded from [www.goodenglish.org.sg](http://www.goodenglish.org.sg/).  All students, parents of our students, and teachers are invited to send in their nominations to TMJC [](https://tmjc.moe.edu.sg/about-us/goog_1407581176) [tmjc@moe.edu.sg](mailto:tmjc@moe.edu.sg)  for this national award by **6 pm on 28 March 2022.**
+
+### Release of 2021 GCE A-Level Examination Results
+  
+The results of the 2021 Singapore-Cambridge GCE A-Level Examination will be released on Tuesday, 22 February 2022.  
+TMJC students who sat for the 2021 A-Level Exam may return to the college to collect the results.  Report to respective CCE venues by 2.00 pm on 22 February to receive your GCE A-level examination certificates, result slips, SGC, and Year Book.  
+  
+As part of the Safe Management Measures, we seek your understanding of the following:
+
+*  Only students will be allowed to enter the college to collect their results. The college is currently not open to parents and guardians.  
+*  Students who are under COVID restrictions or are unwell should not be in college to collect their results.  
+*  **Students should not come before 1.00 pm** to avoid possible intermingling with the different levels of students.Students may also view their results online via the SEAB Candidates Portal at [**https://myexams.seab.gov.sg**](https://myexams.seab.gov.sg/) on 22 February 2022, from 2.45 pm onwards.  The system will be available for students to access their results for 2 weeks until 8 March 2022.
+
+  
+Students who are eligible for Singpass are to apply and activate their Singpass account so that they can view their results online.  
+  
+For International Students, SEAB will send a system-generated username to their email address a few days before the release of the results.
