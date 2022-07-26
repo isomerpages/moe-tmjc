@@ -28,3 +28,12 @@ For more information on the H1 and H2 Chemistry syllabus:
 
 * [H2 Chemistry Syllabus Document (9729)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9729_y21_sy.pdf)
 
+![](/images/TMJC-OurCurriculum_IP_Chem_01.jpeg)
+In-house workshop on Nitration of Methyl Benzoate
+
+![](/images/TMJC-OurCurriculum_IP_Chem_02.jpeg)
+In-house workshop on Nitration of Methyl Benzoate
+
+![](/images/TMJC-OurCurriculum_IP_Chem_03.jpeg)
+In-house workshop on Nitration of Methyl Benzoate
+
