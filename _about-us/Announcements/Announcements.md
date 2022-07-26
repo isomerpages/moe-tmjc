@@ -144,3 +144,24 @@ As part of the Safe Management Measures, we seek your understanding of the follo
 Students who are eligible for Singpass are to apply and activate their Singpass account so that they can view their results online.  
   
 For International Students, SEAB will send a system-generated username to their email address a few days before the release of the results.
+
+### Voyage - Orientation 2022
+![](/images/Announcement_Orientation%202022.jpeg)
+
+Hear ye, hear ye! Welcome, young sailors.  
+We will set sail and begin our **Voyage** on **7 Feb 2022 (Mon)**, and we will set out to sea **till 11 Feb 2022 (Fri)**!  
+
+Time of embarkation: **7.30am** <br>
+Ship docked at: **The Plaza @ TMJC**  <br>
+Sailing attire: **Secondary School full uniform (shirt and pants/skirt)** <br>
+Time of disembarkation: **12.30pm**
+
+Afraid of getting lost along the way?  <br>
+Fret not! Check out our Instagram Stories on **@ThatsMyJC** and **@OurTMJC** for directions to TMJC!  
+
+Wondering what to bring with you on this **Voyage**?  <br>
+Well, a **water bottle**, **writing materials**, and **extra masks**.  
+
+For further enquiries, you may contact us at **6349 3660** or **[tmjc@moe.edu.sg](mailto:tmjc@moe.edu.sg)**.  
+  
+Looking forward to having you onboard!
