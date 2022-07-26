@@ -27,11 +27,10 @@ First to depart on their learning adventures were the students and teachers on t
 
 From 24 to 26 November, four teams departed for Vietnam and China as part of the college’s signature **ExplORE!** overseas immersion programme. Through this programme, the college aims for students to:
 
-*  **EXPerience** different cultures  
+*  **EXPerience** different cultures  
 * **Learn** about emerging economies in the region  
-*   **Observe** unique societal issues  
+*  **Observe** unique societal issues  
 *   **Reconnect** with one’s own identity as a Singaporean  
-●*  **Enrich** the lives of others by contributing one’s services  
+*  **Enrich** the lives of others by contributing one’s services  
   
 On 24 November, the students and staff on the **Cultural Immersion Trip to Vietnam** (24-30 November) set off on their learning journey.
-
