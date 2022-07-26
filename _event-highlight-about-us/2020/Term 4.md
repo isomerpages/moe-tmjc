@@ -45,3 +45,42 @@ From 23 Aug to 23 Oct, in conjunction with Teachers’ Day, members of the publi
 ### MOE Service Excellence Award (MSEA) 2020: TMJC's 6 Silver winners!
 
 ![](/images/MSEA%20Posters%202020_v2.jpeg)
+
+### Thank you to our thoughtful neighbour, CPASS!
+
+Today, the College was pleasantly surprised by our neighbour organisation, Cerebral Palsy Alliance Singapore School (CPASS).
+
+The CPASS family sent us crates of apples to wish us well and to stay healthy as we weather the COVID pandemic together.
+
+ Thank you, neighbour! Stay healthy and strong too!
+ 
+![](/images/2020-T4-Events-CPASS_01.jpeg)
+
+### Singapore Schools Sports Council (SSSC) Colours Award (Distinction): Raiyan Lee Shukran (19S304)
+  
+Raiyan Lee Shukran from 19S304 was recently awarded the Singapore Schools Sports Council Colours Award (Distinction) for representing the country at the South East Asian Games 2019 in baseball.
+
+ Raiyan started out playing softball in primary school and transferred his skills and knowledge of the game to baseball. His excellent performance in the game earned him a place in the national team that represented Singapore at the 2019 South-East Asian Games in Philippines. At that point, Raiyan was also the youngest member of the national team.
+
+ Raiyan is an avid sportsman. Besides baseball, he also developed a passion for rockclimbing when he joined the college in 2019. The concentration and resilience needed to challenge difficult courses in rockclimbing helps Raiyan sharpen his focus and propels him to compete at a higher level in the game of baseball. Raiyan also shared that the rigorous national training routine built up his mental toughness, improved his time management skills, and helped him to maintain a clear focus on his goals.
+
+Congratulations, Raiyan! We are proud of your achievements!
+
+![](/images/2020-T4-Events-RaiyanLeeSSSCAward_01.jpeg)
+
+### JC2 Awards Ceremony and Farewell Assembly
+
+On 9 October 2020, we officially bid farewell to our students from the Class of 2020.  
+
+ The day started off with the awards presentation in recognition of our students' achievement in both academic and non academic areas. Being a special year, the certificates were presented at separate venues with safe management measures in place and broadcast LIVE to their peers who cheered for them in the classrooms.
+ 
+ ![](/images/2020-T4-Events-JC2FarewellAssembly_01.jpeg)
+ 
+The next segment involved an online concert with well wishes and messages put together by both staff and JC1 students to encourage the graduating cohort to strive for their best at the A Levels. Students were able to enjoy the camaraderie with their classmates and tutors in the classrooms while safe-distanced as a cohort.
+
+ Mementos which included a Farewell Booklet and a special edition mask case was also specially prepared for the cohort. On top of that, Student Leaders also received a charging cable kit in appreciation of their service and contribution.
+ 
+ ![](/images/2020-T4-Events-JC2FarewellAssembly_02.jpeg)
+ 
+ We are very proud of the resilience and courage that all students have demonstrated this year as we brave through the uncertainty that the pandemic has brought about. May your stories continue to be told. All the best for the A Levels!
+ 
