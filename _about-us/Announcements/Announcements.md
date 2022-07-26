@@ -97,3 +97,21 @@ Nominees must also demonstrate the values of Arif Budiman, a learned person who 
 Nominations can be made online at [https://go.gov.sg/agab2022](https://go.gov.sg/agab2022.)  
   
 Do note that the online nomination closes on **1 April 2022.**
+
+![](/images/Announcement_Nomination%20of%20Awards%202022_03.jpeg)
+
+**Nomination for the Most Inspiring Tamil Teachers' Award (MITT) 2022 From 7 Feb 2022 to 29 April 2022  Nominations for the Most Inspiring Tamil Teacher Award (MITT) 2022** is now open.  
+  
+The MITT Award is jointly presented by Tamil Murasu, Tamil Language Learning and Promotion Committee (TLLPC), and the Singapore Tamil Teachers’ Union (STTU).  
+  
+The award is to recognise teachers who have made significant contributions to the teaching and learning of Tamil (TL).  
+Nominees should be   
+
+*   Teachers who nurture students’ interest in TL by using innovative methods to make lessons more interesting and engaging; and
+*   Dedicated and passionate teachers who demonstrate a keen interest in students’ well-being and inspire students to be self-directed and engaged learners. 
+
+**Nomination Process**  
+
+Nominations can also be made online at [https://go.gov.sg/mitt-tl-2022-tl](https://go.gov.sg/mitt-tl-2022-tl) and [https://go.gov.sg/mitt-2022-form-el.](https://go.gov.sg/mitt-2022-form-el.)
+
+Do note that the online nomination closes on **29 April 2022**.
