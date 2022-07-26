@@ -18,7 +18,7 @@ The day continued after lunch at Expo Convention Centre, where the Principal pre
  
  ![](/images/2019-T4-Events-StaffYearEndPlanning_01.jpeg)
  
- ### TMJC Overseas Trips
+ ###  TMJC Overseas Trips
 
 There was a flurry of activities at the local airports from 23rd and 26th November as 5 TMJC teams set off on their overseas trips!  
 First to depart on their learning adventures were the students and teachers on the **Malay Language Elective Programme (MLEP) Overseas Immersion Programme** (23-30 Nov). They joined students and teachers from other MLEP schools for this inter-schools trip.
@@ -69,8 +69,7 @@ The students definitely had an engaging and enriching experience embarking on th
   
 
   
-National Day Awards and AST Academy Awards for Professional Development 2019
--------------------------------------------------------------------------------
+### National Day Awards and AST Academy Awards for Professional Development 2019
 
   
 On 12 November, four TMJC staff members were presented the National Day Awards (NDA) 2019.  
