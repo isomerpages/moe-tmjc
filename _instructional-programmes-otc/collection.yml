@@ -2,9 +2,9 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
-      - Languages/H2 Mother Tongue Language and Literature.md
-      - Languages/H1 Mother Tongue Languages.md
       - Languages/.keep
+      - Languages/H1 Mother Tongue Languages.md
+      - Languages/H2 Mother Tongue Language and Literature.md
       - Overview of our Teaching & Learning.md
       - Subject Combinations.md
       - Knowledge Skills.md
