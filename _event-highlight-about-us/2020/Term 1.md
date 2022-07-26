@@ -143,3 +143,20 @@ TMJC held its Open House today to give prospective students and their parents a 
 On 13 January, the JC2 cohort officially sang the College Anthem for the first time during morning assembly.
 
 ![](/images/First%20College%20Anthem%20Singing.jpeg)
+
+### 1st Day of School 2020
+
+On 6 January 2020, TMJC welcomed our students back to College with a series of “Back-to-School” activities lined up for them to reconnect with their friends and teachers.  The day began with an opening address by our Principal, Ms Pamela Yoong.  The students then presented apples to their teachers to show their appreciation for their guidance and care. This was followed by a communal breakfast provided by the College for the students to bond with their Civics Tutors and fellow classmates  over assorted pastries and drinks.
+
+![](/images/2020-T1-Events-1stDayOfSchool_01.jpeg)
+
+One of the highlights of the day was the “Staff vs Student” friendly football and netball games.  This was a great opportunity for students to catch their teachers in action outside classroom.
+
+![](/images/2020-T1-Events-1stDayOfSchool_02.jpeg)
+The programme ended with the whole College coming together to prepare for the upcoming Open House to showcase the dynamic spirit of the College.  Here’s to a great 2020 ahead, TMJC!
+
+### TMJC students help out at P1 Orientations
+
+On 2nd and 3rd January 2020, some of our TMJC students were involved in the Primary One Orientation at Punggol Green Primary School and Punggol View Primary School. Our students had a wonderful time engaging with primary one students while assisting the teachers in orientation activities and ensuring the safety of the children.
+
+![](/images/2020-T1-Events-P1Orientation_01.jpeg)
