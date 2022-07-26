@@ -12,11 +12,12 @@ On top of the emphasis on practical approaches in our curriculum, our classroom 
   
 We encourage our students to learn beyond the curriculum. Enrichment programmes/activities include:  
   
-●     Our in-house research workshop on forensic science  
-●     Singapore Biology Olympiad  
-●     Nanyang Research Program  
-●     Science Research Program  
-●     A\*STAR student Attachment Program  
+* Our in-house research workshop on forensic science  
+* Singapore Biology Olympiad  
+* Nanyang Research Program  
+* Science Research Program  
+* A\*STAR student Attachment Program  
+
 Through these, we hope to bring the learning of Biology beyond the four walls of a traditional classroom setting to help our students understand the nature of scientific knowledge, demonstrate science inquiry skills and relate Biology to the broader society.   
 For more information on the H1 and H2 Biology syllabus:  
 
@@ -24,4 +25,3 @@ For more information on the H1 and H2 Biology syllabus:
 
 
 * [H2 Biology Syllabus Document (9744)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9744_y21_sy.pdf)
-
