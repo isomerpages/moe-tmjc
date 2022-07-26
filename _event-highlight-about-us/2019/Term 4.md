@@ -34,3 +34,53 @@ From 24 to 26 November, four teams departed for Vietnam and China as part of the
 *  **Enrich** the lives of others by contributing one’s services  
   
 On 24 November, the students and staff on the **Cultural Immersion Trip to Vietnam** (24-30 November) set off on their learning journey.
+
+![](/images/2019-T4-Events-OverseasTrip_02.jpeg)
+Two teams set off on 25 November:  
+*  **School Immersion @ Beijing and Shandong** (25 Nov - 1 Dec)
+*   **Service-Learning @ Ho Chi Min City** (25 Nov - 1 Dec)
+
+![](/images/2019-T4-Events-OverseasTrip_03.jpeg)
+![](/images/2019-T4-Events-OverseasTrip_04.jpeg)
+
+Finally, on 26 November, students and teachers on the **Innovation and Cultural Immersion @ Hangzhou and Shanghai** team embarked on their trip (26 Nov - 2 Dec).
+
+![](/images/2019-T4-Events-OverseasTrip_05.jpeg)
+Bon Voyage, and have a safe and fruitful learning journey! 
+
+  
+### Economics Ed-venture Learning Series 2019
+  
+The **Economics Ed-venture Learning Series** took place across 3 days in November (13th, 14th & 18th), where all JC1 Economics students (H1s and H2s) participated in an activity of their choice, from online learning, learning journeys and seminars.
+
+![](/images/2019-T4-Events-EconomicsEdventure_02.jpeg)
+
+The objectives are of the Ed-Venture Learning Series are:
+
+* **Connect**: To create first-hand personal learning experiences through visits, interactions with industry experts, and e-learning, to connect students’ learning with real world examples.
+
+* **Reflect**: To reflect and review one’s understanding and appreciation of economic concepts and theories.
+
+* **Expand learning**: To be able to build upon and apply one’s learning to complete given tasks.
+
+![](/images/2019-T4-Events-EconomicsEdventure_03.jpeg)
+
+The students definitely had an engaging and enriching experience embarking on their chosen “ed-ventures”!  
+  
+
+  
+National Day Awards and AST Academy Awards for Professional Development 2019
+-------------------------------------------------------------------------------
+
+  
+On 12 November, four TMJC staff members were presented the National Day Awards (NDA) 2019.  
+
+Long Service Award  <br>
+* **Ms Pamela Yoong** (Principal)
+* **Mdm Rosalind Loh Wee Chin** (Head of Department)
+
+Efficiency Award  
+*   **Mr Rafiee bin Abu Bakar** (School Laboratory Technician) 
+
+Commendation Award  
+* **Mr Wee Liang Tong** (School Staff Developer)
