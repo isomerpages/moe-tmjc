@@ -126,3 +126,65 @@ The class came up with the idea on their own, and as contributions poured in, wh
 
 ### TMJC’s Chan Choon Yong (18S101) awarded PSC Scholarship 2020
 ![](/images/2020-T3-Events-Chan%20Choon%20Yong_01.jpeg)
+
+Chan Choon Yong from 18S101 was among the 23 youths who were awarded the PSC Scholarship 2020, and will be pursuing a double degree in Computer Science and Statistics at the National University of Singapore (NUS).In an interview with Channel News Asia, Choon Yong shared that it was his childhood dream to become an “ethical hacker”, channelling his passion for computer science and programming to hone his knowledge and skills and use them for the public good.   
+
+An A\*STAR Science Award winner, Choon Yong’s keen interest and talent in programming was evident while he was a student at TMJC. The student team he led represented the college at the inaugural Cyberthon Competition jointly organised by Hwa Chong Institute and MINDEF, and emerged Overall 2nd Runner Up. He also played a key role in helping the team clinch the Technovative Award at the Nanyang Technological University's School of Computer Science and Engineering Computing Challenge.
+
+The College is proud of Choon Yong’s achievements and wishes him the very best as he continues to pursue his passion.   
+****Source: [Channel NewsAsia](https://www.channelnewsasia.com/news/videos/23-students-awarded-public-service-commission-scholarships-to-12954506)****
+
+**[](https://www.channelnewsasia.com/news/videos/23-students-awarded-public-service-commission-scholarships-to-12954506)**
+
+**[](https://www.channelnewsasia.com/news/videos/23-students-awarded-public-service-commission-scholarships-to-12954506)**
+
+  
+### Staff Learning Symposium 2020
+
+TMJC held its Staff Learning Symposium on 20 July.
+
+The theme of the Symposium was “Our HBL Experience”. After two months of Full Home Based Learning (FHBL) and many more weeks of some form of HBL, our teachers had not really had the opportunity to pause and take stock of what they did right, and areas for further improvement.  This Symposium was therefore put together to make space and time for such critical professional reflections.
+
+This Symposium also builds upon an earlier staff professional module that was conducted remotely on the SLS platform in March. This module focused on Assessment for Learning (AfL) within the context of the College’s Teaching and Learning (T&L) Framework. 
+
+The Symposium facilitators made use of the College’s T&L Framework as well as Mishra and Koehler’s TPACK framework as tools to guide teachers in their reflections on their HBL experiences. Using individualised worksheets as well as online collaborative tools such as Padlet, the teachers articulated and deepened their understanding of their HBL efforts.
+
+And, in strict adherence to safe distancing measures, staff were masked up throughout the event, and sat apart from one another. But this could not stop our staff from learning, and deepening their professional practice!
+
+![](/images/2020-T3-Events-Learning%20Symposium_01.jpeg)
+
+### Staff Promotion Ceremony 2020
+
+On 20 July, TMJC held its Staff Promotion Ceremony to recognise and celebrate staff achievements and contributions. Safety was, of course, paramount, and the event was held in compliance with safe distancing measures – everyone wore masks and sat at least a metre apart from others; there were no handshakes; and photographs were taken where staff stood on clearly marked spots on the stage to ensure safe distancing.  
+
+Everyone took the measures seriously and that did nothing to dampen the warm spirit of communal joy in celebrating our fellow colleagues’ promotions and long-service awards. The climax of the event was the presentation of the special MOE Outstanding Contribution Awards for staff’s COVID-related work. Teams such as School Attendants and Data Management were presented with the OCA, along with a monetary award, to recognise their extraordinary efforts in specific areas of work to help keep the college safe for students and staff during these difficult times.
+
+![](/images/2020-T3-Events-StaffPromotionCeremony_01.jpeg)
+
+### Schools Work Plan Seminar 2020, EZ JC/IP Cluster Engagement
+
+On 16 July, representative key personnel from the respective East Zone junior colleges and integrated programme schools met over Zoom for the Schools Work Plan Seminar 2020, East Zone JC/IP Cluster Engagement.
+
+This first-of-its-kind session targeted at JCs and IP schools was helmed by the Cluster Superintendents and school leaders to facilitate discussions about what the new normal would be like for the Singapore education system. The engagement session also discussed how blended learning could take place in schools. The engagement session engendered much candid and insightful exchanges between the participants.
+
+![](/images/2020-T3-Events-Schools%20Work%20Plan_01.png)
+
+### TMJC students pledge support for the Anti-Drug Abuse Campaign 2020
+  
+On 17 June, our JC1 students folded ribbons during their respective morning CT admin time in support of the Anti-Drug Abuse campaign organized by the Central Narcotics Bureau (CNB). In all, the cohort pledged a total of 1466 ribbons in support of a drug-free SG!
+
+![](/images/2020-T3-Events-Anti-DrugAbuseCampaign_01.jpeg)
+
+### Happy Father’s (and Mother’s) Day!
+
+This week at TMJC, to honour fatherhood and show appreciation for the love and care that fathers shower on their family, all the members of staff were treated to a yummy delight of pastries, pies and muffins, lovingly sponsored by our dear Principal, Ms Yoong! Also, in this special year, since it is not possible for students to present carnations to staff on Mother’s Day in May, we took this opportunity to present these yummy treats to the moms too!   
+
+![](/images/2020-T3-Events-HappyFathersAndMothersDay!_01.jpeg)
+
+Happy Father’s (& belated Mother’s) Day, everyone!
+
+### Back to College After Circuit Breaker!
+
+On 2nd June, students and staff returned to college after almost two months of Circuit Breaker measures.For these two weeks, the JC2 students will be back in college while the JC1s continue with HBL. Everyone dutifully donned their masks and queued patiently to be scanned for entry. There was a strange mix of excitement and seriousness in the air – excited to finally be back at college and to meet fellow students and teachers, but also seriousness because everyone was vigilant about following the safety measures put in place.  
+
+Ms Yoong, our principal, together with the school leadership team, addressed the staff and the students separately over several sessions, to welcome everyone back and reiterate the importance of adhering to SAFE measures (**S**afe distancing; **A**dhere to well-being practices; **F**ollow Seating Arrangements; **E**ncourage good hygiene practices). Everyone was also treated to fresh apples, courtesy of the college, to symbolise a healthy beginning to Term 3, and to remember to stay healthy!
