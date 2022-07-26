@@ -25,3 +25,7 @@ For more information on the H1 and H2 Physics syllabus:
 
 * [H2 Physics Syllabus Document (9749)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9749_y21_sy.pdf)
 
+![](/images/TMJC-OurCurriculum_IP_Physics_01.jpeg)
+![](/images/TMJC-OurCurriculum_IP_Physics_02.jpeg)
+![](/images/TMJC-OurCurriculum_IP_Physics_03.jpeg)
+In-House workshop on Aerodynamics
