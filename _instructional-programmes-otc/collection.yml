@@ -2,12 +2,12 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
-      - Mathematics & Sciences/Further Mathematics.md
-      - Mathematics & Sciences/Mathematics.md
-      - Mathematics & Sciences/Physics.md
-      - Mathematics & Sciences/Chemistry.md
-      - Mathematics & Sciences/Biology.md
       - Mathematics & Sciences/.keep
+      - Mathematics & Sciences/Biology.md
+      - Mathematics & Sciences/Chemistry.md
+      - Mathematics & Sciences/Physics.md
+      - Mathematics & Sciences/Mathematics.md
+      - Mathematics & Sciences/Further Mathematics.md
       - Overview of our Teaching & Learning.md
       - Subject Combinations.md
       - Knowledge Skills.md
