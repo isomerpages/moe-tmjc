@@ -83,3 +83,83 @@ Efficiency Award
 
 Commendation Award  
 * **Mr Wee Liang Tong** (School Staff Developer)
+
+![](/images/2019-T4-Events-NationalDayAwards_03.jpeg)
+
+And on 6 November, our Senior Teacher (Biology) **Ms Shahenaz Sulaiman**, was presented the **Associate of AST Award 2019** by the Academy of Singapore Teachers (AST) for her outstanding contributions in the professional development of the teaching fraternity.
+
+![](/images/AST%20Associate%202019%20(Smaller).jpeg)
+
+Congratulations to our award winners! 
+
+  
+
+### Deepavali@TMJC 2019
+
+Deepavali, also known as the Festival of Lights, is celebrated by most Hindus in Singapore.
+
+To mark this celebration in TMJC the Tamil students and students from the Culture Promotion Club came together to put up an assembly programme on 22 October to share more about the festival with the J1 cohort. The programme shed light on the traditions and legends associated with Deepavali as well as how it is celebrated in Hindu homes in Singapore. The highlights of the programme was of course the melodious song sung by Yohapriya of 19S502 and the energising dance by a group of boys to an upbeat Tamil song.
+
+![](/images/2019-T4-Events-DeepavaliCelebrations_01.jpeg)
+
+In the spirit of celebration, the JC1 Tamil and Higher Tamil students also came together to volunteer for a community project entitled ‘Lighting Hearts Lighting Homes’ which was aimed at spreading festive cheer by distributing Deepavali goodies and essential household items to needy Indian families in Singapore. Despite the hard work involved in packing 2700 goodie bags for distribution, all of the student volunteers enjoyed the activity and displayed the TMJC value of compassion by working hand in hand with many other volunteers for a worthy cause. It was a truly meaningful and memorable experience giving back to the community.
+![](/images/2019-T4-Events-DeepavaliCelebrations_02.jpeg)
+
+### Anthos_: JC2 Awards and Farewell Assembly 2019
+
+On 11 October 2019, Tampines Meridian Junior College bid a warm and fond farewell to her pioneer batch of JC2 students at her first Awards and Farewell Ceremony.
+
+The theme for this year’s JC2 Awards and Farewell Ceremony is '_Anthos_', Greek for blossom. It represents the journey of the graduating cohort in TMJC and how the College has helped them grow and mature into better versions of themselves, culminating in their graduation as they blossom and embark on a new phase of their lives.
+
+![](/images/2019-T4-Events-FarewellAssembly_01.jpeg)
+
+The Ceremony began by recognising the JC2s for their outstanding achievements and contributions in College. Following that, teachers from the various departments, as well as the JC1 juniors, put up heartwarming performances and videos to encourage and spur the graduating cohort on in their final lap towards the A Level examinations. The JC2s were treated to a surprise segment too - they became the first students in TMJC to hear and sing the college’s newly-composed anthem, presented to them by the teachers from the college anthem committee.
+![](/images/2019-T4-Events-FarewellAssembly_02.jpeg)
+
+Every JC2 student was also presented with a “Class 2019 Farewell Booklet”. This is a meaningful memento which contains a compilation of encouraging and motivating messages from their teachers & School Leaders.  The event ended off with a lunch reception specially organised for the graduating cohort. The JC2 students had a great time at their final get-together as a cohort in the midst of their preparation for the A-Levels. 
+
+To our dear JC2s: Continue to press on! Here’s wishing you all the best for your A-Levels!  
+  
+
+### Citizenship Education “SG Perspectives” Sessions 2019
+
+As part of TMJC’s 2019 Citizenship Education Programme, staff and students had the unique opportunity to engage Senior Civil Servants and Office Holders in discussing contemporary issues that impact Singapore. Through these interactive dialogues, students and teachers attained a greater understanding of the considerations behind policy-making, as well as a heightened awareness of key national issues and challenges.
+
+This year, we were honoured to have the following distinguished guests as our speakers: Ambassador (Retired) VP Hirubalan on 8 May; Senior Minister of State (Ministry of Education & Ministry of Trade and Industry) Mr Chee Hong Tat on 24 July; and Permanent Secretary (Smart Nation & Digital Government, Prime Minister’s Office) Mr Ng Chee Khern on 11 October.
+
+![](/images/2019-T4-Events-CitizenshipEducation_01.jpeg)
+
+Through Ambassador (Retired) Hirubalan’s sharing, the JC1 students were sensitised to the key principles of Singapore’s foreign policy and her persistent vulnerabilities as a small country. Students also learnt about how foreign policy impacts their lives, especially given that Singapore is one of the world’s most connected countries.
+
+![](/images/2019-T4-Events-CitizenshipEducation_02.jpeg)
+
+Through their dialogue with Senior Minister of State Mr Chee Hong Tat, the JC2 students learnt about the disruptive forces surrounding Singapore's workforce and the importance of life-long learning in preparation for the future. In the process, they also learnt about the need to balance passion with reality when deciding on a career.
+
+![](/images/2019-T4-Events-CitizenshipEducation_03.jpeg)
+
+Permanent Secretary Mr Ng Chee Khern spoke with the teachers about the opportunities, challenges and importance of achieving Singapore’s Smart Nation vision. They also gained an insight into the crucial role that they as teachers play in Singapore’s Smart Nation vision – to help their students embrace Science and Technology despite the risks of technology, be it cyber security and privacy lapses or fake news.
+
+The College would like to thank Ambassador (Retired) Hirubalan, Senior Minister of State Mr Chee Hong Tat and Permanent Secretary Mr Ng Chee Khern for these enriching sessions. The College would also like to thank the Ministry of Education Character & Citizenship Education Branch for co-organising this series of Citizenship Education “SG Perspectives” dialogues for the benefit of our staff and students.  
+  
+
+### EU Comes To Your School Project  
+
+![](/images/2019-T4-Events-EUComesToSch_01.jpeg)
+
+On 23 May, TMJC hosted Mr Marco Cardoni (Deputy Head of Mission, Embassy of Italy to Singapore and Brunei Darussalam).
+
+Mr Cardoni held an engaging dialogue with our students as part of the “EU Comes to Your School Project”, organized by the European Union and supported by MOE. He gave a succinct overview of the establishment of the EU and its mission of promoting peace and growth. He also shed light on many interesting facets of European culture, and Italy’s in particular, and helped broadened our students’ understanding about Europe, and Singapore’s as well as ASEAN’s relationship with the EU. 
+
+The College would like to thank the Italian Embassy for the generous and informative sharing with our students. 
+
+### “On: Purpose” - Careers and Higher Education Fest 2019
+
+On 7th October, TMJC organised its first Careers and Higher Education Fest 2019. The event is themed “On: Purpose” to emphasise the point that TMJCians seize the initiative and the opportunities provided to explore and understand their aspirations and move towards their goals with clarity and purpose.
+
+![](/images/2019-T4-Events-Careers&HigherEducationFest_01.jpeg)
+
+The day started with an inspirational keynote address by Dr. Jaipal Singh Gill, Executive Director of SPCA. He shared about how his passion for animal welfare was shaped over the years and how he built up transferable skills through varied experiences, inspiring our students to deepen their learning while following their hearts. Thereafter, students attended a series of skill-based workshops and professional sharing sessions helmed mostly by alumni of our parent colleges, along with other speakers from various organisations.
+
+![](/images/2019-T4-Events-Careers&HigherEducationFest_02.jpeg)
+
+The highlight for the event would be the Careers and Higher Education Fair, which featured 28 booths that range from local to overseas university, ministries, statutory boards and social enterprises. Students also had the opportunity to find out more information about local universities, scholarships and internship opportunities. Our students had an enriching day as they gained greater insights into their future education and career paths.
