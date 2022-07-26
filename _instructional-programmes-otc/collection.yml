@@ -2,6 +2,7 @@ collections:
   instructional-programmes-otc:
     output: true
     order:
+      - Mathematics & Sciences/Mathematics.md
       - Mathematics & Sciences/Physics.md
       - Mathematics & Sciences/Chemistry.md
       - Mathematics & Sciences/Biology.md
