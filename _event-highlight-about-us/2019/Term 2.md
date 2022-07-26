@@ -202,3 +202,51 @@ As part of MT Enrichment Day, the Malay Language Unit organised a Cultural Trail
 **Tamil Beyond Classrooms**
 ![](/images/MTL%20FINAL%203.jpeg)
 
+The Tamil Unit organised a speech and drama workshop as part of the MTL Enrichment Day for Tamil students. The workshop was run by a popular Vasantham TV personality Mr Nagaraj who is an accomplished stage drama artiste. The students were engaged in a variety of drama techniques and speech articulation techniques and had fun as they re-enacted little skits with their peers to practice the techniques taught. It was a great time of bonding for all Tamil Students as H1 TL, H2 TLL, TLB and HTL students were involved in the workshop. The 3 hour workshop was a new and interesting experience for students as they discovered their talents in acting and oracy skills.  
+  
+
+  
+### Minister Ong visits TMJC
+
+Mr Ong Ye Kung, Minister for Education, visited TMJC on 12th April. He interacted with our staff and students and had a tour of the college. We hope he enjoyed his visit as much as we enjoyed hosting him.
+
+![](/images/minister%20montage.png)
+
+### TMJC Celebrates 100 Days!
+
+On 10th April, TMJC celebrated our 100th Day as a new college!  
+  
+To mark the special occasion, a commemorative balloon arch was set up right outside the college’s main thoroughfare, and students and staff gathered throughout the day to snap and upload their favourite photos!
+
+![](/images/TMJC100%20Staff%20and%20Students%20Arch.jpeg)
+
+The staff also shared a custom-made “TMJC Celebrates 100 Days” cake,
+![](/images/TMJC100%20CAKE.jpeg)
+as well as a sumptuous staff celebratory lunch.
+![](/images/Staff%20Lunch.png)
+
+Overall, staff and students shared a great day of fun and food!
+
+  
+### Guitar Ensemble SYF 2019
+
+
+The 1st batch of Tampines Meridian Junior College Guitar Ensemble participated in the Singapore Youth Festival (SYF) Arts Presentation 2019 on 5th April 2019. The Ensemble’s musical journey, be it in the form of learning different musical styles, as well as the facing of challenges head on, has truly produced a group of fine musicians.
+
+![](/images/Guitar%20Ensemble%20SYF%202019_1.jpeg)
+Here is Ms Yoong, Mrs Pang and the teachers sending them off and wishing them all the best before the performance.
+
+![](/images/Guitar%20Ensemble%20SYF%202019_2.jpeg)
+
+### Singapore Youth Festival Arts Presentation 2019: TMJC Chinese Orchestra
+
+  
+The 1st batch of Tampines Meridian Junior College Chinese Orchestra (TMCO) participated in the SYF Arts Presentation 2019 on 4 April 2019.  Here is Ms Yoong and the teachers sending them off and wishing them all the best before the performance.
+
+![](/images/CO%20photo.jpeg)
+
+### Basketball 5D4N Sports and Cultural Immersion Trip
+
+This March holidays (15th to 19th March 2019), 26 basketball players and 3 teacher chaperones embarked on a 5D4N Sports and Cultural Immersion Trip to Cyberjaya, Malaysia. Through this trip, our students had the opportunity to experience living the life of a sports athlete in an overseas setting and learnt about the rigorous training schedules and challenges of being a student athlete.
+
+![](/images/Basketball%205D4N%20Sports%20and%20Cultural%20Immersion%20Trip.jpeg)
