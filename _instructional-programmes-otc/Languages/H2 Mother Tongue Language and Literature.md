@@ -19,3 +19,24 @@ For more information on the respective H2 MTL syllabus:
 
 * [H2 Chinese Language & Literature Syllabus Document (9572)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9572_y22_sy.pdf)
 * [H2 Malay Language & Literature Syllabus Document (9573)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9573_y22_sy.pdf)
+
+![](/images/TMJC-OurCurriculum_H2MTLL_01.jpeg)
+CLL Taiwan School Visit
+
+![](/images/TMJC-OurCurriculum_H2MTLL_02.jpeg)
+CLL Taiwan School Visit
+
+![](/images/TMJC-OurCurriculum_H2MTLL_03.jpeg)
+MLL Kompang Workshop
+
+![](/images/TMJC-OurCurriculum_H2MTLL_04.jpeg)
+MLL Poetry Recital Competition
+
+![](/images/TMJC-OurCurriculum_H2MTLL_05.jpeg)
+MLL Sirih Junjung Workshop
+
+![](/images/TMJC-OurCurriculum_H2MTLL_06.jpeg)
+TLL Interview at Indian Heritage Centre
+
+![](/images/TMJC-OurCurriculum_H2MTLL_07.jpeg)
+TLL Tamil Prize
