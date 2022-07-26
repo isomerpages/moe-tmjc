@@ -111,3 +111,11 @@ On Saturday 23 February, Tampines Meridian Junior College collaborated with MOE�
 The speaker, Dr Mohd Faizal Musa, provided the audience with profound insights into Malay Culture through his talk entitled ‘Bijaknya Budaya Melayu’. His speech encompassed different aspects of Malay Culture including its rich heritage in gastronomy as well as the nature and well-being of life.  
   
 In the afternoon, the students from the three different MLEP centres gathered for the MLEP Orientation. Students were given the opportunity to interact with one another and have some fun while playing games prepared by the MLEP scholars.  JC2 TMJC MLEP students acted as facilitators for these activities and did their best to ensure that the students enjoyed the Orientation as a whole.
+
+![](/images/2019-T1-Events-8thMLEPTalks&Orientation_2.jpeg)
+
+### Release of 2018 A Level Results at TMJC
+
+Congratulations to the cohort of 2018 from Tampines Junior College and Meridian Junior College for your sterling results! We are proud of you!
+
+![](/images/P1010013-2.jpeg)
