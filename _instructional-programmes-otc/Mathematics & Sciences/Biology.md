@@ -25,3 +25,21 @@ For more information on the H1 and H2 Biology syllabus:
 
 
 * [H2 Biology Syllabus Document (9744)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9744_y21_sy.pdf)
+
+![](/images/TMJC-OurCurriculum_IP_Bio_01.jpeg)
+In-House Workshop - Crime Scene Investigation
+
+![](/images/TMJC-OurCurriculum_IP_Bio_02.jpeg)
+In-House Workshop - Crime Scene Investigation
+
+![](/images/TMJC-OurCurriculum_IP_Bio_03.jpeg)
+In-House Workshop - Crime Scene Investigation
+
+![](/images/TMJC-OurCurriculum_IP_Bio_04.jpeg)
+Practical involving mealworms
+
+![](/images/TMJC-OurCurriculum_IP_Bio_05.jpeg)
+Biology pGLO Practical
+
+![](/images/TMJC-OurCurriculum_IP_Bio_06.jpeg)
+Practical involving mealworms
