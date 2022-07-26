@@ -1,4 +1,5 @@
 collections:
   instructional-programmes-otc:
     output: true
-    order: []
+    order:
+      - Overview of our Teaching & Learning.md
