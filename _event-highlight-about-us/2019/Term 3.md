@@ -50,3 +50,45 @@ Singapore’s multicultural food heritage is a common ground that unites all Sin
 On 13th July 2019, 3 of our colleagues Kenny Han, Lee Ying Qi and Sim Sheng Xiang took part in the annual MOE Olive Run. They finished the run as “Mixed Team Champions” and were awarded  the DGE Challenge Shield. To sweeten the victory, Kenny Han emerged as Individual 2nd in the "Mens below 45 years old" category and Lee Ying Qi walked away as the Individual Champion for "Womens below 45 years old" category. Well done teachers!
 
 ![](/images/2019-T3-Events-MOEOliveRun2019_01.jpeg)
+
+### Budding Poets’ Programme (Naanum oru Padaipaali)
+
+The Mother Tongue Languages Branch of CPDD, MOE organised the Budding Poets’ Programme (Naanum oru Padaipaali) in Tamil language for Junior College students. Three of our students Nagaraj Yohapriya (19S502), Mani Sakthi Saranya (19S203) and T Kavithaa (19S203) represented TMJC in this programme in the months of February to April 2019.  
+Through this programme, students attended a total of three workshops which provided them the opportunity opportunities to meet many local writers and engage in discussions. During the workshops, they learnt more about poetry writing techniques and local literary works. They were then given themes to create their own poems and recite them. We are proud that to announce that Yohapriya and Mani Sakthi Saranya are awarded with won the Gold award and while Kavithaa won a Commendation award in the Competition. The Prize Presentation Ceremony took place on the 13th of July.  Yohapriya was one of the winners invited to showcase her poem to the audience. She recited her poem with grace and style and earned praises from many who attended the event. She was also featured in the Tamil News that evening.   
+The whole experience was an enriching one for the students who have since developed a keen interest in poetry writing. They have been invited to enrol in a mentoring programme to further develop their writing skills and discover their potential in becoming reflective & creative local writers in the future. Well done students!
+
+![](/images/2019-T3-Events-BuddingPoetsProg_01.jpeg)
+
+### Malay Language Elective Programme Scholarship 2019
+
+Tampines Meridian Junior College is one of the three Junior Colleges in Singapore to offer the Malay Language Elective Programme (MLEP). The 2-year Programme aims to nurture the interest of academically inclined and linguistically talented students to pursue the Malay language course at H2 Level. This year, the college is proud to commend four students who were awarded the MLEP Scholarship. They are Nurul Aaliyah Deduyo (19S502), Rifqah Bte Mohamed Roslan (19A101), Lutfi Bin Mohamed Zulnizan (19S502) and Muhammad Izz Ryanshah Bin Nor Azam (19S502). These students were nominated based on their outstanding overall results in the GCE O-Level Examinations especially in the Malay language, Higher Malay Language or Malay literature, and underwent intensive scholarship selection interviews before they were awarded with the scholarship. Well done students!
+![](/images/2019-T3-Events-MLEPScholarship_01.jpeg)
+
+### TM Celebrates!
+
+On the 12th of July, we had TM Celebrates!, an event to mark our first birthday since our Heritage Gallery was launched on 6 July 2018. The day started with cake-cutting, followed by the distribution of a badge memento to mark the day, and the unveiling of our TMJC star structure made of 15,426 stars handmade by all members of our College that made a mark in the Singapore Book of Records, the unveiling of our College’s student Polo-Tshirt that was chosen based on students’ votes, and our House Crests.
+
+![](/images/2019-T3-Events-TMCelebrates_01.jpeg)
+
+![](/images/2019-T3-Events-TMCelebrates_02.jpeg)
+_Cake-cutting & Presentation of Certificate by representative from Singapore Book of Records_
+
+![](/images/2019-T3-Events-TMCelebrates_03.jpeg)
+_The unveiling of our College Polo Tee_
+
+![](/images/2019-T3-Events-TMCelebrates_04.jpeg)
+_Our House Crests_
+
+![](/images/2019-T3-Events-TMCelebrates_05.jpeg)
+_Dance performance by our College Dance CCA to start off the Carnival segment_
+
+Staff and students then participated in a carnival, where there were games set up by both CCAs and external vendors, as well as special programmes put up by our Performing Arts groups, for all to enjoy. There were also free churros, popcorn, candy floss and food sold by our canteen stall-holders, including slushies brought in by our Parents’ Support Group was priced at $1 for that day to mark our 1st birthday.
+
+![](/images/2019-T3-Events-TMCelebrates_06.jpeg)
+_Snapshots of what went on during the Carnival_
+
+While this event was fun-filled, our students also took the opportunity to step up to carry out VIA activities. We had a CG-initiated “Walk for Rice” to help fight hunger in our community sponsored by the North East CDC in partnership with Tampines Town Council. Our College’s Interact Club, in collaboration with the Singapore Association of the Visually Handicapped, also organised “Dining in the Dark” to raise awareness towards visual impairment.
+![](/images/2019-T3-Events-TMCelebrates_07.jpeg)
+_CG-initiated VIA activity – “Walk for Rice”_  
+
+It was definitely a day of fun, and we’re looking forward to next year’s!
