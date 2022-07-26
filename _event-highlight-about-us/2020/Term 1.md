@@ -92,3 +92,17 @@ In TMJC, apples are presented to teachers on the first day of school by the stud
 On 3 February 2020, fourteen of our TMJC students taking H2 Chinese Language and Literature hosted a group of sixteen Year 2 Senior High students and their teacher from National Ping-Tung Girls Senior High School (Taiwan). Our visitors were given an overview of the Singapore junior college education system and brought around on a campus tour of our college. All also had the opportunity to attend an exclusive sharing by Dr. Long Chin Peng from the National Heritage Board on the culture of New Year food. It was an enjoyable experience learning across different cultures!
 
 ![](/images/2020-T1-Events-%20VisitStudentFromTaiwan.jpeg)
+
+### Pasir Ris West Lunar New Year Dinner 2020
+  
+On 2 February 2020, TMJC’s Chinese Orchestra, Choir and Wushu performed at the annual Lunar New Year Dinner held at Pasir Ris Elias Community Club.
+
+ The event was organised by the Pasir Ris West Grassroots Organisations and SM Teo Chee Hean was the Guest-of-Honour that evening. It was a great opportunity for residents of Pasir Ris West to come together to celebrate the festive occasion and for our students to showcase their talents! Our student performers received positive compliments from the organizers for putting up excellent performances. Well done, students!
+ 
+ ![](/images/2020-T1-Events-%20VisitStudentFromTaiwan.jpeg)
+ 
+### Chinese New Year Celebrations 2020
+
+On 24 January, our staff, students and the College Advisory Committee gathered for a college Lo-Hei to celebrate Chinese New Year together, and to kick-start the year with some well-tossed blessings! Huat ah!
+
+![](/images/IMG-5681.jpeg)
