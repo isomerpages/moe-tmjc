@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Event Highlights/.keep
       - Our Achievements/.keep
       - Our Achievements/Student Achievements 2021.md
       - Our Achievements/Student Achievements 2020.md
