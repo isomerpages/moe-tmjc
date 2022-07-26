@@ -70,3 +70,30 @@ The nomination closes on **30 April 2022.**
 
 ### Nominations for Awards 2022
 
+![](/images/Announcement_Nomination%20of%20Awards%202022_01.jpeg)
+![](/images/Announcement_Nomination%20of%20Awards%202022_02.jpeg)
+
+**Nominations of the Arif Budiman Malay Language Teacher Award 2022**  
+
+**Online Nomination closes on 1 April 2022** 
+
+**The Arif Budiman Malay Language Teacher Award (AGAB) 2022** is jointly organised by the Malay Language Council, Singapore (MLCS), Malay Language Teachers' Association (PGBM), Berita Harian (BH) and the Malay Language Learning and Promotion Committee (MLLPC).   
+The annual award aims to recognise outstanding Malay Language teachers who have made significant contributions to the teaching and learning of Malay Language in our local mainstream schools.  
+  
+This year, awards will be given out under the following categories:  
+  
+Motivation (less than 10 years in teaching service); and  
+  
+Role Model (10 years and above in teaching service).  
+  
+Nominees will be evaluated based on  
+
+*   their ability to instill knowledge, skills, and interest in the learning of the Malay language, literature, and culture, as well as their care and concern for the well-being of their students.
+
+  
+Nominees must also demonstrate the values of Arif Budiman, a learned person who contributes to society through excellent and exemplary service as an educator.  
+  
+**Nomination Process**  
+Nominations can be made online at [https://go.gov.sg/agab2022](https://go.gov.sg/agab2022.)  
+  
+Do note that the online nomination closes on **1 April 2022.**
