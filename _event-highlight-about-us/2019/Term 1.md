@@ -119,3 +119,94 @@ In the afternoon, the students from the three different MLEP centres gathered fo
 Congratulations to the cohort of 2018 from Tampines Junior College and Meridian Junior College for your sterling results! We are proud of you!
 
 ![](/images/P1010013-2.jpeg)
+
+### National Games Athletes Oath Taking Ceremony
+
+To mark the opening of the 2019 National Schools Games, and to instil character in sporting excellence in our students, the college’s Sports Captains took the Athletes’ Oath in from of all staff and students this morning.
+
+![](/images/2019-T1-Events-AthletesOathTaking_1.jpeg)
+
+The oath-taking ceremony is part of a larger movement in Singapore schools to instil among our students the spirit of striving, losing with grace and bouncing back from set-backs as they compete in sports and games.
+
+![](/images/2019-T1-Events-AthletesOathTaking_2.jpeg)
+
+May our College athletes be inspired to strive for their best, embody the true spirit of sportsmanship in victory and defeat, and through the process enrich their lives. Let us wish them the very best in the upcoming games!
+
+  
+
+### JC2 Council Re-Installation
+
+20th February 2019 was an important milestone for TMJC, as the first batch of Tampines Meridian Student Councillors (TMSC) were installed in the presence of the entire college.
+
+![](/images/2019-T1-Events-CouncilReInstallation_1.jpeg)
+
+During the ceremony, Ms Yoong encouraged the student councillors who play an important role in leading their peers to lay the foundation for our new college’s, and to foster a strong college spirit. The student councillors were then presented with their new council badges featuring the college logo, which they pinned on proudly.
+
+![](/images/2019-T1-Events-CouncilReInstallation_2.jpeg)
+
+Thereafter, Abdul Qayyum Zaki B Zulkifli delivered his first speech as the first TMSC president in the presence of his peers, where he encouraged his peers to forge strong bonds and build meaningful friendships in our new home, TMJC.  
+
+The ceremony ended on a high note as the councillors recited their Council Oath in unison, pledging to serve the college faithfully and to do their absolute best to do our college proud and enrich the college experience for their peers! We look forward to a fresh beginning with our newly installed TMSC!  
+  
+
+### Total Defence Day
+
+On 19 February 2019, the pioneer JC1 cohort of Tampines Meridian Junior College (TMJC) embarked on a learning journey to Singapore Discovery Centre (SDC) in commemoration of Total Defence Day.
+
+![](/images/2019-T1-Events-TotalDefenceDay_1.jpeg)
+
+Through a special programme designed by the staff of TMJC and SDC, students learnt about the multi-dimensional nature of defence in Singapore. The programme sought to engage them by incorporating elements of experiential learning and friendly competition. Students participated in many hands-on activities where they learned more about the six pillars of Total Defence. Classes also competed among themselves in the ‘Amazing Race’ segment that focused on helping students understand the importance of Digital Defence in Singapore.
+
+![](/images/2019-T1-Events-TotalDefenceDay_3.jpeg)
+
+As this was the students’ first outing together as a class, they also forged deeper ties with one another as well as with their Civics Tutors by the end of the learning journey. It was a thoroughly enjoyable and enriching learning experience for all!
+
+![](/images/2019-T1-Events-TotalDefenceDay_2.jpeg)
+
+### TMJC JC1 Orientation 2019: “HORIZON”
+ 
+**“DAY OUT” @ Pasir Ris Park**
+
+On 11 February 2019, TMJC JC1 students had their first day out at Pasir Ris Park together as a cohort. The JC1 students took part in a series of exhilarating station games. These station games were planned and executed by a team of 245 enthusiastic JC2 OGLs. Through this fun-filled day packed with exciting activities, the JC1 students were not only able to bond with their Orientation Groups, but also share the experience as a cohort.
+
+![](/images/2019-T1-Events-JC1Orientation_1.jpeg)
+
+**Finale**
+
+TMJC's first JC1 Orientation ended on a high note on 12 February 2019, with the Finale. Both the JC1s and their seniors poured their hearts into a whole series of impressive performances of songs, dances and cheers. We are heartened to hear the thunderous cheers by our students throughout the Orientation - that is the TMJC spirit!
+
+![](/images/2019-T1-Events-JC1Orientation_2.jpeg)
+
+### Alumni Sharing at Orientation
+![](/images/2019-T1-Events-AlumniSharing_1.jpeg)
+
+On 12 February, the last day of Orientation, two of our recently graduated alumni from both our parent colleges – Jacelyn (MJC 17S303) and Ashlyn (TPJC17S09) – did a sharing on their JC journey with their juniors.The sharing was heartfelt and authentic, with them pointing out some key differences between the JC experience and the secondary school experience, and the challenges they faced along the way, such as managing their academics, CCA and Project Work responsibilities.  
+
+  
+Jacelyn and Ashlyn shared candidly that the JC journey might prove challenging, and advised their juniors to be ready to seek help from teachers, the college counsellors, and their friends when the going gets tough. At the same time, they also encouraged their juniors to be open to helping others out if their peers do approach them. Jacelyn and Ashlyn ended their sharing by reminding the freshmen to believe in themselves, and not to “measure \[their\] progress with someone else’s ruler”.
+
+![](/images/2019-T1-Events-AlumniSharing_2.jpeg)
+
+The College sincerely appreciates both alumni for taking time and the effort to share with their juniors. We look forward to more of our alumni coming back! 
+
+  
+### Lunar New Year Appreciation and Staff Lo-hei 2019
+
+大年初九! On the 9th Day of the Lunar New Year, as part of the college’s Lunar New Year celebrations, the school leaders and staff well-being representatives presented ang baos as a blessing from the TMJC staff to our 26 deserving OSOs, security guards, contract cleaners and ICT team members who have been supporting the College unreservedly in so many ways.
+
+![](/images/2019-T1-Events-StaffsLohHei_1.jpeg)
+
+Following that, all the staff gathered for our very own LO-HEI & breakfast as one Big Family! Lots of joy, laughter and smiles filled the atrium as friends and colleagues caught up with one another over the joyous feasting.
+
+![](/images/2019-T1-Events-StaffsLohHei_2.jpeg)
+
+Here’s wishing one and all happiness and good health in the new lunar year! 新年快乐， 万事如意， 心想事成，身体健康!
+
+  
+
+### Chinese New Year 2019
+![](/images/2019-T1-Events-CNY2019_1.jpeg)
+
+On 4th Feb 2019, the eve of Chinese New Year, the MTL department organised a special CG and OG-bonding Bingo activity for the cohort to usher in the new year. This bonding activity has allowed the students to better understand the customs and traditions of the Lunar New Year celebrations and have fun together in the process.
+
+![](/images/2019-T1-Events-CNY2019_2.jpeg)
