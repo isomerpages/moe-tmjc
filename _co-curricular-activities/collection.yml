@@ -2,13 +2,13 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/Symphonic Band.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/English Drama.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Chinese Orchestra.md
       - Performing Arts/.keep
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Symphonic Band.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Culture Promotion Club.md
       - Clubs & Societies/Debating & Public Speaking.md
