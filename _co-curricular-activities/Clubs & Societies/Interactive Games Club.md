@@ -23,7 +23,3 @@ The Interactive Games Club (IGC) combines fun with learning, with members of the
 
 
 ![](/images/TMJC-StudentDevelopment_CCA_InteractiveGameClub_07.jpeg)
-
-
-
-
