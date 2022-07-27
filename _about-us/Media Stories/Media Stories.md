@@ -14,3 +14,7 @@ Permission required for reproduction.**
 **Source:** **ZBNow****, 10 March 2021 ©** **Singapore Press Holdings Limited.  <br>
 Permission required for reproduction.**
 
+![](/images/TM%203%20May%202021%20p3.jpeg)
+
+**Source: TM****, 3 May 2021 ©** **Singapore Press Holdings Limited.  <br>
+Permission required for reproduction.**
