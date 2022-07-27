@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/.keep
       - Clubs & Societies/.keep
       - Clubs & Societies/Culture Promotion Club.md
       - Clubs & Societies/Debating & Public Speaking.md
