@@ -15,8 +15,8 @@ contacts:
   - content:
       - phone: +65 6349 3660
       - email: tmjc@moe.edu.sg
-      - other: "Fax : 6349 3667 <br> Nearest MRT Station : EW1 - Pasir Ris
-          <br>  Buses     \t: Tampines Meridian JC    Pasir Ris Dr 1
+      - other: "Fax : 6349 3667 <br><br>Nearest MRT Station : EW1 - Pasir Ris
+          <br><br>  Buses     \t: Tampines Meridian JC    Pasir Ris Dr 1
           (77231)    39, 53, 81, 89, 109, 518, 737<br><br>  Blk 643 / Opp
           Tampines Meridian JC    Pasir Ris Dr 1 (77239)   39, 53, 53A, 81, 89,
           89A, 109, 359, 518, 518A, 737 <br><br>Tampines Meridian JC / Opp Blks
