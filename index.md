@@ -4,7 +4,7 @@ title: Tampines Meridian Junior College
 description: An Isomer site of the Singapore Government
 image: /images/tmjc.jpeg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "T: 6349 3660 F: 6349 3667 E: TMJC@MOE.EDU.SG"
 sections:
   - hero:
       title: Tampines Meridian Junior College
