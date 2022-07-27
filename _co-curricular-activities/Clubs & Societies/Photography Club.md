@@ -37,5 +37,3 @@ Our students are given different opportunities to showcase their works through e
 ![](/images/TMJC-StudentDevelopment_CCA_PhotographyClub_14.jpeg)
 
 ![](/images/TMJC-StudentDevelopment_CCA_PhotographyClub_15.jpeg)
-
-
