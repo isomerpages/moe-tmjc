@@ -48,9 +48,5 @@ Our club activities include equipping students the necessary skills, brainstormi
 
 ![](/images/TMJC-StudentDevelopment_CCA_MakersClub_16.jpeg)
 
-
-![](/images/TMJC-StudentDevelopment_CCA_MakersClub_17.jpeg)
-
-
-
-
+<img src="/images/TMJC-StudentDevelopment_CCA_MakersClub_17.jpeg" 
+     style="width:50%">
