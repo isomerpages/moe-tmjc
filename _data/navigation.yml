@@ -21,14 +21,6 @@ links:
         url: /about-us/Media-Stories/2021
       - title: "Announcements "
         url: /about-us/Announcements
-  - title: Our Partners
-    collection: our-partners
-  - title: Our Heritage
-    collection: our-heritage
-  - title: Admissions
-    collection: admissions
-  - title: Useful Links
-    collection: useful-links
   - title: Our Total Curriculum
     url: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning
     sublinks:
@@ -40,3 +32,11 @@ links:
         url: /our-total-curriculum/Student-Development/student-leadership
       - title: Co-curricular Activities
         url: /permalink
+  - title: Our Partners
+    collection: our-partners
+  - title: Our Heritage
+    collection: our-heritage
+  - title: Admissions
+    collection: admissions
+  - title: Useful Links
+    collection: useful-links
