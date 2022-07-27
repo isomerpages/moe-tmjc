@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Tampines Meridian Student Council.md
       - Clubs & Societies/Photography Club.md
       - Clubs & Societies/Media Resource Club.md
       - Clubs & Societies/Makers Club.md
