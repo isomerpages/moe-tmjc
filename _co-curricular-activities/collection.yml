@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Interact Club.md
       - Clubs & Societies/Debating & Public Speaking.md
       - Clubs & Societies/Culture Promotion Club.md
       - Clubs & Societies/.keep
