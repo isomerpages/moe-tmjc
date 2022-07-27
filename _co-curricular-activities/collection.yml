@@ -2,23 +2,23 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Sports & Games/Wushu.md
-      - Sports & Games/Volleyball.md
-      - Sports & Games/Taekwondo.md
-      - Sports & Games/Table Tennis.md
-      - Sports & Games/Squash.md
-      - Sports & Games/Shooting.md
-      - Sports & Games/Rockwall Climbing.md
-      - Sports & Games/Paddlers.md
-      - Sports & Games/Outdoor Activities.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Health & Fitness.md
-      - Sports & Games/Football.md
-      - Sports & Games/Floorball.md
-      - Sports & Games/Basketball.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Archery.md
       - Sports & Games/.keep
+      - Sports & Games/Archery.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Floorball.md
+      - Sports & Games/Football.md
+      - Sports & Games/Health & Fitness.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Outdoor Activities.md
+      - Sports & Games/Paddlers.md
+      - Sports & Games/Rockwall Climbing.md
+      - Sports & Games/Shooting.md
+      - Sports & Games/Squash.md
+      - Sports & Games/Table Tennis.md
+      - Sports & Games/Taekwondo.md
+      - Sports & Games/Volleyball.md
+      - Sports & Games/Wushu.md
       - Performing Arts/.keep
       - Performing Arts/Chinese Orchestra.md
       - Performing Arts/Choir.md
