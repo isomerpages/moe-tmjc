@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/Media Resource Club.md
       - Clubs & Societies/Makers Club.md
       - Clubs & Societies/Interactive Games Club.md
       - Clubs & Societies/Interact Club.md
