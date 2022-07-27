@@ -2,28 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Announcements/.keep
-      - Announcements/Announcements.md
-      - Announcements/2021.md
-      - Announcements/2020.md
-      - Announcements/2019.md
-      - Media Stories/2021.md
-      - Media Stories/.keep
-      - Our Achievements/.keep
-      - Our Achievements/Student Achievements 2021.md
-      - Our Achievements/Student Achievements 2020.md
-      - Our Achievements/Student Achievements 2019.md
-      - Our Achievements/Tampines Meridian Junior College (Class of 2020 & 2021)
-        Awards.md
-      - Our Achievements/Tampines Meridian Junior College (Class of 2019)
-        Awards.md
-      - Our Achievements/National & External Awards.md
-      - Our Achievements/MOE TMJC Awards.md
-      - Our Achievements/Staff Achievements 2020.md
-      - Our Achievements/Staff Achievements 2019.md
-      - Our Staff/.keep
-      - Our Staff/Our Staff.md
-      - Our Staff/Staff Photos.md
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/Day 1 Message 2021.md
@@ -52,3 +30,25 @@ collections:
       - Our Campus/Study Areas.md
       - Our Campus/Café.md
       - Our Campus/Greenhouses.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/Staff Photos.md
+      - Our Achievements/.keep
+      - Our Achievements/Student Achievements 2021.md
+      - Our Achievements/Student Achievements 2020.md
+      - Our Achievements/Student Achievements 2019.md
+      - Our Achievements/Tampines Meridian Junior College (Class of 2020 & 2021)
+        Awards.md
+      - Our Achievements/Tampines Meridian Junior College (Class of 2019)
+        Awards.md
+      - Our Achievements/National & External Awards.md
+      - Our Achievements/MOE TMJC Awards.md
+      - Our Achievements/Staff Achievements 2020.md
+      - Our Achievements/Staff Achievements 2019.md
+      - Media Stories/.keep
+      - Media Stories/2021.md
+      - Announcements/.keep
+      - Announcements/Announcements.md
+      - Announcements/2021.md
+      - Announcements/2020.md
+      - Announcements/2019.md
