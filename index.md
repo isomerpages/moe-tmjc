@@ -9,9 +9,6 @@ sections:
   - hero:
       title: Tampines Meridian Junior College
       background: /images/herobanner1.gif
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
