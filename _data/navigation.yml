@@ -2,7 +2,23 @@ logo: /images/tmjc.jpeg
 links:
   - title: About Us
     url: /about-us/principals-message/day-1-message-2022
-    sublinks: []
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/day-1-message-2022
+      - title: Vision Mission Values
+        url: /about-us/vision-mission-values
+      - title: Our College Identity
+        url: /about-us/our-college-identity
+      - title: Our Campus
+        url: /about-us/our-campus/multi-purpose-hall
+      - title: Our Staff
+        url: /about-us/Our-Staff
+      - title: "Our Achievements "
+        url: /about-us/Our-Achievements/student-achievements-2021
+      - title: Event Highlights
+        url: /about-us/Event-Highlights/term-2
+      - title: Media Stories
+        url: /about-us/Media-Stories/2021
   - title: Our Total Curriculum
     collection: our-total-curriculum
   - title: Our Partners
