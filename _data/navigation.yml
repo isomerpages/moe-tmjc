@@ -12,3 +12,6 @@ links:
     collection: admissions
   - title: Useful Links
     collection: useful-links
+  - title: About Us
+    url: /about-us/principals-message/day-1-message-2022
+    sublinks: []
