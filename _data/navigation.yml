@@ -1,7 +1,8 @@
 logo: /images/tmjc.jpeg
 links:
   - title: About Us
-    collection: about-us
+    url: /about-us/principals-message/day-1-message-2022
+    sublinks: []
   - title: Our Total Curriculum
     collection: our-total-curriculum
   - title: Our Partners
@@ -12,6 +13,3 @@ links:
     collection: admissions
   - title: Useful Links
     collection: useful-links
-  - title: About Us
-    url: /about-us/principals-message/day-1-message-2022
-    sublinks: []
