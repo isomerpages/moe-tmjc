@@ -21,8 +21,6 @@ links:
         url: /about-us/Media-Stories/2021
       - title: "Announcements "
         url: /about-us/Announcements
-  - title: Our Total Curriculum
-    collection: our-total-curriculum
   - title: Our Partners
     collection: our-partners
   - title: Our Heritage
@@ -31,3 +29,12 @@ links:
     collection: admissions
   - title: Useful Links
     collection: useful-links
+  - title: Our Total Curriculum
+    url: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning
+    sublinks:
+      - title: Instructional Programmes
+        url: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning
+      - title: "Character and Citizenship "
+        url: /our-total-curriculum/character-n-citizenship-programmes/character-education
+      - title: Student Development
+        url: /our-total-curriculum/Student-Development/student-leadership
