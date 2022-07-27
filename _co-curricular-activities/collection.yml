@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports & Games/Wushu.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Taekwondo.md
       - Sports & Games/Table Tennis.md
