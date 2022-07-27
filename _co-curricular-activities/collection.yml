@@ -2,6 +2,23 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Co Curricular Activities.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Culture Promotion Club.md
+      - Clubs & Societies/Debating & Public Speaking.md
+      - Clubs & Societies/Interact Club.md
+      - Clubs & Societies/Interactive Games Club.md
+      - Clubs & Societies/Makers Club.md
+      - Clubs & Societies/Media Resource Club.md
+      - Clubs & Societies/Photography Club.md
+      - Clubs & Societies/Tampines Meridian Student Council.md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/English Drama.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/Modern Dance.md
+      - Performing Arts/Symphonic Band.md
       - Sports & Games/.keep
       - Sports & Games/Archery.md
       - Sports & Games/Badminton.md
@@ -19,20 +36,3 @@ collections:
       - Sports & Games/Taekwondo.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Wushu.md
-      - Performing Arts/.keep
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Choir.md
-      - Performing Arts/English Drama.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/Modern Dance.md
-      - Performing Arts/Symphonic Band.md
-      - Clubs & Societies/.keep
-      - Clubs & Societies/Culture Promotion Club.md
-      - Clubs & Societies/Debating & Public Speaking.md
-      - Clubs & Societies/Interact Club.md
-      - Clubs & Societies/Interactive Games Club.md
-      - Clubs & Societies/Makers Club.md
-      - Clubs & Societies/Media Resource Club.md
-      - Clubs & Societies/Photography Club.md
-      - Clubs & Societies/Tampines Meridian Student Council.md
-      - Co Curricular Activities.md
