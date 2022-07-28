@@ -10,9 +10,15 @@ sections:
       title: Tampines Meridian Junior College
       background: /images/herobanner1.gif
       key_highlights:
-        - title: parents
+        - title: Event Highlights
           description: ""
-          url: ""
+          url: https://moe-tmjc-staging.netlify.app/about-us/event-highlights/term-2
+        - title: Announcements
+          description: ""
+          url: https://moe-tmjc-staging.netlify.app/about-us/announcements
+        - title: Media Stories
+          description: ""
+          url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -23,4 +29,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
