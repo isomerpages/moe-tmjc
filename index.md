@@ -9,6 +9,10 @@ sections:
   - hero:
       title: Tampines Meridian Junior College
       background: /images/herobanner1.gif
+      key_highlights:
+        - title: parents
+          description: ""
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
