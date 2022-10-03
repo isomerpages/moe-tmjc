@@ -41,5 +41,5 @@ links:
   - title: Useful Links
     collection: useful-links
   - title: Contact Us
-    url: /permalink
+    url: https://moe-tmjc-staging.netlify.app/contact-us/
     sublinks: []
