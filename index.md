@@ -23,7 +23,8 @@ sections:
       subtitle: Infopic Subtitle
       description: Teachers’ Day came early for TMJC on 26th August as we celebrated
         together as a College. This year’s theme, The Good Old Days...
-      button: Button Text
+      button: Read More
       image: /images/Trial.jpg
       alt: Image alt text
+      url: http
 ---
