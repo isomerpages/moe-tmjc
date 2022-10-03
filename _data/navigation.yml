@@ -40,3 +40,6 @@ links:
     collection: admissions
   - title: Useful Links
     collection: useful-links
+  - title: Contact Us
+    url: /permalink
+    sublinks: []
