@@ -2,8 +2,8 @@ title: Tampines Meridian Junior College
 url: https://tmjc.moe.edu.sg
 favicon: /images/tmjc.jpeg
 colors:
-  primary-color: "#ab2328"
-  secondary-color: "#c1c6c8"
+  primary-color: "#c1c6c8"
+  secondary-color: "#ffffff"
   media-colors:
     - title: media-color-one
       color: "#49759a"
