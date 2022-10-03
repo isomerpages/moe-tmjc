@@ -18,15 +18,11 @@ sections:
         - title: Media Stories
           description: ""
           url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
   - infopic:
-      title: Infopic Title
+      title: Teachers’ Day Celebration 2022
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: Teachers’ Day came early for TMJC on 26th August as we celebrated
+        together as a College. This year’s theme, The Good Old Days...
       button: Button Text
       image: /images/Trial.jpg
       alt: Image alt text
