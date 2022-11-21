@@ -1,6 +1,6 @@
 ---
 title: Vision Mission Values
-permalink: /about-us/vision-mission-values
+permalink: /about-us/vision-mission-values/
 description: ""
 ---
 ### Our Mission 

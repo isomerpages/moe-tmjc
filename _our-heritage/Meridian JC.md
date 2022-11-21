@@ -1,6 +1,6 @@
 ---
 title: Meridian JC
-permalink: /our-heritage/meridian-jc
+permalink: /our-heritage/meridian-jc/
 description: ""
 ---
 ### College History 

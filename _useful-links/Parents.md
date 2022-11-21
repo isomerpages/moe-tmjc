@@ -1,6 +1,6 @@
 ---
 title: Parents
-permalink: /useful-links/parents
+permalink: /useful-links/parents/
 description: ""
 ---
 * [MOE Post-Secondary Education](https://www.moe.gov.sg/post-secondary)  

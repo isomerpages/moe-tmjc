@@ -1,6 +1,6 @@
 ---
 title: International Students
-permalink: /admissions/international-students
+permalink: /admissions/international-students/
 description: ""
 ---
 International Students (IS) who wish to seek admission to JC1 in the next academic year must meet the requirements set by MOE. They should register for the Principals Academy Certification Test for JC (J-PACT). Click [here](http://www.pact.sg/index.php?option=com_content&view=section&id=7&itemid=74) for more information.

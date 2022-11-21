@@ -1,6 +1,6 @@
 ---
 title: Staff
-permalink: /useful-links/staff
+permalink: /useful-links/staff/
 description: ""
 ---
 * [Tampines Meridian Integrated Portal (TMIP)](https://portal.tmjc.edu.sg/)  

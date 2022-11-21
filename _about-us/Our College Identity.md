@@ -1,6 +1,6 @@
 ---
 title: Our College Identity
-permalink: /about-us/our-college-identity
+permalink: /about-us/our-college-identity/
 description: ""
 ---
 ### Our Logo

@@ -1,6 +1,6 @@
 ---
 title: Interact Club
-permalink: /co-curricular-activities/Clubs-and-Societies/interact-club
+permalink: /co-curricular-activities/Clubs-and-Societies/interact-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---

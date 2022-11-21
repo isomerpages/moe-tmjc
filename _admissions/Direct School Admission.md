@@ -1,6 +1,6 @@
 ---
 title: Direct School Admission
-permalink: /admissions/direct-school-admission
+permalink: /admissions/direct-school-admission/
 description: ""
 ---
 # 2022 Direct School Admission Exercise (DSA)

@@ -1,6 +1,6 @@
 ---
 title: Overview of our Teaching & Learning
-permalink: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning
+permalink: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning/
 description: ""
 ---
 

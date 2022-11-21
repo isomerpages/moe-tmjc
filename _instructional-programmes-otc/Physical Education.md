@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /our-total-curriculum/instructional-programmes/physical-education
+permalink: /our-total-curriculum/instructional-programmes/physical-education/
 description: ""
 ---
 Physical Education (PE) inculcates in our students the passion for physical activities and educates our students on the benefits of achieving a healthy and physically active lifestyle. PE is also an excellent platform for character education to take place. The PE programme provides our students with knowledge for lifelong sports participation, practical and useful content through:  

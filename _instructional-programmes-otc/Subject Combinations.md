@@ -1,6 +1,6 @@
 ---
 title: Subject Combinations
-permalink: /our-total-curriculum/Instructional-Programmes/subject-combinations
+permalink: /our-total-curriculum/Instructional-Programmes/subject-combinations/
 description: ""
 ---
 

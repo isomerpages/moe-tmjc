@@ -1,6 +1,6 @@
 ---
 title: Tampines Meridian JC
-permalink: /our-heritage/tampines-meridian-jc
+permalink: /our-heritage/tampines-meridian-jc/
 description: ""
 ---
 On 20 April 2017, MOE announced the merger of Tampines Junior College (TPJC) and Meridian Junior College (MJC). The merged JC began operations in January 2019 at the MJC site as Tampines Meridian Junior College (TMJC).  

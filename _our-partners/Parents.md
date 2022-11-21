@@ -1,6 +1,6 @@
 ---
 title: Parents
-permalink: /our-partners/parents
+permalink: /our-partners/parents/
 description: ""
 ---
 ### Partnering our Parents

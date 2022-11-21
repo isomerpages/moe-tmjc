@@ -1,6 +1,6 @@
 ---
 title: Tampines JC
-permalink: /our-heritage/tampines-jc
+permalink: /our-heritage/tampines-jc/
 description: ""
 ---
 ![](/images/Tampines%20JC.png)

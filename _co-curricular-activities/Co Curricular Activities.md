@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /co-curricular-activities
+permalink: /co-curricular-activities/
 description: ""
 ---
 Co-Curricular Activities (CCAs) is a cornerstone for character development and building a spectrum of essential life skills.  Through CCAs, students develop skills such as communications, collaboration and teamwork, as well as deepen their sense of belonging and identity to college, community and nation.  
