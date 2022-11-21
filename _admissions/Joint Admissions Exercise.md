@@ -1,6 +1,6 @@
 ---
 title: Joint Admissions Exercise
-permalink: /admissions/joint-admissions-exercise
+permalink: /admissions/joint-admissions-exercise/
 description: ""
 ---
 ### Joint Admission Exercise

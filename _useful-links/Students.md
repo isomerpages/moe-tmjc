@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /useful-links/students
+permalink: /useful-links/students/
 description: ""
 ---
 * [MOE Student Learning Space](https://vle.learning.moe.edu.sg/login)  

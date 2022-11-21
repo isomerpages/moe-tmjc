@@ -1,6 +1,6 @@
 ---
 title: Returning Singaporeans
-permalink: /admissions/returning-singaporeans
+permalink: /admissions/returning-singaporeans/
 description: ""
 ---
 Returning Singaporeans (RS) who wish to seek admission to JC1 in the next academic year must meet the requirements set by MOE. They should register for the School Placement Exercise for Returning Singaporeans (SPERS-JC/MI). Click [here](http://www.pai.sg/index.php?option=com_content&view=article&id=79&Itemid=107) for more information.
