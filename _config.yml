@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-tmjc-staging.netlify.app
-prod: https://moe-tmjc-prod.netlify.app
+staging: https://staging.dldm49fvmdvby.amplifyapp.com
+prod: https://master.dldm49fvmdvby.amplifyapp.com
 shareicon: /images/tmjc.jpeg
 is_government: false
 facebook-pixel: ""
