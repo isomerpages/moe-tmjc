@@ -3,6 +3,20 @@ title: Term 2
 permalink: /about-us/Event-Highlights/term-2/
 description: ""
 ---
+### Staff Learning Symposium
+
+On 24 June 2022, our TMJC staff attended the annual TMJC Staff Learning Symposium.  
+  
+The focus of the symposium was to understand more about the implementation of Personalised Digital Learning Programme (PDLP) in schools and what teachers can do to prepare ourselves for our incoming batch of students with their personal learning devices.  
+  
+The first half of the Learning Symposium focused on looking outwards and understand the educational landscape at the Secondary level.  We had the privilege of having our fellow colleague, Mrs Wendy Goh, School Staff Developer of Pasir Ris Crest Secondary School, to share with us about the challenges faced while implementing the Personalised Digital Learning Programme (PDLP) and Full Subject-Based Banding (FSBB) in secondary schools. She shared insights on how teaching practices have changed in the classrooms where teachers came together to deepen their skills in e-pedagogy. Our staff also had the opportunity to engage in a dialogue session with Mrs Goh, discussing topics such as differentiated instruction and partnership with parents.
+
+![](/images/2022-T2-Events-StaffLearningSymposium_01.jpg)
+
+In the second half of the Learning Symposium, staff was given time to understand and apply the principles of e-pedagogy through group discussions and hands-on e-lessons design. Our ICT Committee teachers facilitated the sessions, highlighting the different stages of e-lesson design. There were a lot of buzz and excitement exploring the possibilities of how technology can be harnessed in activating our student’s learning!
+
+![](/images/2022-T2-Events-StaffLearningSymposium_02.jpg)
+
 ### Leadership Training Workshop
 
 During the June break, TMJC’s Student Leaders came together for a two-and-a-half day Leadership Training Workshop from 3 to 5 June 2022, to equip them with the necessary skills and mindset for their leadership journey ahead. The Leadership Training Workshop was conducted face-to-face in College, in adherence to the Safe Management Measures.  
