@@ -3,6 +3,19 @@ title: Term 2
 permalink: /about-us/Event-Highlights/term-2/
 description: ""
 ---
+### Leadership Training Workshop
+
+During the June break, TMJC’s Student Leaders came together for a two-and-a-half day Leadership Training Workshop from 3 to 5 June 2022, to equip them with the necessary skills and mindset for their leadership journey ahead. The Leadership Training Workshop was conducted face-to-face in College, in adherence to the Safe Management Measures.  
+  
+During the Workshop, our newly elected JC1 Student Leaders were introduced and guided on the fundamentals of the 5 leadership practices in The Leadership Challenge through a series of mental and physical activities.  
+  
+Our Student Leaders crafted their vision and came up with action plans for possible projects that they would like to initiate during their leadership term. The Workshop also provided ample opportunities for our Student Leaders to build camaraderie with their fellow peers to form a strong TMJC Student Leaders' community.  
+  
+With strong foundation in the 5 leadership practices and unwavering support within the Student Leaders' community, we hope our JC1 Student Leaders are ready and eager to take up the baton from their seniors.  
+  
+We wish them all the best in their leadership term!
+
+![](/images/2022-T2-Events-LeadershipTrainingCamp_01.jpg)
 
 ### 2022 Pre-University Seminar
 
