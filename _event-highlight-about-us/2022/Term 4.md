@@ -53,4 +53,3 @@ The College is immensely proud of our TMJC alumni who have excelled and attained
 Well done to all! May this motivate our current TMJCians to strive for excellence!
 
 ![](/images/2022-T4-Events-NTUCOE_01.jpg)
-
