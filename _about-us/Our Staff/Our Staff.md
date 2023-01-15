@@ -987,7 +987,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-lygy">1</td>
     <td class="tg-tsok">Mdm Norashikin Ibrahim</td>
-    <td class="tg-tsok">Head of Department (Biology &amp; Physics)</td>
+    <td class="tg-tsok">Head of Department (Science)</td>
     <td class="tg-tsok">norashikin_ibrahim@schools.gov.sg</td>
   </tr>
   <tr>
@@ -1154,51 +1154,51 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">29</td>
+    <td class="tg-tsok">Mr Gohel Amarsinh (Brandon)</td>
+    <td class="tg-tsok">Head of Department (Character & Citizenship Education)</td>
+    <td class="tg-tsok">gohel_amarsinh@schools.gov.sg</td>
+		 </tr>
+  <tr>
+    <td class="tg-lygy">30</td>
+    <td class="tg-tsok">Mr Lim Yew Wei</td>
+    <td class="tg-tsok">Head of Department (Curriculum & Assessment)</td>
+    <td class="tg-tsok">lim_yew_wei@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">31</td>
     <td class="tg-tsok">Mr Bryan Ong Eng Choy</td>
     <td class="tg-tsok">Subject Head (Physics)</td>
     <td class="tg-tsok">bryan_ong_eng_choy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">30</td>
+		    <td class="tg-lygy">32</td>
     <td class="tg-tsok">Mr Yeo Boon Heng Elvin</td>
     <td class="tg-tsok">Subject Head (Physics)</td>
     <td class="tg-tsok">elvin_yeo_boon_heng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">31</td>
-    <td class="tg-1ppo"><span style="color:inherit;background-color:transparent"> </span>Mr Lim Yew Wei</td>
-    <td class="tg-tsok">Head of Department (Curriculum &amp; Assessment)</td>
-    <td class="tg-tsok">lim_yew_wei@schools.gov.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">32</td>
+    <td class="tg-lygy">33</td>
     <td class="tg-tsok">Mr Choong Haw Chieh Adrian</td>
     <td class="tg-tsok">Teacher (Physics)</td>
     <td class="tg-tsok">choong_haw_chieh_adrian@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">33</td>
+    <td class="tg-lygy">34</td>
     <td class="tg-tsok">Mr Goh Kok Hwee</td>
     <td class="tg-tsok">Teacher (Physics)</td>
     <td class="tg-tsok">goh_kok_hwee_a@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">34</td>
+    <td class="tg-lygy">35</td>
     <td class="tg-tsok">Mr Lee Hoong Yoong</td>
     <td class="tg-tsok">Teacher (Physics)</td>
     <td class="tg-tsok">lee_hoong_yoong@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">35</td>
+    <td class="tg-lygy">36</td>
     <td class="tg-tsok">Ms Lee Lizhen Geraldine</td>
     <td class="tg-tsok">Teacher (Physics)</td>
     <td class="tg-tsok">lee_lizhen_geraldine@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">36</td>
-    <td class="tg-tsok">Mr Lim Kai Ming</td>
-    <td class="tg-tsok">Teacher (Physics)</td>
-    <td class="tg-tsok">lim_kai_ming@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">37</td>
