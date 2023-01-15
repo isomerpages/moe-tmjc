@@ -19,5 +19,7 @@ As our students thanked their tutors for putting in the heart work into developi
   
 A big thank you to all teachers and non-teaching staff! Happy Teachers’ Day!
 
+![](/images/2022-T3-Events-TeachersDay_01.jpg)
+
 
 ![](/images/2022-T3-Events-TeachersDay_01.jpg)
