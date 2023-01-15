@@ -26,7 +26,7 @@ Highlights of TMJC Open House 2023 include:
 Check out our Open House website at [https://tmjc-oh.squarespace.com/](https://tmjc-oh.squarespace.com/) for more details of the day’s programme. We look forward to seeing you!   
 
 
-You may wish to refer [here](http://tmjc.moe.edu.sg/qql/slot/u151/Announcements/2023/TMJC%20Open%20House%202023/Open%20House%20-%20Admission%20Info%202023_updated%2011%20Jan%2023.pdf) for more information on TMJC Admissions.
+You may wish to refer [here](/files/Announcements/2023/Open%20House%20-%20Admission%20Info%202023_updated%2011%20Jan%2023.pdf) for more information on TMJC Admissions.
 
 ### Nomination is now open for the President’s Award for Teachers (PAT) 2023
 
@@ -51,6 +51,3 @@ If you have a teacher in mind, you can submit a nomination here: 
 [https://go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)Please note that nomination closes on **11 January 2023, Wednesday.**
 
 Thank you.
-
-
-
