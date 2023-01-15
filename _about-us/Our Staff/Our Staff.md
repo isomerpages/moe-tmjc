@@ -324,15 +324,15 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">5</td>
-    <td class="tg-tsok">Mrs Ong-Teo Sing Nee Keryn<br></td>
-    <td class="tg-tsok">Subject Head (ICT)<br></td>
-    <td class="tg-tsok">teo_sing_nee@schools.gov.sg<br></td>
+    <td class="tg-tsok">Ms Koh Geok Lan Lena<br></td>
+    <td class="tg-tsok">Teacher (Geography)<br></td>
+    <td class="tg-tsok">lena_koh_geok_lan@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-lygy">6</td>
-    <td class="tg-tsok">Ms Tang Jie Ting<br></td>
-    <td class="tg-tsok">Subject Head (Project Work)<br></td>
-    <td class="tg-tsok">tang_jie_ting@schools.gov.sg<br></td>
+    <td class="tg-tsok">Ms Huang Weiling Dorcas<br></td>
+    <td class="tg-tsok">Teacher (Geography)<br></td>
+    <td class="tg-tsok">huang_weiling_dorcas@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-lygy">7</td>
