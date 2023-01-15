@@ -36,4 +36,21 @@ Congratulations to all our Award recipients!
 
 ![](/images/2022-T4-Events-SGBuddhistLodge_01.jpg)
 
+### JC2 SG Perspectives - Engagement Session with Minister of State Ms Sun Xueling
+
+On 28 September, our JC2 students had the unique opportunity to engage Minister of State (MOS) for Home Affairs, Social and Family Development, Ms Sun Xueling, in dialogue. The engagement session was part of the ‘SG Perspectives’ Programme which seeks to broaden students’ perspectives of how national issues affect them on a personal level. With the easing of Safe Management Measures, the session took place live in the College Hall.  
+  
+Through MOS Sun’s sharing, students were sensitised to the importance of safeguarding Singapore’s social mobility and ensuring one’s mental wellbeing. The students raised thoughtful questions that offered much food for thought in navigating the way ahead for Singapore in these areas of national significance.  
+  
+The College would like to thank MOS Sun for this most enriching session. The college would also like to thank the Ministry of Home Affairs and the Ministry of Education (Character & Citizenship Education Branch) for co-organising this dialogue for the benefit of our students.
+
+![](/images/2022-T4-Events-JC2SGPerspectives_01.jpg)
+
+### NTU College of Engineering Class of 2022 Outstanding Graduates
+
+The College is immensely proud of our TMJC alumni who have excelled and attained Honours (Highest Distinction) from the NTU College of Engineering Class of 2022. They have done exceptionally well despite all odds during the pandemic and we are truly proud of their accomplishments and resilience.   
+
+Well done to all! May this motivate our current TMJCians to strive for excellence!
+
+![](/images/2022-T4-Events-NTUCOE_01.jpg)
 
