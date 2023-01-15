@@ -236,5 +236,81 @@ Our heartiest congratulations to them! We wish you all the best as you embark on
 
 ### L.O.V.E.3 Week
 
+L.O.V.E.3 Week 2022, which stands for _Living Our Values Every Day, Everywhere, with Everyone_, took place this year from 25th to 29th July. L.O.V.E.3 Week is a week dedicated to celebrating the values that we believe in as an individual and as a TMJC family. Over the week, we aim to inspire students to live out our College values and allow them to develop strong moral reasoning capabilities through the discussion of moral dilemmas through a series of activities.  
+  
+The series of activities comprise of video interviews featuring members of the TMJC family and how they lived out our College values amidst the challenges, daily moral dilemma polls on Instagram to allow TMJC students to take a vote on their course of action, and a CCE lesson featuring different moral dilemmas for both JC1 and JC2 students. To encourage student voice, the JC1 students were also involved in a Video Competition, where each JC1 CG submitted a short 1-minute video, sharing about how they have been inspired by others who lived out admirable values.  
+  
+We were encouraged by the active participation in the daily moral dilemma instagram polls, as well as the creative entries submitted for the JC1 Video Competition, as TMJC students reflected on what our College values mean to them. In particular, the students were especially engaged in the CCE lesson, as they were introduced to different moral reasoning frameworks, took a poll on their course of action and engaged in tag-team debates with their peers. Through these activities, our students developed stronger self-awareness of the moral reasoning framework they tend to adopt and built empathy as they learnt to take on multiple perspectives.  
+  
+Most importantly, these discussions on moral dilemmas allowed our students to reflect on the ethical dimensions and implications of their choices, highlighting the importance of developing a strong moral compass.
+
+![](/images/2022-T3-Events-LOVE3Week_01.jpg)
+
+### Defence Scholarship Awards Ceremony 2022
+
+The SAF Merit Scholarship aims to recruit top students, who have demonstrated academic excellence and outstanding leadership qualities, to join the Defence sector.  
+  
+We are pleased to share that Ivan Hoo Tian Yee from 16S201 is one of the 19 recipients this year who have been presented the SAF Merit Scholarship at the Defence Scholarship Awards Ceremony 2022, which was held on 29 July 2022 at the Istana.  
+  
+Ivan is currently in the midst of his Air Force Pilot training course. He will be leaving for his studies at the London School of Economics and Political Science in 2023, where he will be pursuing a degree in International Relations. Upon his graduation, he will then assume a variety of challenging appointments that will groom him for senior command and leadership positions in MINDEF and the SAF.  
+  
+Congratulations, Ivan! We are proud of your achievement and we wish you all the best in your chosen field!
+
+![](/images/2022-T3-Events-DefenceScholarship_01.jpg)
+
+### Racial Harmony Day (RHD) Commemoration
+
+TMJC’s Racial Harmony Day (RHD) Commemoration this year spanned across several days from 19 to 22 July with the theme ‘Preserving Harmony in Singapore’s Multicultural Mosaic.’ The 2-part commemoration sought to help students navigate Singapore’s evolving multiculturalism.  
+  
+On 21 July, which is the actual day of commemoration, the College had the honour of hosting Second Minister for Education and Foreign Affairs, Dr. Maliki Osman as our Guest-of-Honour to join some of our classes for the commemoration activities.  
+  
+Firstly, students went through an in-house Citizenship Education (CE) Committee-facilitated RHD Interactive Gallery in the College Library. The Gallery featured personal stories of our TMJC teachers who lived through the turbulent 1960s. Our students also had the opportunity to deepen their personal conviction toward safeguarding Singapore’s fragile racial harmony. They were engaged digitally in an immersive independent Virtual Reality decision-making experience that featured reenactments of racist episodes that have made the news.  
+  
+Secondly, to promote student agency, our CG Chairpersons and Peer Support Leaders of the various classes facilitated discussions on Singapore’s race relations. The student-led discussions offered the participants varying perspectives and insights, as they respond to the questions and prompts that their CG had surfaced to the Tampines Meridian Student Council during the June holidays.  
+  
+Through these meaningful activities, we hope that our TMJC students will develop a renewed sense of purpose to protect Singapore’s multicultural harmony.
+
+![](/images/2022-T3-Events-RHD_01.jpg)
+
+### Student Leaders' Investiture 2022
+
+The Student Leaders’ Investiture is a significant ceremony held annually to recognise our newly elected JC1 Student Leaders, comprising CG Leaders (CG Chairpersons and Peer Support Leaders), CCA Leaders, and the Tampines Meridian Student Council (TMSC). The Investiture for the Class of 2023 took place on 20 July 2022, officially marking the start of their term in office.  
+
+The theme for this year’s Investiture was **“Astron**”, which means **“star”** in Greek. It was chosen to be a reminder for all the Student Leaders that just as how stars provide guidance and light, the student leaders should similarly strive to be the “stars” – the role models – that guide and create meaningful experiences for their peers throughout their journey in TMJC.  
+
+The ceremony began with the highly anticipated Student Leaders’ Walk-in, where the CCA leaders showcased their talents as they walked in, identifying themselves as each unique CCA group, while the CG Leaders and TMSC walked in according to their respective Houses, symbolising the strong House Spirit of TMJC. They warmly greeted with supportive cheers and applause from their peers and teachers.  
+
+Our Principal, Ms Pamela Yoong, addressed the student leaders and shared inspiring words to encourage them on their leadership journey. Following that, the President of the 4th Tampines Meridian Student Council, El’yez Mu’raif (21A301), addressed the cohort of JC1 students and reflected on his journey as a Student Leader. The Badge Presentation Ceremony, which followed, was an important part of the Investiture, as student representatives were presented a badge by our Principal to identify themselves as Student Leaders and to officially mark the start of their leadership journey. In concluding the Investiture, our newly elected President of the 5th TMSC, Gerrard Poh (22S203), addressed the cohort and subsequently led all our TMJC Student Leaders in reciting the Leaders’ Oath.  
+
+It was truly a momentous occasion witnessing the installation of the incoming batch of Student Leaders. We congratulate them once again and wish them a fruitful and meaningful leadership journey in TMJC!
+
+![](/images/2022-T3-Events-StudentLeadersInvestiture_01.jpg)
+
+### JC2 Higher Education Fest
+
+As the COVID-19 situation takes a turn for the better and continues to do so, TMJC is finally able to invite our long term partners, the 6 local Autonomous Universities, down to the College for a sharing with our JC2 students.  
+  
+The JC2 Higher Education Fest took place across two weeks in July as NUS, NTU, SIT, SMU, SUSS, and SUTD gave brief introductions of themselves and talked about the exciting courses they offer to our students.  
+  
+Our JC2s were also given the opportunity to interact with the university representatives who set up booths after their sharing to address queries from our students.  
+  
+The College is grateful to the universities for their enthusiastic participation in our event and we hope that this event was able to motivate some of the students to work towards their goals as they enter the last phase of their preparation for the upcoming A-Level Examinations.
+
+![](/images/2022-T3-Events-JC2HigherEducation_01.jpg)
+
+### TMJC x MOE President’s Challenge Heart Train Campaign 2022
+
+As part of TMJC’s effort in giving back to our community, our staff welfare committee came together to organise a series of fundraising activities for staff to do our little part for the MOE President’s Challenge Heart Train Campaign 2022.  
+
+  
+One of the highlights included a breakfast session on 6 July 2022 where staff took a little break away from the Mid-Year Examination marking frenzy. Staff ordered Prata breakfast sets where proceeds from the sales were donated to the President’s Challenge Heart Train Campaign. It was great to see staff from different departments coming together, catching up over prata and conversations!
+
+![](/images/2022-T3-Events-TMJCMOECampaign_01.jpg)
+
+In addition, our staff also purchased DIY Bear Keychains kits to enjoy some family bonding time in creating their own unique keychains!
+
+![](/images/2022-T3-Events-TMJCMOECampaign_02.jpg)
+
+
 
 
