@@ -108,31 +108,31 @@ third_nav_title: Our Staff
     <td class="tg-0lax">Head of Department (Character & Citizenship Education)</td>
     <td class="tg-0lax">gohel_amarsinh@schools.gov.sg</td>
   </tr>
-    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">6</td>
     <td class="tg-0lax">Mrs Ting Lin Ying</td>
     <td class="tg-0lax">Head of Department (Economics)</td>
     <td class="tg-0lax">foo_lin_ying@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6</td>
+    <td class="tg-baqh">7</td>
     <td class="tg-0lax">Mdm Aslindah Bte Mohamed Ali</td>
     <td class="tg-0lax">Head of Department (English)</td>
     <td class="tg-0lax">aslindah_mohamed_ali@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">8</td>
     <td class="tg-0lax">Mr Chow Ming Kong</td>
     <td class="tg-0lax">Head of Department (Knowledge Management)</td>
     <td class="tg-0lax">chow_ming_kong@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">9</td>
     <td class="tg-0lax">Mr Koh Sze Wei</td>
     <td class="tg-0lax">Head of Department  (Mother Tongue Languages)<br></td>
     <td class="tg-0lax">koh_sze_wei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-nrix"><span style="color:inherit;background-color:transparent"> </span>9</td>
+    <td class="tg-nrix"><span style="color:inherit;background-color:transparent"> </span>10</td>
     <td class="tg-0lax">Ms Seah Joo Yee </td>
     <td class="tg-0lax">Head of Department (Physical Education and Co-Curricular Activities)</td>
     <td class="tg-0lax">seah_joo_yee@schools.gov.sg</td>
