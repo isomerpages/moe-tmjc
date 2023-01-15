@@ -310,7 +310,3 @@ One of the highlights included a breakfast session on 6 July 2022 where staff to
 In addition, our staff also purchased DIY Bear Keychains kits to enjoy some family bonding time in creating their own unique keychains!
 
 ![](/images/2022-T3-Events-TMJCMOECampaign_02.jpg)
-
-
-
-
