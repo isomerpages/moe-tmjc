@@ -515,27 +515,27 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">2</td>
-    <td class="tg-tsok">Mrs Jasmine Kum Liang-May</td>
-    <td class="tg-tsok">Lead Teacher (General Paper)</td>
-    <td class="tg-tsok">jasmine_kum_liang-may@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy"> 3</td>
     <td class="tg-tsok">Mr Tan Jen Vin Teddy</td>
-    <td class="tg-tsok">Subject Head (Citizenship Education) </td>
+    <td class="tg-tsok">Subject Head (Citizenship Education)</td>
     <td class="tg-tsok">tan_jen_vin_teddy@schools.gov.sg</td>
   </tr>
   <tr>
+    <td class="tg-lygy"> 3</td>
+    <td class="tg-tsok">Ms Wong Yingxian Sharon</td>
+    <td class="tg-tsok">Subject Head (General Paper) </td>
+    <td class="tg-tsok">wong_yingxian_sharon@schools.gov.sg</td>
+  </tr>
+  <tr>
     <td class="tg-lygy"> 4</td>
-    <td class="tg-tsok">Ms Tan Wan Yee Jacqueline</td>
-    <td class="tg-tsok">Subject Head (Education &amp; Career Guidance)</td>
-    <td class="tg-tsok">tan_wan_yee_jacqueline@schools.gov.sg</td>
+    <td class="tg-tsok">Mr Yeoh Keat Wei</td>
+    <td class="tg-tsok">Subject Head (General Paper)</td>
+    <td class="tg-tsok">yeoh_keat_wei@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy"> 5</td>
-    <td class="tg-tsok">Ms Wong Yingxian Sharon </td>
-    <td class="tg-tsok">Subject Head (General Paper)</td>
-    <td class="tg-tsok">wong_yingxian_sharon@schools.gov.sg</td>
+    <td class="tg-tsok">Mrs Jasmine Kum Liang-May</td>
+    <td class="tg-tsok">Lead Teacher (General Paper)</td>
+    <td class="tg-tsok">jasmine_kum_liang-may@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:inherit;background-color:transparent"> </span>6</td>
