@@ -4,7 +4,7 @@ permalink: /about-us/Event-Highlights/term-3/
 description: ""
 third_nav_title: "2022"
 ---
-Teachers’ Day Celebration 2022
+### Teachers’ Day Celebration 2022
 
 Teachers’ Day came early for TMJC on 26th August as we celebrated together as a College. This year’s theme, **_The Good Old Days_**, not only serves as a homage to our teachers and their youthful spirit, but also aptly describes our students’ school days that have been made more wonderful because of our teachers.  
   
@@ -18,4 +18,6 @@ Our celebration ended on a high note, with our Principal, Ms Yoong, and Vice-Pri
 As our students thanked their tutors for putting in the heart work into developing them on this special day, they also seized the opportunity to express their sincere gratitude to our non-teaching staff. They are our unsung heroes who have been working tirelessly behind the scenes to make TMJC a more conducive second home for learning.  
   
 A big thank you to all teachers and non-teaching staff! Happy Teachers’ Day!
+
+
 
