@@ -660,23 +660,29 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-baqh">1</td>
-    <td class="tg-0lax">Mr Chow Ming Kong</td>
-    <td class="tg-0lax">Head of Department (Knowledge Management)</td>
-    <td class="tg-0lax">chow_ming_kong@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">2</td>
     <td class="tg-0lax">Mrs Sze Chai Ju</td>
     <td class="tg-0lax">Year Head</td>
     <td class="tg-0lax">seah_chai_ju@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">3</td>
-    <td class="tg-0lax">Mrs Luo-Tan Jing Ying Amy<br></td>
-    <td class="tg-0lax">Subject Head (Character Education)<br></td>
-    <td class="tg-0lax">amy_tan_jing_ying@schools.gov.sg<br></td>
+    <td class="tg-baqh">2</td>
+    <td class="tg-0lax">Mr Chow Ming King</td>
+    <td class="tg-0lax">Head of Department (Knowledge Management)</td>
+    <td class="tg-0lax">chow_ming_kong@schools.gov.sg</td>
   </tr>
   <tr>
+    <td class="tg-baqh">3</td>
+    <td class="tg-0lax">Mr Lim Vanson<br></td>
+    <td class="tg-0lax">Head of Department (Mathematics)<br></td>
+    <td class="tg-0lax">lim_vanson@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+		<td class="tg-baqh">4</td>
+    <td class="tg-0lax">Mrs Goh Meiyan June<br></td>
+    <td class="tg-0lax">School Staff Developer<br></td>
+    <td class="tg-0lax">tan_mei_yan_june@schools.gov.sg<br></td>
+  </tr>
+  <tr>		
     <td class="tg-baqh">4</td>
     <td class="tg-0lax">Mrs Goh Meiyan June</td>
     <td class="tg-0lax">Subject Head (Mathematics) covering School Staff Developer</td>
