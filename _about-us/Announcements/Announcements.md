@@ -6,3 +6,51 @@ third_nav_title: Announcements
 ---
 ### TMJC Open House 2023
 
+![](/images/Announcements/2023/Term%201/Announcement_TMWonderland.jpeg)
+
+**Friday, 13 January 2023, 1015 - 1600.**
+
+Experience the vibrant and dynamic culture of TMJC and catch a glimpse of the myriad opportunities for growth and development in the College.  
+  
+Highlights of TMJC Open House 2023 include:
+
+*   Subject Booths
+*    CCA Booths
+*   Opening Ceremony
+*   School Leaders Talk
+*   CCA Showcases
+*   College Tours  
+      
+    
+
+Check out our Open House website at [https://tmjc-oh.squarespace.com/](https://tmjc-oh.squarespace.com/) for more details of the day’s programme. We look forward to seeing you!   
+
+
+You may wish to refer [here](http://tmjc.moe.edu.sg/qql/slot/u151/Announcements/2023/TMJC%20Open%20House%202023/Open%20House%20-%20Admission%20Info%202023_updated%2011%20Jan%2023.pdf) for more information on TMJC Admissions.
+
+### Nomination is now open for the President’s Award for Teachers (PAT) 2023
+
+![](/images/Announcements/2023/Term%201/Announcement_PAT_01.jpg)
+
+PAT honours the achievements of educators who demonstrate passion and commitment in teaching their students. Launched in 1998, it recognises excellent educators for their dedication and hard work in inspiring and nurturing our young.  
+If you would wish to express your appreciation for an excellent teacher in our College, you can submit a nomination here: [**go.gov.sg/pat2023**](http://go.gov.sg/pat2023)  
+
+  
+Please note that nomination closes on **11 January 2023, Wednesday.**
+
+Thank you.
+
+### Nomination is now open for the Outstanding Youth in Education Award (OYEA) 2023
+
+![](/images/Announcements/2023/Term%201/Announcement_OYEA_01.jpg)
+![](/images/Announcements/2023/Term%201/Announcement_OYEA_02.jpg)
+
+The OYEA is a national award that recognises and honours the achievements of young educators who have shown admirable passion for teaching, and commitment to inspiring and nurturing their students. Launched in 1999, it seeks to recognise excellent younger teachers for their youthful idealism, enthusiasm, energy and active involvement in the development of youth beyond the formal curriculum.  
+If you have a teacher in mind, you can submit a nomination here: 
+
+[https://go.gov.sg/oyea2023](https://go.gov.sg/oyea2023)Please note that nomination closes on **11 January 2023, Wednesday.**
+
+Thank you.
+
+
+
