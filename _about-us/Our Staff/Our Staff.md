@@ -1270,162 +1270,156 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">3</td>
-    <td class="tg-tsok">Mr Tan Keng Choon</td>
-    <td class="tg-tsok">Operations Manager</td>
-    <td class="tg-tsok">tan_keng_choon@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">4</td>
     <td class="tg-tsok">Mr Mohamed Azhar Bin Hassan</td>
     <td class="tg-tsok">Operations Manager</td>
     <td class="tg-tsok">mohamed_azhar_hassan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">5</td>
+    <td class="tg-lygy">4</td>
     <td class="tg-tsok">Mdm Nur Hasriah Bte Kamaludin</td>
     <td class="tg-tsok">ICT Associate</td>
     <td class="tg-tsok">nur_hasriah_kamaludin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">6</td>
+    <td class="tg-lygy">5</td>
     <td class="tg-tsok">Mdm Tamilchelvi d/o N Narayanasamy</td>
     <td class="tg-tsok">Corporate Support Officer</td>
     <td class="tg-tsok">tamilchelvt_n_n@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">7</td>
+    <td class="tg-lygy">6</td>
     <td class="tg-tsok">Mdm Tan Poh Geok Jean</td>
     <td class="tg-tsok">Corporate Support Officer</td>
     <td class="tg-tsok">tan_poh_geok_jean@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">8</td>
+    <td class="tg-lygy">7</td>
     <td class="tg-tsok">Mdm Liew Lay See</td>
     <td class="tg-tsok">Corporate Support Officer</td>
     <td class="tg-tsok">liew_lay_see@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">9</td>
+    <td class="tg-lygy">8</td>
     <td class="tg-tsok">Mdm How Bee Hong</td>
     <td class="tg-tsok">Corporate Support Officer</td>
     <td class="tg-tsok">how_bee_hong@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">10</td>
+    <td class="tg-lygy">9</td>
     <td class="tg-tsok">Ms Ambiga Ganesan</td>
     <td class="tg-tsok">Corporate Support Officer</td>
     <td class="tg-tsok">ambiga_ganesan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">11</td>
+    <td class="tg-lygy">10</td>
     <td class="tg-tsok">Mr Razali Bin Abd Razak </td>
     <td class="tg-tsok">Operations Executive</td>
     <td class="tg-tsok">razali_abdul_razak@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-lygy">12</td>
+    <td class="tg-lygy">11</td>
     <td class="tg-tsok">Mr Chua Kang Tee</td>
     <td class="tg-tsok">Operations Support Officer<br></td>
     <td class="tg-tsok">chua_kang_tee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">13</td>
+    <td class="tg-lygy">12</td>
     <td class="tg-tsok">Mdm Noorhayati binte Aris</td>
     <td class="tg-tsok">Operations Support Officer<br></td>
     <td class="tg-tsok">noorhayati_iris@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">14</td>
+    <td class="tg-lygy">13</td>
     <td class="tg-tsok">Mdm Rashidah Binte Mohamed Ali</td>
     <td class="tg-tsok">Operations Support Officer<br></td>
     <td class="tg-tsok">rashidah_mohamed_ali@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">15</td>
+    <td class="tg-lygy">14</td>
     <td class="tg-tsok">Mdm Roslina Binte Mohamad Yasin</td>
     <td class="tg-tsok">Operations Support Officer<br></td>
     <td class="tg-tsok">roslina_mohamad_yasin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">16</td>
+    <td class="tg-lygy">15</td>
     <td class="tg-tsok">Mdm Zaharina Bte Tainy</td>
     <td class="tg-tsok">Operations Support Officer</td>
     <td class="tg-tsok">zaharina_tainy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">17</td>
+    <td class="tg-lygy">16</td>
     <td class="tg-tsok">Mdm Chu Yee Kiew</td>
     <td class="tg-tsok">Operations Support Officer</td>
     <td class="tg-tsok">chu_yee_kiew@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">18</td>
+    <td class="tg-lygy">17</td>
     <td class="tg-tsok">Mdm Nurwaty Bte Nadin</td>
     <td class="tg-tsok">Operations Support Officer</td>
     <td class="tg-tsok">nurwaty_nadin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">19</td>
+    <td class="tg-lygy">18</td>
     <td class="tg-tsok">Mdm Ng Poh Eng Jenny</td>
     <td class="tg-tsok">Operations Support Officer<span style="color:inherit;background-color:transparent"> </span></td>
     <td class="tg-tsok">ng_poh_eng_a@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">20</td>
+    <td class="tg-lygy">19</td>
     <td class="tg-tsok">Mdm Suriya Baba</td>
     <td class="tg-tsok">Operations Support Officer<span style="color:inherit;background-color:transparent"> </span></td>
     <td class="tg-tsok">suriya_baba@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">21</td>
+    <td class="tg-lygy">20</td>
     <td class="tg-tsok">Mr Tan Tiong Seng</td>
     <td class="tg-tsok">Operations Support Officer</td>
     <td class="tg-tsok">tan_tiong_seng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">22</td>
+    <td class="tg-lygy">21</td>
     <td class="tg-tsok">Mdm Che Mariam bte Yussof</td>
     <td class="tg-tsok">School Laboratory Technician</td>
     <td class="tg-tsok">che_mariam_yussof@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">23</td>
+    <td class="tg-lygy">22</td>
     <td class="tg-tsok">Ms Poh Siok Peng Doreen</td>
     <td class="tg-tsok">School Laboratory Technician</td>
     <td class="tg-tsok">poh_siok_peng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">24</td>
+    <td class="tg-lygy">23</td>
     <td class="tg-tsok">Mr Rafiee Bin Abu Bakar</td>
     <td class="tg-tsok">School Laboratory Technician</td>
     <td class="tg-tsok">rafiee_abu_bakar@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">25</td>
+    <td class="tg-lygy">24</td>
     <td class="tg-tsok">Ms Raihan Bte Kossain</td>
     <td class="tg-tsok">School Laboratory Technician</td>
     <td class="tg-tsok">raihan_kossain@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">26</td>
+    <td class="tg-lygy">25</td>
     <td class="tg-tsok">Ms Nazreen Begum W/O Mohamed Halith</td>
     <td class="tg-tsok">School Laboratory Technician</td>
     <td class="tg-tsok">nazreen_begum_mohamed_halith@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">27</td>
+    <td class="tg-lygy">26</td>
     <td class="tg-tsok">Mr Jimmy Sim Chin Min</td>
     <td class="tg-tsok">School Counsellor</td>
     <td class="tg-tsok">jimmy_sim_chin_min@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">28</td>
+    <td class="tg-lygy">27</td>
     <td class="tg-tsok">Mrs Ong Deena Heryati Selamat</td>
     <td class="tg-tsok">Part Time School Counsellor</td>
     <td class="tg-tsok">denna_heryati_ong@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">29</td>
+    <td class="tg-lygy">28</td>
     <td class="tg-tsok">Ms Wendy Ng Wei Li</td>
     <td class="tg-tsok">School ECG Counsellor </td>
     <td class="tg-tsok">wendy_ng_wei_li@schools.gov.sg </td>
