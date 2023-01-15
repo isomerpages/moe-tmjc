@@ -133,9 +133,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
 	 <td class="tg-baqh">10</td>
-    <td class="tg-0lax">Mrs Ting Lin Ying</td>
-    <td class="tg-0lax">Head of Department (Economics)</td>
-    <td class="tg-0lax">foo_lin_ying@schools.gov.sg</td>
+    <td class="tg-0lax">Mr Lim Vanson</td>
+    <td class="tg-0lax">Head of Department (Mathematics)</td>
+    <td class="tg-0lax">lim_vanson@schools.gov.sg</td>
   </tr>
  <td class="tg-baqh">5</td>
     <td class="tg-0lax">Mrs Ting Lin Ying</td>
