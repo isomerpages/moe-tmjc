@@ -64,10 +64,29 @@ Congratulations to our MLEP scholars!
 
 ### Singapore Mathematics Olympiad 2022
 
+On 2 June 2022, 83 students participated in the Singapore Mathematical Olympiad (SMO). SMO is an annual mathematics competition organised by the Singapore Mathematical Society to test the ingenuity and mathematical problem-solving ability of the participants, and to discover and encourage mathematical talents in schools in Singapore.  
 
+We are pleased to share that our TMJCians have achieved 2 Bronze and 4 Honourable Mention for the Open Section.  
+  
+Bronze Award:
 
+ZHOU FANDI (21S101)
 
+LE HAI LONG QUAN (22S101)  
+  
+Honourable Mention:
 
+IVAN LAU XU YANG (22S101)
+
+EUGENE LEE KANG RUI (22S101)
+
+HUANG JUNRAN (22S203)
+
+LAURENCIA ANGELINA SUGIOWANTONO (22S205)  
+  
+Our heartiest congratulations to all awardees!
+
+![](/images/2022-T3-Events-SgMathOlympiad_01.jpg)
 
 
 
