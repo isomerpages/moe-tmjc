@@ -88,6 +88,33 @@ Our heartiest congratulations to all awardees!
 
 ![](/images/2022-T3-Events-SgMathOlympiad_01.jpg)
 
+### Prime Minister’s Book Prize 2022
+
+Established in 1974, the Prime Minister’s Book Prize (PMBP) is an annual award for bilingualism given to primary, secondary, and pre-university students.  
+
+We are very happy that our alumnus from the Class of 2021, Nurul Iman Bte Othman (20A301)  is one of the 11 pre-university recipients of the PMBP this year.  
+
+The PMBP was presented by Second Minister for Education Dr Maliki Osman at this year's Special Awards Presentation Ceremony on 29 August 2022 at the National University of Singapore's University Cultural Centre.  
+  
+Congratulations Nurul Iman!
+
+![](/images/2022-T3-Events-PrimeMinisterBookPrize_01.jpg)
+
+### CCCS-ESS Essay Competition 2022
+
+The Competition and Consumer Commission of Singapore launched the 5th run of the essay competition this year, co-organised with the Economic Society of Singapore (ESS).  
+  
+This year’s topic “Environmental Sustainability: The role of competition and consumer protection laws and policies” highlighted environmental sustainability as one of the most important priorities facing many economies today and invited contestants to examine the role of competition and consumer protection laws and policies in supporting environmental sustainability in Singapore.  
+  
+We are proud to share that Caius Or Shin Yi (21A101) won the 1st Prize for the School Category!  
+You may read Caius’ essay and find out more about the competition here: [https://www.cccs.gov.sg/media-and-consultation/ccs-campaigns/events/results-of-the-cccs-ess-essay-competition-2022](https://www.cccs.gov.sg/media-and-consultation/ccs-campaigns/events/results-of-the-cccs-ess-essay-competition-2022)  
+  
+Congratulations, Caius!
+
+![](/images/2022-T3-Events-CCC-ESS_01.jpg)
+
+
+
 
 
 
