@@ -934,33 +934,27 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-baqh">5</td>
-    <td class="tg-0lax">Mr Muhammad Yusuf Bin Abu Bakar</td>
-    <td class="tg-0lax">Teacher (Physical Education)</td>
-    <td class="tg-0lax"> muhammad_yusuf_abu_bakar@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">6</td>
     <td class="tg-0lax">Ms Suhaidah Binte Mohd Yusof</td>
     <td class="tg-0lax">Teacher (Physical Education)</td>
     <td class="tg-0lax"> suhaidah_mohd_yusof@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">7</td>
+    <td class="tg-baqh">6</td>
     <td class="tg-0lax">Ms Lee Ying Qi</td>
     <td class="tg-0lax">Teacher (Physical Education)<br></td>
     <td class="tg-0lax"> lee_ying_qi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">8</td>
+    <td class="tg-baqh">7</td>
     <td class="tg-0lax">Ms Tan Teck Min Abigail<span style="color:inherit;background-color:transparent">     </span></td>
     <td class="tg-0lax">Teacher (Physical Education)</td>
     <td class="tg-0lax">tan_teck_min_abigail@schools.gov.sg<br></td>
   </tr>
   <tr>
-    <td class="tg-baqh"> 9</td>
-    <td class="tg-0lax">Ms Naomi Tan </td>
+    <td class="tg-baqh"> 8</td>
+    <td class="tg-0lax">Mohamed Faisal Bin Mohamed Hussain</td>
     <td class="tg-0lax">Teacher (Physical Education)</td>
-    <td class="tg-0lax">tan_ming_ai_naomi@schools.gov.sg</td>
+    <td class="tg-0lax">mohamed_faisal_mohamed_hussaini@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
