@@ -34,4 +34,6 @@ The Singapore Buddhist Lodge started the distribution of bursaries in 1979 to as
   
 Congratulations to all our Award recipients!
 
+![](/images/2022-T4-Events-SGBuddhistLodge_01.jpg)
+
 
