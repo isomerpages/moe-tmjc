@@ -47,9 +47,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">4</td>
-    <td class="tg-tsok">Mr Tan Eng Poh<br></td>
+    <td class="tg-tsok">Ms Yasmine Kamaludheen<br></td>
     <td class="tg-tsok">Vice-Principal (Admin)</td>
-    <td class="tg-tsok">TAN_Eng_Poh@schools.gov.sg</td>
+    <td class="tg-tsok">Yasmine_Kamaludheen@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
