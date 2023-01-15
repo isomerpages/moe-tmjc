@@ -539,15 +539,15 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-a3j2"><span style="color:inherit;background-color:transparent"> </span>6</td>
-    <td class="tg-tsok">Mr Yeoh Keat Wei<span style="color:inherit;background-color:transparent"> </span></td>
-    <td class="tg-tsok">Subject Head (General Paper) - Internal</td>
-    <td class="tg-tsok">yeoh_keat_wei@schools.gov.sg</td>
+    <td class="tg-tsok">Mr Hazrin Bin Zainal<span style="color:inherit;background-color:transparent"> </span></td>
+    <td class="tg-tsok">Senior Teacher (Project Work)</td>
+    <td class="tg-tsok">hazrin_b_zainal@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">7</td>
-    <td class="tg-tsok">Ms Charis Lee Xin-Ning</td>
-    <td class="tg-tsok">Teacher (General Paper)</td>
-    <td class="tg-tsok">lee_xin-ning_charis@schools.gov.sg</td>
+    <td class="tg-tsok">Mdm Thangaraj Pradeepa</td>
+    <td class="tg-tsok">Senior Teacher (Character & Citizenship Education)</td>
+    <td class="tg-tsok">thangaraj_pradeepa@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">8</td>
@@ -569,88 +569,69 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">11</td>
-    <td class="tg-tsok">Mr Chua Wei Ming</td>
-    <td class="tg-tsok">Teacher (General Paper)<br></td>
-    <td class="tg-tsok">chua_wei_ming@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">12</td>
-    <td class="tg-tsok">Ms Diana Christian</td>
-    <td class="tg-tsok">Teacher (General Paper)<br></td>
-    <td class="tg-tsok">diana_christian@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">13</td>
     <td class="tg-tsok">Mrs Annie Grace Clayton<br></td>
     <td class="tg-tsok">Teacher (General Paper) <br></td>
     <td class="tg-tsok">annie_<span style="color:inherit;background-color:transparent">grace</span>_<span style="color:inherit;background-color:transparent">clayton@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-lygy">14</td>
+    <td class="tg-lygy">12</td>
     <td class="tg-tsok">Ms Geraldine Tan Tian Ying</td>
     <td class="tg-tsok">Teacher (General Paper)<br></td>
     <td class="tg-tsok">geraldine_tan_tian_ying@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">15</td>
-    <td class="tg-tsok">Ms Kristianne Thea Gibe Magkawas </td>
-    <td class="tg-tsok">Teacher (General Paper)</td>
-    <td class="tg-tsok">kristianne_thea_gibe_magkawas@schools.gov.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">16</td>
+    <td class="tg-lygy">13</td>
     <td class="tg-tsok">Mdm Jacqueline Anne De Souza</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> jacqueline_anne_de_souza@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">17</td>
+    <td class="tg-lygy">14</td>
     <td class="tg-tsok">Mr John Jude Alexander</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> john_jude_alexander@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">18</td>
+    <td class="tg-lygy">15</td>
     <td class="tg-tsok">Mr Kum Jing Shen Joey</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> kum_jing_shen_joey@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">19</td>
+    <td class="tg-lygy">16</td>
     <td class="tg-tsok">Ms Liang Wanyu Lavinia</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> liang_wanyu_lavinia@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">20</td>
+    <td class="tg-lygy">17</td>
     <td class="tg-tsok">Ms Sophil Ang Shue Ying </td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> sophil_ang_shue_ying@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">21</td>
-    <td class="tg-tsok">Ms Tan Ju Ling Renee</td>
-    <td class="tg-tsok">Teacher (General Paper)</td>
-    <td class="tg-tsok"> tan_ju_ling@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">22</td>
+    <td class="tg-lygy">18</td>
     <td class="tg-tsok">Mdm Tan Soo Lin</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> hanson-tan_soo_lin@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">23</td>
-    <td class="tg-tsok">Mdm Thangaraj Pradeepa </td>
-    <td class="tg-tsok">Teacher (General Paper)</td>
-    <td class="tg-tsok"> thangaraj_pradeepa@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-lygy">24</td>
+    <td class="tg-lygy">19</td>
     <td class="tg-tsok">Ms Vanessa Tan Chai Feng</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> vanessa_tan_chai_feng@schools.gov.sg</td>
   </tr>
+	  <tr>
+    <td class="tg-lygy">20</td>
+    <td class="tg-tsok">Mr Goh Jin Kwang Timothy</td>
+    <td class="tg-tsok">Teacher (General Paper)</td>
+    <td class="tg-tsok"> goh_jin_kwang_timothy@schools.gov.sg</td>
+			  <tr>
+    <td class="tg-lygy">21</td>
+    <td class="tg-tsok">Mr Lim Khoon Liang</td>
+    <td class="tg-tsok">Teacher (General Paper)</td>
+    <td class="tg-tsok"> oth_lim_khoon_liang@schools.gov.sg</td>
+</tr>					
 </tbody>
 </table>
 
