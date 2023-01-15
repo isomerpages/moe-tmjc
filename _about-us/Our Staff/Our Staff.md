@@ -153,88 +153,70 @@ third_nav_title: Our Staff
     <td class="tg-0lax">School Staff Developer</td>
     <td class="tg-0lax">tan_mei_yan_june@schools.gov.sg</td>
   </tr>	
-    <td class="tg-baqh">11</td>
+    <td class="tg-baqh">14</td>
     <td class="tg-0lax">Mr Ho Yong Hou Sunny </td>
     <td class="tg-0lax">Subject Head (Biology)</td>
     <td class="tg-0lax">ho_yong_hou_sunny@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">12</td>
+    <td class="tg-baqh">15</td>
     <td class="tg-0lax">Mr Tan Jen Vin Teddy </td>
     <td class="tg-0lax">Subject Head (Citizenship Education)</td>
     <td class="tg-0lax">tan_jen_vin_teddy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">16</td>
     <td class="tg-0lax">Mrs Luo-Tan Jing Ying Amy</td>
     <td class="tg-0lax">Subject Head (Character Education)</td>
     <td class="tg-0lax">amy_tan_jing_ying@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">14</td>
+    <td class="tg-baqh">17</td>
     <td class="tg-0lax">Mr Chong Kian Seng</td>
     <td class="tg-0lax">Subject Head (Chemistry) </td>
     <td class="tg-0lax">chong_kian_seng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">18</td>
     <td class="tg-0lax">Mdm Goh Beng Lee</td>
     <td class="tg-0lax">Subject Head (Chemistry) </td>
     <td class="tg-0lax">goh_beng_lee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">16</td>
-    <td class="tg-0lax">Ms Tan Wan Yee Jacqueline</td>
-    <td class="tg-0lax">Subject Head (Education &amp; Career Guidance)</td>
-    <td class="tg-0lax">tan_wan_yee_jacqueline@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">17</td>
+    <td class="tg-baqh">19</td>
     <td class="tg-0lax"> Ms Nagashima Aya</td>
     <td class="tg-0lax"> Subject Head (Economics)</td>
     <td class="tg-0lax">nagashima_aya@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">18</td>
+    <td class="tg-baqh">20</td>
     <td class="tg-0lax">Mrs Yeo-Wong Nga Hui Michelle </td>
     <td class="tg-0lax">Subject Head (Economics)</td>
     <td class="tg-0lax">michelle_wong_nga_hui@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">19</td>
+    <td class="tg-baqh">21</td>
     <td class="tg-0lax">Ms Wong Yingxian Sharon</td>
     <td class="tg-0lax">Subject Head (General Paper)</td>
     <td class="tg-0lax">wong_yingxian_sharon@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">20</td>
+    <td class="tg-baqh">22</td>
     <td class="tg-0lax">Mr Yeoh Keat Wei </td>
-    <td class="tg-0lax">Subject Head (General Paper) - Internal </td>
+    <td class="tg-0lax">Subject Head (General Paper) </td>
     <td class="tg-0lax">yeoh_keat_wei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">21</td>
+    <td class="tg-baqh">23</td>
     <td class="tg-0lax">Mrs Ong-Teo Sing Nee Keryn</td>
     <td class="tg-0lax">Subject Head (ICT)</td>
     <td class="tg-0lax">teo_sing_nee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">22</td>
-    <td class="tg-0lax">Mrs Goh Meiyan June</td>
-    <td class="tg-0lax">Subject Head (Mathematics) covering School Staff Developer</td>
-    <td class="tg-0lax">tan_mei_yan_june@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">23</td>
+    <td class="tg-baqh">24</td>
     <td class="tg-0lax">Mr Lim Aik Leong</td>
     <td class="tg-0lax">Subject Head (Mathematics)</td>
     <td class="tg-0lax">lim_aik_leong@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">24</td>
-    <td class="tg-0lax">Mr Lim Vanson</td>
-    <td class="tg-0lax">Subject Head (Mathematics)</td>
-    <td class="tg-0lax">lim_vanson@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-baqh">25</td>
