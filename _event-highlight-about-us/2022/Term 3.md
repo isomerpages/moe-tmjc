@@ -27,7 +27,46 @@ On 25 August, our TMJC Malay Language Elective Programme (MLEP) hosted students 
 
 Our TMJC MLEP students took on the mantle of Cultural Ambassadors to share about the unique heritage and practices of the _tanjak,_ a Malay head apparel. The student-facilitated programme included sharing, quizzes, and a hands-on activity on the folding of the _tanjak._  
 
-Social mixing aims to deepen students’ understanding of and sensitivity to other cultures. On top of providing opportunities for interactions between our students and peers of other races, the programme aims to allow students to interact with people from different segments of our community, and for this programme, our MLEP students were _kakak_ (big sisters) and _abang_ (big brothers) to the _mei-mei_ (younger sisters) and _di-di_ (younger brothers) from Poi Ching School.
+Social mixing aims to deepen students’ understanding of and sensitivity to other cultures. On top of providing opportunities for interactions between our students and peers of other races, the programme aims to allow students to interact with people from different segments of our community, and for this programme, our MLEP students were _kakak_ (big sisters) and _abang_ (big brothers) to the _mei-
+mei_ (younger sisters) and _di-di_ (younger brothers) from Poi Ching School.
+
+![](/images/2022-T3-Events-SocialMixingPartnership_01.jpg)
+
+### Singapore Mathematical Society Essay Competition
+
+This year, 3 TMJCians participated in the 2022 Singapore Mathematical Society (SMS) Essay Competition organised by the Singapore Mathematical Society.  
+  
+We are pleased to share that our students JORDON YEE (22S101), EUGENE LEE KANG RUI (22S101) and DAVID LAUW KWAI YONG (22S101) have achieved Honourable Mention for their essay.  
+  
+The Competition aims to expose students to various topics that are related to mathematics (such topics could be related to the history, application, or other aspects of mathematics) and to encourage articulation of mathematics through the exposition on these subjects.  
+  
+The competition theme for this year is on Mathematics and Environmental Sustainability, and our students’ essay titled “The Mathematics of Predicting Global Temperatures in 2050” used real life data to construct Mathematical Models using Best-Fit lines, Numerical Methods for approximations and Recurrence Relations to predict global temperature in the future.  
+  
+Our heartiest congratulations to our TMJCians!
+
+![](/images/2022-T3-Events-SGMathSocietyEssayComp_01.jpg)
+
+### Malay Language Elective Scholarship (MLES) 2022
+
+The MLES is offered to all five Malay Language Elective Programme centres in Singapore, which include, Raffles Institution, Yishun Innova Junior College, Jurong Pioneer Junior College, and National Junior College. Recipients of the scholarship have successfully gone through two rounds of the selection process, which included an interview session with panelists.  
+  
+The College would like to congratulate that three of our MLEP students have received the Malay Language Elective Scholarship. They are:  
+  
+HUSNA SAFIYYA BINTE MAHDI (22A101)
+
+ADLINA BINTE JAAFAR (22A301)
+
+NUR NABILAH NAZIHAH BINTE MUHAMMAD ASHAHRI (22A302)  
+
+Congratulations to our MLEP scholars!
+
+![](/images/2022-T3-Events-MLEPScholarship_01.jpg)
+
+### Singapore Mathematics Olympiad 2022
+
+
+
+
 
 
 
