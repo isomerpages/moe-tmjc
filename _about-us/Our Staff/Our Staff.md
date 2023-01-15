@@ -851,21 +851,33 @@ third_nav_title: Our Staff
     <td class="tg-tsok">Mdm Twu Yek Chian</td>
     <td class="tg-tsok">Teacher (Chinese Language)</td>
     <td class="tg-tsok"> twu_yek_chian@schools.gov.sg</td>
-  </tr>
+		</tr>
   <tr>
     <td class="tg-lygy">8</td>
+    <td class="tg-tsok">Mr Gan Beng Soon</td>
+    <td class="tg-tsok">Teacher (Chinese Language)</td>
+    <td class="tg-tsok"> </td>
+		</tr>
+  <tr>
+    <td class="tg-lygy">9</td>
+    <td class="tg-tsok">Ms Lim Shi Yunn</td>
+    <td class="tg-tsok">Teacher (Chinese Language)</td>
+    <td class="tg-tsok"> </td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">10</td>
     <td class="tg-tsok">Mdm Faten Hana Bte Mustafa</td>
     <td class="tg-tsok">Teacher (Malay Language)<br></td>
     <td class="tg-tsok"> faten_hana_mustafa@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">9</td>
+    <td class="tg-lygy">11</td>
     <td class="tg-tsok">Ms Radhiah Binte Ramli</td>
     <td class="tg-tsok">Teacher (Malay Language)<br></td>
     <td class="tg-tsok"> radhiah_ramli@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">10</td>
+    <td class="tg-lygy">12</td>
     <td class="tg-tsok">Mdm Shamini d/o Raja Kumar</td>
     <td class="tg-tsok">Teacher (Tamil Language)<br></td>
     <td class="tg-tsok"> shamini_raja_kumar@schools.gov.sg</td>
