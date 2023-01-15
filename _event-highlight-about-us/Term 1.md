@@ -28,4 +28,3 @@ The JC2 cohort won the “Staff vs Student Challenge” for the first time aft
 ![](/images/Event%20Highlights/2023/Term%201/First%20Day%20of%20School/2023-T1-Events-FirstDayofSchool_05.jpg)
 
 The programme ended with the whole College coming together to prepare for the upcoming Open House to showcase the dynamic spirit of the College.  Here’s to a great year ahead!
-
