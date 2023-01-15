@@ -132,11 +132,15 @@ third_nav_title: Our Staff
     <td class="tg-0lax">koh_sze_wei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-nrix"><span style="color:inherit;background-color:transparent"> </span>10</td>
-    <td class="tg-0lax">Ms Seah Joo Yee </td>
-    <td class="tg-0lax">Head of Department (Physical Education and Co-Curricular Activities)</td>
-    <td class="tg-0lax">seah_joo_yee@schools.gov.sg</td>
+	 <td class="tg-baqh">10</td>
+    <td class="tg-0lax">Mrs Ting Lin Ying</td>
+    <td class="tg-0lax">Head of Department (Economics)</td>
+    <td class="tg-0lax">foo_lin_ying@schools.gov.sg</td>
   </tr>
+ <td class="tg-baqh">5</td>
+    <td class="tg-0lax">Mrs Ting Lin Ying</td>
+    <td class="tg-0lax">Head of Department (Economics)</td>
+    <td class="tg-0lax">foo_lin_ying@schools.gov.sg</td>
   <tr>
     <td class="tg-baqh">10</td>
     <td class="tg-0lax">Ms Norashikin Ibrahim </td>
