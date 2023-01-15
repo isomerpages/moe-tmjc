@@ -695,12 +695,6 @@ third_nav_title: Our Staff
     <td class="tg-0lax">lim_aik_leong@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">6</td>
-    <td class="tg-0lax">Mr Lim Vanson</td>
-    <td class="tg-0lax">Subject Head (Mathematics)</td>
-    <td class="tg-0lax">lim_vanson@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-baqh">7</td>
     <td class="tg-0lax">Ms Chia Yi Fang Nicolette</td>
     <td class="tg-0lax">Subject Head (Student Leadership Development) </td>
@@ -726,66 +720,60 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-baqh">11</td>
-    <td class="tg-0lax">Ms Ong Bee Suan</td>
-    <td class="tg-0lax">Senior Teacher (Mathematics)</td>
-    <td class="tg-0lax">ong_bee_suan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">12</td>
     <td class="tg-0lax">Ms Angeline Tan Li Jun</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">angeline_tan_li_jun@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">13</td>
+    <td class="tg-baqh">12</td>
     <td class="tg-0lax">Ms Caris Lau Woon Ling</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">caris_lau_woon_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">14</td>
+    <td class="tg-baqh">13</td>
     <td class="tg-0lax">Ms Chong You Ming</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">chong_you_ming@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">15</td>
+    <td class="tg-baqh">14</td>
     <td class="tg-0lax">Mr Koh Ji Yong</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">koh_ji_yong@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">16</td>
+    <td class="tg-baqh">15</td>
     <td class="tg-0lax">Ms Lam Hwee Peng</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">lam_hwee_peng@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">17</td>
+    <td class="tg-baqh">16</td>
     <td class="tg-0lax">Mr Lim Jing Jie</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">lim_jing_jie@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">18</td>
-    <td class="tg-0lax">Dr Lina Binte Jalal</td>
-    <td class="tg-0lax">Teacher (Mathematics)</td>
-    <td class="tg-0lax">lina_jalal@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">19</td>
+    <td class="tg-baqh">17</td>
     <td class="tg-0lax">Ms Murugiah Padma</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">murugiah_padma@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">20</td>
+    <td class="tg-baqh">18</td>
     <td class="tg-0lax">Ms Ngian Wee Ling</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">ngian_wee_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">21</td>
+		<td class="tg-baqh">19</td>
+    <td class="tg-0lax">Ms Ong Bee Suan</td>
+    <td class="tg-0lax">Teacher (Mathematics)</td>
+    <td class="tg-0lax">ong_bee_suan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">20</td>
     <td class="tg-0lax">Ms Yeah Hong Eng</td>
     <td class="tg-0lax">Teacher (Mathematics)</td>
     <td class="tg-0lax">yeah_hong_eng@schools.gov.sg</td>
