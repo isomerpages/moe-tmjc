@@ -21,4 +21,17 @@ A big thank you to all teachers and non-teaching staff! Happy Teachers’ Day!
 
 ![](/images/2022-T3-Events-TeachersDay_01.jpg)
 
+### Social Mixing Initiative: TMJC MLEP & Poi Ching School
+
+On 25 August, our TMJC Malay Language Elective Programme (MLEP) hosted students from Poi Ching School for a unique social mixing initiative.  
+
+Our TMJC MLEP students took on the mantle of Cultural Ambassadors to share about the unique heritage and practices of the _tanjak,_ a Malay head apparel. The student-facilitated programme included sharing, quizzes, and a hands-on activity on the folding of the _tanjak._  
+
+Social mixing aims to deepen students’ understanding of and sensitivity to other cultures. On top of providing opportunities for interactions between our students and peers of other races, the programme aims to allow students to interact with people from different segments of our community, and for this programme, our MLEP students were _kakak_ (big sisters) and _abang_ (big brothers) to the _mei-mei_ (younger sisters) and _di-di_ (younger brothers) from Poi Ching School.
+
+
+
+
+
+
 
