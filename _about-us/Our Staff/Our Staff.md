@@ -275,6 +275,128 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
+# Arts & Humanities
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4ufn">s/n</th>
+    <th class="tg-l2bf">Name</th>
+    <th class="tg-l2bf">Designation</th>
+    <th class="tg-l2bf">Email</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lygy">1</td>
+    <td class="tg-tsok">Mr Wee Liang Tong</td>
+    <td class="tg-tsok">Head of Department (Arts & Humanities)</td>
+    <td class="tg-tsok">wee_liang_tong@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">2</td>
+    <td class="tg-tsok">Ms Tan Hui Bin Delphine</td>
+    <td class="tg-tsok">Subject Head (Student Management)</td>
+    <td class="tg-tsok">wong-tan_hui_bin_delphine@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">3</td>
+    <td class="tg-tsok">Mrs Yeo-Wong Nga Hui Michelle</td>
+    <td class="tg-tsok">Subject Head (Economics)</td>
+    <td class="tg-tsok">michelle_wong_nga_hui@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">4</td>
+    <td class="tg-tsok">Ms Nagashima Aya</td>
+    <td class="tg-tsok">Subject Head (Economics)</td>
+    <td class="tg-tsok"> nagashima_aya@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">5</td>
+    <td class="tg-tsok">Mrs Ong-Teo Sing Nee Keryn<br></td>
+    <td class="tg-tsok">Subject Head (ICT)<br></td>
+    <td class="tg-tsok">teo_sing_nee@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">6</td>
+    <td class="tg-tsok">Ms Tang Jie Ting<br></td>
+    <td class="tg-tsok">Subject Head (Project Work)<br></td>
+    <td class="tg-tsok">tang_jie_ting@schools.gov.sg<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">7</td>
+    <td class="tg-tsok">Mrs Yeo - Chen Zhiling</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">chen_zhi_ling@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">8</td>
+    <td class="tg-tsok">Mr Hon Chin Onn</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">hon_chin_onn@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">9</td>
+    <td class="tg-tsok">Mr Loh Jun Lai Eugene</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">loh_jun_lai_eugene@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">10</td>
+    <td class="tg-tsok">Mr Wong Sing Chung Ian</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">wong_sing_chung_ian@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> 11</td>
+    <td class="tg-tsok">Ms Halimah Binte Aziz Rahman<br></td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">halimah_aziz_rahman@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> 12</td>
+    <td class="tg-tsok">Ms Heng Wei Ling</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">heng_wei_ling@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> 13</td>
+    <td class="tg-tsok">Ms Lee Xueting</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">lee_xueting@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> 14</td>
+    <td class="tg-tsok">Ms Loe Yiwen Melissa</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">loe_yiwen_melissa@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">15</td>
+    <td class="tg-tsok">Ms Pay Yun Shi Clara</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">pay_yun_shi_clara@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy">16</td>
+    <td class="tg-tsok">Ms Sue Poh Guat Jane</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">sue_poh_guat_jane@schools.gov.sg</td>
+  </tr>
+</tbody>
+</table>
+
 # Economics
 
 <style type="text/css">
