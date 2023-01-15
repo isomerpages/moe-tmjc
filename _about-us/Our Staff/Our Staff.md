@@ -29,9 +29,9 @@ third_nav_title: Our Staff
 <tbody>
   <tr>
     <td class="tg-lygy">1</td>
-    <td class="tg-tsok">Ms Pamela Yoong</td>
+    <td class="tg-tsok">Mr Sin Kim Ho</td>
     <td class="tg-tsok">Principal</td>
-    <td class="tg-tsok">Pamela_YOONG@schools.gov.sg</td>
+    <td class="tg-tsok">SIN_Kim_Ho@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">2</td>
