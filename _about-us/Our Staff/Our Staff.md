@@ -103,6 +103,11 @@ third_nav_title: Our Staff
     <td class="tg-0lax">lim_yew_wei@schools.gov.sg</td>
   </tr>
   <tr>
+		 <td class="tg-baqh">5</td>
+    <td class="tg-0lax">Mr Gohel Amarsinh (Brandon)</td>
+    <td class="tg-0lax">Head of Department (Character & Citizenship Education)</td>
+    <td class="tg-0lax">gohel_amarsinh@schools.gov.sg</td>
+  </tr>
     <td class="tg-baqh">5</td>
     <td class="tg-0lax">Mrs Ting Lin Ying</td>
     <td class="tg-0lax">Head of Department (Economics)</td>
