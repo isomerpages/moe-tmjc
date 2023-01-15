@@ -142,12 +142,17 @@ third_nav_title: Our Staff
     <td class="tg-0lax">Head of Department (Physical Education and Co-Curricular Activities)</td>
     <td class="tg-0lax">seah_joo_yee@schools.gov.sg</td>
   <tr>
-    <td class="tg-baqh">10</td>
+    <td class="tg-baqh">12</td>
     <td class="tg-0lax">Ms Norashikin Ibrahim </td>
     <td class="tg-0lax">Head of Department (Science)<br></td>
     <td class="tg-0lax">norashikin_ibrahim@schools.gov.sg</td>
   </tr>
   <tr>
+ <td class="tg-baqh">13</td>
+    <td class="tg-0lax">Mrs Goh Meiyan June</td>
+    <td class="tg-0lax">School Staff Developer</td>
+    <td class="tg-0lax">tan_mei_yan_june@schools.gov.sg</td>
+  </tr>	
     <td class="tg-baqh">11</td>
     <td class="tg-0lax">Mr Ho Yong Hou Sunny </td>
     <td class="tg-0lax">Subject Head (Biology)</td>
