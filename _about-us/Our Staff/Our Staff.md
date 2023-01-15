@@ -312,15 +312,15 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">3</td>
-    <td class="tg-tsok">Mrs Yeo-Wong Nga Hui Michelle</td>
-    <td class="tg-tsok">Subject Head (Economics)</td>
-    <td class="tg-tsok">michelle_wong_nga_hui@schools.gov.sg</td>
+    <td class="tg-tsok">Ms Siti Rafidah Binte Rahman</td>
+    <td class="tg-tsok">Teacher (Art)</td>
+    <td class="tg-tsok">siti_rafidah_rahman@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">4</td>
-    <td class="tg-tsok">Ms Nagashima Aya</td>
-    <td class="tg-tsok">Subject Head (Economics)</td>
-    <td class="tg-tsok"> nagashima_aya@schools.gov.sg</td>
+    <td class="tg-tsok">Mr Christopher Chen Wei Ching</td>
+    <td class="tg-tsok">Teacher (Geography)</td>
+    <td class="tg-tsok"> christopher_chen_wei_ching@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">5</td>
