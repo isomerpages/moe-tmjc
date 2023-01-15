@@ -683,13 +683,13 @@ third_nav_title: Our Staff
     <td class="tg-0lax">tan_mei_yan_june@schools.gov.sg<br></td>
   </tr>
   <tr>		
-    <td class="tg-baqh">4</td>
-    <td class="tg-0lax">Mrs Goh Meiyan June</td>
-    <td class="tg-0lax">Subject Head (Mathematics) covering School Staff Developer</td>
-    <td class="tg-0lax">tan_mei_yan_june@schools.gov.sg</td>
+    <td class="tg-baqh">5</td>
+    <td class="tg-0lax">Mrs Luo-Tan Jing Ying Amy</td>
+    <td class="tg-0lax">Subject Head (Character Education)</td>
+    <td class="tg-0lax">amy_tan_jing_ying@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-baqh">5</td>
+    <td class="tg-baqh">6</td>
     <td class="tg-0lax">Mr Lim Aik Leong</td>
     <td class="tg-0lax">Subject Head (Mathematics)</td>
     <td class="tg-0lax">lim_aik_leong@schools.gov.sg</td>
