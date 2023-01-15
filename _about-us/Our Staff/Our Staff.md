@@ -306,9 +306,9 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy">2</td>
-    <td class="tg-tsok">Ms Tan Hui Bin Delphine</td>
-    <td class="tg-tsok">Subject Head (Student Management)</td>
-    <td class="tg-tsok">wong-tan_hui_bin_delphine@schools.gov.sg</td>
+    <td class="tg-tsok">Mr Muhammad Khairulnizam Bin Hamid</td>
+    <td class="tg-tsok">Subject Head ((Partnership) - Internal</td>
+    <td class="tg-tsok">muhammad_khairulnizam_hamid@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">3</td>
