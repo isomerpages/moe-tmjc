@@ -307,7 +307,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-lygy">2</td>
     <td class="tg-tsok">Mr Muhammad Khairulnizam Bin Hamid</td>
-    <td class="tg-tsok">Subject Head (Partnership) - Internal</td>
+    <td class="tg-tsok">Subject Head (Arts) - Internal</td>
     <td class="tg-tsok">muhammad_khairulnizam_hamid@schools.gov.sg</td>
   </tr>
   <tr>
