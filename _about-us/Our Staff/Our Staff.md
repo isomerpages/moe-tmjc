@@ -221,7 +221,7 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-baqh">25</td>
     <td class="tg-0lax">Mr Muhammad Khairulnizam Hamid  </td>
-    <td class="tg-0lax">Subject Head (Partnership)-Internal</td>
+    <td class="tg-0lax">Subject Head (Arts)-Internal</td>
     <td class="tg-0lax">muhammad_khairulnizam_hamid@schools.gov.sg</td>
   </tr>
   <tr>
