@@ -3,6 +3,32 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### Chinese New Year Celebrations 2023
+
+On 20 January, TMJC ushered in the Lunar New Year of the Rabbit with celebratory activities, revolving around the theme of “Return of Spring and A New Year of Vitality”.  
+  
+The programme started with CGs displaying their creativity by making CNY handicraft using red packets. The handicraft consisted of lanterns, firecrackers and new year greeting cards which were displayed along the study area outside the General Office, adding cheer to the festive mood.
+
+![](/images/Event%20Highlights/2023/Term%201/CNY%20Celebrations/2023-T1-Events-CNYCelebrations_01.jpg)
+
+Students also watched a student-directed short film produced by the Citizenship Education Committee, highlighting the different symbolic meanings of Rabbit in Asian countries. This was followed by an inter-CG Kahoot Quiz to heighten students’ awareness of the citizenship messages behind the film.  
+  
+The second segment of the programme gathered all teachers and students in the Hall for a kaleidoscope of performances put up by various CCA groups. Students from the Chinese Orchestra, Choir, Modern Dance, Wushu and Taekwondo staged performances of celebratory music, songs, dance and martial arts, heightening the festive cheer. Teachers Ms Ann Koh and Mr Wong Hoe Sing also added to the festive cheer with their live song performances. As part of the Lunar New Year tradition, the student leaders presented mandarin oranges to our school leaders and staff to express their gratitude and appreciation.
+
+![](/images/Event%20Highlights/2023/Term%201/CNY%20Celebrations/2023-T1-Events-CNYCelebrations_02.jpg)
+
+The final segment of our Chinese New Year celebrations ended on a high note as a TMJC family with a mass Lo-Hei session. Our teachers also brought their little ones along to share in this joyous festive celebration!
+
+![](/images/Event%20Highlights/2023/Term%201/CNY%20Celebrations/2023-T1-Events-CNYCelebrations_03.jpg)
+
+A Happy and Blessed Chinese New Year to everyone!
+
+### Basic ECG Advising Skills Workshop
+
+On 18 January 2023, our TMJC teachers attended a Basic ECG Advising Workshop. The workshop seeks to further enhance teachers' competencies in ECG advising. ECG advising is an area within the Professional Development Roadmap for CCE, which is developed in alignment with the SkillsFuture for Educators levels of practice. The workshop equips teachers with skills to effectively engage students in ECG conversations through customised case discussions, facilitated by ECG Counsellors.
+
+![](/images/Event%20Highlights/2023/Term%201/ECG/2023-T1-Events-ECG_01.jpg)
+
 ### JC1 Awards Ceremony
 
 On 18 January 2023, we recognised and celebrated the consistent good achievements of students in their JC1 journey in 2022 during our JC1 Awards Ceremony.  Our students who had performed well in their JC1 assessments were presented with the TMJC Book Prize (Bronze) and the Best in Subject Award for the different subjects by our Heads of Department. Students can look forward to bagging the Silver and Gold medals for exemplary accomplishments in JC2 and at their A Levels. This series of awards aim to inspire our students to apply themselves consistently and to strive for their personal best in their JC journey.  
@@ -11,7 +37,7 @@ Our Guest of Honour, Mr Jonathan Teo, an alumnus of TMJC, encouraged the cohort 
   
 Congratulations to all award recipients!
 
-
+![](/images/Event%20Highlights/2023/Term%201/JC1%20Awards%20Ceremony/2023-T1-Events-JC1AwardsCeremony_01.jpg)
 
 ### TMJC Open House 2023
 
