@@ -19,11 +19,11 @@ Applicants may apply for the Joint Admissions Exercise (JAE) registration via JA
 
 The Appeal period starts after the JAE posting results.
 
-**Start Date:  4 Feb 2022 (Friday), 10.00 am**
+**Start Date:  2 Feb 2023 (Thursday), 9.00 am**
 
-**End Date: 10 Feb 2022 (Thursday), 5.00 pm**
+**End Date: 8 Feb 2022 (Wednesday), 5.00 pm**
 
-Only students with **net** L1R5 equal to or less than TMJC cut-off points can be considered for appeals. All appeals applications **must be** completed **online.** The online application form can be accessed here:  [https://portal.tmjc.edu.sg/appeal](https://portal.tmjc.edu.sg/appeal). The deadline for submission of the **online appeal application** is **9 Feb, 5.00 pm.** Late or incomplete submission will not be considered.  
+Only students with **net** L1R5 equal to or less than TMJC cut-off points can be considered for appeals. All appeals applications **must be** completed **online.** The online application form can be accessed here:  [https://portal.tmjc.edu.sg/appeal](https://portal.tmjc.edu.sg/appeal). The deadline for submission of the **online appeal application** is **7 Feb, 12.00 pm.** Late or incomplete submission will not be considered.  
 
 Applicants are required to **upload** the following relevant documents in the **Online Appeal Portal.**
 
@@ -35,4 +35,4 @@ Applicants are required to **upload** the following relevant documents in the�
 *   Testimonials
 *   Any other relevant supporting documents
 
-Shortlisted applicants will be invited for an interview. Only successful applicants will be notified by **10 Feb, 12.00 pm**.
+Shortlisted applicants will be invited for an interview. Only successful applicants will be notified by **8 Feb, 12.00 pm**.
