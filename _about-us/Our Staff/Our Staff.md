@@ -637,6 +637,11 @@ third_nav_title: Our Staff
     <td class="tg-tsok">Mr Lim Khoon Liang</td>
     <td class="tg-tsok">Teacher (General Paper)</td>
     <td class="tg-tsok"> oth_lim_khoon_liang@schools.gov.sg</td>
+				<tr>
+    <td class="tg-lygy">22</td>
+    <td class="tg-tsok">Ms Yvonne Lau Jie Ling</td>
+    <td class="tg-tsok">Teacher (General Paper)</td>
+    <td class="tg-tsok">yvonne_lau_jie_ling@schools.gov.sg</td>
 </tr>					
 </tbody>
 </table>
