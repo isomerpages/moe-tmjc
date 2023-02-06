@@ -877,9 +877,9 @@ third_nav_title: Our Staff
 		</tr>
   <tr>
     <td class="tg-lygy">9</td>
-    <td class="tg-tsok">Ms Lim Shi Yunn</td>
+    <td class="tg-tsok">Ms Lim Shi Yun</td>
     <td class="tg-tsok">Teacher (Chinese Language)</td>
-    <td class="tg-tsok"> </td>
+    <td class="tg-tsok">lim_shi_yun_a@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-lygy">10</td>
