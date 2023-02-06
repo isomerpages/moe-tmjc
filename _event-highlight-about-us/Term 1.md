@@ -3,6 +3,12 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### Taekwondo and Wushu Performance at Pasir Ris Elias Community Club 
+
+Our Taekwondo and Wushu teams performed at the Pasir Ris Elias Community Club Chinese New Year performance on 28 January 2023. We are indeed honoured and happy to join the Pasir Ris residents to celebrate this festival. The students in the CCAs put up a memorable performance, showcasing their focus and discipline in their respective martial arts forms. Through the performances, we joyfully ushered in the prosperous year of the Rabbit.
+
+![](/images/Event%20Highlights/2023/Term%201/Pasir%20Ris%20Elias%20CC%20CNY/2023-T1-Events-PasirRisEliasCCCNY_01.jpg)
+
 ### Chinese New Year Celebrations 2023
 
 On 20 January, TMJC ushered in the Lunar New Year of the Rabbit with celebratory activities, revolving around the theme of “Return of Spring and A New Year of Vitality”.  
