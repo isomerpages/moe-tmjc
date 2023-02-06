@@ -458,24 +458,30 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lygy"> 11</td>
+    <td class="tg-tsok">Mrs Irene Lian - Chua Li Shan</td>
+    <td class="tg-tsok">Teacher (Economics)</td>
+    <td class="tg-tsok">chua_li_shan_irene@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-lygy"> 12</td>
     <td class="tg-tsok">Ms Lee Xueting</td>
     <td class="tg-tsok">Teacher (Economics)</td>
     <td class="tg-tsok">lee_xueting@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy"> 12</td>
+    <td class="tg-lygy"> 13</td>
     <td class="tg-tsok">Ms Loe Yiwen Melissa</td>
     <td class="tg-tsok">Teacher (Economics)</td>
     <td class="tg-tsok">loe_yiwen_melissa@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">13</td>
+    <td class="tg-lygy">14</td>
     <td class="tg-tsok">Ms Pay Yun Shi Clara</td>
     <td class="tg-tsok">Teacher (Economics)</td>
     <td class="tg-tsok">pay_yun_shi_clara@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-lygy">14</td>
+    <td class="tg-lygy">15</td>
     <td class="tg-tsok">Ms Sue Poh Guat Jane</td>
     <td class="tg-tsok">Teacher (Economics)</td>
     <td class="tg-tsok">sue_poh_guat_jane@schools.gov.sg</td>
