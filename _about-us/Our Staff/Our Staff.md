@@ -873,7 +873,7 @@ third_nav_title: Our Staff
     <td class="tg-lygy">8</td>
     <td class="tg-tsok">Mr Gan Beng Soon</td>
     <td class="tg-tsok">Teacher (Chinese Language)</td>
-    <td class="tg-tsok"> </td>
+    <td class="tg-tsok">gan_beng_soon@schools.gov.sg</td>
 		</tr>
   <tr>
     <td class="tg-lygy">9</td>
