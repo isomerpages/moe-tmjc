@@ -24,5 +24,3 @@ In order to better engage students, our CCE lessons adopt a variety of approache
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Character%20Education/parent_engagement_talk.png)
 <center>Parent Engagement Talk on Supporting Your Child Panel Discussion</center>
-
-_updated on 11 February 2023_
