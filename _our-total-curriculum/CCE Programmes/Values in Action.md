@@ -33,16 +33,20 @@ Some of our key signature VIA programme include:
 *   TM Sparkles, a College-wide Cleanliness Project which encourages TMJC students to take responsibility for the cleanliness of venues they use frequently.
 
 *   TM EcoGreen, a program that aims to nurture our College as stewards of the environment where we learn and practise environmental sustainability through the 4 Cs: Curriculum, Campus, Culture and Community.
+
 *   TM Community Outreach Programme provides opportunities for students to contribute actively and meaningfully to the greater community around us. Some of our outreach projects include SBS Transit Kindness Month, Caring SG Commuters and Pasir Ris East Care Store.
+
 *   TM Educare Peer Mentoring Programme aims to promote a culture of peer mentoring in the College. Through this programme, student mentors are paired with mentees who require academic support in identified subjects. This allows peer teaching and learning to take place as both mentors and mentees benefit from the sessions to reinforce their learning. 
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/TM%20Connects%202022.jpg)
 <center>TM Connects</center>
 
-![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/TM%20EcoGreen%20(Exterior).jpg)
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/TM%20EcoGreen.jpg)
 <center>TM EcoGreen - our Greenhouses</center>
 
-![](/images/TMJC-CCP_VIA_04.jpeg)
-<center>TM Sparkles - students doing their part to maintain the cleanliness of their home away from home</center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/SBS%20Transit%20Kindness%20Project%20-%20reformated.jpg)
+<center>SBS Transit Kindness Project</center>
 
-_updated on 23 August 2021_
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/SG%20CARE%20Bus%20Commuters%20-%20reformated.jpg)
+<center>SG CARE Bus Commuters</center>
+
