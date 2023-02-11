@@ -30,5 +30,3 @@ In TMJC, selected students hold an appointment as Citizenship Education Ambassad
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/SGPerspective.jpg)
 <center>Singapore Perspective - Ministry of Foreign Affairs explains Singapore's position on Ukraine crisis</center>
-
-_updated on 11 February 2023_
