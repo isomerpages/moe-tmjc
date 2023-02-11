@@ -10,14 +10,19 @@ With the Civics Tutor as their coach and ‘GROW ME’ as a coaching and reflect
   
 In order to better engage students, our CCE lessons adopt a variety of approaches such as personal narratives sharing, perspective-taking debates, as well as discussions on moral dilemmas and contemporary issues. All these serve to engage our students’ minds, inspire their hearts and equip them with the necessary skills, so that they are able to think critically and embark on an authentic and personally meaningful character growth journey.
 
-![](/images/TMJC-CCP_CharacterEducation_03.jpeg)
-<center>CCE Lesson in Action </center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Character%20Education/cce_lesson.jpg)
+<center>CCE Lesson in Action on Moral Dilemmas </center>
 
-![](/images/TMJC-CCP_CharacterEducation_01.jpeg)
-<center>Chapter 5 e-Portfolio</center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Character%20Education/moral_dilemma_instagpoll.png)
+<center>Moral Dilemma Instagram Poll</center>
 
-![](/images/TMJC-CCP_CharacterEducation_02.jpeg)
-<center>TMJC Living Out Your Values Everyday (L.O.V.E) Week Poster</center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Character%20Education/anti-drug_ribbon.jpg)
+<center>Anti-Drug Ribbon Pledge Folding Activity</center>
 
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Character%20Education/love_week.jpg)
+<center>L.O.V.E.3 Week Hall Sharing by Mr Robin Hon</center>
 
-_updated on 23 August 2021_
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Character%20Education/parent_engagement_talk.png)
+<center>Parent Engagement Talk on Supporting Your Child Panel Discussion</center>
+
+_updated on 11 February 2023_
