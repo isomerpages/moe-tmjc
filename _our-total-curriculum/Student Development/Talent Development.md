@@ -14,17 +14,17 @@ Students will be immersed in a wide array of opportunities offered in Talent Dev
 *   Leadership Development
 *   Structured Mentoring
 
-![](/images/TMJC-CCP_SD_TD_01.jpeg)
-<center>Learning Journey to Oasis Living Lab, 21 April 2021</center>
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Talent%20Development/Hands-on%20experiential%20learning%20at%20SUTD.jpg)
+<center>Hands-on experiential learning at SUTD</center>
 
-![](/images/TMJC-CCP_SD_TD_02.jpeg)
-<center>International Biomedical Quiz, 7 April 2021</center>
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Talent%20Development/IdeaSLAM%20finalists.jpg)
+<center>IdeaSLAM finalists</center>
 
-![](/images/TMJC-CCP_SD_TD_03.jpeg)
-<center>In-house Research & Presentation, 1 April 2021</center>
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Talent%20Development/Awardees%20for%20Australian%20Informatics%20Olympiad.jpg)
+<center>Awardees for Australian Informatics Olympiad</center>
 
-![](/images/TMJC-CCP_SD_TD_04.jpeg)
-<center>Post Budget Dialogue with Mr Desmond Tan, 27 March 2021</center>
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Talent%20Development/TD%20VIA%20Project%20with%20Teambuild%20Dormitory.png)
+<center>TD VIA Project with Teambuild Dormitory</center>
 
-![](/images/TMJC-CCP_SD_TD_05.jpeg)
-<center>Awardees of LTA Young Transport Engineer Book Prize, 14 August 2020</center>
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Talent%20Development/Sharing%20of%20TD%20journey%20during%20TD%20Graduation.jpg)
+<center>Sharing of TD journey during TD Graduation</center>
