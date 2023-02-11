@@ -13,16 +13,22 @@ Finally, we adopt a whole school approach. To enhance the impact of Citizenship 
   
 In TMJC, selected students hold an appointment as Citizenship Education Ambassadors (CEAs) as peer influencers in Citizenship Education matters, aiming to engage their hearts and minds in contemporary issues that impact Singapore.
 
-![](/images/TMJC-CCP_CitizenshipEducation_01.jpeg)
-<center>Wall commemorating Total Defence Day - Our Cluster Superintendent, Ms Ranjit Kaur, Vice-Principals & the Organising Committee</center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/TDDMural.jpg)
+<center>Mural design in collaboration with our very own artistic students - Being united towards Covid resilience</center>
 
-![](/images/TMJC-CCP_CitizenshipEducation_02.jpeg)
-<center>2019 NDP Celebrations - Balloon Drop containing aspirations of TMJC students</center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/RHD1.jpg)
+<center>Students engaged in a conversation with Minister Dr Maliki Osman</center>
 
-![](/images/TMJC-CCP_CitizenshipEducation_03.jpeg)
-<center>Fostering 21st CC Cultural Awareness - Q&A Engagement with the Danish Ambassador, Her Excellency Ms Sandra Jensen Landi</center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/RHD2.jpg)
+<center>Understanding the importance of having friends from other races</center>
 
-![](/images/TMJC-CCP_CitizenshipEducation_04.jpeg)
-<center> Classroom Broadcast of the 2021 Total Defence Day Message by Minister for Defence Dr Ng Eng Hen </center>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/IFD.png)
+<center>Understanding more about Climate Change from fellow TMJC personal experience</center>
 
-_updated on 23 August 2021_
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/NDP.jpg)
+<center>Students from various uniformed groups standing at attention during National Anthem</center>
+
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/SGPerspective.jpg)
+<center>Ministry of Foreign Affairs explains Singapore's position on Ukraine crisis</center>
+
+_updated on 11 February 2023_
