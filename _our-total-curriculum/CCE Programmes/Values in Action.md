@@ -50,3 +50,5 @@ Some of our key signature VIA programme include:
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/SG%20CARE%20Bus%20Commuters%20-%20reformated.jpg)
 <center>SG CARE Bus Commuters</center>
 
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Values%20in%20Action/TM%20Educare.jpg)
+<center>TM Educare</center>
