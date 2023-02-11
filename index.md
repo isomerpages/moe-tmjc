@@ -1,7 +1,9 @@
 ---
 layout: homepage
 title: Tampines Meridian Junior College
-description: An Isomer site of the Singapore Government
+description: A dynamic institution known for its rich learning experiences in a
+  culture of innovation, empowerment and care | 21 Pasir Ris Street 71,
+  Singapore 518799 | 6349 3660
 image: /images/tmjc.jpeg
 permalink: /
 notification: ""
@@ -19,3 +21,4 @@ sections:
           description: ""
           url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
 ---
+
