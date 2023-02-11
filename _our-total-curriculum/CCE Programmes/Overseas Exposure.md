@@ -11,9 +11,3 @@ With the global landscape becoming increasingly interconnected, it is important 
 
 ![](/images/TMJC-CCP_OverseasExposure_02.jpeg)
 <center>Service Learning @ Ho Chi Minh City in 2019</center>
-
-<img src="/images/TMJC-CCP_OverseasExposure_03.jpeg" 
-     style="width:65%">
-<center>Rice planting during Cultural Immersion@Vietnam in 2019</center>
-
-_updated on 23 August 2021_
