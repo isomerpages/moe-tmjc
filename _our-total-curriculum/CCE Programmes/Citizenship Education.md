@@ -14,21 +14,21 @@ Finally, we adopt a whole school approach. To enhance the impact of Citizenship 
 In TMJC, selected students hold an appointment as Citizenship Education Ambassadors (CEAs) as peer influencers in Citizenship Education matters, aiming to engage their hearts and minds in contemporary issues that impact Singapore.
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/TDDMural.jpg)
-<center>Mural design in collaboration with our very own artistic students - Being united towards Covid resilience</center>
+<center> Total Defence Day - Being united towards Covid resilience</center>
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/RHD1.jpg)
-<center>Students engaged in a conversation with Minister Dr Maliki Osman</center>
+<center>Racial Harmony Day - Students engaged in a conversation with Minister Dr Maliki Osman</center>
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/RHD2.jpg)
-<center>Understanding the importance of having friends from other races</center>
+<center>Racial Harmony Day - Understanding the importance of having friends from other races</center>
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/IFD.png)
-<center>Understanding more about Climate Change from fellow TMJC personal experience</center>
+<center>International Friendship Day - Understanding Climate Change, a Global Problem</center>
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/NDP.jpg)
-<center>Students from various uniformed groups standing at attention during National Anthem</center>
+<center>National Day - Students from various uniformed groups standing at attention during National Anthem</center>
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Citizenship%20Education/SGPerspective.jpg)
-<center>Ministry of Foreign Affairs explains Singapore's position on Ukraine crisis</center>
+<center>Singapore Perspective - Ministry of Foreign Affairs explains Singapore's position on Ukraine crisis</center>
 
 _updated on 11 February 2023_
