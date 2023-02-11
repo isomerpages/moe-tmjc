@@ -14,29 +14,17 @@ Our student leaders will be given opportunities to go through a series of worksh
   
 Through our holistic Student Leadership Programme, we believe that our student leaders will be positive change-makers to society and be ready for the world beyond the classroom.
 
-![](/images/TMJC-CCP_SD_SL_01.jpeg)
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Student%20Leadership/Student%20Leaders'%20Investiture.jpg)
 <center>Student Leaders' Investiture</center>
 
-![](/images/TMJC-CCP_SD_SL_02.jpeg)
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Student%20Leadership/Nominees%20for%20Outstanding%20Student%20Leader%20Award.jpeg)
 <center>Nominees for Outstanding Student Leader Award</center>
 
-![](/images/TMJC-CCP_SD_SL_03.jpeg)
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Student%20Leadership/Student%20Council%20Initiation%20Ceremony.jpg)
 <center>Student Council Initiation Ceremony</center>
 
-![](/images/TMJC-CCP_SD_SL_04.jpeg)
-<center>CG Leaders showing appreciation to our School Leaders</center>
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Student%20Leadership/Official%20launch%20of%20TM%20Cove,%20designed%20by%204th%20TMSC.jpg)
+<center>Official launch of TM Cove, designed by 4th TMSC</center>
 
-![](/images/TMJC-CCP_SD_SL_05.jpeg)
-<center>JC2 councillors sharing experience with juniors</center>
-
-
-<img src="/images/TMJC-CCP_SD_SL_06.jpeg" 
-     style="width:60%">
+![](/images/Our%20Total%20Curriculum/3%20Student%20Development/Student%20Leadership/Orientation%20Group%20Leaders'%20Training%20Workshop.jpeg)
 <center>Orientation Group Leaders Training Workshop</center>
-
-
-<img src="/images/TMJC-CCP_SD_SL_07.jpeg" 
-     style="width:60%">
-<center>Team building Game during Council Training Workshop</center>
-
-_updated on 25 August 2021_
