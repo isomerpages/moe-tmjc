@@ -3,7 +3,6 @@ title: Overview of our Teaching & Learning
 permalink: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning/
 description: ""
 ---
-
 ### TMJC Teaching & Learning Framework
   
 The TMJC Teaching and Learning (T&L) framework presents an overview of the key elements in the students’ learning experiences in the College. It is aligned to TMJC’s vision and mission of nurturing lifelong learners through rich learning experiences in a culture of innovation, empowerment and care. The framework articulates the fundamental guidelines for teachers as they design, deliver and evaluate their lessons.
