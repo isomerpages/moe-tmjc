@@ -14,7 +14,7 @@ third_nav_title: CCE Programmes
 
 (b) To help students know themselves and build healthy and rewarding relationships through the acquisition of <u> social and emotional skills </u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
 
-(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.   
+(c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.   
 
 3. The **Key Messages** of Sexuality Education are:
 
@@ -28,7 +28,7 @@ third_nav_title: CCE Programmes
 
 You may click [here](https://go.gov.sg/moe-sexuality-education)  for more information on MOE Sexuality Education.    
 
-### Overview of Tampines Meridian Junior College's Sexuality Education Programme for 2022
+### Overview of Tampines Meridian Junior College's Sexuality Education Programme for 2023
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)  for more information on the scope of Sexuality Education in the school curriculum.
 
