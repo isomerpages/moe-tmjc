@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/herobanner1.gif
+      background: /images/Homepage/Hero-Banner-1.gif
       key_highlights:
         - title: Event Highlights
           description: ""
@@ -21,4 +21,3 @@ sections:
           description: ""
           url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
 ---
-
