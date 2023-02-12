@@ -161,5 +161,4 @@ The subject combinations offered by the College are based on the guidelines from
 (Minimum class size of 15 must be met for any particular combination to be offered)
 ![](/images/Table%203%20Science%20Stream_080721.jpeg)
 <center>There are 3 compulsory H1 subjects: PW, GP, MTL.</center>
-
-_updated on 08 July 2021_
+2021_
