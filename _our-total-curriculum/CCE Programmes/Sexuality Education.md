@@ -61,4 +61,3 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more info
 10. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Our%20Total%20Curriculum/Character%20Citizenship%20Progs/Sexuality%20Education/2023/Parent%20eTeens%20Opt%20Out%20Form%202023%20(Annex%20B).pdf). The completed form is to be submitted by 14/07/2023.
 
 11.   Parents can contact the school at [TMJC@MOE.EDU.SG](mailto:TMJC@MOE.EDU.SG) for discussion or to seek clarification about the school’s Sexuality Education programme.
-
