@@ -16,7 +16,7 @@ sections:
           url: https://moe-tmjc-staging.netlify.app/event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
-          url: https://moe-tmjc-staging.netlify.app/about-us/announcements
+          url: https://moe-tmjc-staging.netlify.app/about-us/announcements/
         - title: Media Stories
           description: ""
           url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
