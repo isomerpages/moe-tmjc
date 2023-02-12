@@ -21,8 +21,8 @@ sections:
           description: ""
           url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: Taekwondo and Wushu Performance
+      subtitle: Event Highlights
       description: Infopic description
       button: Button Text
       alt: Image alt text
