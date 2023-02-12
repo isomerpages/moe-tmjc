@@ -49,5 +49,3 @@ Innovation is in the DNA of TMJC. And in this spirit, the TMJC Cool Moves Award 
 Nominations are rigorously judged according to the College’s “Ice-Cube” innovation rubric which measures a project’s strengths in the areas of Innovation, Implementation and Impact (three ‘I’s). Each nomination is also advocated by a Teacher Leader who would confer with the project team to better understand their work, and make an independent assessment to the judging panel.
 
 [TMJC Cool Moves Gallery](https://sites.google.com/moe.edu.sg/tmjccoolmovesgallery/home)
-
-_updated on 09 July 2021_
