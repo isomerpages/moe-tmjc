@@ -21,11 +21,11 @@ sections:
           description: ""
           url: about-us/media-stories/
   - infopic:
-      title: Taekwondo and Wushu Performance
+      title: Taekwondo and Wushu Performance at Pasir Ris Elias CC
       subtitle: Event Highlights
       description: Our Taekwondo and Wushu teams performed at the Pasir Ris Elias
         Community Club Chinese New Year performance on 28 January 2023.
       button: Find Out More
       alt: Image alt text
-      url: contact-us
+      url: event-highlight-about-us/permalink/
 ---
