@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Event Highlights
           description: ""
-          url: https://moe-tmjc-staging.netlify.app/about-us/event-highlights/term-2
+          url: https://moe-tmjc-staging.netlify.app/event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
           url: https://moe-tmjc-staging.netlify.app/about-us/announcements
