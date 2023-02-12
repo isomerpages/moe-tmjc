@@ -32,11 +32,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more info
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)  for more information on the scope of Sexuality Education in the school curriculum.
 
-#### Sexuality Education:
+##### Sexuality Education:
 
 5. The focus for Sexuality Education at Pre-University is on respectful relationships. Specifically, the JC/CI package covers Interpersonal Relationships, with themes of Human Development, Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into the main focus on relationships.  
 
-**At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in 2022:**
+##### At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in 2022:
+
 
 <b><center> JUNIOR COLLEGE 1 </center></b>
 <b><center>Theme 3B from Module: Developing Healthy Relationships </center></b>
