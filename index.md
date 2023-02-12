@@ -28,7 +28,8 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/2023-T1-Events-Infopic_PasirRisEliasCC.jpg
+      image: /images/Homepage/Infopic/2023/Term
+        1/2023-T1-Events-Infopic_PasirRisEliasCC.jpg
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
