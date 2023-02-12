@@ -13,13 +13,13 @@ sections:
       key_highlights:
         - title: Event Highlights
           description: ""
-          url: https://moe-tmjc-staging.netlify.app/event-highlight-about-us/permalink/
+          url: event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
-          url: https://moe-tmjc-staging.netlify.app/about-us/announcements/
+          url: about-us/announcements/
         - title: Media Stories
           description: ""
-          url: https://moe-tmjc-staging.netlify.app/about-us/media-stories/
+          url: about-us/media-stories/
   - infopic:
       title: Taekwondo and Wushu Performance
       subtitle: Event Highlights
