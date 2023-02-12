@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Hero-Banner-1.gif
+      background: /images/Homepage/Hero Images/Hero-Banner-1.gif
       key_highlights:
         - title: Event Highlights
           description: ""
