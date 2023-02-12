@@ -28,4 +28,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/2023/2023-T1-Events-Infopic_PasirRisEliasCC.jpg
 ---
