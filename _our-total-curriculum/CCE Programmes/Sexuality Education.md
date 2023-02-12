@@ -38,56 +38,27 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more info
 
 ##### At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in 2023:
 
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Sexuality%20Education/2023-CCE-SexualityEd_01.jpg)
 
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Sexuality%20Education/2023-CCE-SexualityEd_02.jpg)
 
-**_eTeens_ Programme**:
+##### _eTeens_ Programme:
 
 6. _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide JC/CI Year 1 students with accurate information on STI/HIV and protection from a health perspective so as to enable them to make wise, informed, and sensible decisions.  
 
 7. Students learn the health, social and financial implications of STIs/HIV on an individual and the family if he/she gets infected with STIs/HIV and the importance of responsible decision-making and knowing where to seek help. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions
 
-**At Tampines Meridian Junior College, the _eTeens_ programme will be implemented as follows in 2022:**
+##### At Tampines Meridian Junior College, the _eTeens_ programme will be implemented as follows in 2023:
 
-<b><center>JUNIOR COLLEGE 1</center></b>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9uiz{background-color:#ECECEC;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-b4br{background-color:#ECECEC;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-b4br">Topics/Lessons</th>
-    <th class="tg-9uiz">Programme Learning Objectives<br><br></th>
-    <th class="tg-b4br">Time Period<br>(e.g. Term 3 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lygy">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-tsok"><br><span style="background-color:initial">• Awareness of the different STI and HIV</span><br><span style="background-color:initial">• Modes of transmission for STI and HIV</span><br><span style="background-color:initial">• Modes of protection against infection, specifically abstinence and the correct use of condom</span><br><span style="background-color:initial">• Consequences and impact of STI/HIV</span><br><span style="background-color:initial">• State the ways of managing the impact</span><br><br></td>
-    <td class="tg-lygy"><br>Term 3 <span style="background-color:initial">Week 7</span></td>
-  </tr>
-</tbody>
-</table>
+![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Sexuality%20Education/2023-CCE-SexualityEd_03.jpg)
 
 ### Information for Parents
 
-8. Parents may opt their children out of Sexuality Education and/or supplementary sexuality education programmes by MOE-approved external providers.  
+8. Parents may opt their children out of Sexuality Education and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Parent%20Opt%20Out%20Form%202022%20Annex%20A.pdf). The completed form is to be submitted by 26/01/2022 for JC2 and 15/07/2022 for JC1.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Our%20Total%20Curriculum/Character%20Citizenship%20Progs/Sexuality%20Education/2023/Parent%20Opt%20Out%20Form%202023%20(Annex%20A).pdf). The completed form is to be submitted by 31/03/2023. 
 
-10. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/eTeens%20Parents%20Opt-out%20Form%20JCCI%202022%20Annex%20B.pdf). The completed form is to be submitted by 15/07/2022.  
+10. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Our%20Total%20Curriculum/Character%20Citizenship%20Progs/Sexuality%20Education/2023/Parent%20eTeens%20Opt%20Out%20Form%202023%20(Annex%20B).pdf). The completed form is to be submitted by 14/07/2023.
 
-11. Parents can contact the school at [TMJC@MOE.EDU.SG](mailto:TMJC@MOE.EDU.SG) for discussion or to seek clarification about the school’s sexuality education programme.  
+11.   Parents can contact the school at [TMJC@MOE.EDU.SG](mailto:TMJC@MOE.EDU.SG) for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-12. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
-
-_updated on  11 January 2022_
