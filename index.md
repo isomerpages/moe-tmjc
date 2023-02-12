@@ -29,4 +29,14 @@ sections:
       alt: Image alt text
       url: event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/2023-T1-Events-Infopic_PasirRisEliasCC.jpg
+  - infopic:
+      title: Inspiring Teacher of English Award 2023
+      subtitle: Announcements
+      description: " Nominations for the annual Inspiring Teacher of English awards
+        2023 is now opened!"
+      button: Find Out More
+      url: /about-us/announcements/
+      image: /images/Homepage/Infopic/2023/Term
+        1/2023-T1-Announcement-Infopics_EnglishAward.jpg
+      alt: Image alt text
 ---
