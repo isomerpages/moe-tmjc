@@ -2,7 +2,6 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - Student Development.md
       - Character & Citizenship Programme.md
       - Instructional Prog.md
