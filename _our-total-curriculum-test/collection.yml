@@ -2,5 +2,6 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
+      - Instructional Programme/Subject Combination.md
       - Instructional Programme/Overview of our Teaching & Learning.md
       - Instructional Programme/.keep
