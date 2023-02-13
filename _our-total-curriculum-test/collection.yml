@@ -2,5 +2,6 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
+      - CCA/Student Development.md
       - CCA/.keep
       - Instructional Prog.md
