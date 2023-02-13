@@ -2,6 +2,7 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
+      - CCE/.keep
       - Instructional Programme/Knowledge Skills.md
       - Instructional Programme/Subject Combination.md
       - Instructional Programme/Overview of our Teaching & Learning.md
