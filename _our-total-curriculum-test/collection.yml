@@ -2,5 +2,4 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
-      - Page 2.md
       - Instructional Prog.md
