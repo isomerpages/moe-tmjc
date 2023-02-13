@@ -2,7 +2,6 @@ collections:
   our-total-curriculum:
     output: true
     order:
-      - Co Curricular Activities/.keep
       - CCE Programmes/.keep
       - CCE Programmes/Character Education.md
       - CCE Programmes/Citizenship Education.md
