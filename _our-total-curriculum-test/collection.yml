@@ -1,0 +1,4 @@
+collections:
+  our-total-curriculum-test:
+    output: true
+    order: []
