@@ -2,6 +2,7 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
+      - Student Development/Talent Development.md
       - Student Development/Student Well Being.md
       - Student Development/Student Leadership.md
       - Student Development/Co Curricular Activities.md
