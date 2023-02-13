@@ -2,7 +2,6 @@ collections:
   our-total-curriculum-test:
     output: true
     order:
-      - Student Development/Co Curricular Activities.md
       - Student Development/.keep
       - CCE/Sexuality Education.md
       - CCE/Education and Career Guidance.md
