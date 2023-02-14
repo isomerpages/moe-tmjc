@@ -21,15 +21,15 @@ sections:
           description: ""
           url: about-us/media-stories/
   - infopic:
-      title: Taekwondo and Wushu Performance at Pasir Ris Elias CC
+      title: "JC1 Orientation 2023: AURORA"
       subtitle: Event Highlights
-      description: Our Taekwondo and Wushu teams performed at the Pasir Ris Elias
-        Community Club Chinese New Year performance on 28 January 2023.
+      description: "On 3 February 2023, TMJC kicked off the JC1 Orientation with the
+        theme “AURORA” to receive our 6th batch of students. "
       button: Find Out More
       alt: Image alt text
       url: event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        1/2023-T1-Events-Infopic_PasirRisEliasCC.jpg
+        1/2023-T1-Events-Infopic_JC1Orientation.jpg
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
