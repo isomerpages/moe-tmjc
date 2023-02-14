@@ -3,6 +3,30 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### JC1 Orientation 2023: AURORA
+
+On 3 February 2023, TMJC kicked off the JC1 Orientation with the theme “AURORA” to receive our 6th batch of students. The theme came to live as the Orientation Group Leaders (OGLs) welcomed the incoming JC1 students into our TMJC family. “AURORA” refers to dawn, the beginning of a new phenomenon. Similarly, Orientation symbolises a new beginning of the students’ journey in TMJC. As the JC1 students work hard to achieve their goals, they will eventually attain holistic excellence, like the beautiful array of “AURORA”.
+
+On Day 1, the students were welcomed with a series of informative Academic Subject Talks and a dialogue with School Leaders and Academic Heads that provided an avenue for students to gain deeper understanding of the academic demands and rigour of the various subject disciplines. Day 1 ended memorably as our OGLs wore their secondary school uniforms and surprised our JC1 students with a spectacular flash mob of the 2023 College Mass Dance Performance.
+
+Subsequently, the oncoming days shed light on TMJC’s strong College spirit, dynamic culture, and vibrant student experiences. Day 2 started off with a significant Opening Ceremony which included the revelation of our Orientation banner and 5 new House banners, and impressive House walk-in dances that the OGLs had trained for months to passionately showcase to our JC1 students. A series of icebreakers and team bonding games were designed to facilitate new friendships. Additionally, the OGLs served as College Tour Ambassadors and passionately introduced our College venues and facilities to the JC1 students.
+
+On Day 3, the quest continued as the JC1 students participated in numerous Internal Games that were curated to share the importance of our College values. The JC1 students also learnt the 2023 College Mass Dance enthusiastically. The song was specially selected to induct the students into our TMJC family and reinforce the understanding that we will be stronger as one family.
+
+On Day 4, the OGLs demonstrated TMJC’s breathtaking house spirit as they taught the JC1 students the unique cheers that belonged to the 5 Houses. In addition, the JC2 CCA Leaders inspired our JC1 students with the iconic CCA Leaders’ Walk-in and Oath Taking Ceremony. The day ended with a meaningful JC1 CCA Recruitment Exercise and CCA Booth Exhibition where our CCA Leaders shared their vibrant CCA life in TMJC, and the unique experiences their CCAs have to offer.
+
+Day 5 brought the Orientation adventure to an exhilarating end as the OGLs brought the JC1 students to Pasir Ris Park for an enriching time of fun and bonding through games. The JC1 students experienced the climax of the Orientation Programme as they watched the myriad of live Finale House and CCA performances that were uniquely designed to inspire the students with our exuberant College Spirit. The JC1 Orientation ended on a high note as the OGLs and JC1 students sang the College Anthem with pride and joy.
+
+All in all, our JC1 students enjoyed the Orientation Programme, grew in character, and became a part of the TMJC family. Our JC2 OGLs also rose to the challenge of inducting their juniors  and demonstrated their love and dedication to TMJC. Welcome to TMJC, JC1s!
+
+![](/images/Event%20Highlights/2023/Term%201/JC1%20Orientation/2023-T1-Events-JC1Orientation_01.jpg)
+
+### 4PM Ministerial Dialogue 2023
+
+Our JC 2 Malay Language Elective Programme (MLEP) students were honoured to be invited to the 4PM Ministerial Dialogue 2023, a youth-led dialogue that empowers youths on issues relating to Singapore policies and development. On 28 January 2023, the JC 2 MLEP students engaged in a dialogue session with Senior Minister and Coordinating Minister for National Security, Mr Teo Chee Hean. He shared with the students the importance of values in forging diplomatic ties between countries. The recent happenings of Russia’s invasion of Ukraine in 2022 and tensions between US-China relationship were some examples he quoted. SM Teo responded to various questions from the participants such as Singapore’s approach to deal with radicalism. He shared his experiences of visiting other countries such as France and Dubai to learn about their strategies in countering radicalism. Our students have benefitted and gained much meaningful insight from this dialogue.  
+
+![](/images/Event%20Highlights/2023/Term%201/MLEP%204PM/2023-T1-Events-MLEP_01.jpg)
+
 ### Taekwondo and Wushu Performance at Pasir Ris Elias Community Club 
 
 Our Taekwondo and Wushu teams performed at the Pasir Ris Elias Community Club Chinese New Year performance on 28 January 2023. We are indeed honoured and happy to join the Pasir Ris residents to celebrate this festival. The students in the CCAs put up a memorable performance, showcasing their focus and discipline in their respective martial arts forms. Through the performances, we joyfully ushered in the prosperous year of the Rabbit.
