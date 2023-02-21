@@ -2,10 +2,10 @@ collections:
   instructional-programmes:
     output: true
     order:
-      - Knowledge Skills/General Paper.md
-      - Knowledge Skills/.keep
       - Overview of our Teaching & Learning.md
       - Subject Combinations.md
+      - Knowledge Skills/.keep
+      - Knowledge Skills/General Paper.md
       - Languages/.keep
       - Languages/H1 Mother Tongue Languages.md
       - Languages/H2 Mother Tongue Language and Literature.md
