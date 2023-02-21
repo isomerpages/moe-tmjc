@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Tampines Meridian Junior College
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - "21 Pasir Ris "
+      - Street 71
+      - Singapore 518799
+    operating_hours: []
+    maps_link: https://goo.gl/maps/7aw4wr7ShaJPtVzN9
+    title: General Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6349 3660
+      - email: tmjc@moe.edu.sg
+      - other: "Fax : 6349 3667 <br><br>Nearest MRT Station : EW1 - Pasir Ris
+          <br><br>  Buses     \t: Tampines Meridian JC    Pasir Ris Dr 1
+          (77231)    39, 53, 81, 89, 109, 518, 737<br><br>  Blk 643 / Opp
+          Tampines Meridian JC    Pasir Ris Dr 1 (77239)   39, 53, 53A, 81, 89,
+          89A, 109, 359, 518, 518A, 737 <br><br>Tampines Meridian JC / Opp Blks
+          771/772  Pasir Ris St 71 (77319)  3, 3B, 4N, 68, 538"
+    title: General Enquiries & Feedback
 ---
