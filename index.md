@@ -16,7 +16,7 @@ sections:
           url: event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
-          url: about-us/announcements/
+          url: announcements-about-us/permalink/
         - title: Media Stories
           description: ""
           url: about-us/media-stories/
