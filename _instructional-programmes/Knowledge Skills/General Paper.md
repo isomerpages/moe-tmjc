@@ -21,3 +21,31 @@ For more information on the H1 General Paper syllabus:
 Final examination in 2023 (8807): https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8807_y21_sy.pdf
 
 Examination starting in 2024 (8881): https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy.pdf
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/Breakout%20Room%201_GP%20Day%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/Breakout%20Room%202_GP%20Day%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/Meme%20Competition%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/National%20Gallery%20Virtual%20Tour%202022.png)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/Opening%20session_GP%20Day%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/PUS1_2022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/PUS2_2022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/PUS3_2022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/PUS4_2022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/PUS6_2022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/URA%20LJ%204%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/URA%20Learning%20Journey%201%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/URA%20Learning%20Journey%202%202022.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/URA%20Learning%20Journey%203%202022.jpg)
