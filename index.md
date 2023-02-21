@@ -41,7 +41,7 @@ sections:
         1/2023-T1-Announcement-Infopics_EnglishAward.jpg
       alt: Image alt text
   - infopic:
-      title: (校果) 巧手折“兔”迎新春 装点校园添新色
+      title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
       description: We are proud that an article on our Chinese New Year celebrations
         written by our JC2 H2 CLL students was published on the Lianhe Zaobao
