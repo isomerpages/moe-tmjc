@@ -40,4 +40,15 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-Announcement-Infopics_EnglishAward.jpg
       alt: Image alt text
+  - infopic:
+      title: 【校果】巧手折“兔”迎新春 装点校园添新色
+      subtitle: Media Stories
+      description: We are proud that an article on our Chinese New Year celebrations
+        written by our JC2 H2 CLL students was published on the Lianhe Zaobao
+        website! Well done!
+      button: Find Out More
+      url: /about-us/media-stories/
+      image: /images/Homepage/Infopic/2023/Term
+        1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
+      alt: Image alt text
 ---
