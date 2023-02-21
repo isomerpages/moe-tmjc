@@ -3,6 +3,23 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### GCE A-Level Results Release
+
+On 17 February 2023, our students from the Class of 2022 returned to College to receive their GCE A Level Examination results. 
+
+After the lifting of the safe management restrictions, this was the first time the students gathered in the hall as a cohort to receive their results. Our Principal Mr Sin shared the achievements of the Class of 2022 and congratulated our students who have achieved stellar results on stage. The College also broadcasted a video from our former Principal Ms Pamela Yoong which included her well-wishes to the Class of 2022. Civics Tutors then distributed the results to the individual students. 
+
+Our heartiest congratulations to the Class of 2022 for your achievements. As a cohort, we celebrate together and at the same time look out for one another. 
+TMJC is very proud of each and every one of you.
+
+![](/images/Event%20Highlights/2023/Term%201/GCE%20A%20Level%20Results%20Release/2023-T1-Events-ALevelRelease_01.jpg)
+
+### National AI Student Challenge Grand Finals
+
+On 17 February 2023, a team of TMJC students participated in the National AI Student Challenge Grand Finals under the guidance of Mr Adrian Choong. Our team compromises Le Hai Long Quan, Chong Zhuang Hong and Ivan Lau. They competed against 7 other teams from universities and junior colleges. For the competition, our team developed an AI which can help to keep construction workers safe by ensuring they wear their helmets and are supervised when working from a height. The results of the competition will be out in March. We wish our team all the best!
+
+![](/images/Event%20Highlights/2023/Term%201/AI/2023-T1-Events-AI_01.jpg)
+
 ### JC1 Orientation 2023: AURORA
 
 On 3 February 2023, TMJC kicked off the JC1 Orientation with the theme “AURORA” to receive our 6th batch of students. The theme came to live as the Orientation Group Leaders (OGLs) welcomed the incoming JC1 students into our TMJC family. “AURORA” refers to dawn, the beginning of a new phenomenon. Similarly, Orientation symbolises a new beginning of the students’ journey in TMJC. As the JC1 students work hard to achieve their goals, they will eventually attain holistic excellence, like the beautiful array of “AURORA”.
