@@ -4,17 +4,10 @@ permalink: /about-us/Media-Stories/
 description: ""
 third_nav_title: Media Stories
 ---
-![](/images/TM%2022%20Feb%202021%20p4%201.jpeg)
+![](/images/Media%20Stories/2023/ZaoBaoSg_15Feb2023.jpg)
 
-**Source: TM****, 22 February 2021 ©** **Singapore Press Holdings Limited.   <br>
-Permission required for reproduction.**
+**"We are proud that an article on our Chinese New Year celebrations written by our JC2 H2 CLL students was published on the Lianhe Zaobao website! Well done!"**
 
-![](/images/ZBNow%2010%20March%202021%20p2%201.jpeg)
+**To read about the published article, please click [here](https://www.zaobao.com.sg/lifestyle/gen/story20230215-1363138)**
 
-**Source:** **ZBNow****, 10 March 2021 ©** **Singapore Press Holdings Limited.  <br>
-Permission required for reproduction.**
-
-![](/images/TM%203%20May%202021%20p3.jpeg)
-
-**Source: TM****, 3 May 2021 ©** **Singapore Press Holdings Limited.  <br>
-Permission required for reproduction.**
+**Source: ZaoBao.com.sg, 15 February 2023**
