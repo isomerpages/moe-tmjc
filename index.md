@@ -16,10 +16,10 @@ sections:
           url: event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
-          url: announcements-about-us/permalink/
+          url: about-us/announcements/
         - title: Media Stories
           description: ""
-          url: media-stories-about-us/permalink/
+          url: about-us/media-stories/
   - infopic:
       title: GCE A-Level Results Release
       subtitle: Event Highlights
