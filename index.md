@@ -16,7 +16,7 @@ sections:
           url: /about-us/Event-Highlights
         - title: Announcements
           description: ""
-          url: about-us/announcements/
+          url: /about-us/Announcements
         - title: Media Stories
           description: ""
           url: about-us/media-stories/
