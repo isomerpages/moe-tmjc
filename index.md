@@ -27,7 +27,7 @@ sections:
         to College to receive their GCE A Level Examination results. "
       button: Find Out More
       alt: Image alt text
-      url: /about-us/Event-Highlights
+      url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-Events-Infopic_ALevelRealease.jpg
   - infopic:
