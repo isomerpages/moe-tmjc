@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Event Highlights
           description: ""
-          url: /about-us/Event-Highlights
+          url: /event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
           url: /about-us/Announcements
