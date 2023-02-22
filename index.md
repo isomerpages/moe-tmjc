@@ -36,7 +36,7 @@ sections:
       description: " Nominations for the annual Inspiring Teacher of English awards
         2023 is now opened!"
       button: Find Out More
-      url: /about-us/announcements/
+      url: /about-us/Announcements
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-Announcement-Infopics_EnglishAward.jpg
       alt: Image alt text
