@@ -47,7 +47,7 @@ sections:
         written by our JC2 H2 CLL students was published on the Lianhe Zaobao
         website! Well done!
       button: Find Out More
-      url: /about-us/media-stories/
+      url: /about-us/Media-Stories
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
       alt: Image alt text
