@@ -19,7 +19,7 @@ sections:
           url: /about-us/Announcements
         - title: Media Stories
           description: ""
-          url: about-us/media-stories/
+          url: /about-us/Media-Stories
   - infopic:
       title: GCE A-Level Results Release
       subtitle: Event Highlights
