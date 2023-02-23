@@ -12,7 +12,7 @@ After the lifting of the safe management restrictions, this was the first time t
 Our heartiest congratulations to the Class of 2022 for your achievements. As a cohort, we celebrate together and at the same time look out for one another. 
 TMJC is very proud of each and every one of you.
 
-![](/images/Event%20Highlights/2023/Term%201/GCE%20A%20Level%20Results%20Release/2023-T1-Events-ALevelRelease_01.jpg)
+![](/images/Event%20Highlights/2023/Term%201/GCE%20A%20Level%20Results%20Release/2023-T1-Events-ALevelRelease_01_v2.jpg)
 
 ### National AI Student Challenge Grand Finals
 

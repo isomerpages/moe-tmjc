@@ -13,13 +13,13 @@ sections:
       key_highlights:
         - title: Event Highlights
           description: ""
-          url: event-highlight-about-us/permalink/
+          url: /event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
-          url: about-us/announcements/
+          url: /about-us/Announcements
         - title: Media Stories
           description: ""
-          url: about-us/media-stories/
+          url: /about-us/Media-Stories
   - infopic:
       title: GCE A-Level Results Release
       subtitle: Event Highlights
@@ -27,7 +27,7 @@ sections:
         to College to receive their GCE A Level Examination results. "
       button: Find Out More
       alt: Image alt text
-      url: event-highlight-about-us/permalink/
+      url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-Events-Infopic_ALevelRealease.jpg
   - infopic:
@@ -36,7 +36,7 @@ sections:
       description: " Nominations for the annual Inspiring Teacher of English awards
         2023 is now opened!"
       button: Find Out More
-      url: /about-us/announcements/
+      url: /about-us/Announcements
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-Announcement-Infopics_EnglishAward.jpg
       alt: Image alt text
@@ -47,7 +47,7 @@ sections:
         written by our JC2 H2 CLL students was published on the Lianhe Zaobao
         website! Well done!
       button: Find Out More
-      url: /about-us/media-stories/
+      url: /about-us/Media-Stories
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
       alt: Image alt text
