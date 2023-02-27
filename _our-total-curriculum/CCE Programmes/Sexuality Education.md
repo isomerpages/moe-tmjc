@@ -40,7 +40,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more info
 
 ![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Sexuality%20Education/2023-CCE-SexualityEd_01.jpg)
 
-![](/images/Our%20Total%20Curriculum/2%20Character%20and%20Citizenship/Sexuality%20Education/2023-CCE-SexualityEd_02.jpg)
+
 
 ##### _eTeens_ Programme:
 
