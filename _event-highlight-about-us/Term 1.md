@@ -20,6 +20,14 @@ On 17 February 2023, a team of TMJC students participated in the National AI Stu
 
 ![](/images/Event%20Highlights/2023/Term%201/AI/2023-T1-Events-AI_01.jpg)
 
+### Staff Learning Day 
+
+On 15 February 2023, our staff had our first professional development time for the year! Staff got together in our departments and discussed ways to achieve our 2023 College learning goal of  "Deepening and Strengthening Assessment Literacy". 
+
+During the session, teachers were engaged in conversations about the various teaching strategies highlighted from their selected department book. It was a fruitful session filled with insightful discussions and shared ideas to enact in our classrooms!
+
+![](/images/Event%20Highlights/2023/Term%201/Staff%20Learning%20Day/2023-T1-Events-Staff%20Learning%20Day%20(15%20Feb)_01.jpg)
+
 ### JC1 Orientation 2023: AURORA
 
 On 3 February 2023, TMJC kicked off the JC1 Orientation with the theme “AURORA” to receive our 6th batch of students. The theme came to live as the Orientation Group Leaders (OGLs) welcomed the incoming JC1 students into our TMJC family. “AURORA” refers to dawn, the beginning of a new phenomenon. Similarly, Orientation symbolises a new beginning of the students’ journey in TMJC. As the JC1 students work hard to achieve their goals, they will eventually attain holistic excellence, like the beautiful array of “AURORA”.
