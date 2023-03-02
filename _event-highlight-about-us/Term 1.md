@@ -33,7 +33,7 @@ Leong Jia Jing from 22S301<br>
 Lim Zhi En from 22S101
 
 **Biology**<br>
-<u>Merit award</u><br>
+<u>**Merit award**</u><br>
 Hooper Andrew Jiawen 22S306
 
 ![](/images/Event%20Highlights/2023/Term%201/Biology%20and%20Chemistry%20Olympiad/2023-T1-Events-BioandChemistry_01.jpg)
