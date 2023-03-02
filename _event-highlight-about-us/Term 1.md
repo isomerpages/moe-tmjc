@@ -14,6 +14,8 @@ Tanwar Mrinal Singh 22S209<br>
 Zhang Yaowen 22S202<br>
 Iyer Varun Ravi 22S202
 
+![](/images/Event%20Highlights/2023/Term%201/SG%20Young%20Physicists%20Tournament/2023-T1-Events-SgYoungPhy_01.jpg)
+
 ### Singapore Chemistry and Biology Olympiads
 
 In November 2022, 15 JC1 Chemistry and 16 JC1 Biology students represented the College at the Singapore Chemistry and Biology Olympiads respectively.
@@ -33,6 +35,8 @@ Lim Zhi En from 22S101
 **Biology**<br>
 <u>Merit award</u><br>
 Hooper Andrew Jiawen 22S306
+
+![](/images/Event%20Highlights/2023/Term%201/Biology%20and%20Chemistry%20Olympiad/2023-T1-Events-BioandChemistry_01.jpg)
 
 ### Staff Learning Day 
 
