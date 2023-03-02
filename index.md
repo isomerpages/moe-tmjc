@@ -29,7 +29,7 @@ sections:
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        1/2023-T1-Events-Infopic_ALevelRealease.jpg
+        1/2023-T1-Announcement-Infopics_SgYoung Physicists.jpg
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
