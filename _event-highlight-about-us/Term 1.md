@@ -21,7 +21,7 @@ Lim Zhi En from 22S101
 
 **Biology**<br>
 <u>Merit award</u><br>
-Hooper Andrew Jiawen 22S306.
+Hooper Andrew Jiawen 22S306
 
 ### Staff Learning Day 
 
