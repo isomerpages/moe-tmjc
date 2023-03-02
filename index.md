@@ -21,10 +21,10 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: GCE A-Level Results Release
+      title: Singapore Young Physicists’ Tournament
       subtitle: Event Highlights
-      description: "On 17 February 2023, our students from the Class of 2022 returned
-        to College to receive their GCE A Level Examination results. "
+      description: "On 11 February 2023, 2 teams of Physics students took part in the
+        2023 Singapore Young Physicists’ Tournament. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
