@@ -3,6 +3,17 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### Singapore Young Physicists’ Tournament
+
+On 11 February 2023, 2 teams of Physics students took part in the 2023 Singapore Young Physicists’ Tournament. They have been preparing for the research-based tournament since September 2022. The tournament closely models real world research and required participants to conduct independent research, modelling, experimentation, culminating in a presentation and defence before peers and experts. 
+
+We are pleased to announce that one of the teams achieved the Certificate of Merit for the research in the Euler Pendulum.
+
+The team members are:<br>
+Tanwar Mrinal Singh 22S209<br>
+Zhang Yaowen 22S202<br>
+Iyer Varun Ravi 22S202
+
 ### Singapore Chemistry and Biology Olympiads
 
 In November 2022, 15 JC1 Chemistry and 16 JC1 Biology students represented the College at the Singapore Chemistry and Biology Olympiads respectively.
