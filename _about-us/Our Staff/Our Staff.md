@@ -56,10 +56,10 @@ third_nav_title: Our Staff
 
 # [Key Personnel](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_KeyPersonnel_030323.pdf)
 # [Arts & Humanities](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_ArtsHumanities_030323.pdf)
-# Economics
-# General Paper
-# Mathematics
-# Mother Tongue Languages
-# Physical Education
+# [Economics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Econs_030323.pdf)
+# [General Paper](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_GP_030323.pdf)
+# [Mathematics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Maths_030323.pdf)
+# [Mother Tongue Languages](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_MotherTongue_030323.pdf)
+# [Physical Education](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_PE_030323.pdf)
 # Science
 # Executive & Administrative Staff
