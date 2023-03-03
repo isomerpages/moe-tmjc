@@ -3,6 +3,49 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### Singapore Young Physicists’ Tournament
+
+On 11 February 2023, 2 teams of Physics students took part in the 2023 Singapore Young Physicists’ Tournament. They have been preparing for the research-based tournament since September 2022. The tournament closely models real world research and required participants to conduct independent research, modelling, experimentation, culminating in a presentation and defence before peers and experts. 
+
+We are pleased to announce that one of the teams achieved the Certificate of Merit for the research in the Euler Pendulum.
+
+The team members are:<br>
+Tanwar Mrinal Singh 22S209<br>
+Zhang Yaowen 22S202<br>
+Iyer Varun Ravi 22S202
+
+![](/images/Event%20Highlights/2023/Term%201/SG%20Young%20Physicists%20Tournament/2023-T1-Events-SgYoungPhy_01.jpg)
+
+### Singapore Chemistry and Biology Olympiads
+
+In November 2022, 15 JC1 Chemistry and 16 JC1 Biology students represented the College at the Singapore Chemistry and Biology Olympiads respectively.
+
+Preparation for the competition required much independent learning as students had to internalise and apply concepts typically taught in JC2 as well as beyond the syllabus via self-reading.
+
+We are proud to share that one of our students was awarded a Bronze medal and 2 students received the Certificate of Merit for the Chemistry Olympiad. For the Biology Olympiad, 1 student received the Certificate of Merit. The winners are:
+
+**Chemistry**<br>
+<u>**Bronze medal**</u><br>
+Laurencia Angelina Sugiowantono  22S205
+
+<u>**Merit award**</u><br>
+Leong Jia Jing from 22S301<br>
+Lim Zhi En from 22S101
+
+**Biology**<br>
+<u>**Merit award**</u><br>
+Hooper Andrew Jiawen 22S306
+
+![](/images/Event%20Highlights/2023/Term%201/Biology%20and%20Chemistry%20Olympiad/2023-T1-Events-BioandChemistry_01.jpg)
+
+### Staff Learning Day 
+
+On 15 February 2023, our staff had our first professional development time for the year! Staff got together in our departments and discussed ways to achieve our 2023 College learning goal of  "Deepening and Strengthening Assessment Literacy". 
+
+During the session, teachers were engaged in conversations about the various teaching strategies highlighted from their selected department book. It was a fruitful session filled with insightful discussions and shared ideas to enact in our classrooms!
+
+![](/images/Event%20Highlights/2023/Term%201/Staff%20Learning%20Day/2023-T1-Events-Staff%20Learning%20Day%20(15%20Feb)_01.jpg)
+
 ### GCE A-Level Results Release
 
 On 17 February 2023, our students from the Class of 2022 returned to College to receive their GCE A Level Examination results. 
@@ -19,14 +62,6 @@ TMJC is very proud of each and every one of you.
 On 17 February 2023, a team of TMJC students participated in the National AI Student Challenge Grand Finals under the guidance of Mr Adrian Choong. Our team compromises Le Hai Long Quan, Chong Zhuang Hong and Ivan Lau. They competed against 7 other teams from universities and junior colleges. For the competition, our team developed an AI which can help to keep construction workers safe by ensuring they wear their helmets and are supervised when working from a height. The results of the competition will be out in March. We wish our team all the best!
 
 ![](/images/Event%20Highlights/2023/Term%201/AI/2023-T1-Events-AI_01.jpg)
-
-### Staff Learning Day 
-
-On 15 February 2023, our staff had our first professional development time for the year! Staff got together in our departments and discussed ways to achieve our 2023 College learning goal of  "Deepening and Strengthening Assessment Literacy". 
-
-During the session, teachers were engaged in conversations about the various teaching strategies highlighted from their selected department book. It was a fruitful session filled with insightful discussions and shared ideas to enact in our classrooms!
-
-![](/images/Event%20Highlights/2023/Term%201/Staff%20Learning%20Day/2023-T1-Events-Staff%20Learning%20Day%20(15%20Feb)_01.jpg)
 
 ### JC1 Orientation 2023: AURORA
 
