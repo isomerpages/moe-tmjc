@@ -61,5 +61,5 @@ third_nav_title: Our Staff
 # [Mathematics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Maths_030323.pdf)
 # [Mother Tongue Languages](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_MotherTongue_030323.pdf)
 # [Physical Education](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_PE_030323.pdf)
-# Science
-# Executive & Administrative Staff
+# [Science](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Science_030323.pdf)
+# [Executive & Administrative Staff](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_EAS_030323.pdf)
