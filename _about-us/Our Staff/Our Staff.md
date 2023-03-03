@@ -55,7 +55,7 @@ third_nav_title: Our Staff
 </table>
 
 # [Key Personnel](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_KeyPersonnel_030323.pdf)
-# Arts & Humanities
+# [Arts & Humanities](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_ArtsHumanities_030323.pdf)
 # Economics
 # General Paper
 # Mathematics
