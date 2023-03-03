@@ -54,7 +54,7 @@ third_nav_title: Our Staff
 </tbody>
 </table>
 
-# Key Personnel 
+# [Key Personnel](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_KeyPersonnel_030323.pdf)
 # Arts & Humanities
 # Economics
 # General Paper
@@ -63,4 +63,3 @@ third_nav_title: Our Staff
 # Physical Education
 # Science
 # Executive & Administrative Staff
-  
