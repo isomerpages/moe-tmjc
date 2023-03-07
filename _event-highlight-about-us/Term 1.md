@@ -3,6 +3,16 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### TM Connects 2023
+
+TM Connects, a community awareness event organised by the TMJC Values in Action (VIA) Committee, was carried out on 3 March 2023. This year, we have a total of 13 organisations and 8 JC2 VIA projects onboard.
+
+Through TM Connects, we hope students would gain awareness and have a better understanding of different community issues, explore areas of interest and choose the organisations that they would like to serve. Thereafter, we hope TMJC students would seek to bring about positive changes to the community. 
+
+We thank our partner organisations and students from selected JC2 CGs and CCA who have come forward and shared enthusiastically with our JC1 students about service learning via the booth and activity sharing. 
+
+![](/images/Event%20Highlights/2023/Term%201/TM%20Connects/2023-T1-Events-CGDayTMConnects_01.jpg)
+
 ### BEBRAS Computational Thinking Challenge
 
 A group of 15 JC2 Talent Development students participated in the BEBRAS Computational Thinking Challenge 2022 in November last year. The Bebras Computational Thinking Challenge is designed to help students explore their talents and passion for informatics and computational thinking with engaging challenges. 
@@ -67,6 +77,9 @@ We are proud to share that our students attained 2 Gold and 2 Bronze awards and 
   padding:5.0pt 5.0pt 5.0pt 5.0pt;height:30.2pt" valign="top" width="196"><p style="margin-top:12.0pt;margin-right:0in;margin-bottom:
   12.0pt;margin-left:0in;text-align:justify;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt" lang="EN">HONOURABLE MENTION</span></p></td></tr></tbody></table>
 
+Notably, Ivan Lau Xu Yang from 22S101 is ranked Number 1 in Singapore while Chai Xin Cheng from 22S308 is ranked Number 4 in Singapore. Congratulations to all student awardees!
+
+![](/images/Event%20Highlights/2023/Term%201/BEBRAS/2023-T1-Events-BEBRAS_01.jpg)
 
 ### Singapore Young Physicists’ Tournament
 
