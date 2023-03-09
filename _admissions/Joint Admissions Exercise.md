@@ -21,7 +21,7 @@ The Appeal period starts after the JAE posting results.
 
 **Start Date:  2 Feb 2023 (Thursday), 9.00 am**
 
-**End Date: 8 Feb 2022 (Wednesday), 5.00 pm**
+**End Date: 8 Feb 2023 (Wednesday), 5.00 pm**
 
 Only students with **net** L1R5 equal to or less than TMJC cut-off points can be considered for appeals. All appeals applications **must be** completed **online.** The online application form can be accessed here:  [https://portal.tmjc.edu.sg/appeal](https://portal.tmjc.edu.sg/appeal). The deadline for submission of the **online appeal application** is **7 Feb, 12.00 pm.** Late or incomplete submission will not be considered.  
 

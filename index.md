@@ -21,15 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Singapore Young Physicists’ Tournament
+      title: TM Connects 2023
       subtitle: Event Highlights
-      description: "On 11 February 2023, 2 teams of Physics students took part in the
-        2023 Singapore Young Physicists’ Tournament. "
+      description: TM Connects, a community awareness event organised by the TMJC
+        Values in Action (VIA) Committee, was carried out on 3 March 2023.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        1/2023-T1-Announcement-Infopics_SgYoung Physicists.jpg
+        1/2023-T1-Events-Infopics_CGDayTMConnects.jpg
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
