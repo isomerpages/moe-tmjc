@@ -3,8 +3,11 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
-TM Run 2023
+### TM Run 2023
 
+TMJC’s very first College sporting event of the year took place on 8 March 2023 at OCBC Square. This event aims to promote physical activity, social bonding and healthy competition amongst students and staff of TMJC. The format for TM Run 2023 consisted of three running distances (3km, 2.4km and 1.6km) around Stadium Riverside Walk, Tanjong Rhu Promenade and Geylang Park Connector, starting and ending at the spectacular OCBC Square. Students participated in either the 3km or 2.4km competitive categories that pit the speed and endurance of individuals against one another or took part in the 1.6km Fun Run category that ended with a celebration of friendship and camaraderie. Staff competed in the 1.6km Staff Race or participated in the Fun Run alongside their students. There were also a good number of staff and students who volunteered as officials and helpers to ensure the success of the event. In preparation for TM Run, students were taught the concepts of pacing, effort judgement, as well as the varied types and intensities of running-related activities as part of a well-structured Physical Education programme at TMJC.
+
+![](/images/Event%20Highlights/2023/Term%201/TM%20Run/2023-T1-Events-TMRun_01.jpg)
 
 ### TM Connects 2023
 
