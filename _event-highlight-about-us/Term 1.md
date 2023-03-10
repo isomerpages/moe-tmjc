@@ -3,6 +3,9 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+TM Run 2023
+
+
 ### TM Connects 2023
 
 TM Connects, a community awareness event organised by the TMJC Values in Action (VIA) Committee, was carried out on 3 March 2023. This year, we have a total of 13 organisations and 8 JC2 VIA projects onboard.
@@ -103,15 +106,15 @@ Preparation for the competition required much independent learning as students h
 We are proud to share that one of our students was awarded a Bronze medal and 2 students received the Certificate of Merit for the Chemistry Olympiad. For the Biology Olympiad, 1 student received the Certificate of Merit. The winners are:
 
 **Chemistry**<br>
-<u>**Bronze medal**</u><br>
+**<u>Bronze medal</u><br>**
 Laurencia Angelina Sugiowantono  22S205
 
-<u>**Merit award**</u><br>
+**<u>Merit award</u><br>**
 Leong Jia Jing from 22S301<br>
 Lim Zhi En from 22S101
 
 **Biology**<br>
-<u>**Merit award**</u><br>
+**<u>Merit award</u><br>**
 Hooper Andrew Jiawen 22S306
 
 ![](/images/Event%20Highlights/2023/Term%201/Biology%20and%20Chemistry%20Olympiad/2023-T1-Events-BioandChemistry_01.jpg)
