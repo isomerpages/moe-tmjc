@@ -21,15 +21,14 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: TM Connects 2023
+      title: TM Run 2023
       subtitle: Event Highlights
-      description: TM Connects, a community awareness event organised by the TMJC
-        Values in Action (VIA) Committee, was carried out on 3 March 2023.
+      description: TMJC’s very first College sporting event of the year took place on
+        8 March 2023 at OCBC Square.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        1/2023-T1-Events-Infopics_CGDayTMConnects.jpg
+      image: /images/Homepage/Infopic/2023/Term 1/2023-T1-Events-Infopic_TMRun.jpg
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
