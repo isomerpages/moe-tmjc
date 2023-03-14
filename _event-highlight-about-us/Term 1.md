@@ -19,6 +19,16 @@ We thank our partner organisations and students from selected JC2 CGs and CCA wh
 
 ![](/images/Event%20Highlights/2023/Term%201/TM%20Connects/2023-T1-Events-CGDayTMConnects_01.jpg)
 
+### Total Defence Day 2023
+
+The College commemorated Total Defence Day (TDD) from 15 February to 1 March 2023 under the theme “Together, We Keep Singapore Strong”. Introduced in 1984 to mark the day Singapore fell to Japanese troops in 1942, the annual TDD Commemoration exhorts every Singaporean to play a part to keep Singapore safe, secure and independent. 
+
+This year, as Singapore transits into a post-COVID world filled with uncertainties, the significance of Total Defence remains ever relevant. A whole-of-society effort is needed to ensure resilience. In light of this, during their interactive Character & Citizenship Education lessons, students took perspective, discussed what Total Defence meant to them and learnt about the role they can play in Singapore’s national defence. Our Citizenship Education Ambassadors also participated in the national Total Defence Hackathon “YouthXHack” where they brainstormed solutions to tackle pressing real-life issues such as food supply disruptions through the use of technology. 
+
+The commemoration culminated in a mural display outside the General Office, a collaboration between staff and students of the Citizenship Education Committee and the Art Unit. The mural functions as a daily visual reminder to all TMJC students on the importance of keeping Singapore strong in a spirit of togetherness. 
+
+![](/images/Event%20Highlights/2023/Term%201/Total%20Defence/2023-T1-Events-TotalDefence_01.jpg)
+
 ### BEBRAS Computational Thinking Challenge
 
 A group of 15 JC2 Talent Development students participated in the BEBRAS Computational Thinking Challenge 2022 in November last year. The Bebras Computational Thinking Challenge is designed to help students explore their talents and passion for informatics and computational thinking with engaging challenges. 
