@@ -86,7 +86,7 @@ The subject combinations offered by the College are based on the guidelines from
     <td class="tg-tsok"><span style="color:black">Further Mathematics</span></td>
     <td class="tg-lygy"><span style="color:black">FM2</span></td>
     <td class="tg-lygy"><span style="color:black">-</span></td>
-    <td class="tg-tsok">H2 Further Mathematics is to be offered with H2 Mathematics as a double Mathematics course.<br>Refer to guidelines for offering 4H2 subject combinations.<br>Candidates who wish to offer H2 Further Mathematics are required to sit for a diagnostic assessment.</td>
+    <td class="tg-tsok">H2 Further Mathematics is to be offered with H2 Mathematics as a double Mathematics course.<br>Candidates who wish to offer H2 Further Mathematics are required to sit for a diagnostic assessment.</td>
   </tr>
   <tr>
     <td class="tg-5p0x"><span style="color:black">General Paper</span></td>
