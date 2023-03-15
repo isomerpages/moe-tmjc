@@ -3,6 +3,12 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### TM Run 2023
+
+TMJC’s very first College sporting event of the year took place on 8 March 2023 at OCBC Square. This event aims to promote physical activity, social bonding and healthy competition amongst students and staff of TMJC. The format for TM Run 2023 consisted of three running distances (3km, 2.4km and 1.6km) around Stadium Riverside Walk, Tanjong Rhu Promenade and Geylang Park Connector, starting and ending at the spectacular OCBC Square. Students participated in either the 3km or 2.4km competitive categories that pit the speed and endurance of individuals against one another or took part in the 1.6km Fun Run category that ended with a celebration of friendship and camaraderie. Staff competed in the 1.6km Staff Race or participated in the Fun Run alongside their students. There were also a good number of staff and students who volunteered as officials and helpers to ensure the success of the event. In preparation for TM Run, students were taught the concepts of pacing, effort judgement, as well as the varied types and intensities of running-related activities as part of a well-structured Physical Education programme at TMJC.
+
+![](/images/Event%20Highlights/2023/Term%201/TM%20Run/2023-T1-Events-TMRun_01.jpg)
+
 ### TM Connects 2023
 
 TM Connects, a community awareness event organised by the TMJC Values in Action (VIA) Committee, was carried out on 3 March 2023. This year, we have a total of 13 organisations and 8 JC2 VIA projects onboard.
@@ -12,6 +18,16 @@ Through TM Connects, we hope students would gain awareness and have a better und
 We thank our partner organisations and students from selected JC2 CGs and CCA who have come forward and shared enthusiastically with our JC1 students about service learning via the booth and activity sharing. 
 
 ![](/images/Event%20Highlights/2023/Term%201/TM%20Connects/2023-T1-Events-CGDayTMConnects_01.jpg)
+
+### Total Defence Day 2023
+
+The College commemorated Total Defence Day (TDD) from 15 February to 1 March 2023 under the theme “Together, We Keep Singapore Strong”. Introduced in 1984 to mark the day Singapore fell to Japanese troops in 1942, the annual TDD Commemoration exhorts every Singaporean to play a part to keep Singapore safe, secure and independent. 
+
+This year, as Singapore transits into a post-COVID world filled with uncertainties, the significance of Total Defence remains ever relevant. A whole-of-society effort is needed to ensure resilience. In light of this, during their interactive Character & Citizenship Education lessons, students took perspective, discussed what Total Defence meant to them and learnt about the role they can play in Singapore’s national defence. Our Citizenship Education Ambassadors also participated in the national Total Defence Hackathon “YouthXHack” where they brainstormed solutions to tackle pressing real-life issues such as food supply disruptions through the use of technology. 
+
+The commemoration culminated in a mural display outside the General Office, a collaboration between staff and students of the Citizenship Education Committee and the Art Unit. The mural functions as a daily visual reminder to all TMJC students on the importance of keeping Singapore strong in a spirit of togetherness. 
+
+![](/images/Event%20Highlights/2023/Term%201/Total%20Defence/2023-T1-Events-TotalDefence_01.jpg)
 
 ### BEBRAS Computational Thinking Challenge
 
@@ -103,15 +119,15 @@ Preparation for the competition required much independent learning as students h
 We are proud to share that one of our students was awarded a Bronze medal and 2 students received the Certificate of Merit for the Chemistry Olympiad. For the Biology Olympiad, 1 student received the Certificate of Merit. The winners are:
 
 **Chemistry**<br>
-<u>**Bronze medal**</u><br>
+**<u>Bronze medal</u><br>**
 Laurencia Angelina Sugiowantono  22S205
 
-<u>**Merit award**</u><br>
+**<u>Merit award</u><br>**
 Leong Jia Jing from 22S301<br>
 Lim Zhi En from 22S101
 
 **Biology**<br>
-<u>**Merit award**</u><br>
+**<u>Merit award</u><br>**
 Hooper Andrew Jiawen 22S306
 
 ![](/images/Event%20Highlights/2023/Term%201/Biology%20and%20Chemistry%20Olympiad/2023-T1-Events-BioandChemistry_01.jpg)
