@@ -21,14 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: TM Run 2023
+      title: "Professional Learning Day "
       subtitle: Event Highlights
-      description: TMJC’s very first College sporting event of the year took place on
-        8 March 2023 at OCBC Square.
+      description: Our teachers had their Professional Learning Day on 17 March 2023.
+        The theme for the day was "Deepening our assessment literacy in
+        Summative Assessment".
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 1/2023-T1-Events-Infopic_TMRun.jpg
+      image: /images/Homepage/Infopic/2023/Term 1/2023-T1-Events-Infopics_PDDay.jpg
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
