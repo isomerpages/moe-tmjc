@@ -3,6 +3,19 @@ title: Term 1
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+### Professional Learning Day 
+
+Our teachers had their Professional Learning Day on 17 March 2023. The theme for the day was "Deepening our assessment literacy in Summative Assessment".
+
+Our Principal, Mr Sin, kickstarted the day by sharing the main objectives of the session and went through with all staff the importance of and the key principles behind the development of quality summative assessments.
+
+Teachers then proceeded to their department break out session which was led by the respective Heads of Departments and Subject Heads. It was a hands-on session where teachers analysed the data given and applied it to calibrate internal assessments. 
+
+It was a fruitful day of exchanging ideas that was enhanced by a sumptuous buffet lunch treat from our Principal to appreciate the staff for all the work put in last year. 
+
+![](/images/Event%20Highlights/2023/Term%201/Staff%20PD%20Day/2023-T1-Events-StaffPD_01.jpg)
+
+
 ### TM Run 2023
 
 TMJC’s very first College sporting event of the year took place on 8 March 2023 at OCBC Square. This event aims to promote physical activity, social bonding and healthy competition amongst students and staff of TMJC. The format for TM Run 2023 consisted of three running distances (3km, 2.4km and 1.6km) around Stadium Riverside Walk, Tanjong Rhu Promenade and Geylang Park Connector, starting and ending at the spectacular OCBC Square. Students participated in either the 3km or 2.4km competitive categories that pit the speed and endurance of individuals against one another or took part in the 1.6km Fun Run category that ended with a celebration of friendship and camaraderie. Staff competed in the 1.6km Staff Race or participated in the Fun Run alongside their students. There were also a good number of staff and students who volunteered as officials and helpers to ensure the success of the event. In preparation for TM Run, students were taught the concepts of pacing, effort judgement, as well as the varied types and intensities of running-related activities as part of a well-structured Physical Education programme at TMJC.
