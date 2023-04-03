@@ -6,7 +6,6 @@ third_nav_title: Humanities & the Arts
 ---
 H2 Theatre Studies & Drama (9519) is offered by the Department of Arts and Aesthetics in TMJC.  
 
-
 H2 Theatre Studies & Drama (9519) is offered by the Department of Arts and Aesthetics in TMJC. The Theatre Studies and Drama (TSD) Elective Programme explores the human experience through the conceptualisation, construction, and reception of theatrical events and dramatic texts.  
   
 At TMJC TSD, we believe that each student is unique. We aim to embolden our young student-artists to be critical thinkers about the world around them through a values-driven education. With the backing of dedicated teachers, supportive parents, and encouraging peers, we strive to develop a community of student-artists who give their best to their craft.  
