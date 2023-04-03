@@ -1,9 +1,10 @@
 ---
 title: Term 2
-permalink: /about-us/Event-Highlights/term-2/
+permalink: /about-us/event-highlights/2022/term-2/
 description: ""
 third_nav_title: "2022"
 ---
+
 
 ### Staff Learning Symposium
 

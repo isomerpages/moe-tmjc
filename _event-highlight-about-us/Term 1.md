@@ -1,8 +1,9 @@
 ---
 title: Term 1
-permalink: /event-highlight-about-us/permalink/
+permalink: /about-us/event-highlights/term-1/
 description: ""
 ---
+
 ### Professional Learning Day 
 
 Our teachers had their Professional Learning Day on 17 March 2023. The theme for the day was "Deepening our assessment literacy in Summative Assessment".
