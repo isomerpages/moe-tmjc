@@ -20,23 +20,14 @@ For more information on the respective H2 MTL syllabus:
 * [H2 Chinese Language & Literature Syllabus Document (9572)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9572_y22_sy.pdf)
 * [H2 Malay Language & Literature Syllabus Document (9573)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9573_y22_sy.pdf)
 
-![](/images/TMJC-OurCurriculum_H2MTLL_01.jpeg)
-CLL Taiwan School Visit
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2001%20-%20dramaneka%202022%20a%20drama%20performance%20(1).jpg)
 
-![](/images/TMJC-OurCurriculum_H2MTLL_02.jpeg)
-CLL Taiwan School Visit
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2002%20-%20instagram%20project%204.jpg)
 
-![](/images/TMJC-OurCurriculum_H2MTLL_03.jpeg)
-MLL Kompang Workshop
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2003%20-%20malay%20national%20debate%202022%20(1).jpg)
 
-![](/images/TMJC-OurCurriculum_H2MTLL_04.jpeg)
-MLL Poetry Recital Competition
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2004%20-%20malay%20traditional%20poetry%20recital%20(2).jpg)
 
-![](/images/TMJC-OurCurriculum_H2MTLL_05.jpeg)
-MLL Sirih Junjung Workshop
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2005%20-%20mlep%20camp%202022%20(1).jpeg)
 
-![](/images/TMJC-OurCurriculum_H2MTLL_06.jpeg)
-TLL Interview at Indian Heritage Centre
-
-![](/images/TMJC-OurCurriculum_H2MTLL_07.jpeg)
-TLL Tamil Prize
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2006%20-%20tanjak%20making%20workshop%20(3).jpg)
