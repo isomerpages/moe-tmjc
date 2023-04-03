@@ -12,7 +12,7 @@ In addition, the department encourages students to participate actively in vario
 
 For more information on the H1 and H2 History syllabus:
 
-[H1 History Syllabus Document ((8838)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf)
+[H1 History Syllabus Document (8838)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf)
 
 [H2 History Syllabus Document (9174)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)
 
