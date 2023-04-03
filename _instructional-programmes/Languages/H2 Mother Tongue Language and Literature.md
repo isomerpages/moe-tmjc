@@ -21,13 +21,19 @@ For more information on the respective H2 MTL syllabus:
 * [H2 Malay Language & Literature Syllabus Document (9573)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9573_y22_sy.pdf)
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2001%20-%20dramaneka%202022%20a%20drama%20performance%20(1).jpg)
+MLEP 01 - Dramaneka 2022 A drama performance
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2002%20-%20instagram%20project%204.jpg)
+MLEP 02 - Instagram project 4
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2003%20-%20malay%20national%20debate%202022%20(1).jpg)
+MLEP 03 - Malay National Debate 2022
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2004%20-%20malay%20traditional%20poetry%20recital%20(2).jpg)
+MLEP 04 - Malay traditional poetry recital
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2005%20-%20mlep%20camp%202022%20(1).jpeg)
+MLEP 05 - MLEP Camp 2022
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H2%20MTL%20and%20Lit/mlep%2006%20-%20tanjak%20making%20workshop%20(3).jpg)
+MLEP 06 - Tanjak Making Workshop
