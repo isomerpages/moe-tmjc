@@ -4,15 +4,16 @@ permalink: /our-total-curriculum/instructional-programmes/humanities-n-the-arts/
 description: ""
 third_nav_title: Humanities & the Arts
 ---
-Literature is the study of the human condition through literary works written in the English language. The A-Level Curriculum prepares students to read Literature at university through the acquisition of critical reading and writing skills, specifically in the analysis, explanation and evaluation of the ways writers use language, form and style to make and shape meaning. Students will be exposed to a range of literary genres - prose, poetry and drama - and learn to handle unseen components as well as respond to set texts. H2 students will have the additional requirement of making comparisons across texts and studying a topic paper.  
-  
-The College's Literature programme welcomes all students who love reading, thinking and writing about literary issues. At TMJC, we believe that the proper study of Literature must not only activate the mind, but also stir the heart. Enrichment activities therefore play a critical role in our approach. Some examples include: the annual Literature Fest features workshops by writers and academics, as well as creative expression pieces by students; the Writers’ Circle introduces students to creative writing; and outings to the National Gallery and theatre performances are also held regularly to help students appreciate and explicate how literary works are constructed. 
+Literature is the study of the human condition through literary works written in the English language. The A Level Curriculum prepares students to read Literature at university through the acquisition of critical reading and writing skills, specifically in the analysis, explanation and evaluation of the ways writers use language, form and style to make and shape meaning. Students will be exposed to a range of literary genres - prose, poetry and drama - and learn to handle unseen components as well as respond to set texts. H2 students will have the additional requirement of making comparisons across texts and studying a topic paper.
 
-For more information on the H1 and H2 Literature in English syllabus:  
+The College's Literature programme welcomes all students who love reading, thinking and writing about literary issues. At TMJC, we believe that the proper study of Literature must not only activate the mind, but also stir the heart. The Literature classroom is a safe space for learners to speak up and find their voice, collaborate with peers, dig deep into their hearts, and open their minds. Enrichment activities also play a critical role in our approach. Some examples include: the annual Arts and Humanities Week features workshops by writers and academics, as well as creative expression pieces by students; and outings to the National Gallery and theatre performances are also held regularly to help students appreciate and explicate how literary works are constructed. 
 
-* [H1 Literature in English Syllabus Document (8832)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8832_y22_sy.pdf)
 
-* [H2 Literature in English Syllabus Document (9509)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509_y22_sy.pdf)
+For more information on the H1 and H2 Literature in English syllabus:
+
+[H1 Literature in English Syllabus Document (8832)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8832_y24_sy.pdf)
+
+[H2 Literature in English Syllabus Document (9509)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9509_y24_sy.pdf)
 
 ![](/images/TMJC-OurCurriculum_IP_LitE_01.jpeg)
 Drama Workshop by Haresh Sharma 2019
