@@ -56,11 +56,11 @@ third_nav_title: Our Staff
 
 #### [Key Personnel](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_KeyPersonnel_030323.pdf)
 
-#### [Arts & Humanities](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_ArtsHumanities_030323.pdf)
+#### [Arts &amp; Humanities](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_ArtsHumanities_030323.pdf)
 
 #### [Economics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Econs_030323.pdf)
 
-#### [General Paper](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_GP_030323.pdf)
+#### [General Paper](/files/About%20Us/Our%20Staff/tmjc%20staff%20list_gp_030423.pdf)
 
 #### [Mathematics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Maths_030323.pdf)
 
@@ -70,4 +70,4 @@ third_nav_title: Our Staff
 
 #### [Science](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Science_030323.pdf)
 
-#### [Executive & Administrative Staff](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_EAS_030323.pdf)
+#### [Executive &amp; Administrative Staff](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_EAS_030323.pdf)
