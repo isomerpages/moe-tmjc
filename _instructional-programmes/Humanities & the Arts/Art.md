@@ -16,3 +16,14 @@ H2 Art is designed to provide students with an in-depth study in the visual arts
 
 [H2 Art Syllabus Document (9750)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9750_y24_sy.pdf)
 
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Art/figure%20painting%20with%20unconventional%20tools.jpg)
+Figure painting with unconventional tools
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Art/gestural%20abstract%20painting.jpg)
+Gestural abstract painting
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Art/h2%20art%20critique%20session.jpg)
+H2 Art critique session
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Art/live%20figure%20drawing%20lesson.jpg)
+Live figure drawing lesson
