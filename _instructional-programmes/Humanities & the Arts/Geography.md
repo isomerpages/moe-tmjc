@@ -4,19 +4,17 @@ permalink: /our-total-curriculum/instructional-programmes/humanities-n-the-arts/
 description: ""
 third_nav_title: Humanities & the Arts
 ---
-In line with the A Level Geography Curriculum, Geography at TMJC seeks to develop conceptual understanding of geographical knowledge, allowing students to gain depth in understanding stakeholders and processes that shape the physical and human environment they live in.
+History education in Singapore seeks to develop in students an appreciation of past human experiences, a critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present. The A Level History curriculum seeks to develop conceptual understanding of historical knowledge, to encourage students to gain depth of understanding in historical events and their connections to the present.  Historical agency is also emphasised in the syllabus, allowing students to appreciate the complexities of multiple perspectives and the dynamic interactions between diverse actors in understanding local, regional and global developments.
 
-With an aim to equip students with the ability to analyse, evaluate and reflect on information received, students learn to develop logical arguments and make informed decisions. This allows Geography students to better appreciate the complexities of situations by considering multiple viewpoints and the dynamic interactions between physical and human environments at local, regional and global scales. Ultimately, Geography education at TMJC seeks to develop in students an appreciation of the Earth’s landscapes, peoples, places and environment, putting their understanding of social and physical processes within the context of places and regions, and motivating Geography students to be critical and responsible citizens.
+TMJC's History programme welcomes all students who are keen to engage with multiple perspectives about historical events and issues through readings and discussions, learn to formulate arguments, judiciously select evidence to substantiate them, and weave them together into a cogent piece of prose. The programmes deliver the curriculum through an inquiry-based approach, and taps on relevant technological tools, for example, Padlet, Google apps, and the MOE Student Learning Space to enable students to be comfortable to discuss, share ideas, and in the process hone their analytical and critical thinking skills both in thought and in writing.
 
-TMJC’s Geography programme adopts an inquiry-based approach whereby students acquire geographical knowledge through lectures and tutorial discussions. Geographical learning is also done via geographical tools such as Google Earth, Geography simulation games, and a series of enrichment activities such as Arts and Humanities Week, designed to deepen and extend their learning.
+In addition, the department encourages students to participate actively in various enrichment opportunities. A key in-house curated series of enrichment activities, Arts and Humanities Week, is organised annually to bring the Humanities subjects alive and enable our students to appreciate and understand the subject’s relevance to the world around us. Beyond that, students are encouraged to participate in simulated United Nations and ASEAN Conferences, attend lectures by distinguished speakers in various fields, participate in physical and virtual learning journeys to places such as the Singapore Internal Security Department Heritage Centre and National Museum to extend their learning beyond the classroom.
 
-The Geography unit adopts a hands-on approach through both local and regional field trips. These field trips are adopted to enrich students’ understanding and application of geographical knowledge. This includes hearing from Geographers in the various fields of geographical applications, as well as field trips to apply Geographical Investigation skills and knowledge. Geography students are also given opportunities to lead and participate in Geography-related activities, which allows them to have a hands-on application of knowledge and skills learnt in the classroom. Opportunities are also provided for students to participate in inter-school Geography activities and competitions to engage and apply their Geographical skills and knowledge.
+For more information on the H1 and H2 History syllabus:
 
-For more information on the H1 and H2 Geography syllabus:
+[H1 History Syllabus Document ((8838)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf)
 
-[H1 Geography Syllabus Document (8834)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)
-
-[H2 Geography Syllabus Document (9713)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf)
+[H2 History Syllabus Document (9174)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)
 
 ![](/images/TMJC-OurCurriculum_IP_Geog_01.jpeg)
 Humanities Alive! (Geog) 2021 - Opportunities to lead and engage in activities
