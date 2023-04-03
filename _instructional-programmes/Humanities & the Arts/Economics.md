@@ -10,29 +10,6 @@ In TMJC, besides the explicit teaching of disciplinary knowledge (concepts and s
   
 For more information on the H1 and H2 Economics syllabus:  
 
-* [H1 Economics Syllabus Document (8823)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8823_y21_sy.pdf)
-* [H2 Economics Syllabus Document (9757)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9757_y21_sy.pdf)
+H1 Economics Syllabus Document (8843)
+[](/files/Our%20Total%20Curriculum/Instructional%20Programmes/Economics/h1%20economics%20syllabus%20document%20(8843).pdf)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_01.jpeg)
-Annual Budget Enrichment Lecture led by the students
-
-![](/images/TMJC-OurCurriculum_IP_Econs_02.jpeg)
-Annual Nov Edventure Series - Last Reserve Online Game
-
-![](/images/TMJC-OurCurriculum_IP_Econs_03.jpeg)
-Annual Nov Edventure Series - Learning Journey to Warehouse 2019
-
-![](/images/TMJC-OurCurriculum_IP_Econs_04.jpeg)
-Annual Nov Edventure Series - Workshop on GIC Safehouse 2019
-
-![](/images/TMJC-OurCurriculum_IP_Econs_05.jpeg)
-Annual Nov Edventure Series - Workshop on GIC Safehouse 2019
-
-![](/images/TMJC-OurCurriculum_IP_Econs_06.jpeg)
-Annual Nov Edventure Series Last Reserve Online Game Debrief 2019
-
-![](/images/TMJC-OurCurriculum_IP_Econs_07.jpeg)
-Flipped Classroom in Action 2019
-
-![](/images/TMJC-OurCurriculum_IP_Econs_08.jpeg)
-Project Gaia - Application of economics in understanding environmental issues
