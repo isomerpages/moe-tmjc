@@ -60,7 +60,7 @@ third_nav_title: Our Staff
 
 #### [Economics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Econs_030323.pdf)
 
-#### [General Paper]
+#### [General Paper](/files/About%20Us/Our%20Staff/tmjc%20staff%20list_gp_040423.pdf)
 
 #### [Mathematics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Maths_030323.pdf)
 
