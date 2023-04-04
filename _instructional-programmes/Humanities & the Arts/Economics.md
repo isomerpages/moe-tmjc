@@ -10,29 +10,23 @@ In TMJC, besides the explicit teaching of disciplinary knowledge (concepts and s
   
 For more information on the H1 and H2 Economics syllabus:  
 
-* [H1 Economics Syllabus Document (8823)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8823_y21_sy.pdf)
-* [H2 Economics Syllabus Document (9757)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9757_y21_sy.pdf)
+[H1 Economics Syllabus Document (8843)](/files/Our%20Total%20Curriculum/Instructional%20Programmes/Economics/h1%20economics%20syllabus%20document%20(8843).pdf)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_01.jpeg)
-Annual Budget Enrichment Lecture led by the students
+[H2 Economics Syllabus Document (9570)](/files/Our%20Total%20Curriculum/Instructional%20Programmes/Economics/h2%20economics%20syllabus%20document%20(9570).pdf)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_02.jpeg)
-Annual Nov Edventure Series - Last Reserve Online Game
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/annual%20budget%20enrichment%20student-led%20activity.jpg)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_03.jpeg)
-Annual Nov Edventure Series - Learning Journey to Warehouse 2019
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/differentiated%20instruction_content%20mastery%20seminar.jpg)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_04.jpeg)
-Annual Nov Edventure Series - Workshop on GIC Safehouse 2019
 
-![](/images/TMJC-OurCurriculum_IP_Econs_05.jpeg)
-Annual Nov Edventure Series - Workshop on GIC Safehouse 2019
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/guardians%20of%20gaia%20-to%20protect%20the%20earth.jpg)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_06.jpeg)
-Annual Nov Edventure Series Last Reserve Online Game Debrief 2019
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/nov%20ed-venture_lj_lta%20mobility.JPG)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_07.jpeg)
-Flipped Classroom in Action 2019
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/nov%20ed-venture_lj_mas%20gallery.jpg)
 
-![](/images/TMJC-OurCurriculum_IP_Econs_08.jpeg)
-Project Gaia - Application of economics in understanding environmental issues
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/nov%20ed-venture_plumarket%202.jpg)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/nov%20ed-venture_talk_university%20prof.JPG)
+
+![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Economics/nov%20ed-venure_plumarket%201.jpg)

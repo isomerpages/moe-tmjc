@@ -18,9 +18,9 @@ We hope GP will help our students find their personal voices to make sense of an
 
 For more information on the H1 General Paper syllabus:
 
-Final examination in 2023 (8807): https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8807_y21_sy.pdf
+[Final examination in 2023 (8807)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8807_y21_sy.pdf)
 
-Examination starting in 2024 (8881): https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy.pdf
+[Examination starting in 2024 (8881)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy.pdf)
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/General%20Paper/Breakout%20Room%201_GP%20Day%202022.jpg)
 
