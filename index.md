@@ -28,17 +28,16 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
+      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_kahoot.JPG
   - infopic:
-      title: Inspiring Teacher of English Award 2023
+      title: General Paper & Project Work Webinar
       subtitle: Announcements
-      description: " Nominations for the annual Inspiring Teacher of English awards
-        2023 is now opened!"
+      description: "TMJC is organising a webinar on General Paper and Project Work on
+        4 May 2023 (Thurs) from 7pm to 8pm. "
       button: Find Out More
       url: /about-us/Announcements
       image: /images/Homepage/Infopic/2023/Term
-        1/2023-T1-Announcement-Infopics_EnglishAward.jpg
+        2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
       alt: Image alt text
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
