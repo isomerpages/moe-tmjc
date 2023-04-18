@@ -357,4 +357,3 @@ The following&nbsp;**talent areas**&nbsp;are open for DSA applications in TMJC.
 * Representation at Zonal/National competitions, National or Club level
 * Relevant&nbsp;experience in the performing arts
 * Relevant leadership skills or initiate projects to make a positive difference to the school community or beyond.
-
