@@ -21,14 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: TM Unites 2023 - Recycle Right for a Greener Future
+      title: Cohort Kahoot Current Affairs Quiz
       subtitle: Event Highlights
-      description: "After 3 years of hiatus, TM Unites - our cohort VIA, finally took
-        flight on 25 March 2023. "
+      description: "On the morning of 12 April 2023, we kicked off our inaugural
+        Cohort Kahoot Current Affairs Quiz. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 2/2023-T2-Events-Infopic_TMUnites.jpg
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
   - infopic:
       title: Inspiring Teacher of English Award 2023
       subtitle: Announcements
