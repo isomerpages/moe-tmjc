@@ -3,6 +3,12 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Cohort Kahoot Current Affairs Quiz
+
+On the morning of 12 April 2023, we kicked off our inaugural Cohort Kahoot Current Affairs Quiz. The aim of the quiz is to ignite a passion for current affairs and create a buzz about the latest news. There was excitement in the air as students from the various classes competed for the top 3 prizes. Most of all, everyone had fun!
+
+![](/images/Event%20Highlights/2023/Term%202/Cohort%20Kahoot/2023-t2-events-kahoot_01.jpg)
+
 #### TM Unites 2023 - Recycle Right for a Greener Future
 
 After 3 years of hiatus, TM Unites - our cohort VIA, finally took flight on 25 March 2023. The JC1 and JC2 cohorts reached out to the residents of Pasir Ris and Tampines Central respectively to educate and promote good recycling and water conservation habits. The students also worked alongside the Pasir Ris and Tampines Central Town Council cleaners to perform a clean-up of the estates to gain a greater appreciation for the cleaners and develop a stronger sense of responsibility in ensuring the cleanliness of public spaces. Through TM Unites 2023, we hope to do our part as a College to support Singapore’s Zero Waste Masterplan to build a sustainable, resource-efficient, and climate-resilient nation. At the same time, we also hope to inspire all TMJC students to be young stewards of the environment.
