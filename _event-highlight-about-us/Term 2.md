@@ -3,6 +3,16 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Mother Tongue Fortnight: Rejuvenation of our Heritage Learning Journey to the Telok Ayer Historic District 
+
+As part of the Mother Tongue Fortnight’s fringe activities, the Mother Tongue Languages Department organised a learning journey on 14 April 2023 to the Telok Ayer Historic District. Through this activity, the department hopes to promote students’ interest in Chinese culture and heritage.
+
+![](/images/Event%20Highlights/2023/Term%202/CL%20Learning%20Journey/2023-t2-events-cllj_01.jpg)
+
+The Chinese Language teachers brought 7 subject groups of about 120 H1 Chinese students on a walking trail to various cultural and heritage sites, buildings and businesses from Telok Ayer Street to South Bridge Road. Students explored Thian Hock Keng Temple and the wall murals depicting the history of our Chinese pioneers. They also visited historical sites like the old Chung Hwa Free Clinic and Chong Wen Ge (Chong Hock Girls School), which have now been transformed to an exotic restaurant and museum. At Pek Sin Choo Tea Company, our students learnt how to appreciate traditional Chinese tea and the art of roasting and packaging tea leaves, and also how the business has kept up with modern times. They were also enriched by the sharing held at Tong Heng Traditional Confectionary, and have a better understanding of how the company has rebranded and rejuvenated the business, while preserving the rich heritage of Cantonese pastries. With the knowledge acquired, our students also completed a class quiz on the culture and heritage of Telok Ayer. 
+
+![](/images/Event%20Highlights/2023/Term%202/CL%20Learning%20Journey/2023-t2-events-cllj_02.jpg)
+
 #### Cohort Kahoot Current Affairs Quiz
 
 On the morning of 12 April 2023, we kicked off our inaugural Cohort Kahoot Current Affairs Quiz. The aim of the quiz is to ignite a passion for current affairs and create a buzz about the latest news. There was excitement in the air as students from the various classes competed for the top 3 prizes. Most of all, everyone had fun!
