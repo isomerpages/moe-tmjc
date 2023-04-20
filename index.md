@@ -29,7 +29,7 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_kahoot.JPG
+      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_cllj.JPG
   - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
