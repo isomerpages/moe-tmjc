@@ -21,14 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Cohort Kahoot Current Affairs Quiz
+      title: Mother Tongue Fortnight
       subtitle: Event Highlights
-      description: "On the morning of 12 April 2023, we kicked off our inaugural
-        Cohort Kahoot Current Affairs Quiz. "
+      description: As part of the Mother Tongue Fortnight’s fringe activities, the
+        Mother Tongue Languages Department organised a learning journey on 14
+        April 2023...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_kahoot.JPG
+      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_cllj.JPG
   - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
