@@ -21,6 +21,12 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
+      title: 5th TMJC College Day (28 April 2023)
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-announcement-infopics_collegeday.jpg
+      alt: Image alt text
+  - infopic:
       title: Mother Tongue Fortnight
       subtitle: Event Highlights
       description: As part of the Mother Tongue Fortnight’s fringe activities, the
