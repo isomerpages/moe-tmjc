@@ -3,6 +3,18 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Student Council Camp
+
+On 14 and 15 April 2023, the 5th Tampines Meridian Student Council (TMSC) held the Student Council Camp that would initiate the 6th batch of TMSC.
+
+The 5th TMSC strove to unite the juniors, shared their rewarding experiences and inspired transformational leadership. Leadership training workshops, physical activities and College cheers were conducted to strengthen the camaraderie in each House and equip the 6th TMSC with the leadership knowledge and skills to serve the College. A dialogue session with our Senior Minister, Mr Teo Chee Hean further inspired our student leaders to serve our community wholeheartedly.
+
+![](/images/Event%20Highlights/2023/Term%202/Student%20Council%20Camp/2023-t2-events-studentcouncilcamp_01.jpg)
+
+To mark the start of the TMSC leadership journey, the iconic Student Council Initiation Ceremony was held, where a flame was passed from the Council Teacher Advisors to our alumni representatives of the 3rd and 4th TMSC, then to the 5th TMSC and finally to our newly initiated 6th TMSC. This tradition is significant as it signifies the symbolic passing of the passion and responsibilities of student councillors through the generations of TMSC. The flame is also a representation of a guiding light, one that will steer our TMSC towards the path of excellence and duty, as they serve the College with fervour and commitment.
+
+![](/images/Event%20Highlights/2023/Term%202/Student%20Council%20Camp/2023-t2-events-studentcouncilcamp_02.jpg)
+
 #### Mother Tongue Fortnight: Rejuvenation of our Heritage Learning Journey to the Telok Ayer Historic District 
 
 As part of the Mother Tongue Fortnight’s fringe activities, the Mother Tongue Languages Department organised a learning journey on 14 April 2023 to the Telok Ayer Historic District. Through this activity, the department hopes to promote students’ interest in Chinese culture and heritage.
