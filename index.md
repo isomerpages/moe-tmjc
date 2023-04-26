@@ -21,11 +21,12 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: 5th TMJC College Day (28 April 2023)
+      title: 5th TMJC College Day
       subtitle: Announcements
       image: /images/Homepage/Infopic/2023/Term
         2/2023-announcement-infopics_collegeday.jpg
       alt: Image alt text
+      description: 28 April 2023
   - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
