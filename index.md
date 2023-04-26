@@ -28,16 +28,6 @@ sections:
       alt: Image alt text
       description: 28 April 2023
   - infopic:
-      title: Mother Tongue Fortnight
-      subtitle: Event Highlights
-      description: As part of the Mother Tongue Fortnight’s fringe activities, the
-        Mother Tongue Languages Department organised a learning journey on 14
-        April 2023...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_cllj.JPG
-  - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
       description: "TMJC is organising a webinar on General Paper and Project Work on
@@ -47,6 +37,16 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
       alt: Image alt text
+  - infopic:
+      title: Mother Tongue Fortnight
+      subtitle: Event Highlights
+      description: As part of the Mother Tongue Fortnight’s fringe activities, the
+        Mother Tongue Languages Department organised a learning journey on 14
+        April 2023...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_cllj.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
