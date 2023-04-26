@@ -21,15 +21,12 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Mother Tongue Fortnight
-      subtitle: Event Highlights
-      description: As part of the Mother Tongue Fortnight’s fringe activities, the
-        Mother Tongue Languages Department organised a learning journey on 14
-        April 2023...
-      button: Find Out More
+      title: 5th TMJC College Day
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-announcement-infopics_collegeday.jpg
       alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_cllj.JPG
+      description: 28 April 2023
   - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
@@ -40,6 +37,17 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
       alt: Image alt text
+  - infopic:
+      title: Student Council Camp
+      subtitle: Event Highlights
+      description: On 14 and 15 April 2023, the 5th Tampines Meridian Student Council
+        (TMSC) held the Student Council Camp that would initiate the 6th batch
+        of TMSC.
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-t2-events-infopic_studentcouncilcamp.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
