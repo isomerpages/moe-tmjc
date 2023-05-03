@@ -38,6 +38,8 @@ sections:
       alt: Image alt text
       description: "TMJC will be organising a Parent Engagement Talk - Connecting with
         Your Child on 19 May 2023, Friday from 7.00pm to 8.30pm.  "
+      button: Find Out More
+      url: /about-us/Announcements
   - infopic:
       title: Student Council Camp
       subtitle: Event Highlights
