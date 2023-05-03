@@ -21,13 +21,6 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: 5th TMJC College Day
-      subtitle: Announcements
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-announcement-infopics_collegeday.jpg
-      alt: Image alt text
-      description: 28 April 2023
-  - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
       description: "TMJC is organising a webinar on General Paper and Project Work on
@@ -37,6 +30,14 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
       alt: Image alt text
+  - infopic:
+      title: Parent Engagement Talk 2023
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-t1-announcement-infopics_pet.JPG
+      alt: Image alt text
+      description: "TMJC will be organising a Parent Engagement Talk - Connecting with
+        Your Child on 19 May 2023, Friday from 7.00pm to 8.30pm.  "
   - infopic:
       title: Student Council Camp
       subtitle: Event Highlights
