@@ -23,7 +23,8 @@ sections:
   - infopic:
       title: Parent Engagement Talk 2023
       subtitle: Announcements
-      image: /images/Homepage/Infopic/2023/Term 2/2023-T2-Events-Infopic_TMUnites.jpg
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-t1-announcement-infopics_pet.JPG
       alt: Image alt text
       description: TMJC is organising a Parent Engagement Talk on 19 May 2023 (Fri)
         from 7.00pm to 8.30pm.
