@@ -21,14 +21,6 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Parent Engagement Talk 2023
-      subtitle: Announcements
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t1-announcement-infopics_pet.JPG
-      alt: Image alt text
-      description: TMJC is organising a Parent Engagement Talk on 19 May 2023 (Fri)
-        from 7.00pm to 8.30pm.
-  - infopic:
       title: General Paper & Project Work Webinar
       subtitle: Announcements
       description: "TMJC is organising a webinar on General Paper and Project Work on
@@ -38,6 +30,14 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
       alt: Image alt text
+  - infopic:
+      title: Parent Engagement Talk 2023
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-t1-announcement-infopics_pet.JPG
+      alt: Image alt text
+      description: TMJC is organising a Parent Engagement Talk on 19 May 2023 (Fri)
+        from 7.00pm to 8.30pm.
   - infopic:
       title: Student Council Camp
       subtitle: Event Highlights
