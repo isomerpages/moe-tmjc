@@ -3,6 +3,28 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### 2023 National School Games Shooting 
+
+From 10 to 14 April, the TMJC Shooting Team participated in the National School Games and obtained impressive results in the team and individual category. Our Air Pistol Women (APW) team came in first and amongst our students, 3 air rifle boys, 2 air rifle girls and 3 air pistol girls qualified for the individual finals. 
+
+In the APW team category on 13  April, our APW team finished first, winning by 1 point with a score of 1587. 
+
+On Friday (14 April), 8 students qualified for the finals for National School Games Individual Shooting Championship. This included 3 boys and 2 girls in the Air Rifle category and 3 girls in the Air Pistol category.  Lauryn Joshua En Xi emerged champion! It was a thrilling final as the result was determined by the last shot with only a score difference of 0.1. We are proud of our students’ efforts and accomplishments. 
+
+![](/images/Event%20Highlights/2023/Term%202/CCA%20Shooting/2023-t2-events-ccashooting_01.jpg)
+
+#### Mother Tongue Fortnight Chinese Enrichment Day 2023 - An Afternoon with Movie Director Royston Tan, Local Artistes Rao Zijie and Ben Hum
+
+It was an afternoon of short films and songs in LT4 on 21 April 2023. A highlight of the Mother Tongue Fortnight 2023, the Chinese language event titled “Sing a Movie” was a talk and performance by local renowned director Royston Tan and various artistes. Royston Tan shared with the students his journey as a film maker and showcased various short films and local singers Rao Zi Jie and Ben Hum sang their hearts out with a repertoire of Chinese popular songs, bringing immense joy to our student audience.
+
+Six of our very own student performers (Keran 23A101, Li Wen 23S307, Fiona 23S302, as well as Iva, Yuxin and Abby from 23S301 presented 3 Chinese language songs from television serials and movies. 
+
+Our student audience showed their enjoyment and support by lighting up their handphone flash lights, waving enthusiastically and singing along with the singers. Our Principal Mr Sin also graced the event, joining our audience and enjoying an afternoon of fun and learning.
+
+What a memorable afternoon of learning the Chinese Language, in a joyous atmosphere of movies and songs. The event was indeed an actualisation of “Joy of Learning”!
+
+![](/images/Event%20Highlights/2023/Term%202/CL%20Enrichment%20Day/2023-t2-events-clenrichmentday_01.jpg)
+
 #### Student Council Camp
 
 On 14 and 15 April 2023, the 5th Tampines Meridian Student Council (TMSC) held the Student Council Camp that would initiate the 6th batch of TMSC.

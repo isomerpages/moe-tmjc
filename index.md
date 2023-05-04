@@ -41,16 +41,16 @@ sections:
       button: Find Out More
       url: /about-us/Announcements
   - infopic:
-      title: Student Council Camp
+      title: "2023 National School Games Shooting "
       subtitle: Event Highlights
-      description: On 14 and 15 April 2023, the 5th Tampines Meridian Student Council
-        (TMSC) held the Student Council Camp that would initiate the 6th batch
-        of TMSC.
+      description: "From 10 to 14 April, the TMJC Shooting Team participated in the
+        National School Games and obtained impressive results in the team and
+        individual category. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        2/2023-t2-events-infopic_studentcouncilcamp.JPG
+        2/2023-t2-events-infopic_ccashooting.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories

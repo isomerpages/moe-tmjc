@@ -28,3 +28,45 @@ The following&nbsp;**talent areas**&nbsp;are open for DSA applications in TMJC.
 * Representation at Zonal/National competitions, National or Club level
 * Relevant&nbsp;experience in the performing arts
 * Relevant leadership skills or initiate projects to make a positive difference to the school community or beyond.
+
+### Application Procedure
+
+If you are interested in applying to Tampines Meridian Junior College through the DSA-JC exercise, you are required to complete the following:
+
+1)       All applications must be submitted online using the stipulated [DSA application form](https://dsa.tmjc.edu.sg/).
+
+2)       A personal statement (not more than 500 words) is required for the applicants to state the reasons for applying to TMJC via DSA in the online application form.
+
+3)       Upload the following supporting documents to the [DSA Online Application Portal](https://dsa.tmjc.edu.sg/).
+
+* CCA records (all available records)
+* VIA records (all available records)
+* Sec 1 to 3 academic results (Weighted Assessments, Year End Exam)
+* Sec 4 Weighted Assessments or Mid-year Exam
+* Sec 1 to Sec 4 Result Slips showing Form Teachers’ comments and conduct grades
+
+Incomplete applications (e.g. without a complete set of supporting documents, or insufficient information provided on the online application form) will not be accepted or considered.
+
+### DSA-JC Application Timeline
+
+Deadline for submission of online DSA application:
+
+**Phase 1:      18 Jul 2023\***
+
+**Phase 2:      18 Aug 2023\***
+
+\* Applicants are advised to submit their applications early and by the deadline for Phase 1 or Phase 2 as shown above, in order for the application to be duly considered.
+
+Applicants not being offered a place in Phase 1 **need not re-submit** an application for Phase 2 as the application will be considered for both phases.
+
+**Shortlisted applicants** will be notified to attend **trials/auditions/interviews** by **31 August 2023.**
+
+After the trials/auditions/interviews, only successful candidates for DSA offers will be notified by the College by **5 Sep 2023.**
+
+General inquiries regarding DSA can be made via email to Mrs Rosalind Lim, at **loh_wee_chin_rosalind@schools.gov.sg**.
+
+You may click on [this link](https://dsa.tmjc.edu.sg/) to submit the **DSA Online Application** for admission to TMJC.
+
+#### **Important Note**
+
+Successful DSA-JC candidates will not be allowed to participate in the Joint Admissions Exercise. They will also not be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfil their DSA commitment without valid reason may be required to transfer out to another school.
