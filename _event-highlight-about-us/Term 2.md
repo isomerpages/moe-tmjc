@@ -3,6 +3,31 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### College Day 2023
+
+On 28 April, the College celebrated the efforts and achievements of the Class of 2022. The guests, awardees, parents and staff came together to enjoy the beautiful music and movements presented by the TMJC Chinese Orchestra, Modern Dance, and Choir, and witnessed the presentation of awards to distinguished students.
+
+At the ceremony, our Principal Mr Sin Kim Ho commended the Class of 2022 for their resilience and creativity in adapting to learning amidst Covid restrictions, how they kept the College spirit burning strong and even left the legacy of TM Cove, a popular common student space, for future generations of TMJCians to enjoy. Professor Cheah Horn Mun, the Guest of Honour, also shared insightfully about learning for life and learning as life, inspiring the Class of 2022 to never stop learning in an increasingly challenging but also exciting world. 
+
+The College sincerely wishes the awardees all the very best in their future endeavours.
+
+TMJCians of the Class of 2022: we are proud of you and we look forward to having you back as alumni among our TMJC family!
+
+![](/images/Event%20Highlights/2023/Term%202/College%20Day/2023-t2-events-infopic_collegeday.JPG)
+
+#### TMJC Hari Raya Celebrations
+
+The College held a two-part programme in celebration of the joyous occasion of Hari Raya Adilfiltri. The first part was an assembly programme held on the mornings of 19 and 20 April 2023. The opening segment focussed on the different etymology of phrases and wishes related to Hari Raya. The student emcees explained the significance of key phrases such as ‘Eid al-Fitr’, ‘Eid Mubarak’, Hari Raya Aidilfitri and Hari Raya Puasa. 
+
+The programme continued with an impressive Dikir Barat by our own Malay Language Elective Programme (MLEP) students. This synchronised Malay choral singing was fully choreographed by the students, with the help of their teacher mentors to showcase a glimpse of our college’s MLEP niche programme that focusses on the beautiful Malay heritage and culture. It incorporated singing, poetry, movement and music in a single performance.
+
+The second part of the celebration was held between 25 April and 2 May 2023, where the College provided Hari Raya cookie platters for students during one of their CCE lessons. Civic tutors share the meaning of some traditional Malay kuehs such as Kueh *Bangkit* (The cookie that rises), Kueh *Batang Buruk* (The ugly branch cookie) and Kueh *Tart Sepit* (Pinched Pineapple Tarts). The aim of this activity was to promote cohesiveness and class bonding through the communal sharing, and to raise cultural awareness of the festive celebration activities. The students enjoyed the fun sharing and delightful cookies with their friends. 
+
+The College would like to take this opportunity to wish all Muslims, Selamat Hari Raya Aidilfitri!
+
+
+
+
 #### 2023 National School Games Shooting 
 
 From 10 to 14 April, the TMJC Shooting Team participated in the National School Games and obtained impressive results in the team and individual category. Our Air Pistol Women (APW) team came in first and amongst our students, 3 air rifle boys, 2 air rifle girls and 3 air pistol girls qualified for the individual finals. 
