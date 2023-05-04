@@ -49,7 +49,7 @@ sections:
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        2/2023-announcement-infopics_collegeday.jpg
+        2/2023-t2-events-infopic_collegeday.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
