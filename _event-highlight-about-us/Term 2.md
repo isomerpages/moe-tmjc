@@ -13,7 +13,7 @@ The College sincerely wishes the awardees all the very best in their future ende
 
 TMJCians of the Class of 2022: we are proud of you and we look forward to having you back as alumni among our TMJC family!
 
-![](/images/Event%20Highlights/2023/Term%202/College%20Day/2023-t2-events-infopic_collegeday.JPG)
+
 
 #### TMJC Hari Raya Celebrations
 
