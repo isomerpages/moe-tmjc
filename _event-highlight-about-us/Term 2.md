@@ -25,7 +25,7 @@ The second part of the celebration was held between 25 April and 2 May 2023, whe
 
 The College would like to take this opportunity to wish all Muslims, Selamat Hari Raya Aidilfitri!
 
-
+![](/images/Event%20Highlights/2023/Term%202/Hari%20Raya%20Celebrations/2023-t2-events-harirayacelebrations_01.jpg)
 
 
 #### 2023 National School Games Shooting 
