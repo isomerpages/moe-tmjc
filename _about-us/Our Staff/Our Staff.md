@@ -56,7 +56,7 @@ third_nav_title: Our Staff
 
 #### [Key Personnel](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_KeyPersonnel_030323.pdf)
 
-#### [Arts &amp; Humanities](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_ArtsHumanities_030323.pdf)
+#### [Arts &amp; Humanities](/files/About%20Us/Our%20Staff/tmjc%20staff%20list_artshumanities_050523.pdf)
 
 #### [Economics](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_Econs_030323.pdf)
 
