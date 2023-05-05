@@ -41,16 +41,15 @@ sections:
       button: Find Out More
       url: /about-us/Announcements
   - infopic:
-      title: "2023 National School Games Shooting "
+      title: College Day 2023
       subtitle: Event Highlights
-      description: "From 10 to 14 April, the TMJC Shooting Team participated in the
-        National School Games and obtained impressive results in the team and
-        individual category. "
+      description: "On 28 April, the College celebrated the efforts and achievements
+        of the Class of 2022. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        2/2023-t2-events-infopic_ccashooting.JPG
+        2/2023-t2-events-infopic_collegeday.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
