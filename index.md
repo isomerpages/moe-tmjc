@@ -21,16 +21,6 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: General Paper & Project Work Webinar
-      subtitle: Announcements
-      description: "TMJC is organising a webinar on General Paper and Project Work on
-        4 May 2023 (Thurs) from 7pm to 8pm. "
-      button: Find Out More
-      url: /about-us/Announcements
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t1-announcement-infopics_gp&pwwebinar.JPG
-      alt: Image alt text
-  - infopic:
       title: Parent Engagement Talk 2023
       subtitle: Announcements
       image: /images/Homepage/Infopic/2023/Term
