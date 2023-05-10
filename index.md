@@ -31,15 +31,14 @@ sections:
       button: Find Out More
       url: /about-us/Announcements
   - infopic:
-      title: College Day 2023
+      title: General Paper (GP) Day 2023
       subtitle: Event Highlights
-      description: "On 28 April, the College celebrated the efforts and achievements
-        of the Class of 2022. "
+      description: "GP Day was held on 5 May 2023. In the lead up to GP Day, the GP
+        department organised a range of fringe activities for students. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t2-events-infopic_collegeday.JPG
+      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_gpday.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
