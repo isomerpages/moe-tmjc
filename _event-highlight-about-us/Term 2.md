@@ -13,6 +13,8 @@ On GP Day, we held the GP Unconference in collaboration with The Birthday Collec
 
 It was indeed an enriching and enjoyable experience for all students!
 
+![](/images/Event%20Highlights/2023/Term%202/GP%20Day/2023-t2-events-gpday_01.jpg)
+
 #### College Day 2023
 
 On 28 April, the College celebrated the efforts and achievements of the Class of 2022. The guests, awardees, parents and staff came together to enjoy the beautiful music and movements presented by the TMJC Chinese Orchestra, Modern Dance, and Choir, and witnessed the presentation of awards to distinguished students.
