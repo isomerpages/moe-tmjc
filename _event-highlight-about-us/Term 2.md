@@ -3,6 +3,16 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### General Paper (GP) Day 2023
+
+GP Day was held on 5 May 2023. In the lead up to GP Day, the GP department organised a range of fringe activities for students. 
+
+Mr Timothy Goh, SPH Journalist turned GP tutor shared about the chaos behind the calm of Singapore’s COVID-19 response during morning assembly. In addition, students got to play a Special Edition Singapore Trivia GP Day Kahoot Quiz! JC1 students got the chance to take part in the Meme Competition whilst JC2 students were treated to Learning Journeys at the National Gallery Singapore. They embarked on an *Art x Contemporary Issues* tour, as well as the *Namjooning @ the National Gallery Singapore // Art x BTS Art Trail cum Playlis*t learning journey. 
+
+On GP Day, we held the GP Unconference in collaboration with The Birthday Collective. In line with the theme of *‘Unmasking: Heart Truths’*,  students participated in the Opening and Closing Sessions and joined different Breakout Rooms that considered different Singapore issues.  
+
+It was indeed an enriching and enjoyable experience for all students!
+
 #### College Day 2023
 
 On 28 April, the College celebrated the efforts and achievements of the Class of 2022. The guests, awardees, parents and staff came together to enjoy the beautiful music and movements presented by the TMJC Chinese Orchestra, Modern Dance, and Choir, and witnessed the presentation of awards to distinguished students.
