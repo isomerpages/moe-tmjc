@@ -3,6 +3,40 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Mother Tongue Fortnight 2023 - Embracing our Ethnicity, Exploring Possibilites
+
+The Mother Tongue Fortnight 2023 is centered around the theme “Embracing our Ethnicity, Exploring Possibilities”, with the objective to create an immersive environment for learning and appreciation of Mother Tongue languages and cultures.
+
+On 13 April, our Principal, Mr Sin launched the fortnight of events, with a series of 3 mini-performances: Malay Kompang, Chinese Wushu and Indian Dance. The fortnight’s programme was also presented in the three Mother Tongue languages. 
+
+An array of common enrichment activities were carried out by the three language units to ignite the students’ interest in Mother Tongue languages. This included the broadcast of popular songs  in the different languages before morning assemblies, online QR code quizzes on language and culture, and students’ presentation of cultural topics during lessons. Through “Quote of the Day”, our student presenters also shared a Chinese, Malay or Tamil proverb with their insights during morning assembly, to motivate their peers in their learning.
+
+At the individual unit level, the Malay unit organised the Translation Competition for the H2 MLL students to sharpen their language skills. H2 MLL students were also facilitators for the JC1 H1 Malay Cultural Trail on Malay gastronomy such as herbs and spices, cuisines and traditional desserts.
+
+The Tamil unit organised a guided visit to the Umar Pulavar Tamil Language Centre for our Tamil students who were introduced to the use of herbs in traditional Ayurvedic medicine and Indian traditional music instruments. During the Tamil Enrichment Day on 21 April, the JC1 students participated in an Indian Short Film-Making Workshop to learn to create short videos centered around our school values.
+
+Heritage, music and movies were the main highlights of the Chinese unit’s enrichment activities. In the learning journey titled “Rejuvenation of our Heritage”, H1 Chinese students went on a walking trail to various heritage sites and businesses in Telok Ayer historical district. The Chinese Soundbites was held at the Multi-Purpose Hall during lunchtime on two afternoons with presentation and broadcast of Chinese popular songs to the lunchtime audience. On Chinese Enrichment Day, which was the highlight, the renowned local movie director Royston Tan shared with our JC1 Chinese students meaningful local short films. 
+
+All participating students of the fortnight were gifted a highlighter with a proverb in the respective Mother Tongue languages that encapsulated the essence of the Mother Tongue Fortnight 2023: “Embracing our Ethnicity, Cherish our Culture, Exploring Possibilites”.
+
+![](/images/Event%20Highlights/2023/Term%202/MTL%20Fortnight%202023/2023-t2-events-mtlfortnight_01.jpg)
+
+#### Sorsilambam 2023
+
+This year, TMJC's Tamil Language Unit fielded a team for Sorsilambam 2023, a National Tamil Debate Competition organised by Narpani Peravai and The Tamil Language Council. 
+
+We are thrilled to announce that our team made it to the semifinals, competing with various other tertiary institutions. Throughout the competition, our team faced several tough opponents with determination and hard work. During the quarter-finals, they  defeated Ngee Ann Polytechnic in a thrilling round.
+
+Although we did not win the semifinals against ACSI, we are incredibly proud of our team's performance, which undoubtedly provided many opportunities for learning and growth. 
+
+The team consisted of Siddharth Narenthiran Pillai [23S304], Karthik Harini [23S501], Kesav Kumar Subburaj [23S303], Dinesh Aalia [22S305], Jayraman Saravanan Shakaana [22S501] and Venkatesan Bharathi Kannan [22S502]. In recognition of their outstanding performance, they won trophies and cash prizes for emerging as the top 4 teams  in the National Debate series.
+
+During the finals of Sorsilambam, televised on Sunday 23 April 2023,the team received their trophies from Minister Vikram Nair. We are also proud to share that Siddharth Narenthiran Pillai [23S304] received the Best Speaker Award for the audience debate round that evening. We are extremely proud of his achievements and recognition.
+
+Congratulations once again to the team!
+
+![](/images/Event%20Highlights/2023/Term%202/National%20Tamil%20Debate/2023-t2-events-sorsilambamtamildebate_01.jpg)
+
 #### General Paper (GP) Day 2023
 
 GP Day was held on 5 May 2023. In the lead up to GP Day, the GP department organised a range of fringe activities for students. 
