@@ -21,25 +21,24 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
+      title: Mathematics Awareness Fortnight
+      subtitle: Event Highlights
+      description: "TMJC’s Mathematics Awareness Fortnight (MAF) was held from 17
+        April to 27 April 2023. "
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_maf.JPG
+  - infopic:
       title: Parent Engagement Talk 2023
       subtitle: Announcements
       image: /images/Homepage/Infopic/2023/Term
         2/2023-t1-announcement-infopics_pet.JPG
       alt: Image alt text
-      description: "TMJC will be organising a Parent Engagement Talk - Connecting with
-        Your Child on 19 May 2023, Friday from 7.00pm to 8.30pm.  "
+      description: TMJC will be organising a Parent Engagement Talk - Connecting with
+        Your Child on 19 May 2023, Friday from 7.00pm to 8.30pm.
       button: Find Out More
       url: /about-us/Announcements
-  - infopic:
-      title: Mother Tongue Fortnight 2023
-      subtitle: Event Highlights
-      description: The Mother Tongue Fortnight 2023 is centered around the theme
-        “Embracing our Ethnicity, Exploring Possibilities”...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t2-events-infopic_mtlfortnight.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
