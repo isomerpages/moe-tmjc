@@ -3,6 +3,48 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Mathematics Awareness Fortnight
+
+TMJC’s Mathematics Awareness Fortnight (MAF) was held from 17 April to 27 April 2023. MAF encourages students to develop a spirit of inquiry beyond the curriculum, discover and appreciate the beauty of Mathematics in different areas of our lives, and experience the joy of learning Mathematics.
+
+The theme for this year is “Travel with Math”, in line with the easing of travel restrictions around the world. Students were involved in a myriad of activities related to real-world applications of Math.  
+
+![](/images/Event%20Highlights/2023/Term%202/MAF/2023-t2-events-maf_01.jpg)
+
+Student volunteers were empowered and mentored by Math Subject Tutors in the InfiniTuM Student Committee to come up with interesting and fun activities for their peers. For example, the InfiniTuM Student Committee planned and hosted Math Station Games and our very own version of Around the World Monopoly Board Game during students’ break time at the Multi-purpose Hall.
+
+![](/images/Event%20Highlights/2023/Term%202/MAF/2023-t2-events-maf_02.jpg)
+
+A new highlight this year is the sharing by seven groups of JC2 students during the JC2 Math Elective Lectures. Students were exposed to topics and applications of Math beyond the curriculum such as:
+
+* Making Imaginary Numbers Real 
+* √-1 ❤️ food
+* Math in Origami
+* Weather Predictions with Partial Differential Equations
+* Probability in Blackjack
+* The use of Math behind Traffic Lights
+* Cryptography in our Digital World
+
+![](/images/Event%20Highlights/2023/Term%202/MAF/2023-t2-events-maf_03.jpg)
+
+For JC1 students, MAF Electives were conducted online in SLS! Students had the autonomy to choose from three Electives:
+
+* Discover how the branch of Mathematics called Graph Theory can be used to solve crimes
+* Uncover the Mystery of the NRIC alphabet using Number Theory
+* Virtual Math Treasure Hunt
+
+![](/images/Event%20Highlights/2023/Term%202/MAF/2023-t2-events-maf_04.jpg)
+
+There were also daily Math quizzes in the MAF 2023 Inter-CG Challenge. 
+
+![](/images/Event%20Highlights/2023/Term%202/MAF/2023-t2-events-maf_05.jpg)
+
+Three classes from each level received attractive prizes for their active participation. They are:
+JC1: 23S201 (1st), 23S307 (2nd), 23S301 (3rd)
+JC2: 22S202 (1st), 22S303 (2nd), 22S502 (3rd)
+
+![](/images/Event%20Highlights/2023/Term%202/MAF/2023-t2-events-maf_06.jpg)
+
 #### Mother Tongue Fortnight 2023 - Embracing our Ethnicity, Exploring Possibilites
 
 The Mother Tongue Fortnight 2023 is centered around the theme “Embracing our Ethnicity, Exploring Possibilities”, with the objective to create an immersive environment for learning and appreciation of Mother Tongue languages and cultures.
