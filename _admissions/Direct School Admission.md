@@ -62,7 +62,7 @@ Applicants not being offered a place in Phase 1 **need not re-submit** an applic
 
 **Date for Trials/Auditions**
 
-Click on **this link** to access the trials/auditions dates.
+Click on **[here](/files/2023%20dsa%20trials_auditions.pdf)** to access the trials/auditions dates.
 
 **Shortlisted applicants** will be notified to attend **trials/auditions/interviews** by **31 August 2023.**
 
