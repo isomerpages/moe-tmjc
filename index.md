@@ -21,14 +21,14 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Mathematics Awareness Fortnight
+      title: Arts and Humanities Week 2023
       subtitle: Event Highlights
-      description: "TMJC’s Mathematics Awareness Fortnight (MAF) was held from 17
-        April to 27 April 2023. "
+      description: "The TMJC Arts and Humanities Week 2023 took place from 8 to 12 May. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 2/2023-t2-events-infopic_maf.JPG
+      image: /images/Homepage/Infopic/2023/Term
+        2/2023-t2-events-infopic_humantitiesweek.JPG
   - infopic:
       title: Parent Engagement Talk 2023
       subtitle: Announcements
