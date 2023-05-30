@@ -3,6 +3,12 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Arts and Humanities Week 2023
+
+The TMJC Arts and Humanities Week 2023 took place from 8 to 12 May. Through the week, students were challenged to reflect upon the challenges humanity faces and how we can make changes to save ourselves and our planet as a whole. Students engaged in a wide range of workshops and learning journeys conducted by experts, teachers and their fellow students. The various workshops and learning journeys enabled students to engage with these issues from a variety of perspectives – geography, history, literature, theatre and art – and they came together during the AHA! Finale on 12 May to share their learning and reflections as a cohort.   
+
+![](/images/Event%20Highlights/2023/Term%202/Humanities%20Week/2023-t2-events-humanitiesweek_01.jpg)
+
 #### Mathematics Awareness Fortnight
 
 TMJC’s Mathematics Awareness Fortnight (MAF) was held from 17 April to 27 April 2023. MAF encourages students to develop a spirit of inquiry beyond the curriculum, discover and appreciate the beauty of Mathematics in different areas of our lives, and experience the joy of learning Mathematics.
