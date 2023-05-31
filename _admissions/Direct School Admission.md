@@ -59,6 +59,11 @@ Deadline for submission of online DSA application:
 
 Applicants not being offered a place in Phase 1 **need not re-submit** an application for Phase 2 as the application will be considered for both phases.
 
+
+**Date for Trials/Auditions**
+
+Click **[here](/files/2023%20dsa%20trials_auditions.pdf)** to access the **DSA trials/auditions dates**.
+
 **Shortlisted applicants** will be notified to attend **trials/auditions/interviews** by **31 August 2023.**
 
 After the trials/auditions/interviews, only successful candidates for DSA offers will be notified by the College by **5 Sep 2023.**
