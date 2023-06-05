@@ -21,9 +21,10 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Arts and Humanities Week 2023
+      title: Pre-University Seminar 2023
       subtitle: Event Highlights
-      description: The TMJC Arts and Humanities Week 2023 took place from 8 to 12 May.
+      description: A group of 20 students represented Tampines Meridian Junior College
+        at this year’s Pre-University Seminar from 29 May to 1 June 2023.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
