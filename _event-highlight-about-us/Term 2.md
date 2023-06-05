@@ -3,6 +3,22 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Pre-University Seminar 2023
+
+A group of 20 students represented Tampines Meridian Junior College at this year’s Pre-University Seminar from 29 May to 1 June 2023.  An important event for all Pre-University institutions, this year’s Pre-University Seminar theme is ‘Towards Our Shared Future: SG75’. The theme takes reference from the Forward Singapore (Forward SG) exercise, launched by Deputy Prime Minister (DPM) Lawrence Wong. Forward SG invites Singaporeans to come together to examine their shared values and aspirations so as to build consensus to refresh Singapore’s social compact. This was also the focus at this year’s Pre-University Seminar.
+
+Our students were given the opportunity to learn from the rich experiences of various guest speakers and were able to keenly appreciate how individuals from different walks of life have contributed to Singapore. The empathy cultivated through active listening and engagement inspired our students to envision and imagine the future of Singapore, one in which they could serve the community and the nation. The Guest of Honour at the Opening Ceremony was Minister for Education, Mr. Chan Chun Sing. Participants were challenged to be curious and connected, so as to take on the mantle to lead Singapore to SG75.  Over the course of the Seminar, our students were empowered to work on their respective projects and shared how they could contribute to creating a better and stronger Singapore. This eventually culminated in an exhibition, where our students confidently presented their project deliverables to guests. The Closing Ceremony was graced by DPM Lawrence Wong, and our TMJC students were inspired to play their part in shaping the Singapore Story.
+
+![](/images/Event%20Highlights/2023/Term%202/Pre%20University%20Seminar/pre%20university%20seminar%202023.jpg)
+
+#### SBS Transit Kindness Month
+
+On 26 May 2023, in conjunction with SBS Transit Kindness Month, students from the Interact Club designed postcards to present to bus captains at Tampines Interchange. Along with that, they rallied other TMJC students to write appreciation notes to be displayed at the interchange, and gave out post-its and pens from SBS Transit to members of the public to promote kindness towards bus captains. The students also prepared care packs for the bus captains and staff working at Tampines Bus Interchange. The students were glad to have the opportunity to interact and personally express their gratitude to the bus captains, as well as learn more about what our bus captains experience daily.
+
+The TMJC family would like to express our heartfelt gratitude to all those who have been tirelessly working to ensure that our daily commute around Singapore is smooth and safe.
+
+![](/images/Event%20Highlights/2023/Term%202/TM%20Kindness/tm%20kindness.jpg)
+
 #### Arts and Humanities Week 2023
 
 The TMJC Arts and Humanities Week 2023 took place from 8 to 12 May. Through the week, students were challenged to reflect upon the challenges humanity faces and how we can make changes to save ourselves and our planet as a whole. Students engaged in a wide range of workshops and learning journeys conducted by experts, teachers and their fellow students. The various workshops and learning journeys enabled students to engage with these issues from a variety of perspectives – geography, history, literature, theatre and art – and they came together during the AHA! Finale on 12 May to share their learning and reflections as a cohort.   
