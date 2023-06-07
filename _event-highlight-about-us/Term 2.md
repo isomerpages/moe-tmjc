@@ -3,6 +3,14 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### SG Perspectives Dialogue on Environmental Sustainability x International Friendship Day
+
+On 19 May, students had the invaluable opportunity to hear from Minister for Sustainability and the Environment, Ms Grace Fu. Her visit is part of the “SG Perspectives” initiative that seeks to broaden student perspectives on the wide-ranging impact of national issues. Students learnt about Singapore’s #NetZero ambition and environmental sustainability. They also engaged her in a robust discussion on topics such as energy security, the role of businesses in contributing to the SG Green Plan, and the need for international collaboration to achieve better outcomes.
+
+In the lead-up to her visit, during the International Friendship Day commemoration, students learnt about the opportunities present in ASEAN to combat climate change together, a matter of grave importance given that the region is one of the world’s most vulnerable to climate change. This was complemented by a series of Spotlight! Sessions by our International Scholars, and hands-on CCE lessons that sought to help students acquire cross-cultural knowledge and skills through appreciating ASEAN’s diverse beauty and economic potential.
+
+![](/images/Event%20Highlights/2023/Term%202/SG%20Perspectives/sg%20perspectives.jpg)
+
 #### Pre-University Seminar 2023
 
 A group of 20 students represented Tampines Meridian Junior College at this year’s Pre-University Seminar from 29 May to 1 June 2023.  An important event for all Pre-University institutions, this year’s Pre-University Seminar theme is ‘Towards Our Shared Future: SG75’. The theme takes reference from the Forward Singapore (Forward SG) exercise, launched by Deputy Prime Minister (DPM) Lawrence Wong. Forward SG invites Singaporeans to come together to examine their shared values and aspirations so as to build consensus to refresh Singapore’s social compact. This was also the focus at this year’s Pre-University Seminar.
