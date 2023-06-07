@@ -21,10 +21,10 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Pre-University Seminar 2023
+      title: "SG Perspectives Dialogue "
       subtitle: Event Highlights
-      description: A group of 20 students represented Tampines Meridian Junior College
-        at this year’s Pre-University Seminar from 29 May to 1 June 2023.
+      description: On 19 May, students had the invaluable opportunity to hear from
+        Minister for Sustainability and the Environment, Ms Grace Fu
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
