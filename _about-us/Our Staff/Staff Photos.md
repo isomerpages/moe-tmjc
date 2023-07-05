@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 ![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_090123-1.jpg)
 
-![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050523-2.jpg)
+![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-2.jpg)
 
 ![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_120123-3.jpg)
 
@@ -16,12 +16,12 @@ third_nav_title: Our Staff
 
 ![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_130123-6.jpg)
 
-![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_280323-7.jpg)
+![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-7.jpg)
 
 ![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_130123-8.jpg)
 
-![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050523-9.jpg)
+![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-9.jpg)
 
-![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_040123-10.jpg)
+![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-10.jpg)
 
-![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_040123-11.jpg)
+![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-11.jpg)
