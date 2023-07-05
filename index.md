@@ -21,15 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: "SG Perspectives Dialogue "
+      title: "2023 Staff Learning Symposium "
       subtitle: Event Highlights
-      description: On 19 May, students had the invaluable opportunity to hear from
-        Minister for Sustainability and the Environment, Ms Grace Fu
+      description: 'Our staff participated in the yearly staff learning symposium on
+        23 June 2023, which focussed on "The Future of Education and Work." '
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        2/2023-t2-events-infopic_humantitiesweek.JPG
+        2/2023-t2-events-infopic_stafflearningsymposium.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
