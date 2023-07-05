@@ -3,6 +3,14 @@ title: Term 2
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### 2023 Staff Learning Symposium 
+
+Our staff participated in the yearly staff learning symposium on 23 June 2023, which focussed on "The Future of Education and Work." The symposium began with staff going out on their preferred learning journeys together. We visited six organisations: Treatsure, Dignity Kitchen, National Gallery, Hope Technik, University of the Arts, and Singapore University of Technology and Design. Everyone gained valuable learning experiences and returned enthusiastically in the afternoon to share their key insights!
+
+During the afternoon session, staff had the chance to explore their creativity by creating the perfect sundae and coming up with captivating captions. Following that, we delved into discussions regarding the future of work and education, focussing on ways teachers can equip students with the necessary skills for the future. Subsequently, staff divided into department breakout sessions, wearing their designer hats to create engaging lessons for students.
+
+![](/images/Event%20Highlights/2023/Term%202/Staff%20Learning%20Symposium/2023-t2-events-stafflearningsymposium_01.jpg)
+
 #### SG Perspectives Dialogue on Environmental Sustainability x International Friendship Day
 
 On 19 May, students had the invaluable opportunity to hear from Minister for Sustainability and the Environment, Ms Grace Fu. Her visit is part of the “SG Perspectives” initiative that seeks to broaden student perspectives on the wide-ranging impact of national issues. Students learnt about Singapore’s #NetZero ambition and environmental sustainability. They also engaged her in a robust discussion on topics such as energy security, the role of businesses in contributing to the SG Green Plan, and the need for international collaboration to achieve better outcomes.
