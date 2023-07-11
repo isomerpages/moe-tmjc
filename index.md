@@ -21,10 +21,10 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: "2023 Staff Learning Symposium "
+      title: Young Trailblazers Competition
       subtitle: Event Highlights
-      description: 'Our staff participated in the yearly staff learning symposium on
-        23 June 2023, which focussed on "The Future of Education and Work." '
+      description: A team of 4 JC2 Talent Development students participated in the
+        Young Trailblazers Competition...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
