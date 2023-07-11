@@ -28,8 +28,8 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t2-events-infopic_stafflearningsymposium.JPG
+      image: /images/Event Highlights/2023/Term
+        3/2023-t3-events-youngtrailblazerscomp_01.jpg
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
