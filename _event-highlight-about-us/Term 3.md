@@ -33,4 +33,3 @@ The TMJC team comprises:
 Well done, TMJC team!
 
 ![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-makermaniacomp_01.jpg)
-
