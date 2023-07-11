@@ -16,3 +16,21 @@ The TMJC team comprises:
 -	TOH WIN SUEN ADELLE (22A302)
 
 Congratulations to all winners!
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-youngtrailblazerscomp_01.jpg)
+
+#### Makermania Competition
+
+The National University of Singapore organised the Makermania Competition, which is a hackathon where students picked up design thinking skills to solve real-life industrial problems. The TMJC team won the Finalist Award and the Most Innovative Award.
+
+The TMJC team comprises:
+-	Mahit Kanagaraj, 23S403 (Team Leader)
+-	Haq Nuh Abdul, 23S302
+-	Sufian Sean Ruiyang Bin Norizan, 23S302
+-	Vinit Shah, 23S401 
+-	Zhao Ming Yu, 23S403
+
+Well done, TMJC team!
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-makermaniacomp_01.jpg)
+
