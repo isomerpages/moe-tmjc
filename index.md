@@ -21,15 +21,14 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Young Trailblazers Competition
+      title: Visit by Shandong Experimental High School
       subtitle: Event Highlights
-      description: A team of 4 JC2 Talent Development students participated in the
-        Young Trailblazers Competition...
+      description: In 2019, representatives from our College had the opportunity to
+        visit Shandong Experimental High School (SEHS).
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        3/2023-t3-events-infopic_youngtrailblazerscom.JPG
+      image: /images/Homepage/Infopic/2023/Term 3/2023-t3-events-infopic_shandong.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
