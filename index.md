@@ -23,8 +23,8 @@ sections:
   - infopic:
       title: Tampines Meridian Student Leaders’ Investiture
       subtitle: Event Highlights
-      description: "The 6th Tampines Meridian Student Leaders’ Investiture (SLI) was
-        held on Wednesday, 19 July 2023. "
+      description: The 6th Tampines Meridian Student Leaders’ Investiture (SLI) was
+        held on Wednesday, 19 July 2023.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
