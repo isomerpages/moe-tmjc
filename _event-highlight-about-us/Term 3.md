@@ -3,6 +3,22 @@ title: Term 3
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Tampines Meridian Student Leaders’ Investiture
+
+The 6th Tampines Meridian Student Leaders’ Investiture (SLI) was held on Wednesday, 19 July 2023. The SLI is a significant ceremony held annually to recognise our newly elected JC1 Student Leaders, comprising Civics Group Leaders (CG Chairpersons and Peer Support Leaders), CCA Leaders, and the Tampines Meridian Student Council (TMSC). This year, we had the privilege of having distinguished guests from other Colleges with us to witness the installation of our 6th batch of Student Leaders.
+
+The theme for this year’s Investiture was “Light the Way”. As everyone goes through challenges during their JC journey, they would look for a beacon of light to follow. Our student leaders thus aspire to be the beacons of light, modelling the way and leading their peers, while creating meaningful experiences for them throughout their journey in TMJC.
+
+The highlight of the Investiture was the highly anticipated and energetic Student Leaders’ Walk-in. This saw our CCA leaders showcase their talents as they identified themselves as each unique CCA group, while our CG Leaders and TMSC showcased the strong House Spirit in TMJC as they walked in according to their respective Houses. Cheers and applause filled the College Hall as the leaders walked in proudly to represent their respective leadership groups.
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-studentleadersinvestiture_01.jpg)
+
+Our Principal, Mr Sin Kim Ho, addressed the student leaders and shared inspiring words to encourage them as they embarked on their leadership journey. Following that, the Vice-President of the 5th TMSC, Goh Yan Ting (22S503), represented the outgoing batch of student leaders and addressed the cohort of JC1 students, while reflecting on her journey as a student leader. Several other JC2 student leaders also shared their words of advice through a meaningful video. The Badge Presentation Ceremony which followed saw our student representatives being presented a badge by our School Leaders to identify themselves as student leaders and to officially mark the start of their leadership journey. Finally, our newly elected President of the 6th TMSC, Samara Marguerita Joseph (23A201), addressed the cohort and subsequently led all student leaders in reciting the Leaders’ Oath.
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-studentleadersinvestiture_02.jpg)
+
+The SLI was truly a momentous occasion witnessed by the entire cohort of JC1 students, all staff, and distinguished guests from various Colleges. We congratulate the newly elected student leaders once again and wish them a fruitful and meaningful leadership journey in TMJC!
+
 #### Visit by Shandong Experimental High School
 
 In 2019, representatives from our College had the opportunity to visit Shandong Experimental High School (SEHS). This year, after a hiatus of three years due to the pandemic, we have the privilege of hosting a group of 39 students and 4 teachers from SEHS for a school immersion programme on 20 and 21 July. During their stay with us, SEHS students were each paired with a local buddy as they experienced what it was like to be a TMJC student as they participated various learning and co-curricular activities with their new friends. SEHS teachers stepped into our classrooms to observe how our lessons were conducted and had conversations with our staff to promote mutual professional learning and development. We look forward to our continued partnership with SEHS in the years to come.
