@@ -21,14 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Visit by Shandong Experimental High School
+      title: Tampines Meridian Student Leaders’ Investiture
       subtitle: Event Highlights
-      description: In 2019, representatives from our College had the opportunity to
-        visit Shandong Experimental High School (SEHS).
+      description: The 6th Tampines Meridian Student Leaders’ Investiture (SLI) was
+        held on Wednesday, 19 July 2023.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term 3/2023-t3-events-infopic_shandong.JPG
+      image: /images/Homepage/Infopic/2023/Term
+        3/2023-t3-events-infopic_studentleaderinvestiture.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
