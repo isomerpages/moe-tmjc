@@ -19,7 +19,7 @@ Finally, the celebration culminated with both cohorts gathering together in the 
 
 On the 16th of August 2023, TMJC hosted Senior Parliamentary Secretary (SPS) Rahayu Mahzam for the General Paper External Agencies Outreach Programme, an annual programme to provide Pre-University students with a breadth of views and insight into Singapore issues from the perspective of public service agencies. The engagement session saw SPS share with JC2 students more about Singapore’s principles of governance, as well as Singapore’s tough stance against drugs and the death penalty. Students got to ask SPS questions ranging from whether she thought there were sufficient provisions in place for working mothers in Singapore, to other issues of concern to youth today. It was an enriching and meaningful session for everyone.  
 
-
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-minlawengagement_01.jpg)
 
 #### 2023 Inter-School Graphing Calculator Grand Prix
 
