@@ -3,6 +3,38 @@ title: Term 3
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### TM Celebrates! 
+
+8 August marks a day of double celebrations for TMJC! On this special day, the College commemorated both Singapore’s 58th birthday as well as TMJC’s 5th birthday. Both students and staff enjoyed a unique and memorable programme with the theme ‘TM Onward’, which ties in with this year’s National Day theme - ‘Onward As One’. ‘TM Onward’ represents how TMJCians need to have unity, resilience and be forward-looking to continue to make TM home for all.
+
+The day started off with the National Day Observance Ceremony with TMJC Band playing the National Anthem live. Adding on to the celebration, TMJC launched our very own TMJC mascot - Skye the Red Panda. Student and staff also received a keychain in the shape of our TMJC mascot, in the hope that the keychain will hold the key to unlock TMJCians’ goals as they aim for the sky. To make this year’s celebration even more unforgettable, our students, teachers and non-teaching staff assembled to form ‘TM5’, symbolising how everyone makes up one united TMJC. 
+
+The next segment of the celebration saw students and staff participating in a variety of exciting interhouse classroom and outdoor activities organised by our CCA and CG leaders. To add on to the festivities, external food vendors were engaged to distribute sumptuous carnival and local delights like popcorn, muah chee, churros and many more. In fact, this is the first year that both cohorts came together to enjoy our TMJC Games Carnival together!
+
+Finally, the celebration culminated with both cohorts gathering together in the College Hall for the first time for a concert cum mass singalong session. There were special performances put up by CCA groups, individual student groups and even a teacher. The event ended on a high with our Principal, Mr Sin, leading the entire College in a mass singalong to the song ‘Count on Me, Singapore’. What an eventful way to end off the double celebrations!
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-ndtmcelebrates_01.jpg)
+
+#### 2023 Inter-School Graphing Calculator Grand Prix
+
+TMJC is proud to have organised the 2023 Inter-school Graphing Calculator (GC) Grand Prix. This year, 60 participants from 11 schools battled their way for a spot in the finals that was held on 2nd August 2023. Five schools (ACJC, DHS, HCI, TMJC and TJC) made it to the finals and we are happy to announce that the team from TMJC (comprising Lim Yu Shen 22S101, Ivan Lau Xu Yang 22S101, Le Hai Long Quan 22S101 and Tejapu Lokesh Sai Kumar 22S208) came in 5th after putting up a good fight. Congratulations to Team TMJC for their effort and outstanding performance!
+ 
+This year, with the relaxation of safe management measures, the competition was conducted on-site with a live audience. The audience round got students excited and they enthusiastically solved the Math questions. To further enhance our students' thinking and problem-solving skills, a new round was introduced in which the finalists use the GC as a computational tool to analyse authentic real-world problems and offer potential solutions and insights. For this round, we invited esteemed academic experts Dr Hang Kim Hoo, STEM Education Programme Manager and Ms June Tan, Lead Curriculum Specialist to preside as judges. Dr Hang also shared his expert insights and observations which greatly enriched the students’ learning.  The event was a success and received extremely positive responses from teachers and participants.
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-interschoolgcgrandprix_01.jpg)
+
+#### Harvard GlobalWE Annual Essay Contest 2023
+
+Earlier this year, a group of 7 students from our College participated in the Harvard GlobalWE Annual Essay Contest 2023. 
+
+Harvard GlobalWE is a shared interest group of the Harvard Alumni Association. They are dedicated to the empowerment of women through education, dialogue, and connection among individuals working for women’s rights and freedoms worldwide.
+
+The GlobalWE Essay Contest was established to invite students to think critically about the status and rights of women. The entries were judged based on how well they identify the chosen challenge, explain the problems, convey ideas with emotional power, and identify potential solutions. Essays were also judged on focus, content, organisation, accuracy, language use, vocabulary, and style. The essay question for this year’s competition was “What is the biggest challenge facing women and girls in your country today?”
+
+There were a total of 6 winners from Singapore and we are proud to announce that one of our students was selected as a winner and three of our students received an Honourable Mention. 
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-hardvardglobal_01.jpg)
+
 #### Tampines Meridian Student Leaders’ Investiture
 
 The 6th Tampines Meridian Student Leaders’ Investiture (SLI) was held on Wednesday, 19 July 2023. The SLI is a significant ceremony held annually to recognise our newly elected JC1 Student Leaders, comprising Civics Group Leaders (CG Chairpersons and Peer Support Leaders), CCA Leaders, and the Tampines Meridian Student Council (TMSC). This year, we had the privilege of having distinguished guests from other Colleges with us to witness the installation of our 6th batch of Student Leaders.

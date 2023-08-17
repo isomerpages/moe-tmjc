@@ -21,15 +21,16 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Tampines Meridian Student Leaders’ Investiture
+      title: "TM Celebrates! "
       subtitle: Event Highlights
-      description: The 6th Tampines Meridian Student Leaders’ Investiture (SLI) was
-        held on Wednesday, 19 July 2023.
+      description: 8 August marks a day of double celebrations for TMJC! On this
+        special day, the College commemorated both Singapore’s 58th birthday as
+        well as TMJC’s 5th...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        3/2023-t3-events-infopic_studentleaderinvestiture.JPG
+        3/2023-t3-events-infopic_ndtmcelebrates.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
