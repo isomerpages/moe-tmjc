@@ -15,6 +15,12 @@ Finally, the celebration culminated with both cohorts gathering together in the 
 
 ![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-ndtmcelebrates_01.jpg)
 
+#### General Paper External Agencies Outreach Programme
+
+On the 16th of August 2023, TMJC hosted Senior Parliamentary Secretary (SPS) Rahayu Mahzam for the General Paper External Agencies Outreach Programme, an annual programme to provide Pre-University students with a breadth of views and insight into Singapore issues from the perspective of public service agencies. The engagement session saw SPS share with JC2 students more about Singapore’s principles of governance, as well as Singapore’s tough stance against drugs and the death penalty. Students got to ask SPS questions ranging from whether she thought there were sufficient provisions in place for working mothers in Singapore, to other issues of concern to youth today. It was an enriching and meaningful session for everyone.  
+
+
+
 #### 2023 Inter-School Graphing Calculator Grand Prix
 
 TMJC is proud to have organised the 2023 Inter-school Graphing Calculator (GC) Grand Prix. This year, 60 participants from 11 schools battled their way for a spot in the finals that was held on 2nd August 2023. Five schools (ACJC, DHS, HCI, TMJC and TJC) made it to the finals and we are happy to announce that the team from TMJC (comprising Lim Yu Shen 22S101, Ivan Lau Xu Yang 22S101, Le Hai Long Quan 22S101 and Tejapu Lokesh Sai Kumar 22S208) came in 5th after putting up a good fight. Congratulations to Team TMJC for their effort and outstanding performance!
