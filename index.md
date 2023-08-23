@@ -21,16 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: "TM Celebrates! "
+      title: Singapore Future Youths Competition
       subtitle: Event Highlights
-      description: 8 August marks a day of double celebrations for TMJC! On this
-        special day, the College commemorated both Singapore’s 58th birthday as
-        well as TMJC’s 5th...
+      description: The Singapore Future Youths Competition is an annual competition
+        organised to introduce students to public policy and its complexities.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        3/2023-t3-events-infopic_ndtmcelebrates.JPG
+        3/2023-t3-events-infopic_singaporefutureyouths.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
