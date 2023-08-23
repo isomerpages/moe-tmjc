@@ -3,6 +3,18 @@ title: Term 3
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Singapore-Industry Scholarship (SgIS) Award Ceremony 2023
+
+The Singapore-Industry Scholarship (SgIS) Award Ceremony 2023 was held on 17 August 2023 with the Second Minister for Education, Dr Maliki Osman, as the Guest of Honour.
+
+Launched in 2012, the SgIS aims to nurture a core of Singaporean industry leaders to steer the development of the country’s key strategic industries. It is the only scholarship offered in partnership between the Government and local industries. SgIS has established itself as one of the choice scholarships in Singapore, with 119 Sponsoring Organisations (SOs) this year. The 119 SOs come from 15 key sectors, including biomedical and pharmaceuticals, electronics, engineering, lifestyle and food, and social services. Since its inception, the SgIS has awarded scholarships to more than 1,400 recipients.
+
+TMJC is proud to share that we have 8 recipients of the SgIS Mid-Term Scholarships this year:
+
+Congratulations to all recipients! Wishing you all the best in your future endeavours!
+
+
+
 #### TM Celebrates! 
 
 8 August marks a day of double celebrations for TMJC! On this special day, the College commemorated both Singapore’s 58th birthday as well as TMJC’s 5th birthday. Both students and staff enjoyed a unique and memorable programme with the theme ‘TM Onward’, which ties in with this year’s National Day theme - ‘Onward As One’. ‘TM Onward’ represents how TMJCians need to have unity, resilience and be forward-looking to continue to make TM home for all.
