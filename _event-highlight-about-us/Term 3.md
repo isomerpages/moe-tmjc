@@ -14,7 +14,7 @@ Our TMJC students worked with their respective teams from different Colleges. We
 
 Well done, TMJCians!
 
-
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-sgfutureyouthscomp_01.jpg)
 
 #### Singapore-Industry Scholarship (SgIS) Award Ceremony 2023
 
