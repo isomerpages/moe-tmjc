@@ -3,6 +3,148 @@ title: Term 3
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Singapore Future Youths Competition
+
+The Singapore Future Youths Competition is an annual competition organised to introduce students to public policy and its complexities. This year, the theme is “Re-imagining Singapore’s social well-being and inclusivity in 2050” and participants were invited to envision Singapore's social compact in the future.
+
+Our TMJC students worked with their respective teams from different Colleges. We are proud to announce that the 2 teams won Third place and First place respectively.
+
+* Huay Rui Wen Elyana (23S307) was part of Team 1 who won Third place. Her team’s project focussed on the Future of Financial Security for the Elderly.
+* Hou Yuqiu (22S210) was part of Team 2 who won First place. Her team’s project focussed on the Future of Social Inclusion and Well-being of Migrant Workers.
+
+Well done, TMJCians!
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-sgfutureyouthscomp_01.jpg)
+
+#### Singapore-Industry Scholarship (SgIS) Award Ceremony 2023
+
+The Singapore-Industry Scholarship (SgIS) Award Ceremony 2023 was held on 17 August 2023 with the Second Minister for Education, Dr Maliki Osman, as the Guest of Honour.
+
+Launched in 2012, the SgIS aims to nurture a core of Singaporean industry leaders to steer the development of the country’s key strategic industries. It is the only scholarship offered in partnership between the Government and local industries. SgIS has established itself as one of the choice scholarships in Singapore, with 119 Sponsoring Organisations (SOs) this year. The 119 SOs come from 15 key sectors, including biomedical and pharmaceuticals, electronics, engineering, lifestyle and food, and social services. Since its inception, the SgIS has awarded scholarships to more than 1,400 recipients.
+
+TMJC is proud to share that we have 8 recipients of the SgIS Mid-Term Scholarships this year:
+
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0in 5.4pt 0in 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN">S/N</span></b></p></td><td width="355" valign="top" style="width:266.25pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN">Name of SgIS Mid-Term Scholars</span></b></p></td><td width="218" valign="top" style="width:163.5pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><b style="mso-bidi-font-weight:normal"><span lang="EN">CG</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">1</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">Lim Hong Zhou</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">18S208 (TMJC)</span></p></td></tr><tr style="mso-yfti-irow:2;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">2</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">Ho Jing Rui</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">17S101 (MJC)</span></p></td></tr><tr style="mso-yfti-irow:3;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">3</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">Nurhusainy Bin Norhisam</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none"><span lang="EN">17S211 (MJC)</span></p></td></tr><tr style="mso-yfti-irow:4;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">4</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">Tan Zhi Yi, Stefan</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">17S207 (MJC)</span></p></td></tr><tr style="mso-yfti-irow:5;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">5</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">Sim Zu Da Joel</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">17S402 (MJC)</span></p></td></tr><tr style="mso-yfti-irow:6;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">6</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">Sim Junhui, Bryan</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">17S411 (MJC)</span></p></td></tr><tr style="mso-yfti-irow:7;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">7</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">Chan Zhi Jie Ryan</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">16S01 (TPJC)</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes;height:22.35pt"><td width="51" valign="top" style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">8</span></p></td><td width="355" valign="top" style="width:266.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">Lim Shih Ler, Sean</span></p></td><td width="218" valign="top" style="width:163.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:22.35pt"><p class="MsoNormal" align="center" style="text-align:center;line-height:normal;
+  mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+  mso-border-shadow:yes"><span lang="EN">17S09 (TPJC)</span></p></td></tr></tbody></table>
+
+Congratulations to all recipients! Wishing you all the best in your future endeavours!
+
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-sgisawardcompetition_01.jpg)
+
 #### TM Celebrates! 
 
 8 August marks a day of double celebrations for TMJC! On this special day, the College commemorated both Singapore’s 58th birthday as well as TMJC’s 5th birthday. Both students and staff enjoyed a unique and memorable programme with the theme ‘TM Onward’, which ties in with this year’s National Day theme - ‘Onward As One’. ‘TM Onward’ represents how TMJCians need to have unity, resilience and be forward-looking to continue to make TM home for all.
