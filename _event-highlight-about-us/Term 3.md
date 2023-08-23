@@ -3,6 +3,19 @@ title: Term 3
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Singapore Future Youths Competition
+
+The Singapore Future Youths Competition is an annual competition organised to introduce students to public policy and its complexities. This year, the theme is “Re-imagining Singapore’s social well-being and inclusivity in 2050” and participants were invited to envision Singapore's social compact in the future.
+
+Our TMJC students worked with their respective teams from different Colleges. We are proud to announce that the 2 teams won Third place and First place respectively.
+
+* Huay Rui Wen Elyana (23S307) was part of Team 1 who won Third place. Her team’s project focussed on the Future of Financial Security for the Elderly.
+* Hou Yuqiu (22S210) was part of Team 2 who won First place. Her team’s project focussed on the Future of Social Inclusion and Well-being of Migrant Workers.
+
+Well done, TMJCians!
+
+
+
 #### Singapore-Industry Scholarship (SgIS) Award Ceremony 2023
 
 The Singapore-Industry Scholarship (SgIS) Award Ceremony 2023 was held on 17 August 2023 with the Second Minister for Education, Dr Maliki Osman, as the Guest of Honour.
@@ -130,7 +143,7 @@ TMJC is proud to share that we have 8 recipients of the SgIS Mid-Term Scholarshi
 
 Congratulations to all recipients! Wishing you all the best in your future endeavours!
 
-
+![](/images/Event%20Highlights/2023/Term%203/2023-t3-events-sgisawardcompetition_01.jpg)
 
 #### TM Celebrates! 
 
