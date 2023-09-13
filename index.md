@@ -30,7 +30,7 @@ sections:
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        3/2023-t3-events-infopic_singaporefutureyouths.JPG
+        4/2023-t-events-infopic_clteacheraward.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
