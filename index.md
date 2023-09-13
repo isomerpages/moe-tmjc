@@ -21,10 +21,11 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Singapore Future Youths Competition
+      title: Distinguished Chinese Language Teachers Award 2023
       subtitle: Event Highlights
-      description: The Singapore Future Youths Competition is an annual competition
-        organised to introduce students to public policy and its complexities.
+      description: Tampines Meridian Junior College is proud to share that Ms Gan Siaw
+        Fang from the Chinese Unit of Mother Tongue Languages Department has
+        been awarded...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
