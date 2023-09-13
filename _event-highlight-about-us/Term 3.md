@@ -1,6 +1,6 @@
 ---
 title: Term 3
-permalink: /event-highlight-about-us/permalink/
+permalink: /about-us/event-highlights/term-3/
 description: ""
 ---
 #### Singapore Future Youths Competition
