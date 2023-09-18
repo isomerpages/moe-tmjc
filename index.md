@@ -21,16 +21,15 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Distinguished Chinese Language Teachers Award 2023
+      title: Most Inspiring Tamil Teachers’ Award 2023
       subtitle: Event Highlights
-      description: Tampines Meridian Junior College is proud to share that Ms Gan Siaw
-        Fang from the Chinese Unit of Mother Tongue Languages Department has
-        been awarded...
+      description: Tampines Meridian Junior College is proud to share that Mdm Shamini
+        d/o Raja Kumar from the Tamil Unit of the Mother Tongue Languages...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        4/2023-t-events-infopic_clteacheraward.JPG
+        4/2023-t4-events-infopic_tamilteacheraward.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
