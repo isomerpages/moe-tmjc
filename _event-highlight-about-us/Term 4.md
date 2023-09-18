@@ -7,9 +7,9 @@ description: ""
 
 Tampines Meridian Junior College is proud to share that Mdm Shamini d/o Raja Kumar from the Tamil Unit of the Mother Tongue Languages Department has been awarded the “Most Inspiring Tamil Teachers’ Award 2023”. She is one of the 6 teachers who received the award from the 179 teachers nominated. This annual award recognises the stellar performance of Tamil teachers in their role in educating and promoting the Tamil Language among their students. Since the Award’s inception in 2002, it has recognised over 200 inspiring Tamil Language educators in Primary, Ssecondary schools, Junior Colleges and Millennia Institute, and the award winners have been role models to other Tamil Language educators in nurturing our students’ love for the language. On 16 September 2023, Mdm Shamini received her award from Ms Indranee Thurai Rajah, Minister in the Prime Minister’s Office and Second Minister for Finance and National Development at a ceremony at the Umar Pulavar Tamil Language Centre. 
 
-Speech by Minister: https://www.pmo.gov.sg/Newsroom/Minister-Indranee-Rajah-at-the-2023-Most-Inspiring-Tamil-Teachers-Award-Ceremony#:~:text=Take%20for%20instance%2C%20Mdm%20Kayal,new%20pedagogies%20with%20her%20team
+[Speech by Minister](https://www.pmo.gov.sg/Newsroom/Minister-Indranee-Rajah-at-the-2023-Most-Inspiring-Tamil-Teachers-Award-Ceremony#:~:text=Take%20for%20instance%2C%20Mdm%20Kayal,new%20pedagogies%20with%20her%20team)
 
-Live Stream: https://www.youtube.com/watch?v=BWrI7UU0bos&feature=youtu.be
+[Live Stream](https://www.youtube.com/watch?v=BWrI7UU0bos&feature=youtu.be)
 
 ![](/images/Event%20Highlights/2023/Term%204/2023-t4-events-tamilteacheraward_01.jpg)
 
@@ -17,7 +17,7 @@ Live Stream: https://www.youtube.com/watch?v=BWrI7UU0bos&feature=youtu.be
 
 Tampines Meridian Junior College is proud to share that Ms Gan Siaw Fang from the Chinese Unit of Mother Tongue Languages Department has been awarded the “Distinguished Chinese Language Teachers Award 2023”. She is one of the 8 teachers being awarded from the 420 teachers nominated. This annual award, in its 26th edition, is to acknowledge teachers who have made an exemplary effort in the teaching of the Chinese language and culture, and cultivate students' interest in Chinese language and culture through creative teaching methods or co-curricular activities. On 9 September 2023, Ms Gan received her award from Ms Gan Siow Huang, Minister of State for Education and Minister of State for Manpower at a ceremony at Singapore Press Holdings' News Centre. 
 
-Here's the link to the news clipping: https://epaper.zaobao.com/jr/2023-09-10/1
+Here's the link to the news clipping: [https://epaper.zaobao.com/jr/2023-09-10/1](https://epaper.zaobao.com/jr/2023-09-10/1)https://epaper.zaobao.com/jr/2023-09-10/1
 
 Congratulations Ms Gan!
 
