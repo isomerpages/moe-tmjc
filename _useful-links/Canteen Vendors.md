@@ -26,7 +26,7 @@ The Application Form must be duly completed and accompanied with the following d
 3)	Proposed daily menu and pricelist.<br>
 4)	Photocopies of relevant certifications and experiences
 
-Please submit the completed form with the relevant supporting documents to the school, preferably by hand. If you are mailing out the application form, please ensure that your application will reach the school by the closing date – **<u>Friday 27 Oct 2023 at 5.00 pm.</u>** Late or incomplete applications will not be considered.
+Please submit the completed form with the relevant supporting documents to the school, preferably by hand. If you are mailing out the application form, please ensure that your application will reach the school by the closing date – **<u>Friday 27 Oct 2023 at 5.00 pm.</u>**<br> Late or incomplete applications will not be considered.
 
 TAMPINES MERIDIAN JUNIOR COLLEGE<br>
 21 Pasir Ris Street 71<br>
