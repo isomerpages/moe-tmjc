@@ -19,26 +19,26 @@ Applicants must meet the following criteria:<br>
 7)	Both the stall holder and stall assistant must complete and pass the Basic Food Hygiene Certificate, approved by the Workforce Development Agency (WDA)<br>
 8)	Prior experience in school catering will be an advantage.
 
-Application Procedures
+<u>**Application Procedures**</u><br>
 Interested applicant may obtain the application form from the school’s General Office or download it from the TMJC website at https://www.tmjc.moe.edu.sg/
 
-The Application Form must be duly completed and accompanied with the following documents:
-1.	Photocopy of NRIC (front and back)
-2.	One recent passport-sized photograph (colour)
-3.	Proposed daily menu and pricelist.
-4.	Photocopies of relevant certifications and experiences
+The Application Form must be duly completed and accompanied with the following documents:<br>
+1)	Photocopy of NRIC (front and back)<br>
+2)	One recent passport-sized photograph (colour)<br>
+3)	Proposed daily menu and pricelist.<br>
+4)	Photocopies of relevant certifications and experiences
 
-Please submit the completed form with the relevant supporting documents to the school, preferably by hand. If you are mailing out the application form, please ensure that your application will reach the school by the closing date – Friday 27 Oct 2023 at 5.00 pm. Late or incomplete applications will not be considered.
+Please submit the completed form with the relevant supporting documents to the school, preferably by hand. If you are mailing out the application form, please ensure that your application will reach the school by the closing date – **<u>Friday 27 Oct 2023 at 5.00 pm.**</u> Late or incomplete applications will not be considered.
 
-TAMPINES MERIDIAN JUNIOR COLLEGE
-21 Pasir Ris Street 71
-Singapore 518799
-Attention: Ms Sarah Ee, Administration Manager
-Tel: 6349360
+TAMPINES MERIDIAN JUNIOR COLLEGE<br>
+21 Pasir Ris Street 71<br>
+Singapore 518799<br>
+Attention: Ms Sarah Ee, Administration Manager<br>
+Tel: 6349 3660<br>
 
 Only shortlisted applicants will be called up for an interview session. A basic food-sampling session, at applicant’s expense, may be requested by the school. 
 
-Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from Monday 8 January 2024.
+Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from <u>**Monday 8 January 2024**.</u>
 
 
 
