@@ -18,7 +18,7 @@ Applicants must meet the following criteria:<br>
 8)	Prior experience in school catering will be an advantage.
 
 <u>**Application Procedures**</u><br>
-Interested applicant may obtain the application form from the school’s General Office or download it from the TMJC website at https://www.tmjc.moe.edu.sg/
+Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 
 The Application Form must be duly completed and accompanied with the following documents:<br>
 1)	Photocopy of NRIC (front and back)<br>
