@@ -3,8 +3,6 @@ title: Canteen Vendors
 permalink: /useful-links/permalink/
 description: ""
 ---
-
-
 Tampines Meridian Junior College would like to invite application for Chinese Mixed Rice stall in 2024.  Our school is a single session and has an estimated enrolment of 1450.
 
 <u>**Closing Date for Applications: Friday 27 Oct 2023**</u>
@@ -39,6 +37,3 @@ Tel: 6349 3660<br>
 Only shortlisted applicants will be called up for an interview session. A basic food-sampling session, at applicant’s expense, may be requested by the school. 
 
 Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from <u>**Monday 8 January 2024**.</u>
-
-
-
