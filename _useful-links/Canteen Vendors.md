@@ -1,6 +1,6 @@
 ---
 title: Canteen Vendors
-permalink: /useful-links/permalink/
+permalink: /useful-links/canteen-vendors/
 description: ""
 ---
 Tampines Meridian Junior College would like to invite application for Chinese Mixed Rice stall in 2024.  
