@@ -31,6 +31,15 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         4/2023-t4-events-infopic_tamilteacheraward.JPG
   - infopic:
+      title: NIE Caring Teacher Award 2024
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/2023/Term
+        4/2023-t4-announcements-infopic_cta2024.JPG
+      alt: Image alt text
+      description: Nominations for the NIE Caring Teacher award 2024 is now opened!
+      button: Find Out More
+      url: /about-us/Announcements
+  - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
       description: We are proud that an article on our Chinese New Year celebrations
@@ -41,14 +50,4 @@ sections:
       image: /images/Homepage/Infopic/2023/Term
         1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
       alt: Image alt text
-  - infopic:
-      title: Parent Engagement Talk 2023
-      subtitle: Announcements
-      image: /images/Homepage/Infopic/2023/Term
-        2/2023-t1-announcement-infopics_pet.JPG
-      alt: Image alt text
-      description: TMJC will be organising a Parent Engagement Talk - Connecting with
-        Your Child on 19 May 2023, Friday from 7.00pm to 8.30pm.
-      button: Find Out More
-      url: /about-us/Announcements
 ---
