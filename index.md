@@ -21,15 +21,14 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Most Inspiring Tamil Teachers’ Award 2023
+      title: Visit by students from Rysenteen Gymnasium, Denmark
       subtitle: Event Highlights
-      description: Tampines Meridian Junior College is proud to share that Mdm Shamini
-        d/o Raja Kumar from the Tamil Unit of the Mother Tongue Languages...
+      description: On 10 October, we had the pleasure of hosting staff and students
+        from Rysenteen Gymnasium, Denmark.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
-        4/2023-t4-events-infopic_tamilteacheraward.JPG
+      image: /images/Homepage/Infopic/2023/Term 4/2023-t4-events-danishschvisit.JPG
   - infopic:
       title: NIE Caring Teacher Award 2024
       subtitle: Announcements
