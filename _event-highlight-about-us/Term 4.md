@@ -3,6 +3,12 @@ title: Term 4
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### Visit by students from Rysenteen Gymnasium, Denmark
+
+On 10 October, we had the pleasure of hosting staff and students from Rysenteen Gymnasium, Denmark. Our Citizenship Education Ambassadors played host to their Danish buddies who experienced a day in the life of a TMJC student in the post-exam season. True to their trip’s anthropological focus, our Danish friends woke up early that morning and took public transportation to College to experience the morning rush hour commute. A welcome breakfast consisting traditional breakfast dishes such as Nasi Lemak and Fried Beehoon awaited them, followed by cross-cultural learning about the education systems of both countries and classroom lesson immersion. Later that afternoon, the buddy pairs explored community building efforts in Our Tampines Hub, alongside supporting local businesses and tasting traditional Singaporean desserts such as the ‘Singaporean ice-cream sandwich’ made of melted ice-cream blocks wrapped with a slice of rainbow bread. A wonderful time of cross-cultural interaction and learning was had by all! 
+
+![](/images/Event%20Highlights/2023/Term%204/2023-t4-events-danishschoolvisit_01.jpg)
+
 #### Most Inspiring Tamil Teachers’ Award 2023
 
 Tampines Meridian Junior College is proud to share that Mdm Shamini d/o Raja Kumar from the Tamil Unit of the Mother Tongue Languages Department has been awarded the “Most Inspiring Tamil Teachers’ Award 2023”. She is one of the 6 teachers who received the award from the 179 teachers nominated. This annual award recognises the stellar performance of Tamil teachers in their role in educating and promoting the Tamil Language among their students. Since the Award’s inception in 2002, it has recognised over 200 inspiring Tamil Language educators in Primary, Ssecondary schools, Junior Colleges and Millennia Institute, and the award winners have been role models to other Tamil Language educators in nurturing our students’ love for the language. On 16 September 2023, Mdm Shamini received her award from Ms Indranee Thurai Rajah, Minister in the Prime Minister’s Office and Second Minister for Finance and National Development at a ceremony at the Umar Pulavar Tamil Language Centre. 
