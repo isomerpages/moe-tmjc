@@ -15,6 +15,8 @@ Each student was also given a memento consisting of a Farewell Booklet and a TMJ
 
 We wish the graduating cohort all the best for their 'A' Levels and their future endeavours. TM Boleh!
 
+![](/images/Event%20Highlights/2023/Term%204/2023-t4-events-farewellassembly_01.jpg)
+
 #### Visit by students from Rysenteen Gymnasium, Denmark
 
 On 10 October, we had the pleasure of hosting staff and students from Rysenteen Gymnasium, Denmark. Our Citizenship Education Ambassadors played host to their Danish buddies who experienced a day in the life of a TMJC student in the post-exam season. True to their trip’s anthropological focus, our Danish friends woke up early that morning and took public transportation to College to experience the morning rush hour commute. A welcome breakfast consisting traditional breakfast dishes such as Nasi Lemak and Fried Beehoon awaited them, followed by cross-cultural learning about the education systems of both countries and classroom lesson immersion. Later that afternoon, the buddy pairs explored community building efforts in Our Tampines Hub, alongside supporting local businesses and tasting traditional Singaporean desserts such as the ‘Singaporean ice-cream sandwich’ made of melted ice-cream blocks wrapped with a slice of rainbow bread. A wonderful time of cross-cultural interaction and learning was had by all! 
