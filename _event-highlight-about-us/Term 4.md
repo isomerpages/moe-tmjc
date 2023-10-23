@@ -3,6 +3,18 @@ title: Term 4
 permalink: /event-highlight-about-us/permalink/
 description: ""
 ---
+#### JC2 Awards Ceremony and Farewell Assembly
+
+On 13 October 2023, we officially bade farewell to our students from the Class of 2023. The day started off with the annual Tembusu Tree Planting Ceremony, where the graduating batch planted a Tembusu tree to commemorate the shared experiences and achievements of their cohort. 
+
+The next segment was the Awards Ceremony, where the cohort celebrated the achievements of their peers in both academic and co-curricular areas. It was a joyous occasion where all JC2 students gathered in the hall to cheer on their friends who were recognised for their contributions and accomplishments. 
+
+This was followed by the Farewell Assembly programme, where teachers and juniors offered their well-wishes through heartwarming and captivating videos as well as mesmerising live performances. Students sang and clapped along to song parodies and ended off on a high with the college 'O' cheer, punctuated with a special appearance by the newly minted College mascot, Skye. 
+
+Each student was also given a memento consisting of a Farewell Booklet and a TMJC graduation bear to remember their College days. Student Leaders also received a charging cable kit in appreciation of their service and contribution.
+
+We wish the graduating cohort all the best for their 'A' Levels and their future endeavours. TM Boleh!
+
 #### Visit by students from Rysenteen Gymnasium, Denmark
 
 On 10 October, we had the pleasure of hosting staff and students from Rysenteen Gymnasium, Denmark. Our Citizenship Education Ambassadors played host to their Danish buddies who experienced a day in the life of a TMJC student in the post-exam season. True to their trip’s anthropological focus, our Danish friends woke up early that morning and took public transportation to College to experience the morning rush hour commute. A welcome breakfast consisting traditional breakfast dishes such as Nasi Lemak and Fried Beehoon awaited them, followed by cross-cultural learning about the education systems of both countries and classroom lesson immersion. Later that afternoon, the buddy pairs explored community building efforts in Our Tampines Hub, alongside supporting local businesses and tasting traditional Singaporean desserts such as the ‘Singaporean ice-cream sandwich’ made of melted ice-cream blocks wrapped with a slice of rainbow bread. A wonderful time of cross-cultural interaction and learning was had by all! 
