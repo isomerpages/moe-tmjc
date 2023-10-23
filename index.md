@@ -21,10 +21,10 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: Visit by students from Rysenteen Gymnasium, Denmark
+      title: JC2 Awards Ceremony and Farewell Assembly
       subtitle: Event Highlights
-      description: On 10 October, we had the pleasure of hosting staff and students
-        from Rysenteen Gymnasium, Denmark.
+      description: "On 13 October 2023, we officially bade farewell to our students
+        from the Class of 2023. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
