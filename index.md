@@ -21,15 +21,16 @@ sections:
           description: ""
           url: /about-us/Media-Stories
   - infopic:
-      title: JC2 Awards Ceremony and Farewell Assembly
+      title: Embracing Inclusivity with The Purple Parade 2023
       subtitle: Event Highlights
-      description: On 13 October 2023, we officially bade farewell to our students
-        from the Class of 2023.
+      description: At TMJC, we believe in the power of unity and celebrating the
+        abilities of all individuals, including Persons with Disabilities in
+        Singapore.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        4/2023-t4-events-infopic_farewellassembly.JPG
+        4/2023-t4-events-infopic_purpleparade.JPG
   - infopic:
       title: NIE Caring Teacher Award 2024
       subtitle: Announcements
