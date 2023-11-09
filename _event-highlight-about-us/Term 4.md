@@ -2,7 +2,34 @@
 title: Term 4
 permalink: /event-highlight-about-us/permalink/
 description: ""
+variant: markdown
 ---
+#### Embracing Inclusivity with The Purple Parade 2023
+
+At TMJC, we believe in the power of unity and celebrating the abilities of all individuals, including Persons with Disabilities in Singapore. The Purple Parade is not just an event; it is a movement that promotes awareness and advocates inclusivity. 
+
+On 4 November 2023, our student representatives from the Interact Club had the privilege to participate in the contingent march of the Purple Parade 2023 at Suntec City, standing alongside Cerebral Palsy Alliance Singapore (CPAS). 
+
+Prior to the actual parade, our staff also showed our support by “Going Purple”. Staff also supported our local community, especially small family businesses with children who have special needs, like @lytmuztest and @junlefont. By purchasing their delectable donuts and merchandise, we contributed to the growth of these local entrepreneurs and created more opportunities for individuals with special needs.
+
+Let us continue to promote inclusivity, and be a part of The Purple Parade's mission to create a more inclusive Singapore. 💜✨ 
+
+#PurpleParade2023 #SupportInclusion #CelebrateAbilities #SupportLocal #LetsAllGoPurple
+
+![](/images/Event%20Highlights/2023/Term%204/2023-t4-events-purpleparade_01.jpg)
+
+#### Deepavali Celebrations 2023
+
+Deepavali celebrations 2023 at TMJC was a vibrant affair put together by our very own Tamil Language  and non-Tamil Indian Languages students who started a student-initiated Indian Activity Club (IAC) this year.  The IAC kicked off the celebrations on 18 October with an assembly programme to share about Deepavali traditions and featured vibrant dance and singing performances. 
+
+A CG bonding activity was organised on 19 October in which CGs came together to create Diya lamp cards 🪔 and enjoyed tasting delicious murukku with classmates! The Diyas created were used to decorate the festive corner at TM Cove which was set up for students to chill out and enjoy some DIY activities like henna painting, rangoli and lamp painting activities, and to foster a sense of community amongst students.
+
+The activity that wrapped up the celebrations was the Cultural Exchange VIA at Poi Ching School on 31 October. In the activity, the IAC members shared with Poi Ching students on Deepavali traditions and set up experiential booths for them to try out murukku making, thoranam decor making, indian dance and music. 
+
+The myriad of activities and events have given our  students an immersive cultural experience, setting the mood for Deepavali, the festival of lights! 
+
+![](/images/Event%20Highlights/2023/Term%204/2023-t4-events-deepavalicelebrations_01.jpg)
+
 #### JC2 Awards Ceremony and Farewell Assembly
 
 On 13 October 2023, we officially bade farewell to our students from the Class of 2023. The day started off with the annual Tembusu Tree Planting Ceremony, where the graduating batch planted a Tembusu tree to commemorate the shared experiences and achievements of their cohort. 
