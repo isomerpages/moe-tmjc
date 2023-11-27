@@ -25,8 +25,8 @@ sections:
       title: TMJC Economics Edventure Learning Day 21 November 2023
       subtitle: Event Highlights
       description: The JC1 Economics students embarked on a journey of discovery, fun
-        and insights into micro issues such as how firms work and decisions
-        made...
+        and insights into micro issues such as how firms work and decisions made
+        and macro issues...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
