@@ -20,17 +20,18 @@ sections:
         - title: Media Stories
           description: ""
           url: /about-us/Media-Stories
+      variant: center
   - infopic:
-      title: Embracing Inclusivity with The Purple Parade 2023
+      title: TMJC Economics Edventure Learning Day 21 November 2023
       subtitle: Event Highlights
-      description: At TMJC, we believe in the power of unity and celebrating the
-        abilities of all individuals, including Persons with Disabilities in
-        Singapore.
+      description: The JC1 Economics students embarked on a journey of discovery, fun
+        and insights into micro issues such as how firms work and decisions
+        made...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
-        4/2023-t4-events-infopic_purpleparade.JPG
+        4/2023_T4_Announcements_Infopic_EconsEnrichment.JPG
   - infopic:
       title: NIE Caring Teacher Award 2024
       subtitle: Announcements
