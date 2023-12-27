@@ -3,6 +3,7 @@ title: Our Staff
 permalink: /about-us/Our-Staff/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ## School Leaders
 
@@ -56,7 +57,7 @@ third_nav_title: Our Staff
 
 #### [Key Personnel](/files/About%20Us/Our%20Staff/TMJC%20Staff%20List_KeyPersonnel_030323.pdf)
 
-#### [Arts &amp; Humanities](/files/About%20Us/Our%20Staff/tmjc%20staff%20list_artshumanities_040723.pdf)
+#### [Arts &amp; Humanities]
 
 #### [Economics](/files/About%20Us/Our%20Staff/tmjc%20staff%20list_econs_040723.pdf)
 
