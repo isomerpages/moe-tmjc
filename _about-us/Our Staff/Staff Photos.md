@@ -3,6 +3,7 @@ title: Staff Photos
 permalink: /about-us/Our-Staff/staff-phoots/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 ![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_090123-1.jpg)
 
@@ -19,8 +20,6 @@ third_nav_title: Our Staff
 ![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-7.jpg)
 
 ![](/images/Staff%20Photos/2023/TMJC%20Org%20Chart_130123-8.jpg)
-
-![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-9.jpg)
 
 ![](/images/Staff%20Photos/2023/tmjc%20org%20chart_050723-10.jpg)
 
