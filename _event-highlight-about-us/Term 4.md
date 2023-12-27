@@ -4,6 +4,13 @@ permalink: /event-highlight-about-us/permalink/
 description: ""
 variant: markdown
 ---
+#### TMJC Economics Edventure Learning Day 21 November 2023: Micro and Macro Economic Insights into the Singapore Economy
+
+The JC1 Economics students embarked on a journey of discovery, fun and insights into micro issues such as how firms work and decisions made and macro issues such as environmental sustainability (economic growth) and policies. They visited Elba E-Waste, Comcrop, You Tiao Man, and the Monetary Authority of Singapore. They also learnt about financial literacy and investment through games and activities such as the CPF Catching Insomnia game, the Last Reserve Game and GIC Safe House programme. Our JC1 Economics students had an interesting day seeing how Economics come alive #TMJCEconomicsEnrichment #LearningJourney #SingaporeEconomy.
+
+![](/images/Event%20Highlights/2023/Term%204/2023_T4_Events_EconsEnrichment_01.jpg)
+
+
 #### Embracing Inclusivity with The Purple Parade 2023
 
 At TMJC, we believe in the power of unity and celebrating the abilities of all individuals, including Persons with Disabilities in Singapore. The Purple Parade is not just an event; it is a movement that promotes awareness and advocates inclusivity. 
