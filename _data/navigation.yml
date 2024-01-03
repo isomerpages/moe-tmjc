@@ -1,0 +1,44 @@
+logo: /images/tmjc.jpeg
+links:
+  - title: About Us
+    url: /about-us/principals-message/day-1-message-2023
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/day-1-message-2023
+      - title: Vision Mission Values
+        url: /about-us/vision-mission-values
+      - title: Our College Identity
+        url: /about-us/our-college-identity
+      - title: Our Campus
+        url: /about-us/our-campus/multi-purpose-hall
+      - title: Our Staff
+        url: /about-us/Our-Staff
+      - title: "Our Achievements "
+        url: /about-us/Our-Achievements/student-achievements-2021
+      - title: Event Highlights
+        url: /event-highlight-about-us/permalink/
+      - title: Media Stories
+        url: /about-us/Media-Stories/
+      - title: "Announcements "
+        url: /about-us/Announcements
+  - title: Our Total Curriculum
+    url: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning
+    sublinks:
+      - title: Instructional Programmes
+        url: /our-total-curriculum/Instructional-Programmes/overview-of-our-teaching-n-learning
+      - title: "Character and Citizenship "
+        url: /our-total-curriculum/character-n-citizenship-programmes/character-education
+      - title: Student Development
+        url: /our-total-curriculum/Student-Development/student-leadership
+      - title: Co-curricular Activities
+        url: /co-curricular-activities
+  - title: Admissions
+    collection: admissions
+  - title: Our Partners
+    collection: our-partners
+  - title: Our Heritage
+    collection: our-heritage
+  - title: Useful Links
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us

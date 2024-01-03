@@ -1,0 +1,16 @@
+collections:
+  our-total-curriculum:
+    output: true
+    order:
+      - CCE Programmes/.keep
+      - CCE Programmes/Character Education.md
+      - CCE Programmes/Citizenship Education.md
+      - CCE Programmes/Education & Career Guidance.md
+      - CCE Programmes/Sexuality Education.md
+      - CCE Programmes/Values in Action.md
+      - CCE Programmes/Overseas Exposure.md
+      - Student Development/.keep
+      - Student Development/Student Leadership.md
+      - Student Development/Student Well Being.md
+      - Student Development/Talent Development.md
+      - Student Development/Scholarships.md

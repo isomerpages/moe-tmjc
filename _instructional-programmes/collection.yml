@@ -1,0 +1,29 @@
+collections:
+  instructional-programmes:
+    output: true
+    order:
+      - Overview of our Teaching & Learning.md
+      - Subject Combinations.md
+      - Knowledge Skills/.keep
+      - Knowledge Skills/General Paper.md
+      - Knowledge Skills/Project Work.md
+      - Languages/.keep
+      - Languages/H1 Mother Tongue Languages.md
+      - Languages/H2 Mother Tongue Language and Literature.md
+      - Humanities & the Arts/.keep
+      - Humanities & the Arts/Art.md
+      - Humanities & the Arts/Economics.md
+      - Humanities & the Arts/Geography.md
+      - Humanities & the Arts/History.md
+      - Humanities & the Arts/Literature in English.md
+      - Humanities & the Arts/Theatre Studies & Drama.md
+      - Mathematics & Sciences/.keep
+      - Mathematics & Sciences/Biology.md
+      - Mathematics & Sciences/Chemistry.md
+      - Mathematics & Sciences/Physics.md
+      - Mathematics & Sciences/Mathematics.md
+      - Mathematics & Sciences/Further Mathematics.md
+      - Physical Education.md
+      - MOE Elective Programmes/.keep
+      - MOE Elective Programmes/Malay Language Elective Programme (MLEP).md
+      - MOE Elective Programmes/Drama Elective Programme (DEP).md

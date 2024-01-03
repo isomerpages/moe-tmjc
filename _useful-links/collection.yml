@@ -1,0 +1,9 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - Students.md
+      - Staff.md
+      - Parents.md
+      - Alumni.md
+      - Canteen Vendors.md
