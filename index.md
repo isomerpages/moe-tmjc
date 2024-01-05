@@ -22,6 +22,15 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: TMJC Open House 2024
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_Announcements_Infopic_OpenHouse.JPG
+      alt: Image alt text
+      description: 12 Jan 2024 | 10.30am to 4.30pm
+      button: Find Out More
+      url: /about-us/Announcements
+  - infopic:
       title: TMJC Economics Edventure Learning Day 21 November 2023
       subtitle: Event Highlights
       description: The JC1 Economics students embarked on a journey of discovery, fun
@@ -32,15 +41,6 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/2023/Term
         4/2023_T4_Announcements_Infopic_EconsEnrichment.JPG
-  - infopic:
-      title: NIE Caring Teacher Award 2024
-      subtitle: Announcements
-      image: /images/Homepage/Infopic/2023/Term
-        4/2023-t4-announcements-infopic_cta2024.JPG
-      alt: Image alt text
-      description: Nominations for the NIE Caring Teacher award 2024 is now opened!
-      button: Find Out More
-      url: /about-us/Announcements
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
