@@ -39,7 +39,7 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/2023/Term
+      image: /images/Homepage/Infopic/Infopic images/Term
         4/2023_T4_Announcements_Infopic_EconsEnrichment.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
@@ -49,7 +49,7 @@ sections:
         website! Well done!
       button: Find Out More
       url: /about-us/Media-Stories
-      image: /images/Homepage/Infopic/2023/Term
+      image: /images/Homepage/Infopic/Infopic images/Term
         1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
       alt: Image alt text
 ---
