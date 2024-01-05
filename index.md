@@ -27,7 +27,7 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_Announcements_Infopic_OpenHouse.JPG
       alt: Image alt text
-      description: 12 Jan 2024 | 10.30am to 4.30pm
+      description: 12 January 2024 | 10.30am to 4.30pm
       button: Find Out More
       url: /about-us/Announcements
   - infopic:
