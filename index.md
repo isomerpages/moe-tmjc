@@ -16,7 +16,7 @@ sections:
           url: /event-highlight-about-us/permalink/
         - title: Announcements
           description: ""
-          url: /about-us/Announcements
+          url: /about-us/announcements
         - title: Media Stories
           description: ""
           url: /about-us/Media-Stories
@@ -29,7 +29,7 @@ sections:
       alt: Image alt text
       description: 12 January 2024 | 10.30am to 4.30pm
       button: Find Out More
-      url: /about-us/Announcements
+      url: /about-us/announcements
   - infopic:
       title: TMJC Economics Edventure Learning Day 21 November 2023
       subtitle: Event Highlights
