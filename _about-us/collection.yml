@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Open House.md
       - Principal's Message/Day 1 Message 2023.md
       - Principal's Message/.keep
       - Principal's Message/Day 1 Message 2022.md
