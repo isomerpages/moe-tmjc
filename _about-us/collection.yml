@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Principal's Message/Day 1 Message 2023.md
       - Principal's Message/.keep
+      - Principal's Message/Day 1 Message 2023.md
       - Principal's Message/Day 1 Message 2022.md
       - Principal's Message/Day 1 Message 2021.md
       - Principal's Message/Day 1 Message 2020.md
@@ -68,3 +68,5 @@ collections:
       - Announcements/2021.md
       - Announcements/2020.md
       - Announcements/2019.md
+      - Open House/TMJC Open House 2024.md
+      - Open House/.keep
