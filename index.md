@@ -29,7 +29,7 @@ sections:
       alt: Image alt text
       description: 12 January 2024 | 10.30am to 4.30pm
       button: Find Out More
-      url: /about-us/announcements
+      url: /about-us/open-house/tmjc-open-house-2024
   - infopic:
       title: TMJC Economics Edventure Learning Day 21 November 2023
       subtitle: Event Highlights
