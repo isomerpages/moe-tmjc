@@ -2,27 +2,31 @@
 title: Subject Combinations
 permalink: /our-total-curriculum/Instructional-Programmes/subject-combinations/
 description: ""
+variant: markdown
 ---
 ## Overview
   
-The subject combinations offered by the College are based on the guidelines from the Ministry of Education.
+The subjects offered at TMJC can be found in Table 1, which also shows the level (H1 or H2) that the subject can be taken at. All subject combinations offered by the College are based on the guidelines from the Ministry of Education.
 
-1.  Each subject combination comprises 3 parts:  
+1.  Each subject combination in Table 2 and 3 comprises 3 parts:  
     
-    •  Content-based H2 subjects  
-    •  Content-based H1 subjects  
-    •  Compulsory H1 subjects  
+    •&nbsp; Content-based H2 subjects  
+    •&nbsp; Content-based H1 subjects  
+    •&nbsp; Compulsory H1 subjects  
       
     
-2.  There are 3 compulsory H1 subjects, namely, Project Work (PW), General Paper (GP) and Mother Tongue Language (MTL).  Students who had obtained D7 or better in HMTL at O-Level can be granted exemption from the MTL Examination.  
+2.  There are 3 compulsory H1 subjects, namely, Project Work (PW), General Paper (GP) and Mother Tongue Language (MTL). Students who had obtained D7 or better in HMTL at O-Level can be granted exemption from the MTL Examination.  
       
     
-3.  The norm is to offer 3H2 and 1H1 content-based subjects together with General Paper, Project Work and Mother Tongue Language at H1 level.  This adds up to 10 academic units. One of the content-based subjects read must be a contrasting subject.  
+3.  The norm is to offer 3H2 and 1H1 content-based subjects together with General Paper, Project Work and Mother Tongue Language at H1 level. This adds up to 10 academic units. One of the content-based subjects read must be a contrasting subject.  
       
+			
 4. Given that 4H2 subject combinations are highly rigorous, it is necessary for students who wish to offer 4H2 subject combinations to have a L1R5 (raw score) of 11 points or better, and meet the guidelines for relevant subjects. 
+
+
 5.  A minimum number of 15 students has to be met for any particular subject combination or class to be formed.
 
-### Table 1:  Subjects Offered At TMJC
+### Table 1:&nbsp; Subjects Offered At TMJC
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
