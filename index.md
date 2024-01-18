@@ -24,8 +24,8 @@ sections:
   - infopic:
       title: Open House 2024
       subtitle: Event Highlights
-      description: "TMJC buzzed with vibrant energy and enthusiasm during our Open
-        House on January 12, 2024!  🎉 "
+      description: TMJC buzzed with vibrant energy and enthusiasm during our Open
+        House on January 12, 2024!  🎉
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
