@@ -22,6 +22,16 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: Open House 2024
+      subtitle: Event Highlights
+      description: "TMJC buzzed with vibrant energy and enthusiasm during our Open
+        House on January 12, 2024!  🎉 "
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_OpenHouse.JPG
+  - infopic:
       title: TMJC Open House 2024
       subtitle: Announcements
       image: /images/Homepage/Infopic/Infopic
@@ -30,17 +40,6 @@ sections:
       description: 12 January 2024 | 10.30am to 4.30pm
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2024
-  - infopic:
-      title: TMJC Economics Edventure Learning Day 21 November 2023
-      subtitle: Event Highlights
-      description: The JC1 Economics students embarked on a journey of discovery, fun
-        and insights into micro issues such as how firms work and decisions made
-        and macro issues...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/Term
-        4/2023_T4_Announcements_Infopic_EconsEnrichment.JPG
   - infopic:
       title: Ushering the New Year of Rabbit in TMJC
       subtitle: Media Stories
