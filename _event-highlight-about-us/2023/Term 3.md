@@ -1,7 +1,9 @@
 ---
 title: Term 3
-permalink: /about-us/event-highlights/term-3/
+permalink: /about-us/event-highlights/2023/term-3/
 description: ""
+third_nav_title: "2023"
+variant: tiptap
 ---
 #### Singapore Future Youths Competition
 

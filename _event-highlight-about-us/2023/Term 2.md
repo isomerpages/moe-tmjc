@@ -1,7 +1,9 @@
 ---
 title: Term 2
-permalink: /about-us/event-highlights/term-2/
+permalink: /about-us/event-highlights/2023/term-2/
 description: ""
+third_nav_title: "2023"
+variant: tiptap
 ---
 #### 2023 Staff Learning Symposium 
 

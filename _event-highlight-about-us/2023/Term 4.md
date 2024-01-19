@@ -1,8 +1,9 @@
 ---
 title: Term 4
-permalink: /event-highlight-about-us/permalink/
+permalink: /about-us/event-highlights/2023/term-4/
 description: ""
 variant: markdown
+third_nav_title: "2023"
 ---
 #### TMJC Economics Edventure Learning Day 21 November 2023: Micro and Macro Economic Insights into the Singapore Economy
 
