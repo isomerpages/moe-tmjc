@@ -50,5 +50,5 @@ sections:
         images/Announcement_2024JC1Orientation.jpg
       alt: Image alt text
       button: Find Out More
-      url: /about-us/open-house/tmjc-open-house-2024
+      url: /about-us/announcements/
 ---
