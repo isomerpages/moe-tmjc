@@ -59,9 +59,6 @@ empathy.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_ExploreVietnam_01.jpg">
 </div>
 <h4>MLEP Overseas Immersion Trip 2023</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tmjc.jpeg">
-</div>
 <p>Over a span of six days, the Malay Language Elective Programme students
 embarked on an overseas immersion journey to Perak and Selangor in Malaysia.
 Our itinerary included attending academic lectures on Malay literature
