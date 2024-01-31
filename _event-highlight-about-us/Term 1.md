@@ -4,7 +4,7 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>5D4N Culture, Heritage, and the Arts (CHA) Trip – Yogyakarta, Indonesia </h4>
+<h4>5D4N Culture, Heritage, and the Arts (CHA) Trip – Yogyakarta, Indonesia</h4>
 <p>From 27 November to 1 December 2023, a group of JC1 students embarked
 on a Culture, Heritage and the Arts experience trip to Yogyakarta, Indonesia.
 Yogyakarta, Indonesia, is situated near three UNESCO World Heritage sites,
@@ -54,15 +54,38 @@ insights made the trip to Ho Chi Minh City an unforgettable and deeply
 enriching journey. As our students immersed themselves in the rich tapestry
 of Vietnam's culture and history, their time there not only broadened their
 global awareness but also instilled in them a sense of responsibility and
-empathy.
-<br>
-</p>
+empathy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_ExploreVietnam_01.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
+<h4>MLEP Overseas Immersion Trip 2023</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tmjc.jpeg">
+</div>
+<p>Over a span of six days, the Malay Language Elective Programme students
+embarked on an overseas immersion journey to Perak and Selangor in Malaysia.
+Our itinerary included attending academic lectures on Malay literature
+at Universiti Pendidikan Sultan Idris (UPSI) and participating in a theater
+workshop at ASWARA. We were also privileged to have an interaction session
+with the Orang Asli community from Kampung Chinggung in Perak. Engaging
+with the Orang Asli provided us with a deeper understanding of their worldview
+and culture. Additionally, we actively took part in a community cooking
+event where we prepared the traditional Malay porridge (Bubur Lambuk) as
+well as a local dessert known as Bubur Anak Lebah. Exploring the local
+traditions, we attempted to learn a simple traditional Malay dance and
+were treated to a play by UPSI undergraduates. The highlight of the trip
+was undoubtedly the thrilling mudfishing activity, where we endeavored
+to catch catfish using our bare hands in a muddy pond.
+<br>
+<br>Overall, the experience was highly memorable. Our students gained valuable
+insights into how the people of Perak and Selangor strive to preserve their
+cultural heritage amidst modernisation and successfully maintaining their
+identity despite the influence of Western culture. These experiences will
+undoubtedly contribute to our ongoing exploration of Malay heritage and
+culture in our daily lives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_MLEPTrip_01.jpg">
+</div>
 <h4>Open House 2024</h4>
 <p>TMJC buzzed with vibrant energy and enthusiasm during our Open House on
 January 12, 2024! 🎉 TM SKYEscape served as an inspiration for the incoming
