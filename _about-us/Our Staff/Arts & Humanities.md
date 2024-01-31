@@ -18,7 +18,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wee Liang Tong</strong>
+<p><strong>Mr Wee Liang Tong</strong> 
 <br>Head of Department (Arts &amp; Humanities)
 <br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_liang_tong@schools.gov.sg</a>
 </p>
@@ -35,7 +35,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Siti Rafidah Rahman</strong>
+<p><strong>Ms Siti Rafidah Rahman</strong> 
 <br>Teacher (Art)
 <br><a href="mailto:siti_rafidah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rafidah_rahman@schools.gov.sg</a>
 </p>
@@ -86,7 +86,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Huang Weiling Dorcas</strong>
+<p><strong>Ms Huang Weiling Dorcas</strong> 
 <br>Teacher (Geography)
 <br><a href="mailto:huang_weiling_dorcas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_weiling_dorcas@schools.gov.sg</a>
 </p>
@@ -103,7 +103,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Koh Geok Lan Lena</strong>
+<p><strong>Ms Koh Geok Lan Lena</strong> 
 <br>Teacher (Geography)
 <br><a href="mailto:lena_koh_geok_lan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_koh_geok_lan@schools.gov.sg</a>
 </p>
@@ -120,7 +120,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Yeo Li Kuang</strong>
+<p><strong>Mr Yeo Li Kuang</strong> 
 <br>Teacher (Geography)
 <br><a href="mailto:yeo_li_kuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_li_kuang@schools.gov.sg</a>
 </p>
@@ -137,7 +137,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chia Sor Siang Audrey</strong>
+<p><strong>Mdm Chia Sor Siang Audrey</strong> 
 <br>Senior Teacher (History)
 <br><a href="mailto:audrey_chia_sor_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_chia_sor_siang@schools.gov.sg</a>
 </p>
@@ -154,7 +154,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Vanessa Anne Nunis</strong>
+<p><strong>Ms Vanessa Anne Nunis</strong> 
 <br>Teacher (History)
 <br><a href="mailto:vanessa_nunis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanessa_nunis@schools.gov.sg</a>
 </p>
@@ -171,7 +171,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Low Gek Piao</strong>
+<p><strong>Mr Low Gek Piao</strong> 
 <br>Teacher (Literature in English)
 <br><a href="mailto:low_gek_piao@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_gek_piao@schools.gov.sg</a>
 </p>
@@ -188,7 +188,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sumithra Kalidas</strong>
+<p><strong>Ms Sumithra Kalidas</strong> 
 <br>Teacher (Literature in English)
 <br><a href="mailto:sumithra_kalidas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sumithra_kalidas@schools.gov.sg</a>
 </p>
