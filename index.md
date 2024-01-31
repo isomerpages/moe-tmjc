@@ -44,12 +44,11 @@ sections:
         images/2024_T1_EventHighlights_Infopic_ExploreVietnam.JPG
       alt: Image alt text
   - infopic:
-      title: TMJC Open House 2024
+      title: JC1 Orientation 2024
       subtitle: Announcements
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_Announcements_Infopic_OpenHouse.JPG
+        images/Announcement_2024JC1Orientation.jpg
       alt: Image alt text
-      description: 12 January 2024 | 10.30am to 4.30pm
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2024
 ---
