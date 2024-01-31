@@ -104,10 +104,7 @@ shot of our staff, students and visitors at the College hall.</p>
 <br>
 <br>#whyTM
 <br>#TMSKYEscape
-<br>#TMJCOpenHouse2024
-<br>
-<br>
-</p>
+<br>#TMJCOpenHouse2024</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_OpenHouse_01.jpg">
 </div>
@@ -132,7 +129,6 @@ of responsibility towards ecological stewardship. This hands-on experience
 aligns with our commitment to nurture environmentally conscious and informed
 citizens who are well-equipped to address the challenges posed by climate
 change in the future.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TMGreenwall_01.jpg">
 </div>
