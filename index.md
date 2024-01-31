@@ -40,8 +40,8 @@ sections:
         students and teachers...
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/Term
-        1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_ExploreVietnam.JPG
       alt: Image alt text
   - infopic:
       title: TMJC Open House 2024
