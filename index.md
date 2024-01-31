@@ -22,15 +22,27 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
-      title: Open House 2024
+      title: "5D4N Culture, Heritage, and the Arts (CHA) Trip "
       subtitle: Event Highlights
-      description: TMJC buzzed with vibrant energy and enthusiasm during our Open
-        House on January 12, 2024!  🎉
+      description: "From 27 November to 1 December 2023, a group of JC1 students
+        embarked on a Culture, Heritage and the Arts experience trip to
+        Yogyakarta, Indonesia. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_OpenHouse.JPG
+  - infopic:
+      title: Ushering the New Year of Rabbit in TMJC
+      subtitle: Media Stories
+      description: We are proud that an article on our Chinese New Year celebrations
+        written by our JC2 H2 CLL students was published on the Lianhe Zaobao
+        website! Well done!
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic images/Term
+        1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
+      alt: Image alt text
   - infopic:
       title: TMJC Open House 2024
       subtitle: Announcements
@@ -40,15 +52,4 @@ sections:
       description: 12 January 2024 | 10.30am to 4.30pm
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2024
-  - infopic:
-      title: Ushering the New Year of Rabbit in TMJC
-      subtitle: Media Stories
-      description: We are proud that an article on our Chinese New Year celebrations
-        written by our JC2 H2 CLL students was published on the Lianhe Zaobao
-        website! Well done!
-      button: Find Out More
-      url: /about-us/Media-Stories
-      image: /images/Homepage/Infopic/Infopic images/Term
-        1/2023-T1-MediaStories-Infopics_ZaobaoCNY.jpg
-      alt: Image alt text
 ---
