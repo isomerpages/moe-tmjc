@@ -47,7 +47,7 @@ sections:
       title: Nominate your English Teacher today!
       subtitle: Announcements
       image: /images/Homepage/Infopic/Infopic
-        images/Announcement_2024JC1Orientation.jpg
+        images/2024_T1_Announcements_Infopic_EngAward.JPG
       alt: Image alt text
       button: Find Out More
       url: /about-us/announcements/
