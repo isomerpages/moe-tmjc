@@ -22,6 +22,15 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: Release of 2023 GCE A-Level Results
+      subtitle: Announcements
+      image: /images/Announcements/2024/Announcement_2024_A_LevelResults.jpg
+      alt: Image alt text
+      button: Find Out More
+      url: /about-us/announcements/
+      description: The results of the 2023 Singapore-Cambridge GCE A-Level examination
+        will be released on Friday, 23 Feb 2024.
+  - infopic:
       title: 5D4N Culture, Heritage, and the Arts (CHA) Trip
       subtitle: Event Highlights
       description: From 27 November to 1 December 2023, a group of JC1 students
@@ -43,14 +52,4 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_ExploreVietnam.JPG
       alt: Image alt text
-  - infopic:
-      title: Nominate your English Teacher today!
-      subtitle: Announcements
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_Announcements_Infopic_EngAward.JPG
-      alt: Image alt text
-      button: Find Out More
-      url: /about-us/announcements/
-      description: Nominations for the annual Inspiring Teacher of English awards 2024
-        is now opened!
 ---
