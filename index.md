@@ -22,14 +22,12 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
-      title: Release of 2023 GCE A-Level Results
+      title: Congratulations to the Class of 2023 on your A Level Results
       subtitle: Announcements
-      image: /images/Announcements/2024/Announcement_2024_A_LevelResults.jpg
+      image: /images/Announcements/2024/Congrats_to_Class_of_2023.png
       alt: Image alt text
       button: Find Out More
       url: /about-us/announcements/
-      description: The results of the 2023 Singapore-Cambridge GCE A-Level examination
-        will be released on Friday, 23 Feb 2024.
   - infopic:
       title: 5D4N Culture, Heritage, and the Arts (CHA) Trip
       subtitle: Event Highlights
