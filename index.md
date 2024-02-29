@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Congratulations to the Class of 2023 on your A Level Results
       subtitle: Announcements
-      image: /images/Announcements/2024/Congrats_to_Class_of_2023.png
+      image: /images/Announcements/2024/Announcement_2024_CongratsA_LevelResults_2.jpg
       alt: Image alt text
       url: /about-us/announcements/
   - infopic:
