@@ -28,6 +28,16 @@ sections:
       alt: Image alt text
       url: /about-us/announcements/
   - infopic:
+      title: TMJC STEM Week 2024
+      subtitle: Event Highlights
+      description: The Mathematics and Science Departments jointly organised the
+        inaugural TMJC STEM Week 2024.
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_STEMWeek.jpg
+      alt: Image alt text
+  - infopic:
       title: 5D4N Culture, Heritage, and the Arts (CHA) Trip
       subtitle: Event Highlights
       description: From 27 November to 1 December 2023, a group of JC1 students
@@ -38,15 +48,4 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_ExploreJogja.JPG
-  - infopic:
-      title: ExPlore! Vietnam
-      subtitle: Event Highlights
-      description: Service Learning @ Ho Chi Minh City was a week of transformative
-        and meaningful experiences that left a lasting impact on both the
-        students and teachers...
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_ExploreVietnam.JPG
-      alt: Image alt text
 ---
