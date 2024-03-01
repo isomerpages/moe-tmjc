@@ -4,6 +4,15 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>TMJC STEM Week 2024</h4>
+<p>The Mathematics and Science Departments jointly organised the inaugural
+TMJC STEM Week 2024. The STEM Week which took place from 14 to 21 February
+2024 included a series of talks and workshops, as well as a learning journey
+to 3M to enthuse and engage our students in Science, Technology, Engineering
+and Mathematics.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_STEMWeek_01.jpg">
+</div>
 <h4>5D4N Culture, Heritage, and the Arts (CHA) Trip – Yogyakarta, Indonesia</h4>
 <p>From 27 November to 1 December 2023, a group of JC1 students embarked
 on a Culture, Heritage and the Arts experience trip to Yogyakarta, Indonesia.
