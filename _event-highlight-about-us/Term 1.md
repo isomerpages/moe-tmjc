@@ -45,17 +45,32 @@ to gain a better understanding of the emerging security threats Singapore
 faces and the important role they can play to ensure our nation’s well-being.
 As this was the students’ first outing together as a class, they also forged
 deeper ties with one another as well as with their Civics Tutors!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TDD_01.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4>Chinese New Year Celebrations 2024</h4>
+<p>On 9 February, TMJC ushered in the Lunar New Year of the Dragon with a
+series of celebratory activities, revolving around the theme of “A New
+Year of Courage and Strength”. The programme began with a short film produced
+by the Citizenship Education Committee, highlighting the different symbolic
+meanings of Dragon and New Year Traditions in Asian countries, to heighten
+students’ awareness on the citizenship message behind the film.</p>
+<p>The second segment was a kaleidoscope of performances put up by various
+CCA groups. Students from the Chinese Orchestra, Choir, Modern Dance, Wushu
+and Taekwondo brought much celebratory joy to all in the Hall with their
+combination of music, songs, dance and martial arts.</p>
+<p>During the finale, our School Leaders Mr Sin, Mrs Pang, Mr Ang and Ms
+Yasmine, together with a group of enthusiastic teachers led everyone in
+the mass singing of Chinese New Year songs, heightening the festive cheer.
+In line with Lunar New Year tradition, the student leaders presented mandarin
+oranges to all staff to express gratitude and appreciation.</p>
+<p>Our Chinese New Year celebrations ended on a high note as we conducted
+a mass Lo-Hei session as one big TMJC family. Everyone tossed the delicious
+and colourful ingredients, saying new year well-wishes to each other and
+fully immersing in this joyous festive celebration!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_CNY_01.jpg">
+</div>
 <h4>TMJC Orientation 2024</h4>
 <p>TMJC Orientation 2024 - Equinox - offered our new JC1s a vibrant introduction
 to the life of a TMJCian. Packed with exciting icebreakers, spirited games,
