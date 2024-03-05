@@ -4,7 +4,28 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>TMJC STEM Week 2024</h4>
+<h4>JC1 Initiation - Badge Pinning Ceremony 2024</h4>
+<p>TMJC held our annual JC1 Badge Pinning Ceremony on 26 February 2024 to
+initiate the JC1s. The ceremony symbolises the beginning of the journey
+taken together by the JC1s and JC2s as they forge ahead as one TMJC student
+body.</p>
+<p>During the ceremony, the CG Leaders from each JC2 class presented the
+College collar pins to their JC1 juniors to welcome them to the TMJC family.
+The JC2 seniors also shared their personal journeys, lessons learnt and
+words of advice on what is truly essential in creating a memorable and
+meaningful 2 years in TMJC. The JC1s then proudly put on their College
+collar pins together, signifying the official start of their wonderful
+and exciting journey ahead in TMJC. A warm welcome to TMJC, JC1s!
+<br>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4><br><br><br>TMJC STEM Week 2024</h4>
 <p>The Mathematics and Science Departments jointly organised the inaugural
 TMJC STEM Week 2024. The STEM Week which took place from 14 to 21 February
 2024 included a series of talks and workshops, as well as a learning journey
