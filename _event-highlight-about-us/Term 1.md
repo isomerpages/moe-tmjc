@@ -13,6 +13,22 @@ and Mathematics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_STEMWeek_01.jpg">
 </div>
+<h4>TMJC Orientation 2024</h4>
+<p>TMJC Orientation 2024 - Equinox - offered our new JC1s a vibrant introduction
+to the life of a TMJCian. Packed with exciting icebreakers, spirited games,
+and lively mass dances, the event set the stage for lasting connections
+and unforgettable memories. Students enthusiastically participated in the
+House and College cheers, showcasing their house unity and College pride.
+The grand finale culminated in a spectacular display of talent and spirit,
+echoing the harmony and energy that define our College spirit. Students
+were certainly radiating with excitement and camaraderie at the end of
+the event. TMJC Orientation 2024 serves as a joyful celebration of new
+beginnings, where JC1s are warmly embraced into the TMJC family and encouraged
+to embark on their TMJC journey with enthusiasm and optimism. Welcome to
+TMJC, JC1s!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_Orientation_01.jpg">
+</div>
 <h4>5D4N Culture, Heritage, and the Arts (CHA) Trip – Yogyakarta, Indonesia</h4>
 <p>From 27 November to 1 December 2023, a group of JC1 students embarked
 on a Culture, Heritage and the Arts experience trip to Yogyakarta, Indonesia.
