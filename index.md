@@ -28,6 +28,16 @@ sections:
       alt: Image alt text
       url: /about-us/announcements/
   - infopic:
+      title: JC1 Initiation - Badge Pinning Ceremony 2024
+      subtitle: Event Highlights
+      description: "TMJC held our annual JC1 Badge Pinning Ceremony on 26 February
+        2024 to initiate the JC1s. "
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_PinCeremony.jpg
+  - infopic:
       title: TMJC STEM Week 2024
       subtitle: Event Highlights
       description: The Mathematics and Science Departments jointly organised the
@@ -37,15 +47,4 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_STEMWeek.jpg
       alt: Image alt text
-  - infopic:
-      title: 5D4N Culture, Heritage, and the Arts (CHA) Trip
-      subtitle: Event Highlights
-      description: From 27 November to 1 December 2023, a group of JC1 students
-        embarked on a Culture, Heritage and the Arts experience trip to
-        Yogyakarta, Indonesia.
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_ExploreJogja.JPG
 ---
