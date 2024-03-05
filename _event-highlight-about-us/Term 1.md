@@ -15,17 +15,11 @@ The JC2 seniors also shared their personal journeys, lessons learnt and
 words of advice on what is truly essential in creating a memorable and
 meaningful 2 years in TMJC. The JC1s then proudly put on their College
 collar pins together, signifying the official start of their wonderful
-and exciting journey ahead in TMJC. A warm welcome to TMJC, JC1s!
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4><br><br><br>TMJC STEM Week 2024</h4>
+and exciting journey ahead in TMJC. A warm welcome to TMJC, JC1s!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_BadgePinning_01.jpg">
+</div>
+<h4>TMJC STEM Week 2024</h4>
 <p>The Mathematics and Science Departments jointly organised the inaugural
 TMJC STEM Week 2024. The STEM Week which took place from 14 to 21 February
 2024 included a series of talks and workshops, as well as a learning journey
@@ -34,6 +28,34 @@ and Mathematics.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_STEMWeek_01.jpg">
 </div>
+<h4>Commemorating 40 years of Total Defence (TD40)</h4>
+<p>The College commemorated 40 years of Total Defence Day under the theme
+“Together, We Keep Singapore Strong”. Amid crisis and disruptions such
+as geopolitical and geoeconomic developments that impact Singapore, the
+significance of Total Defence remains ever relevant. The focus for TD40
+was thus on preparing students to respond to potential disruptions. Two
+highlights of the commemoration stand out.</p>
+<p>On 15 February, the officially designated commemoration day, the college
+simulated a 1-hour disruption to power supply as part of Singapore’s first
+nationwide Total Defence exercise. Following the exercise, students reflected
+on their experience and shared their thoughts and feelings with their classmates
+through guided discussion.</p>
+<p>The JC1s also participated in an experiential learning journey to SDC
+to gain a better understanding of the emerging security threats Singapore
+faces and the important role they can play to ensure our nation’s well-being.
+As this was the students’ first outing together as a class, they also forged
+deeper ties with one another as well as with their Civics Tutors!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TDD_01.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>TMJC Orientation 2024</h4>
 <p>TMJC Orientation 2024 - Equinox - offered our new JC1s a vibrant introduction
 to the life of a TMJCian. Packed with exciting icebreakers, spirited games,
