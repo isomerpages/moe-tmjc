@@ -28,25 +28,23 @@ sections:
       alt: Image alt text
       url: /about-us/announcements/
   - infopic:
-      title: 5D4N Culture, Heritage, and the Arts (CHA) Trip
+      title: JC1 Initiation - Badge Pinning Ceremony 2024
       subtitle: Event Highlights
-      description: From 27 November to 1 December 2023, a group of JC1 students
-        embarked on a Culture, Heritage and the Arts experience trip to
-        Yogyakarta, Indonesia.
+      description: "TMJC held our annual JC1 Badge Pinning Ceremony on 26 February
+        2024 to initiate the JC1s. "
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_ExploreJogja.JPG
+        images/2024_T1_EventHighlights_Infopic_PinCeremony.jpg
   - infopic:
-      title: ExPlore! Vietnam
+      title: TMJC STEM Week 2024
       subtitle: Event Highlights
-      description: Service Learning @ Ho Chi Minh City was a week of transformative
-        and meaningful experiences that left a lasting impact on both the
-        students and teachers...
+      description: The Mathematics and Science Departments jointly organised the
+        inaugural TMJC STEM Week 2024.
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_ExploreVietnam.JPG
+        images/2024_T1_EventHighlights_Infopic_STEMWeek.jpg
       alt: Image alt text
 ---

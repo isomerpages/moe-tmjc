@@ -4,6 +4,89 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>JC1 Initiation - Badge Pinning Ceremony 2024</h4>
+<p>TMJC held our annual JC1 Badge Pinning Ceremony on 26 February 2024 to
+initiate the JC1s. The ceremony symbolises the beginning of the journey
+taken together by the JC1s and JC2s as they forge ahead as one TMJC student
+body.</p>
+<p>During the ceremony, the CG Leaders from each JC2 class presented the
+College collar pins to their JC1 juniors to welcome them to the TMJC family.
+The JC2 seniors also shared their personal journeys, lessons learnt and
+words of advice on what is truly essential in creating a memorable and
+meaningful 2 years in TMJC. The JC1s then proudly put on their College
+collar pins together, signifying the official start of their wonderful
+and exciting journey ahead in TMJC. A warm welcome to TMJC, JC1s!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_BadgePinning_01.jpg">
+</div>
+<h4>TMJC STEM Week 2024</h4>
+<p>The Mathematics and Science Departments jointly organised the inaugural
+TMJC STEM Week 2024. The STEM Week which took place from 14 to 21 February
+2024 included a series of talks and workshops, as well as a learning journey
+to 3M to enthuse and engage our students in Science, Technology, Engineering
+and Mathematics.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_STEMWeek_01.jpg">
+</div>
+<h4>Commemorating 40 years of Total Defence (TD40)</h4>
+<p>The College commemorated 40 years of Total Defence Day under the theme
+“Together, We Keep Singapore Strong”. Amid crisis and disruptions such
+as geopolitical and geoeconomic developments that impact Singapore, the
+significance of Total Defence remains ever relevant. The focus for TD40
+was thus on preparing students to respond to potential disruptions. Two
+highlights of the commemoration stand out.</p>
+<p>On 15 February, the officially designated commemoration day, the college
+simulated a 1-hour disruption to power supply as part of Singapore’s first
+nationwide Total Defence exercise. Following the exercise, students reflected
+on their experience and shared their thoughts and feelings with their classmates
+through guided discussion.</p>
+<p>The JC1s also participated in an experiential learning journey to SDC
+to gain a better understanding of the emerging security threats Singapore
+faces and the important role they can play to ensure our nation’s well-being.
+As this was the students’ first outing together as a class, they also forged
+deeper ties with one another as well as with their Civics Tutors!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TDD_01.jpg">
+</div>
+<h4>Chinese New Year Celebrations 2024</h4>
+<p>On 9 February, TMJC ushered in the Lunar New Year of the Dragon with a
+series of celebratory activities, revolving around the theme of “A New
+Year of Courage and Strength”. The programme began with a short film produced
+by the Citizenship Education Committee, highlighting the different symbolic
+meanings of Dragon and New Year Traditions in Asian countries, to heighten
+students’ awareness on the citizenship message behind the film.</p>
+<p>The second segment was a kaleidoscope of performances put up by various
+CCA groups. Students from the Chinese Orchestra, Choir, Modern Dance, Wushu
+and Taekwondo brought much celebratory joy to all in the Hall with their
+combination of music, songs, dance and martial arts.</p>
+<p>During the finale, our School Leaders Mr Sin, Mrs Pang, Mr Ang and Ms
+Yasmine, together with a group of enthusiastic teachers led everyone in
+the mass singing of Chinese New Year songs, heightening the festive cheer.
+In line with Lunar New Year tradition, the student leaders presented mandarin
+oranges to all staff to express gratitude and appreciation.</p>
+<p>Our Chinese New Year celebrations ended on a high note as we conducted
+a mass Lo-Hei session as one big TMJC family. Everyone tossed the delicious
+and colourful ingredients, saying new year well-wishes to each other and
+fully immersing in this joyous festive celebration!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_CNY_01.jpg">
+</div>
+<h4>TMJC Orientation 2024</h4>
+<p>TMJC Orientation 2024 - Equinox - offered our new JC1s a vibrant introduction
+to the life of a TMJCian. Packed with exciting icebreakers, spirited games,
+and lively mass dances, the event set the stage for lasting connections
+and unforgettable memories. Students enthusiastically participated in the
+House and College cheers, showcasing their house unity and College pride.
+The grand finale culminated in a spectacular display of talent and spirit,
+echoing the harmony and energy that define our College spirit. Students
+were certainly radiating with excitement and camaraderie at the end of
+the event. TMJC Orientation 2024 serves as a joyful celebration of new
+beginnings, where JC1s are warmly embraced into the TMJC family and encouraged
+to embark on their TMJC journey with enthusiasm and optimism. Welcome to
+TMJC, JC1s!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_Orientation_01.jpg">
+</div>
 <h4>5D4N Culture, Heritage, and the Arts (CHA) Trip – Yogyakarta, Indonesia</h4>
 <p>From 27 November to 1 December 2023, a group of JC1 students embarked
 on a Culture, Heritage and the Arts experience trip to Yogyakarta, Indonesia.
