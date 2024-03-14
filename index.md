@@ -28,15 +28,16 @@ sections:
       alt: Image alt text
       url: /about-us/announcements/
   - infopic:
-      title: JC1 Initiation - Badge Pinning Ceremony 2024
+      title: TM Unites 2024 - One TMJC, One Community
       subtitle: Event Highlights
-      description: "TMJC held our annual JC1 Badge Pinning Ceremony on 26 February
-        2024 to initiate the JC1s. "
+      description: On 2nd March 2024, JC2 students and staff demonstrated unity by
+        actively participating in various Values in Action (VIA) projects to
+        make a positive impact...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_PinCeremony.jpg
+        images/2024_T1_EventHighlights_Infopic_TMUnites.jpg
   - infopic:
       title: TMJC STEM Week 2024
       subtitle: Event Highlights
