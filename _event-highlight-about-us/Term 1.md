@@ -4,6 +4,25 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>TM Connects 2024</h4>
+<p>TM Connects, a community awareness event organised by the TMJC Values
+in Action (VIA) Committee, was held on 1 March 2024. This year, we had
+a total of 19 organisations participating in the event, which included
+talks as well as informative and experiential booths to engage our JC1
+students. 10 JC2 student groups also took the opportunity to showcase their
+VIA projects, as they looked to encourage their juniors to continue the
+various community service efforts. We express our gratitude to our partner
+organisations and the various JC2 students for enthusiastically sharing
+insights on service learning with our JC1 students and inspiring them to
+serve the community.</p>
+<p>Through TM Connects, we hope that our JC1 students can develop an understanding
+of various community issues, explore areas of interest, and select organisations
+they wish to serve. Following this, we look forward to seeing our students
+actively strive to enact positive changes within the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TMConnects_01.jpg">
+</div>
 <h4>JC1 Initiation - Badge Pinning Ceremony 2024</h4>
 <p>TMJC held our annual JC1 Badge Pinning Ceremony on 26 February 2024 to
 initiate the JC1s. The ceremony symbolises the beginning of the journey
