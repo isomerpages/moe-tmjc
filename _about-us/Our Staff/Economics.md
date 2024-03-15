@@ -18,7 +18,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Ting - Foo Lin Ying</strong>
+<p><strong>Mrs Ting - Foo Lin Ying</strong> 
 <br>Head of Department (Economics)
 <br><a href="mailto:foo_lin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_lin_ying@schools.gov.sg</a>
 </p>
@@ -35,7 +35,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nagashima Aya</strong>
+<p><strong>Ms Nagashima Aya</strong> 
 <br>Subject Head (Economics)
 <br><a href="mailto:nagashima_aya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nagashima_aya@schools.gov.sg</a>
 </p>
@@ -52,7 +52,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tang Jie Ting</strong>
+<p><strong>Ms Tang Jie Ting</strong> 
 <br>Subject Head (Project Work)
 <br><a href="mailto:tang_jie_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_jie_ting@schools.gov.sg</a>
 </p>
@@ -69,7 +69,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Sing Nee Keryn</strong>
+<p><strong>Ms Teo Sing Nee Keryn</strong> 
 <br>Subject Head (Ed Tech)
 <br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
 </p>
@@ -86,7 +86,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Hui Bin Delphine</strong>
+<p><strong>Ms Tan Hui Bin Delphine</strong> 
 <br>Subject Head (Student Management)
 <br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
 </p>
@@ -103,7 +103,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Yeo - Chen Zhiling</strong>
+<p><strong>Mrs Yeo - Chen Zhiling</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:chen_zhi_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhi_ling@schools.gov.sg</a>
 </p>
@@ -120,7 +120,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Halimah Binte Aziz Rahman</strong>
+<p><strong>Ms Halimah Binte Aziz Rahman</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:halimah_aziz_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">halimah_aziz_rahman@schools.gov.sg</a>
 </p>
@@ -137,7 +137,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Heng Wei Ling</strong>
+<p><strong>Ms Heng Wei Ling</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:heng_wei_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_wei_ling@schools.gov.sg</a>
 </p>
@@ -154,7 +154,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Hon Chin Onn</strong>
+<p><strong>Mr Hon Chin Onn</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:hon_chin_onn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hon_chin_onn@schools.gov.sg</a>
 </p>
@@ -171,7 +171,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lee Xueting</strong>
+<p><strong>Ms Lee Xueting</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:lee_xueting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xueting@schools.gov.sg</a>
 </p>
@@ -188,7 +188,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Loe Yiwen Melissa</strong>
+<p><strong>Ms Loe Yiwen Melissa</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loe_yiwen_melissa@schools.gov.sg</a>
 </p>
@@ -205,7 +205,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sue Poh Guat Jane</strong>
+<p><strong>Ms Sue Poh Guat Jane</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:sue_poh_guat_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sue_poh_guat_jane@schools.gov.sg</a>
 </p>
