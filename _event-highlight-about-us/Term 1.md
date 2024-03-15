@@ -4,6 +4,34 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>TM Unites 2024 - One TMJC, One Community</h4>
+<p>&nbsp;On 2nd March 2024, JC2 students and staff demonstrated unity by
+actively participating in various Values in Action (VIA) projects to make
+a positive impact in the community as part of TM Unites—the JC2 cohort
+VIA, embodying the theme 'One TMJC, One Community’.
+<br>
+<br>TM Unites consisted of four community service efforts taking place concurrently
+that morning. Firstly, there was the East Coast Park Clean-Up where students
+did their part to keep our parks clean by removing litter and debris. A
+second project saw students embark on a heartwarming project to pack and
+deliver care packs to households in 212A Pasir Ris Street 12 and 476A Pasir
+Ris Drive 6, spreading love and joy. Additionally, another group of JC2
+students actively engaged with Tampines Central residents, conducting door-to-door
+interactions to educate them on proper recycling practices and collect
+recyclables. The students also participated in an estate clean-up, contributing
+to a cleaner environment. Lastly, some of our students supported the Bloom
+with Hope event as student helpers to help run the event, assist with stage
+events and booth activities, as well as joining Tampines residents to participate
+in the 3.5km-walk, all in a stand in unison with the community in the mission
+to combat cancer, supporting each other every step of the way.</p>
+<p></p>
+<p>TM Unites underscores our collective commitment to work together as a
+college to make a positive impact on the community. By fostering a sense
+of unity and shared responsibility, we hope to continue engaging our community
+and inspire positive change both within our college and beyond.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TMUnites_01.jpg">
+</div>
 <h4>TM Connects 2024</h4>
 <p>TM Connects, a community awareness event organised by the TMJC Values
 in Action (VIA) Committee, was held on 1 March 2024. This year, we had
