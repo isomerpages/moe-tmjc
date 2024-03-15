@@ -39,13 +39,13 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_TMUnites.jpg
   - infopic:
-      title: TMJC STEM Week 2024
+      title: TM Connects 2024
       subtitle: Event Highlights
-      description: The Mathematics and Science Departments jointly organised the
-        inaugural TMJC STEM Week 2024.
+      description: TM Connects, a community awareness event organised by the TMJC
+        Values in Action (VIA) Committee, was held on 1 March 2024.
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_STEMWeek.jpg
+        images/2024_T1_EventHighlights_Infopic_TMConnects.jpg
       alt: Image alt text
 ---
