@@ -22,29 +22,30 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: TM Unites 2024 - One TMJC, One Community
+      subtitle: Event Highlights
+      description: On 2nd March 2024, JC2 students and staff demonstrated unity by
+        actively participating in various Values in Action (VIA) projects to
+        make a positive impact...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_TMUnites.jpg
+  - infopic:
+      title: TM Connects 2024
+      subtitle: Event Highlights
+      description: TM Connects, a community awareness event organised by the TMJC
+        Values in Action (VIA) Committee, was held on 1 March 2024.
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_TMConnects.jpg
+      alt: Image alt text
+  - infopic:
       title: Congratulations to the Class of 2023 on your A Level Results
       subtitle: Announcements
       image: /images/Announcements/2024/Announcement_2024_CongratsA_LevelResults_2.jpg
       alt: Image alt text
       url: /about-us/announcements/
-  - infopic:
-      title: JC1 Initiation - Badge Pinning Ceremony 2024
-      subtitle: Event Highlights
-      description: "TMJC held our annual JC1 Badge Pinning Ceremony on 26 February
-        2024 to initiate the JC1s. "
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_PinCeremony.jpg
-  - infopic:
-      title: TMJC STEM Week 2024
-      subtitle: Event Highlights
-      description: The Mathematics and Science Departments jointly organised the
-        inaugural TMJC STEM Week 2024.
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_STEMWeek.jpg
-      alt: Image alt text
 ---
