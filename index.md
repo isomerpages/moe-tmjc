@@ -22,12 +22,6 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
-      title: Congratulations to the Class of 2023 on your A Level Results
-      subtitle: Announcements
-      image: /images/Announcements/2024/Announcement_2024_CongratsA_LevelResults_2.jpg
-      alt: Image alt text
-      url: /about-us/announcements/
-  - infopic:
       title: TM Unites 2024 - One TMJC, One Community
       subtitle: Event Highlights
       description: On 2nd March 2024, JC2 students and staff demonstrated unity by
@@ -48,4 +42,10 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_TMConnects.jpg
       alt: Image alt text
+  - infopic:
+      title: Congratulations to the Class of 2023 on your A Level Results
+      subtitle: Announcements
+      image: /images/Announcements/2024/Announcement_2024_CongratsA_LevelResults_2.jpg
+      alt: Image alt text
+      url: /about-us/announcements/
 ---
