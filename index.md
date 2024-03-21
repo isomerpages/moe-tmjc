@@ -22,6 +22,16 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: TM Run 2024
+      subtitle: Event Highlights
+      description: "TMJC’s very first college sporting event of the year took place on
+        6 March 2024 at Bedok Reservoir. "
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T1_EventHighlights_Infopic_TMRun.jpg
+      alt: Image alt text
+  - infopic:
       title: TM Unites 2024 - One TMJC, One Community
       subtitle: Event Highlights
       description: On 2nd March 2024, JC2 students and staff demonstrated unity by
@@ -32,16 +42,6 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_TMUnites.jpg
-  - infopic:
-      title: TM Connects 2024
-      subtitle: Event Highlights
-      description: TM Connects, a community awareness event organised by the TMJC
-        Values in Action (VIA) Committee, was held on 1 March 2024.
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_TMConnects.jpg
-      alt: Image alt text
   - infopic:
       title: Congratulations to the Class of 2023 on your A Level Results
       subtitle: Announcements
