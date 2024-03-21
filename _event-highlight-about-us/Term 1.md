@@ -4,6 +4,27 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>TM Run 2024</h4>
+<p>TMJC’s very first college sporting event of the year took place on 6 March
+2024 at Bedok Reservoir. This event aims to promote physical activity,
+social bonding and healthy competition amongst students and staff of TMJC.
+TM Run 2024 consisted of a 3km competitive race, a 2km Mass Run/Walk and
+Inter-House Cheer competition. The runs took participants along the border
+of Bedok Reservoir, starting and ending at the newly-built PAssion Wave
+Bedok Reservoir building. The competitive race pitted the speed and endurance
+of individuals against one another, while the 2km Mass Run category ended
+with a celebration of friendship and camaraderie. Staff could also compete
+in the Staff Race, or participate in the Mass Run with their students.
+There were also a good number of staff and students who volunteered in
+various roles to ensure the success of the event. In preparation for TM
+Run as a culminating event, students were taught the concepts of pacing,
+effort judgment, as well as the varying types and intensities of running-related
+activities as part of a well-structured Physical Education programme at
+TMJC.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_TMRun_01.jpg">
+</div>
 <h4>TM Unites 2024 - One TMJC, One Community</h4>
 <p>&nbsp;On 2nd March 2024, JC2 students and staff demonstrated unity by
 actively participating in various Values in Action (VIA) projects to make
