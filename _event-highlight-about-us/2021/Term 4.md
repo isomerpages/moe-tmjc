@@ -243,7 +243,7 @@ We are proud to share that 12 of our former students have been awarded the Teach
 </tbody>
 </table>
 
-![](/images/2021-T4-Events-VirtualTeachingScholarship_02.jpeg)
+![](/images/Teaching_Scholarship_Edited.png)
 
 We wish them all the best in their studies and look forward to their contributions to the teaching fraternity!
 
