@@ -4,6 +4,26 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>National School Games Opening Ceremony</h4>
+<p>To mark the beginning of the 2024 National School Games, the respective
+Captains and Vice Captains of our Sport CCAs representing our College recited
+the Athlete’s Oath in the presence of all staff and students during the
+combined cohort assembly on Friday, 22 March 2024. Our Principal, Mr Sin
+Kim Ho also delivered Minister Chan’s message to schools as well as shared
+his own hopes and well-wishes for our college representatives.</p>
+<p>The Oath-taking Ceremony is significant as it emphasises the importance
+of demonstrating sportsmanship and exemplary conduct through the athlete’s
+words and actions, both on and off the playing field. Its symbolism aims
+to unite all with the principles of integrity, fair play and friendship
+established through sports.</p>
+<p>Every student-athlete has prepared well, some since 2023, amidst ongoing
+challenges. May our College athletes develop tenacity and grit in the pursuit
+of excellence and embody the values of winning with humility and losing
+with confidence and graciousness in the upcoming competitions. Let us wish
+our athletes the very best as they compete in the National School Games.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T1_Events_NSG_01.jpg">
+</div>
 <h4>TM Run 2024</h4>
 <p>TMJC’s very first college sporting event of the year took place on 6 March
 2024 at Bedok Reservoir. This event aims to promote physical activity,
