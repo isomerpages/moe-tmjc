@@ -22,6 +22,17 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists!
+      subtitle: Event Highlights
+      description: The Economics Department invited Mr Wong De Rui, Senior Vice
+        President & Sustainable Investment Strategist from GIC’s Sustainability
+        Office...
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T2_EventHighlights_Infopic_EconsEdventureWeek.jpg
+      alt: Image alt text
+  - infopic:
       title: National School Games Opening Ceremony
       subtitle: Event Highlights
       description: To mark the beginning of the 2024 National School Games, the
@@ -31,16 +42,6 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_NSG.jpg
-  - infopic:
-      title: TM Run 2024
-      subtitle: Event Highlights
-      description: TMJC’s very first college sporting event of the year took place on
-        6 March 2024 at Bedok Reservoir.
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_TMRun.jpg
-      alt: Image alt text
   - infopic:
       title: Congratulations to the Class of 2023 on your A Level Results
       subtitle: Announcements
