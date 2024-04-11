@@ -22,7 +22,7 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
-      title: "GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists! "
+      title: GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists!
       subtitle: Event Highlights
       description: The Economics Department invited Mr Wong De Rui, Senior Vice
         President & Sustainable Investment Strategist from GIC’s Sustainability
