@@ -28,8 +28,8 @@ sections:
         images/2024_T2_Announcement_Infopic_PET.jpg
       alt: Image alt text
       url: /about-us/announcements/
-      description: |
-        10 May 2024 | 6.45 - 8.45PM
+      description: 10 May 2024 | 6.45 - 8.45PM
+      button: Find Out More
   - infopic:
       title: GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists!
       subtitle: Event Highlights
