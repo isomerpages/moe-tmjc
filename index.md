@@ -22,6 +22,15 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: Parent Engagement Talk 2024
+      subtitle: Announcements
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T2_Announcement_Infopic_PET.jpg
+      alt: Image alt text
+      url: /about-us/announcements/
+      description: |
+        10 May 2024 | 6.45 - 8.45PM
+  - infopic:
       title: GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists!
       subtitle: Event Highlights
       description: The Economics Department invited Mr Wong De Rui, Senior Vice
@@ -42,10 +51,4 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T1_EventHighlights_Infopic_NSG.jpg
-  - infopic:
-      title: Congratulations to the Class of 2023 on your A Level Results
-      subtitle: Announcements
-      image: /images/Announcements/2024/Announcement_2024_CongratsA_LevelResults_2.jpg
-      alt: Image alt text
-      url: /about-us/announcements/
 ---
