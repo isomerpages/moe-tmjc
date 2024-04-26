@@ -31,6 +31,17 @@ sections:
       description: 10 May 2024 | 6.45 - 8.45PM
       button: Find Out More
   - infopic:
+      title: International Friendship Day & Beyond
+      subtitle: Event Highlights
+      description: From 15 – 19 April, TMJC commemorated International Friendship Day
+        to imbue in students an appreciation for diversity and how Singapore
+        navigates...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T2_EventHighlights_Infopic_IFDCommemoration.jpg
+  - infopic:
       title: GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists!
       subtitle: Event Highlights
       description: The Economics Department invited Mr Wong De Rui, Senior Vice
@@ -41,14 +52,4 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T2_EventHighlights_Infopic_EconsEdventureWeek.jpg
       alt: Image alt text
-  - infopic:
-      title: National School Games Opening Ceremony
-      subtitle: Event Highlights
-      description: To mark the beginning of the 2024 National School Games, the
-        respective Captains and Vice Captains of our Sport CCAs...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T1_EventHighlights_Infopic_NSG.jpg
 ---
