@@ -63,24 +63,14 @@ to the school community or beyond.</p>
 </p>
 <p>If you are interested in applying to Tampines Meridian Junior College
 through the DSA-JC exercise, you are required to complete the following:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>All applications must be submitted online using the stipulated <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">DSA application form.</a>
+<p>1) All applications must be submitted online using the stipulated <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">DSA application form.</a> 
 <br>
-</p>
-</li>
-<li>
-<p>A personal statement (not more than 500 words) is required for the applicants
-to state the reasons for applying to TMJC via DSA in the online application
-form.
+<br>2) A personal statement (not more than 500 words) is required for the
+applicants to state the reasons for applying to TMJC via DSA in the online
+application form.
 <br>
+<br>3) Upload the following supporting documents to the <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">DSA Online Application Portal.</a>
 </p>
-</li>
-<li>
-<p>Upload the following supporting documents to the <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">DSA Online Application Portal.</a>
-</p>
-</li>
-</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>CCA records (all available records)</p>
@@ -102,13 +92,13 @@ grades</p>
 <p>Incomplete applications (e.g. without a complete set of supporting documents,
 or insufficient information provided on the online application form) will
 not be accepted or considered.</p>
-<p><strong><u>JC DSA Application Timeline </u></strong>
+<p><strong><u>JC DSA Application Timeline</u></strong>
 </p>
 <p>Deadline for submission of online DSA application:
 <br>
-<br><strong>Phase 1:     12 Jul 2024* </strong>
+<br><strong>Phase 1: 12 Jul 2024*</strong>
 </p>
-<p><strong>Phase 2:     12 Aug 2024*</strong>
+<p><strong>Phase 2: 12 Aug 2024*</strong>
 </p>
 <p>* Applicants are advised to submit their applications early and by the
 deadline for Phase 1 or Phase 2 as shown above, in order for the application
