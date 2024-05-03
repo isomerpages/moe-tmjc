@@ -117,11 +117,10 @@ DSA offers will be notified by the College by <strong>5 Sep 2024.</strong>
 <p>General inquiries regarding DSA can be made via email to Mrs Rosalind
 Lim, at <a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
 <p>You may click on this <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> to submit the <strong>DSA Online Application</strong> for
-admission to TMJC.</p>
-<p>
+admission to TMJC.
+<br>
 <br><strong>Important Note</strong>
-</p>
-<p>Students who have been successfully allocated a school via DSA-JC are
+<br>Students who have been successfully allocated a school via DSA-JC are
 not allowed to participate in the Joint Admissions Exercise (JAE). They
 will also not be allowed to transfer to another school after the release
 of the GCE O-Level examination results. They are expected to honour their
