@@ -29,8 +29,115 @@ schools can apply for DSA into TMJC during the application period.
 <br>The following <strong>talent areas</strong> are open for DSA applications
 in TMJC.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2024_v2.jpg">
 </div>
-<p><em>Application timeline will be published at a later date.</em>
+<p><strong><u>DSA Selection Criteria</u></strong>
 </p>
+<p>Applicants will be selected based on their performance during auditions/trials/interviews.
+In addition, applicants would need to fulfil the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Acceptable academic results</p>
+</li>
+<li>
+<p>Good conduct</p>
+</li>
+<li>
+<p>Track record in the chosen area of Sports/Performing Arts</p>
+</li>
+<li>
+<p>Achievements/Awards in National/Regional/International Competitions</p>
+</li>
+<li>
+<p>Representation at Zonal/National competitions, National or Club level</p>
+</li>
+<li>
+<p>Relevant experience in the performing arts</p>
+</li>
+<li>
+<p>Relevant leadership skills or initiate projects to make a positive difference
+to the school community or beyond.</p>
+</li>
+</ul>
+<p><strong><u>Application Procedure</u></strong>
+</p>
+<p>If you are interested in applying to Tampines Meridian Junior College
+through the DSA-JC exercise, you are required to complete the following:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>All applications must be submitted online using the stipulated <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">DSA application form.</a>
+<br>
+</p>
+</li>
+<li>
+<p>A personal statement (not more than 500 words) is required for the applicants
+to state the reasons for applying to TMJC via DSA in the online application
+form.
+<br>
+</p>
+</li>
+<li>
+<p>Upload the following supporting documents to the <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">DSA Online Application Portal.</a>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA records (all available records)</p>
+</li>
+<li>
+<p>VIA records (all available records)</p>
+</li>
+<li>
+<p>Sec 1 to 3 academic results (Weighted Assessment, Year End Exam)</p>
+</li>
+<li>
+<p>Sec 4 Weighted Assessment or Mid-year Exam</p>
+</li>
+<li>
+<p>Sec 1 to Sec 4 Result Slips showing Form Teachers’ comments and conduct
+grades</p>
+</li>
+</ul>
+<p>Incomplete applications (e.g. without a complete set of supporting documents,
+or insufficient information provided on the online application form) will
+not be accepted or considered.</p>
+<p><strong><u>JC DSA Application Timeline </u></strong>
+</p>
+<p>Deadline for submission of online DSA application:
+<br>
+<br><strong>Phase 1:     12 Jul 2024* </strong>
+</p>
+<p><strong>Phase 2:     12 Aug 2024*</strong>
+</p>
+<p>* Applicants are advised to submit their applications early and by the
+deadline for Phase 1 or Phase 2 as shown above, in order for the application
+to be duly considered.</p>
+<p>Applicants not being offered a place in Phase 1 <strong>need not re-submit</strong> an
+application for Phase 2 as the application will be considered for both
+phases.</p>
+<p><strong><u>Date for Trials/Auditions</u></strong>
+</p>
+<p>More information will be provided later on the trials/auditions.</p>
+<p><strong>Shortlisted applicants</strong> will be notified to attend <strong>trials/auditions/interviews</strong> by <strong>30 August 2024.</strong>
+</p>
+<p>After the trials/auditions/interviews, only successful candidates for
+DSA offers will be notified by the College by <strong>5 Sep 2024.</strong>
+</p>
+<p>General inquiries regarding DSA can be made via email to Mrs Rosalind
+Lim, at <a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
+<p>You may click on this <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> to submit the <strong>DSA Online Application</strong> for
+admission to TMJC.</p>
+<p>
+<br><strong>Important Note</strong>
+</p>
+<p>Students who have been successfully allocated a school via DSA-JC are
+not allowed to participate in the Joint Admissions Exercise (JAE). They
+will also not be allowed to transfer to another school after the release
+of the GCE O-Level examination results. They are expected to honour their
+commitment to the DSA-JC schools and to participate in activities related
+to the talent selected in, for the duration of the programme admitted to.
+Students who do not fulfil their DSA commitment without valid reason may
+be required to transfer out to another school.</p>
+<p></p>
 <p></p>
