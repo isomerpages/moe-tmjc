@@ -119,7 +119,7 @@ Lim, at <a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener nore
 <p>You may click on this <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> to submit the <strong>DSA Online Application</strong> for
 admission to TMJC.
 <br>
-<br><strong>Important Note</strong>
+<br><strong>Important Note</strong> 
 <br>Students who have been successfully allocated a school via DSA-JC are
 not allowed to participate in the Joint Admissions Exercise (JAE). They
 will also not be allowed to transfer to another school after the release
