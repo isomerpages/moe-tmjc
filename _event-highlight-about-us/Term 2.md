@@ -4,6 +4,24 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>CG Leaders' Training Workshop</h4>
+<p>On 19th and 20th April 2024, our newly minted JC1 CG Leaders (comprising
+CG Chairpersons and Peer Support Leaders) gathered for the CG Leaders’
+Training Workshop, aimed at fostering a positive and enabling culture within
+the CGs.
+<br>
+<br>Throughout the two days, they were meaningfully engaged in a series of
+workshops, each focusing on a different aspect essential for effective
+leadership, specifically effective communication and culture building.
+These workshops, helmed by JC2 CG Leaders, volunteers from SG Cares, and
+the CCE Committee, provided invaluable learning experiences for JC1 CG
+Leaders. Through collaborative learning and active participation, the JC1
+CG Leaders gained insights and skills crucial for their roles.</p>
+<p>We will continue to journey with the newly minted CG Leaders in their
+leadership development.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_TrainingWorkshop_01.jpg">
+</div>
 <h4>Youth Against Cancer – TMJC x Project Panacea</h4>
 <p>Our recent fundraiser at TMJC from April 8-12, 2024, benefiting the Singapore
 Cancer Society (SCS), was a resounding success! 👏 This student-led initiative
