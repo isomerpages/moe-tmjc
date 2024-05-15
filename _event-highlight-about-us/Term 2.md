@@ -4,6 +4,73 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>MTL Fortnight 2024- Appreciating out Mother Tongue Languages and Cultures</h4>
+<p>The MTL Department organized the Mother Tongue Fortnight 2024 for our
+students, with the objectives to create an immersive environment for the
+learning and appreciation of the mother tongue languages and cultures.</p>
+<p>An array of common enrichment activities was carried out by the 3 language
+units to ignite the students’ interest in mother tongue languages. This
+included broadcasting of songs in the 3 languages before morning assemblies,
+online QR code quizzes on language and cultural knowledge and “Quote of
+the Day” in which our student presenters shared proverbs in the 3 languages
+with their insights to motivate their peers in their learning.</p>
+<p>The Malay unit organized the Silat Workshop for our Malay students. As
+the students learned simple Silat moves, values of courage and resilience
+were inculcated. The students also have fun participating actively in the
+Congkak Challenge and have a deeper understanding of Malay culture associated
+with heritage games.</p>
+<p>The H2 Tamil students participated in a guided visit to the Indian Heritage
+Centre focusing on the interesting traditions of Tamil Culture. During
+the Tamil Enrichment Day, the H2 TLL and H1 TL students participated in
+an Indian Workshop to learn how to create avatars with artificial intelligence
+tools, to make the learning of Tamil language more interactive and engaging.</p>
+<p>For the Chinese Enrichment Day, the renowned local movie director Royston
+Tan was invited to share with our Chinese students about his film works,
+and how he worked with the elements of food and memories in them. Local
+singers Ben Hum and Sherman Toh sang their hearts out with a repertoire
+of Chinese pop songs, bringing excitement and joy to our student audience.
+Each student who attended the talk-cum-performance received a box of Ang
+Ku Kueh at the end of the event. In the learning journey entitled “Rejuvenation
+of our Heritage'', the H1 Chinese students went on a walking trail of various
+cultural and heritage sites from Telok Ayer Street to South Bridge Road.
+They were also enriched by the sharing held at the 90 year old Tong Heng
+Confectionery and have a better understanding of how they rebrand and rejuvenate
+their business, while preserving the rich heritage of their traditional
+Cantonese pastries.</p>
+<p>All participating students of Mother Tongue Fortnight activities were
+also given a highlighter with a proverb in their respective mother tongue
+language to encourage them to embrace their mother tongue language and
+culture with joy. Have Fun, Speak the Language and Embrace our Ethnicity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_MTF_01.jpg">
+</div>
+<h4>Student Council Camp</h4>
+<p>The 6th Tampines Meridian Student Council (TMSC) held the Student Council
+Camp to initiate the newly minted 7th TMSC on 19 and 20 April 2024, with
+both JC1 and JC2 Student Councillors buzzing with excitement and anticipation.
+Leadership training workshops, physical activities, external games at Pasir
+Ris Park and College cheers were conducted to strengthen the camaraderie
+within the Houses and equip the 7th TMSC with the leadership knowledge
+and skills to serve the College. Among the cherished memories was the creation
+of a vibrant TMSC mural, symbols of unity and creativity.
+<br>
+<br>The highlight of the Camp was the iconic Student Council Initiation Ceremony,
+where a flame was passed from our School Leaders to our Council Teacher
+Advisors, then to our alumni representatives of the first five batches
+of TMSC seniors, then to the 6th TMSC and finally to our newly initiated
+7th TMSC. The alumni representatives proceeded to share inspiring tales
+of their own leadership and growth.This tradition is of great significance
+as it signifies the symbolic passing of the passion and responsibilities
+of being a student councillor through the generations of TMSC. The flame
+was also a representation of a guiding light, one that will steer our TMSC
+towards the path of excellence and duty, as they serve the College with
+fervour and commitment.</p>
+<p>The Student Council Camp left our hearts full and spirits uplifted. The
+echoes of laughter and the warmth of newfound connections lingered, promising
+a treasured legacy of leadership and camaraderie during their term in office.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_StudentCouncilCamp_01.jpg">
+</div>
 <h4>CG Leaders' Training Workshop</h4>
 <p>On 19th and 20th April 2024, our newly minted JC1 CG Leaders (comprising
 CG Chairpersons and Peer Support Leaders) gathered for the CG Leaders’
