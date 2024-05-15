@@ -22,6 +22,27 @@ sections:
           url: /about-us/Media-Stories
       variant: center
   - infopic:
+      title: MTL Fortnight 2024
+      subtitle: Event Highlights
+      description: The MTL Department organized the Mother Tongue Fortnight 2024 for
+        our students, with the objectives to create an immersive environment...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T2_EventHighlights_Infopic_MTF.jpg
+  - infopic:
+      title: Student Council Camp
+      subtitle: Event Highlights
+      description: The 6th Tampines Meridian Student Council (TMSC) held the Student
+        Council Camp to initiate the newly minted 7th TMSC on 19 and 20 April
+        2024...
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T2_EventHighlights_Infopic_StudentCouncilCamp.jpg
+      alt: Image alt text
+  - infopic:
       title: Parent Engagement Talk 2024
       subtitle: Announcements
       image: /images/Homepage/Infopic/Infopic
@@ -30,26 +51,4 @@ sections:
       url: /about-us/announcements/
       description: 10 May 2024 | 6.45 - 8.45PM
       button: Find Out More
-  - infopic:
-      title: International Friendship Day & Beyond
-      subtitle: Event Highlights
-      description: From 15 – 19 April, TMJC commemorated International Friendship Day
-        to imbue in students an appreciation for diversity and how Singapore
-        navigates...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_IFDCommemoration.jpg
-  - infopic:
-      title: GIC Talk by SVP Mr Wong De Rui for J2 H2 Economists!
-      subtitle: Event Highlights
-      description: The Economics Department invited Mr Wong De Rui, Senior Vice
-        President & Sustainable Investment Strategist from GIC’s Sustainability
-        Office...
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_EconsEdventureWeek.jpg
-      alt: Image alt text
 ---
