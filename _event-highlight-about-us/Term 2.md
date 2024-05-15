@@ -4,6 +4,21 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Youth Against Cancer – TMJC x Project Panacea</h4>
+<p>Our recent fundraiser at TMJC from April 8-12, 2024, benefiting the Singapore
+Cancer Society (SCS), was a resounding success! 👏 This student-led initiative
+aimed to raise awareness about various cancer types and recruit volunteers
+for SCS's Relay for Life 2024.</p>
+<p>Special shoutout to our amazing Health and Fitness Club for their outstanding
+dedication and participation! You all truly made a difference in the fight
+against cancer! 🌟</p>
+<p>💪 Let's stay cool and healthy together! ❤️</p>
+<p>#YouthAgainstCancer #FightAgainstCancer #RelayForLife2024
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_YouthAgainstCancer_01.jpg">
+</div>
 <h4>International Friendship Day &amp; Beyond</h4>
 <p>From 15 – 19 April, TMJC commemorated International Friendship Day to
 imbue in students an appreciation for diversity and how Singapore navigates
