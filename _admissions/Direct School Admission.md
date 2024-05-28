@@ -108,7 +108,8 @@ application for Phase 2 as the application will be considered for both
 phases.</p>
 <p><strong><u>Date for Trials/Auditions</u></strong>
 </p>
-<p>More information will be provided later on the trials/auditions.</p>
+<p>Please <a href="/files/Admissions/DSA/2024_DSA_Trials_and_Auditions__updated_21_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
+view the dates for trials and auditions.</p>
 <p><strong>Shortlisted applicants</strong> will be notified to attend <strong>trials/auditions/interviews</strong> by <strong>30 August 2024.</strong>
 </p>
 <p>After the trials/auditions/interviews, only successful candidates for
