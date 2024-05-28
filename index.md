@@ -19,7 +19,7 @@ sections:
           url: /about-us/announcements
         - title: Media Stories
           description: ""
-          url: /about-us/Media-Stories
+          url: /about-us/year-2024/
       variant: center
   - infopic:
       title: MTL Fortnight 2024
