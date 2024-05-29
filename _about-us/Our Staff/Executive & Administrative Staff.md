@@ -23,7 +23,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Lai Mui</strong>
+<p><strong>Ms Ng Lai Mui</strong> 
 <br>Administration Manager (Finance)
 <br><a href="mailto:ng_lai_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lai_mui@schools.gov.sg</a>
 </p>
@@ -40,7 +40,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sarah Ee Gek Hong</strong>
+<p><strong>Ms Sarah Ee Gek Hong</strong> 
 <br>Administration Manager (Registrar)
 <br><a href="mailto:sarah_ee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_ee@schools.gov.sg</a>
 </p>
@@ -57,7 +57,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mohamed Azhar Hassan</strong>
+<p><strong>Mr Mohamed Azhar Hassan</strong> 
 <br>Operations Manager
 <br><a href="mailto:mohamed_azhar_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_azhar_hassan@schools.gov.sg</a>
 </p>
@@ -74,7 +74,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nur Hasriah Kamaludin</strong>
+<p><strong>Mdm Nur Hasriah Kamaludin</strong> 
 <br>ICT Manager
 <br><a href="mailto:nur_hasriah_kamaludin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hasriah_kamaludin@schools.gov.sg</a>
 </p>
@@ -91,7 +91,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ambiga Ganesan</strong>
+<p><strong>Ms Ambiga Ganesan</strong> 
 <br>Corporate Support Officer
 <br><a href="mailto:ambiga_ganesan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ambiga_ganesan@schools.gov.sg</a>
 </p>
@@ -108,7 +108,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm How Bee Hong</strong>
+<p><strong>Mdm How Bee Hong</strong> 
 <br>Corporate Support Officer
 <br><a href="mailto:how_bee_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">how_bee_hong@schools.gov.sg</a>
 </p>
@@ -125,7 +125,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Liew Lay See</strong>
+<p><strong>Mdm Liew Lay See</strong> 
 <br>Corporate Support Officer
 <br><a href="mailto:liew_lay_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liew_lay_see@schools.gov.sg</a>
 </p>
@@ -142,7 +142,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tamilchelvi d/o N Narayanasamy</strong>
+<p><strong>Mdm Tamilchelvi d/o N Narayanasamy</strong> 
 <br>Corporate Support Officer
 <br><a href="mailto:tamilchelvt_n_n@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tamilchelvt_n_n@schools.gov.sg</a>
 </p>
@@ -159,7 +159,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Poh Geok Jean</strong>
+<p><strong>Mdm Tan Poh Geok Jean</strong> 
 <br>Corporate Support Officer
 <br><a href="mailto:tan_poh_geok_jean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_poh_geok_jean@schools.gov.sg</a>
 </p>
@@ -176,7 +176,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Che Mariam Yussof</strong>
+<p><strong>Mdm Che Mariam Yussof</strong> 
 <br>School Laboratory Technician
 <br><a href="mailto:che_mariam_yussof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">che_mariam_yussof@schools.gov.sg</a>
 </p>
@@ -193,7 +193,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Nazreen Begum w/o Mohamed Halith</strong>
+<p><strong>Ms Nazreen Begum w/o Mohamed Halith</strong> 
 <br>School Laboratory Technician
 <br><a href="mailto:nazreen_begum_mohamed_halith@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_begum_mohamed_halith@schools.gov.sg</a>
 </p>
@@ -210,7 +210,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Poh Siok Peng Doreen</strong>
+<p><strong>Ms Poh Siok Peng Doreen</strong> 
 <br>School Laboratory Technician
 <br><a href="mailto:poh_siok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siok_peng@schools.gov.sg</a>
 </p>
@@ -227,7 +227,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Rafiee Abu Bakar</strong>
+<p><strong>Mr Rafiee Abu Bakar</strong> 
 <br>School Laboratory Technician
 <br><a href="mailto:rafiee_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafiee_abu_bakar@schools.gov.sg</a>
 </p>
@@ -244,7 +244,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Raihan Kossain</strong>
+<p><strong>Ms Raihan Kossain</strong> 
 <br>School Laboratory Technician
 <br><a href="mailto:raihan_kossain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raihan_kossain@schools.gov.sg</a>
 </p>
@@ -261,7 +261,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Noorhayati Aris</strong>
+<p><strong>Mdm Noorhayati Aris</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:noorhayati_iris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorhayati_iris@schools.gov.sg</a>
 </p>
@@ -278,7 +278,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Rashidah Mohamed Ali</strong>
+<p><strong>Mdm Rashidah Mohamed Ali</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:rashidah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamed_ali@schools.gov.sg</a>
 </p>
@@ -295,7 +295,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Poh Eng Jenny</strong>
+<p><strong>Mdm Ng Poh Eng Jenny</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:ng_poh_eng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_eng_a@schools.gov.sg</a>
 </p>
@@ -312,7 +312,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zaharina Tainy</strong>
+<p><strong>Mdm Zaharina Tainy</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:zaharina_tainy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaharina_tainy@schools.gov.sg</a>
 </p>
@@ -329,7 +329,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Kang Tee</strong>
+<p><strong>Mr Chua Kang Tee</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:chua_kang_tee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_kang_tee@schools.gov.sg</a>
 </p>
@@ -346,7 +346,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Chu Yee Kiew</strong>
+<p><strong>Mdm Chu Yee Kiew</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:chu_yee_kiew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chu_yee_kiew@schools.gov.sg</a>
 </p>
@@ -363,7 +363,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurwaty Nadin</strong>
+<p><strong>Mdm Nurwaty Nadin</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:nurwaty_nadin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurwaty_nadin@schools.gov.sg</a>
 </p>
@@ -380,7 +380,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Roslina Mohamad Yasin</strong>
+<p><strong>Mdm Roslina Mohamad Yasin</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:roslina_mohamad_yasin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">roslina_mohamad_yasin@schools.gov.sg</a>
 </p>
@@ -397,7 +397,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Suriya Baba</strong>
+<p><strong>Mdm Suriya Baba</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:suriya_baba@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suriya_baba@schools.gov.sg</a>
 </p>
@@ -414,7 +414,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Tiong Seng</strong>
+<p><strong>Mr Tan Tiong Seng</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:tan_tiong_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tiong_seng@schools.gov.sg</a>
 </p>
@@ -431,7 +431,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ng Wei Li Wendy</strong>
+<p><strong>Ms Ng Wei Li Wendy</strong> 
 <br>ECG Counsellor
 <br><a href="mailto:wendy_ng_wei_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_li@schools.gov.sg</a>
 </p>
