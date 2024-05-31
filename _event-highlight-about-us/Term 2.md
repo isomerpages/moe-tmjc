@@ -4,6 +4,44 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Economics Edventure Series for J2 - Learning Journey to Singapore Maritime Gallery and Port Operations Control Centre!</h4>
+<p>On 23 May 2024, a group of our J2 Economics students embarked on an eye-opening
+expedition to the Singapore Maritime Gallery and Port Operations Control
+Centre (POCC). This immersive experience offered invaluable insights into
+the heartbeat of Singapore's maritime industry.
+<br>
+<br><strong>Singapore Maritime Gallery Tour:</strong>
+<br>Our budding economists saw the extensive network of shipping routes that
+connect Singapore to the rest of the world. They noted how this connectivity
+is crucial for the country's role in international trade. Furthermore,
+they explored how Singapore has become a thriving global hub and international
+maritime center, understanding its significant implications for international
+trade and the economy. They also recognised how strategic geographic positioning
+and advanced infrastructure contribute to this status. Additionally, they
+learned about the cutting-edge technologies propelling Singapore to world-class
+status while ensuring environmental sustainability. Observations included
+innovative solutions like automated port operations and eco-friendly practices
+that reduce the environmental impact of shipping.
+<br>
+<br><strong>POCC Visit:</strong>
+<br>Our budding economists observed the intense, real-time operations in the
+control room, witnessing firsthand how over 1000 vessel movements are managed
+daily. They were impressed by the coordination and precision required to
+maintain such high efficiency. They gained a deeper understanding of how
+POCC serves as the nerve center of Singapore's maritime operations, ensuring
+smooth and safe navigation through one of the busiest ports in the world.
+Additionally, they noted the use of advanced tracking and communication
+systems to monitor and direct maritime traffic. By observing the professionals
+at work, our economists appreciated the blend of human expertise and technological
+support essential for effective maritime management.
+<br>
+<br>This experience enriched our students' knowledge of international trade,
+globalization, and the intricacies of economics at play. A huge thank you
+to our guides and hosts for making this an unforgettable learning journey!</p>
+<p>&nbsp;#TMJCEconomicsEdventure2024 #GlobalTrade #SingaporeMaritime #TMJCEconomicsEnrichment</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_EconsLJ_01.jpg">
+</div>
 <h4>Inaugural TMJC Homecoming</h4>
 <p>On 17 May, we organised the very first TMJC Homecoming event. An alumni-for-alumni
 initiative, this was the culmination of the efforts of a dedicated group
