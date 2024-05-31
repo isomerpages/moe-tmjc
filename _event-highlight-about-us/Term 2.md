@@ -4,6 +4,21 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Inaugural TMJC Homecoming</h4>
+<p>On 17 May, we organised the very first TMJC Homecoming event. An alumni-for-alumni
+initiative, this was the culmination of the efforts of a dedicated group
+TMJC alumni, led by the TMJC Alumni Exco, after many months of planning.
+The event sought to reconnect not only the first five graduated batches
+of TMJC students, but also the alumni from our parent colleges, TPJC and
+MJC. Almost 220 former students and staff, together with our distinguished
+guest Mr Amrin Amin, who is an alumnus of TPJC, gathered at our college
+campus for a night filled with good food, awesome performances and most
+importantly, great fellowship in the most memorable of evenings.&nbsp;
+<br>
+<br>Welcome home TMJCians!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_AlumniHomecoming_01.jpg">
+</div>
 <h4>Sonrisa</h4>
 <p>On 10 May 2024, our performing arts CCA groups - Chinese Orchestra, Choir,
 Guitar Ensemble, Modern Dance and Symphonic Band, successfully performed
