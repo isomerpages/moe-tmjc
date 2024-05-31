@@ -22,25 +22,25 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: MTL Fortnight 2024
+      title: "Economics Edventure Series for J2 "
       subtitle: Event Highlights
-      description: The MTL Department organized the Mother Tongue Fortnight 2024 for
-        our students, with the objectives to create an immersive environment...
+      description: On 23 May 2024, a group of our J2 Economics students embarked on an
+        eye-opening expedition to the Singapore Maritime Gallery and Port
+        Operations Control Centre.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_MTF.jpg
+        images/2024_T2_EventHighlights_Infopic_EconsLJ.jpg
   - infopic:
-      title: Student Council Camp
+      title: Inaugural TMJC Homecoming
       subtitle: Event Highlights
-      description: The 6th Tampines Meridian Student Council (TMSC) held the Student
-        Council Camp to initiate the newly minted 7th TMSC on 19 and 20 April
-        2024...
+      description: On 17 May, we organised the very first TMJC Homecoming event. An
+        alumni-for-alumni initiative, this was the culmination of the efforts...
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_StudentCouncilCamp.jpg
+        images/2024_T2_EventHighlights_Infopic_Homecoming.jpg
       alt: Image alt text
   - infopic:
       title: Parent Engagement Talk 2024
