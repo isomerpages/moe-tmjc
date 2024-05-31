@@ -4,6 +4,26 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Parents Engagement Talk - Raising a Resilient Teen</h4>
+<p>On the evening of 10 May 2024, the College organised a Parents Engagement
+Talk on the topic of “Raising a Resilient Teen”. The session aimed to provide
+parents of our students with tips on how to help their child grow from
+the unique challenges presented at the JC level and to build resilience.
+<br>
+<br>To kickstart the evening, our College invited Ms. Dawn Sim, a clinical
+therapist and founder of The Mindful Camp and The Open Centre, to share
+with us her expertise and experience in working with adolescents. Together
+with Ms. Sim, Ms. Deepa, Senior Teacher/CCE, and Mr. Goh Pek Weng, an alumnus
+of TMJC, were the panellists for the panel discussion. They shared their
+unique perspectives on how parents can support their children in developing
+social emotional competencies and how to keep communication channels open.
+<br>
+<br>We thank all parents who joined us for a meaningful evening. The College
+looks forward to continuing forging stronger partnerships with parents
+in our collective efforts towards developing our students holistically.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_PET_01.jpg">
+</div>
 <h4>College Day 2024</h4>
 <p>On 3 May, the College celebrated the efforts and achievements of the Class
 of 2023 with our Guest of Honour, Mr Hassan Ahmad, Special Advisor, Humanity
