@@ -23,7 +23,7 @@ Day!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_CLEnrichment_01.jpg">
 </div>
-<h4><br>MTL Fortnight 2024- Appreciating out Mother Tongue Languages and Cultures</h4>
+<h4>MTL Fortnight 2024- Appreciating out Mother Tongue Languages and Cultures</h4>
 <p>The MTL Department organized the Mother Tongue Fortnight 2024 for our
 students, with the objectives to create an immersive environment for the
 learning and appreciation of the mother tongue languages and cultures.
