@@ -4,6 +4,34 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Sonrisa</h4>
+<p>On 10 May 2024, our performing arts CCA groups - Chinese Orchestra, Choir,
+Guitar Ensemble, Modern Dance and Symphonic Band, successfully performed
+at Sonrisa, a combined performing arts concert. Meaning ‘smile’ in Spanish,
+Sonrisa was a student-led endeavour under the guidance of their instructors
+and teachers, aimed at celebrating the power of music and dance to bring
+people together.
+<br>
+<br>It was an evening lined up with classical pieces to contemporary tunes,
+and a celebration of our students’ passion for the arts and willingness
+to perform to the best of their abilities. Throughout the evening, parents
+eagerly captured their children's performances on their smartphones, adding
+to the warmth of the atmosphere. As the concert drew to a close, the audience
+witnessed a heartwarming display of College spirit as our performers spontaneously
+led the crowd in our College cheers.</p>
+<p>The concert ended on a high note and its success would not have been possible
+without the support of the Media Resource Club for the excellent AV and
+lighting support, the Photography Club for capturing precious memories
+on camera, and the TMSC for being a reliable and efficient backstage crew
+for our performers.
+<br>
+<br>The performers undeniably spread joy and brought smiles to all in attendance.
+Sonrisa not only highlighted the transformative power of music and dance
+but also created enduring memories, emphasising the ability of the arts
+to unite people in shared experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_Sonrisa_01.jpg">
+</div>
 <h4>Parents Engagement Talk - Raising a Resilient Teen</h4>
 <p>On the evening of 10 May 2024, the College organised a Parents Engagement
 Talk on the topic of “Raising a Resilient Teen”. The session aimed to provide
