@@ -22,10 +22,10 @@ were inculcated. The students also have fun participating actively in the
 Congkak Challenge and have a deeper understanding of Malay culture associated
 with heritage games.
 <br>
-<br>The H2 Tamil students participated in a guided visit to the Indian Heritage
-Centre focusing on the interesting traditions of Tamil Culture. During
-the Tamil Enrichment Day, the H2 TLL and H1 TL students participated in
-an Indian Workshop to learn how to create avatars with artificial intelligence
+<br>The H1 and H2 Tamil students participated in a guided visit to the Indian
+Heritage Centre focusing on the interesting traditions of Tamil Culture.
+During the Tamil Enrichment Day, the H2 TLL and H1 TL students participated
+in a Workshop to learn how to create avatars with artificial intelligence
 tools, to make the learning of Tamil language more interactive and engaging.
 <br>
 <br>For the Chinese Enrichment Day, the renowned local movie director Royston
