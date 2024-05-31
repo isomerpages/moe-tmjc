@@ -22,7 +22,7 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: "Economics Edventure Series for J2 "
+      title: Economics Edventure Series for J2
       subtitle: Event Highlights
       description: On 23 May 2024, a group of our J2 Economics students embarked on an
         eye-opening expedition to the Singapore Maritime Gallery and Port
