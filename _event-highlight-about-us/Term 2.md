@@ -4,7 +4,26 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>MTL Fortnight 2024- Appreciating out Mother Tongue Languages and Cultures</h4>
+<h4>Mother Tongue Fortnight Chinese Enrichment Day 2024 - Our Food Our Songs</h4>
+<p>“Our Food Our Songs” is the finale event of Mother Tongue Fortnight held
+on 26 April. It was an enriching afternoon of music and short films with
+local movie director Royston Tan, as well as local singers Ben Hum and
+Sherman Teo.
+<br>
+<br>Royston Tan showcased various short films such as “Popiah” and “Singapore
+Memory Project” to our students, shared his love for local delicacies and
+how he frequently used the element of food in his movies and short films.
+Ben and Sherman sang their hearts out with a repertoire of Chinese popular
+songs, bringing delight to our student audience.
+<br>
+<br>A box of Ang Ku Kueh was also given to each student at the end of the
+event, to honour the Chinese tradition of sharing blessings and good fortune.
+This certainly provided a sweet and tantalising end to the Chinese Enrichment
+Day!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_CLEnrichment_01.jpg">
+</div>
+<h4><br>MTL Fortnight 2024- Appreciating out Mother Tongue Languages and Cultures</h4>
 <p>The MTL Department organized the Mother Tongue Fortnight 2024 for our
 students, with the objectives to create an immersive environment for the
 learning and appreciation of the mother tongue languages and cultures.
