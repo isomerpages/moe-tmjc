@@ -4,6 +4,29 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>College Day 2024</h4>
+<p>On 3 May, the College celebrated the efforts and achievements of the Class
+of 2023 with our Guest of Honour, Mr Hassan Ahmad, Special Advisor, Humanity
+Matters. The guests, awardees, parents and staff came together to enjoy
+the beautiful performances presented by the TMJC Symphonic Band, Chinese
+Orchestra, Modern Dance, and Choir, and witnessed the presentation of awards
+to distinguished students.
+<br>
+<br>It was indeed a day of celebrations of the holistic achievements of our
+students. The Class of 2023 not only worked hard and achieved commendable
+results in the 2023 GCE A-Level Examination, but they also played hard.
+They competed in full force in sports and games, and in the Performing
+Arts, and were actively involved in volunteerism making a positive impact
+on the lives of individuals and communities.
+<br>
+<br>The College sincerely wishes the awardees all the very best in their future
+endeavours.
+<br>
+<br>TMJCians of the Class of 2023: we are proud of you, and we look forward
+to having you back as alumni among our TMJC family.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_CollegeDay_01.jpg">
+</div>
 <h4>Mother Tongue Fortnight Chinese Enrichment Day 2024 - Our Food Our Songs</h4>
 <p>“Our Food Our Songs” is the finale event of Mother Tongue Fortnight held
 on 26 April. It was an enriching afternoon of music and short films with
