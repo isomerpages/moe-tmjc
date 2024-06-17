@@ -4,6 +4,149 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Economics Edventure Series for J2 - Learning Journey to Singapore Maritime Gallery and Port Operations Control Centre!</h4>
+<p>On 23 May 2024, a group of our J2 Economics students embarked on an eye-opening
+expedition to the Singapore Maritime Gallery and Port Operations Control
+Centre (POCC). This immersive experience offered invaluable insights into
+the heartbeat of Singapore's maritime industry.
+<br>
+<br><strong>Singapore Maritime Gallery Tour:</strong>
+<br>Our budding economists saw the extensive network of shipping routes that
+connect Singapore to the rest of the world. They noted how this connectivity
+is crucial for the country's role in international trade. Furthermore,
+they explored how Singapore has become a thriving global hub and international
+maritime center, understanding its significant implications for international
+trade and the economy. They also recognised how strategic geographic positioning
+and advanced infrastructure contribute to this status. Additionally, they
+learned about the cutting-edge technologies propelling Singapore to world-class
+status while ensuring environmental sustainability. Observations included
+innovative solutions like automated port operations and eco-friendly practices
+that reduce the environmental impact of shipping.
+<br>
+<br><strong>POCC Visit:</strong>
+<br>Our budding economists observed the intense, real-time operations in the
+control room, witnessing firsthand how over 1000 vessel movements are managed
+daily. They were impressed by the coordination and precision required to
+maintain such high efficiency. They gained a deeper understanding of how
+POCC serves as the nerve center of Singapore's maritime operations, ensuring
+smooth and safe navigation through one of the busiest ports in the world.
+Additionally, they noted the use of advanced tracking and communication
+systems to monitor and direct maritime traffic. By observing the professionals
+at work, our economists appreciated the blend of human expertise and technological
+support essential for effective maritime management.
+<br>
+<br>This experience enriched our students' knowledge of international trade,
+globalization, and the intricacies of economics at play. A huge thank you
+to our guides and hosts for making this an unforgettable learning journey!</p>
+<p>&nbsp;#TMJCEconomicsEdventure2024 #GlobalTrade #SingaporeMaritime #TMJCEconomicsEnrichment</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_EconsLJ_01.jpg">
+</div>
+<h4>Inaugural TMJC Homecoming</h4>
+<p>On 17 May, we organised the very first TMJC Homecoming event. An alumni-for-alumni
+initiative, this was the culmination of the efforts of a dedicated group
+TMJC alumni, led by the TMJC Alumni Exco, after many months of planning.
+The event sought to reconnect not only the first five graduated batches
+of TMJC students, but also the alumni from our parent colleges, TPJC and
+MJC. Almost 220 former students and staff, together with our distinguished
+guest Mr Amrin Amin, who is an alumnus of TPJC, gathered at our college
+campus for a night filled with good food, awesome performances and most
+importantly, great fellowship in the most memorable of evenings.&nbsp;
+<br>
+<br>Welcome home TMJCians!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_AlumniHomecoming_01.jpg">
+</div>
+<h4>Sonrisa</h4>
+<p>On 10 May 2024, our performing arts CCA groups - Chinese Orchestra, Choir,
+Guitar Ensemble, Modern Dance and Symphonic Band, successfully performed
+at Sonrisa, a combined performing arts concert. Meaning ‘smile’ in Spanish,
+Sonrisa was a student-led endeavour under the guidance of their instructors
+and teachers, aimed at celebrating the power of music and dance to bring
+people together.
+<br>
+<br>It was an evening lined up with classical pieces to contemporary tunes,
+and a celebration of our students’ passion for the arts and willingness
+to perform to the best of their abilities. Throughout the evening, parents
+eagerly captured their children's performances on their smartphones, adding
+to the warmth of the atmosphere. As the concert drew to a close, the audience
+witnessed a heartwarming display of College spirit as our performers spontaneously
+led the crowd in our College cheers.</p>
+<p>The concert ended on a high note and its success would not have been possible
+without the support of the Media Resource Club for the excellent AV and
+lighting support, the Photography Club for capturing precious memories
+on camera, and the TMSC for being a reliable and efficient backstage crew
+for our performers.
+<br>
+<br>The performers undeniably spread joy and brought smiles to all in attendance.
+Sonrisa not only highlighted the transformative power of music and dance
+but also created enduring memories, emphasising the ability of the arts
+to unite people in shared experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_Sonrisa_01.jpg">
+</div>
+<h4>Parents Engagement Talk - Raising a Resilient Teen</h4>
+<p>On the evening of 10 May 2024, the College organised a Parents Engagement
+Talk on the topic of “Raising a Resilient Teen”. The session aimed to provide
+parents of our students with tips on how to help their child grow from
+the unique challenges presented at the JC level and to build resilience.
+<br>
+<br>To kickstart the evening, our College invited Ms. Dawn Sim, a clinical
+therapist and founder of The Mindful Camp and The Open Centre, to share
+with us her expertise and experience in working with adolescents. Together
+with Ms. Sim, Ms. Deepa, Senior Teacher/CCE, and Mr. Goh Pek Weng, an alumnus
+of TMJC, were the panellists for the panel discussion. They shared their
+unique perspectives on how parents can support their children in developing
+social emotional competencies and how to keep communication channels open.
+<br>
+<br>We thank all parents who joined us for a meaningful evening. The College
+looks forward to continuing forging stronger partnerships with parents
+in our collective efforts towards developing our students holistically.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_PET_01.jpg">
+</div>
+<h4>College Day 2024</h4>
+<p>On 3 May, the College celebrated the efforts and achievements of the Class
+of 2023 with our Guest of Honour, Mr Hassan Ahmad, Special Advisor, Humanity
+Matters. The guests, awardees, parents and staff came together to enjoy
+the beautiful performances presented by the TMJC Symphonic Band, Chinese
+Orchestra, Modern Dance, and Choir, and witnessed the presentation of awards
+to distinguished students.
+<br>
+<br>It was indeed a day of celebrations of the holistic achievements of our
+students. The Class of 2023 not only worked hard and achieved commendable
+results in the 2023 GCE A-Level Examination, but they also played hard.
+They competed in full force in sports and games, and in the Performing
+Arts, and were actively involved in volunteerism making a positive impact
+on the lives of individuals and communities.
+<br>
+<br>The College sincerely wishes the awardees all the very best in their future
+endeavours.
+<br>
+<br>TMJCians of the Class of 2023: we are proud of you, and we look forward
+to having you back as alumni among our TMJC family.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_CollegeDay_01.jpg">
+</div>
+<h4>Mother Tongue Fortnight Chinese Enrichment Day 2024 - Our Food Our Songs</h4>
+<p>“Our Food Our Songs” is the finale event of Mother Tongue Fortnight held
+on 26 April. It was an enriching afternoon of music and short films with
+local movie director Royston Tan, as well as local singers Ben Hum and
+Sherman Teo.
+<br>
+<br>Royston Tan showcased various short films such as “Popiah” and “Singapore
+Memory Project” to our students, shared his love for local delicacies and
+how he frequently used the element of food in his movies and short films.
+Ben and Sherman sang their hearts out with a repertoire of Chinese popular
+songs, bringing delight to our student audience.
+<br>
+<br>A box of Ang Ku Kueh was also given to each student at the end of the
+event, to honour the Chinese tradition of sharing blessings and good fortune.
+This certainly provided a sweet and tantalising end to the Chinese Enrichment
+Day!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_CLEnrichment_01.jpg">
+</div>
 <h4>MTL Fortnight 2024- Appreciating out Mother Tongue Languages and Cultures</h4>
 <p>The MTL Department organized the Mother Tongue Fortnight 2024 for our
 students, with the objectives to create an immersive environment for the
