@@ -22,25 +22,24 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Economics Edventure Series for J2
+      title: Mathematics Learning Journey
       subtitle: Event Highlights
-      description: On 23 May 2024, a group of our J2 Economics students embarked on an
-        eye-opening expedition to the Singapore Maritime Gallery and Port
-        Operations Control Centre.
+      description: On 24th May 2024, TMJCians had an incredible opportunity to delve
+        into the world of data analytics at the SMRT headquarters.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_EconsLJ.jpg
+        images/2024_T2_EventHighlights_Infopic_MathsLJ.jpg
   - infopic:
-      title: Inaugural TMJC Homecoming
+      title: Staff Day Out
       subtitle: Event Highlights
-      description: On 17 May, we organised the very first TMJC Homecoming event. An
-        alumni-for-alumni initiative, this was the culmination of the efforts...
+      description: On 23 May 2024, we celebrated Staff Teambuilding Day with a
+        fantastic start to the day with our staff promotion ceremony!
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_Homecoming.jpg
+        images/2024_T2_EventHighlights_Infopic_MathsLJ___StaffDayOut.jpg
       alt: Image alt text
   - infopic:
       title: Parent Engagement Talk 2024

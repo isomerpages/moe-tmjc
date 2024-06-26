@@ -4,6 +4,83 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Mathematics Learning Journey</h4>
+<p>On 24th May 2024, TMJCians had an incredible opportunity to delve into
+the world of data analytics at the SMRT headquarters. They explored how
+SMRT uses statistics to meet commuters' needs and gained hands-on experience
+with real-life ridership data, guided by industry experts.
+<br>
+<br>Concurrently, another group of JC2 students visited the LTA SG Mobility
+Gallery and discovered the fascinating role of mathematics in structuring
+Singapore's transport system. They were engaged in interactive games in
+the different zones of the Gallery, solving statistical questions based
+on real life examples of our transport system.
+<br>
+<br>These enriching learning journeys, organised by students from the Talent
+Development Programme and our TMJC Mathematics Department teachers, provided
+invaluable insights and practical experience in the field of transportation,
+inspiring our students to consider careers in this vital sector.
+<br>
+<br>#LearningJourney #TMJC #DataAnalytics #SMRT #LTA #Mathematics #TransportSystem</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_MathsLJ_01.jpg">
+</div>
+<h4>Staff Day Out</h4>
+<p>On 23 May 2024, we celebrated Staff Teambuilding Day with a fantastic
+start to the day with our staff promotion ceremony! It was a joyous occasion
+recognising the hard work and dedication of our colleagues, setting a positive
+tone for the rest of the day. Following the ceremony, we formed groups
+and headed to the iconic Changi Airport Jewel for an exciting array of
+teambuilding games.
+<br>
+<br>Our staff had a blast as we navigated through Jewel, solving clues that
+not only tested our teamwork but also revealed many interesting and valuable
+facts about this stunning landmark. From the spectacular Rain Vortex to
+the lush Shiseido Forest Valley, each clue brought new discoveries and
+a deeper appreciation of the many facets of Jewel.
+<br>
+<br>The activities fostered camaraderie and collaboration, strengthening the
+bonds within the team. It was a perfect blend of fun and learning, showcasing
+the spirit of teamwork and collective effort.
+<br>
+<br>The day culminated in a sumptuous lunch, a well-deserved treat to celebrate
+the ‘heart work’ and effort of our staff throughout Semester 1. It was
+a wonderful opportunity to relax, reflect, and recharge for the months
+ahead.
+<br>
+<br>#StaffTeambuilding #ChangiJewel #Teamwork #Celebration #Heartwork #Semester1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_StaffDayOut_01.jpg">
+</div>
+<h4>GP Learning Journey and GP Day</h4>
+<p>GP Day 2024, held on 17 May 2024, marked the culmination of a series of
+engaging fringe activities meticulously organised by the GP department
+in the run-up to the event. These activities were designed to set the stage
+for an immersive and enlightening experience, providing students with the
+opportunity to engage in critical conversations and experiential learning.</p>
+<p>Leading up to the event, JC1 students took part in the "Word on the Street"
+student journalism competition, where they created insightful 2-minute
+video clips by interviewing peers about current issues. Additionally, three
+captivating learning journeys were offered to students. These included
+the exciting Taylor Swift Art Tour at the National Gallery, curated by
+our very own GP teacher Ms Michelle Choy; an enlightening visit to the
+Internal Security Department Heritage Centre to explore Singapore's history
+and the role of ISD; and an educational trip to Werms Inc, where students
+learned about composting and even brought home their own composting pack
+with live earthworms.</p>
+<p>The highlight of GP Day was the GP Unconference in collaboration with
+The Birthday Collective, themed 'Critical Conversations: Changemakers'.
+Students participated in the Opening and Closing Sessions and joined different
+Breakout Rooms that considered various Singapore issues. This year's edition
+incorporated thought-provoking experiential activities to stimulate discussions,
+fostering an environment for meaningful dialogue and exploration of diverse
+perspectives.</p>
+<p>Overall, GP Day 2024 proved to be an enriching and thought-provoking experience,
+empowering students to engage in critical conversations and gain valuable
+insights into contemporary issues.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_GPLearningDay_01.jpg">
+</div>
 <h4>Economics Edventure Series for J2 - Learning Journey to Singapore Maritime Gallery and Port Operations Control Centre!</h4>
 <p>On 23 May 2024, a group of our J2 Economics students embarked on an eye-opening
 expedition to the Singapore Maritime Gallery and Port Operations Control
