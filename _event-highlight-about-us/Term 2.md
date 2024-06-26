@@ -4,7 +4,28 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>GP Day 2024</h4>
+<h4>Mathematics Learning Journey</h4>
+<p>On 24th May 2024, TMJCians had an incredible opportunity to delve into
+the world of data analytics at the SMRT headquarters. They explored how
+SMRT uses statistics to meet commuters' needs and gained hands-on experience
+with real-life ridership data, guided by industry experts.
+<br>
+<br>Concurrently, another group of JC2 students visited the LTA SG Mobility
+Gallery and discovered the fascinating role of mathematics in structuring
+Singapore's transport system. They were engaged in interactive games in
+the different zones of the Gallery, solving statistical questions based
+on real life examples of our transport system.
+<br>
+<br>These enriching learning journeys, organised by students from the Talent
+Development Programme and our TMJC Mathematics Department teachers, provided
+invaluable insights and practical experience in the field of transportation,
+inspiring our students to consider careers in this vital sector.
+<br>
+<br>#LearningJourney #TMJC #DataAnalytics #SMRT #LTA #Mathematics #TransportSystem</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_MathsLJ_01.jpg">
+</div>
+<h4>Staff Day Out</h4>
 <p>On 23 May 2024, we celebrated Staff Teambuilding Day with a fantastic
 start to the day with our staff promotion ceremony! It was a joyous occasion
 recognising the hard work and dedication of our colleagues, setting a positive
@@ -31,7 +52,7 @@ ahead.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_StaffDayOut_01.jpg">
 </div>
-<h4>GP Day 2024</h4>
+<h4>GP Learning Journey and GP Day</h4>
 <p>GP Day 2024, held on 17 May 2024, marked the culmination of a series of
 engaging fringe activities meticulously organised by the GP department
 in the run-up to the event. These activities were designed to set the stage
