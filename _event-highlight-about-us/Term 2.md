@@ -5,6 +5,33 @@ variant: tiptap
 description: ""
 ---
 <h4>GP Day 2024</h4>
+<p>On 23 May 2024, we celebrated Staff Teambuilding Day with a fantastic
+start to the day with our staff promotion ceremony! It was a joyous occasion
+recognising the hard work and dedication of our colleagues, setting a positive
+tone for the rest of the day. Following the ceremony, we formed groups
+and headed to the iconic Changi Airport Jewel for an exciting array of
+teambuilding games.
+<br>
+<br>Our staff had a blast as we navigated through Jewel, solving clues that
+not only tested our teamwork but also revealed many interesting and valuable
+facts about this stunning landmark. From the spectacular Rain Vortex to
+the lush Shiseido Forest Valley, each clue brought new discoveries and
+a deeper appreciation of the many facets of Jewel.
+<br>
+<br>The activities fostered camaraderie and collaboration, strengthening the
+bonds within the team. It was a perfect blend of fun and learning, showcasing
+the spirit of teamwork and collective effort.
+<br>
+<br>The day culminated in a sumptuous lunch, a well-deserved treat to celebrate
+the ‘heart work’ and effort of our staff throughout Semester 1. It was
+a wonderful opportunity to relax, reflect, and recharge for the months
+ahead.
+<br>
+<br>#StaffTeambuilding #ChangiJewel #Teamwork #Celebration #Heartwork #Semester1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_StaffDayOut_01.jpg">
+</div>
+<h4>GP Day 2024</h4>
 <p>GP Day 2024, held on 17 May 2024, marked the culmination of a series of
 engaging fringe activities meticulously organised by the GP department
 in the run-up to the event. These activities were designed to set the stage
