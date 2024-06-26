@@ -22,16 +22,15 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Economics Edventure Series for J2
+      title: Mathematics Learning Journey
       subtitle: Event Highlights
-      description: On 23 May 2024, a group of our J2 Economics students embarked on an
-        eye-opening expedition to the Singapore Maritime Gallery and Port
-        Operations Control Centre.
+      description: On 24th May 2024, TMJCians had an incredible opportunity to delve
+        into the world of data analytics at the SMRT headquarters.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_EconsLJ.jpg
+        images/2024_T2_EventHighlights_Infopic_MathsLJ.jpg
   - infopic:
       title: Inaugural TMJC Homecoming
       subtitle: Event Highlights
