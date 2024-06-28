@@ -433,7 +433,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ng Wei Li Wendy</strong> 
 <br>ECG Counsellor
-<br><a href="mailto:wendy_ng_wei_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_wei_li@schools.gov.sg</a>
+<br><a href="mailto:wendy_ng_wei_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wendy_ng_wei_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
