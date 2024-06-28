@@ -223,6 +223,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kristianne.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Kristianne Thea Gibe Magkawas </strong>
+<br>Teacher (General Paper)
+<br><a href="mailto:kristianne_magkawas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristianne_magkawas@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Khoon_Liang.jpg">
 </div>
 </td>
