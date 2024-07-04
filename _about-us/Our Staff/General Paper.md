@@ -24,7 +24,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Yeoh Keat Wei</strong>
-<br>Head of Department (English) - Covering
+<br>Head of Department (English)
 <br><a href="mailto:yeoh_keat_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_keat_wei@schools.gov.sg</a>
 </p>
 </td>
