@@ -22,6 +22,16 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
+      title: Pre University Seminar 2024
+      subtitle: Event Highlights
+      description: A group of 20 students represented Tampines Meridian Junior College
+        at this year’s Pre-University Seminar from 27 May to 30 May 2024.
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T2_EventHighlights_Infopic_PreUSeminar.jpg
+      alt: Image alt text
+  - infopic:
       title: Mathematics Learning Journey
       subtitle: Event Highlights
       description: On 24th May 2024, TMJCians had an incredible opportunity to delve
@@ -31,16 +41,6 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T2_EventHighlights_Infopic_MathsLJ.jpg
-  - infopic:
-      title: Staff Day Out
-      subtitle: Event Highlights
-      description: On 23 May 2024, we celebrated Staff Teambuilding Day with a
-        fantastic start to the day with our staff promotion ceremony!
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_MathsLJ___StaffDayOut.jpg
-      alt: Image alt text
   - infopic:
       title: Parent Engagement Talk 2024
       subtitle: Announcements

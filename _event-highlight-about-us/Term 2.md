@@ -4,6 +4,40 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Pre University Seminar 2024</h4>
+<p>A group of 20 students represented Tampines Meridian Junior College at
+this year’s Pre-University Seminar from 27 May to 30 May 2024. A key event
+for Pre-University institutions, this year’s Pre-University Seminar theme
+is ‘Forging Our Way Forward’. The theme takes reference from the past and
+future. It is inspired by the Semangat yang Bahru (Forging a New Spirit)
+exhibition which was referenced by our former Prime Minister at the National
+Day Rally in 2023. The exhibition and Seminar theme captures the foundational
+values and spirit of the founding leaders and generation that give strong
+anchors as a nation. The Seminar theme also continues to be inspired by
+the Forward Singapore movement (‘Forward Sg’), which takes participants
+into the future where they come together to examine their aspirations and
+build consensus to refresh Singapore’s social compact.</p>
+<p>Our students were given the opportunity to learn from the insightful sharing
+by various guest speakers and were able to keenly appreciate how individuals
+from different walks of life have contributed to Singapore. The empathy
+cultivated through active listening and engagement inspired our students
+to envision and imagine the future of Singapore, one in which they could
+serve the community and the nation. The Guest of Honour at the Opening
+Ceremony was Minister for National Development, Mr. Desmond Lee. Participants
+were challenged to be good stewards of our society and the environment,
+while looking to the past to build a more inclusive future. Over the course
+of the Seminar, our students were empowered to work on their respective
+projects and shared how they could contribute to creating a better and
+stronger Singapore. This eventually culminated in an exhibition, where
+our students confidently presented their project deliverables to guests.
+The Closing Ceremony was graced by the Minister for Education, Mr. Chan
+Chun Sing, who challenged participants to play an active role in making
+Singapore a better place. At the end of the Seminar, our TMJC students
+benefitted from the rich learning opportunities and were inspired to play
+their part in shaping the Singapore Story.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T2_Events_PreUSeminar_01.jpg">
+</div>
 <h4>Mathematics Learning Journey</h4>
 <p>On 24th May 2024, TMJCians had an incredible opportunity to delve into
 the world of data analytics at the SMRT headquarters. They explored how
