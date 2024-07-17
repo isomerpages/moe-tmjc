@@ -57,7 +57,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chow Ming King</strong>
+<p><strong>Mr Chow Ming Kong</strong>
 <br>Head of Department (Knowledge Management &amp; ICT)
 <br><a href="mailto:chow_ming_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_ming_kong@schools.gov.sg</a>
 </p>
