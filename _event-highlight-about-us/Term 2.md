@@ -1,6 +1,6 @@
 ---
 title: Term 2
-permalink: /event-highlight-about-us/permalink/
+permalink: /about-us/event-highlights/term-2/
 variant: tiptap
 description: ""
 ---
