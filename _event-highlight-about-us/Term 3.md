@@ -4,6 +4,21 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Shandong Experimental High School Visit</h4>
+<p>We were excited to host a group of 50 students and 4 teachers from Shandong
+Experimental High School (SEHS) for a one-day school immersion on 17 July
+2024. The SEHS students had the opportunity to experience being a TMJC
+student for the day as they attended lessons and activities with their
+TMJC buddies. They ended their TMJC experience with cultural activity workshop
+specially curated by our Cultural Promotion Club to introduce some aspects
+of Singapore’s unique multi-culturalism. While the SEHS students interacted
+with their buddies, their teachers had rich interactions and professional
+exchanges with TMJC teachers as we shared and learnt from each other. All
+in all, it was a day of meaningful learning and new friendships built for
+all involved. &nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_ShandongExperimental_01.jpg">
+</div>
 <h4>JC2 SG Perspectives Dialogue on ‘The Future of Work’&nbsp;</h4>
 <p>On 5 July, our JC2 students had the invaluable opportunity to hear from
 Deputy Prime Minister (DPM) and Minister for Trade and Industry Mr Gan
