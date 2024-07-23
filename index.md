@@ -22,6 +22,17 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
+      title: Shandong Experimental High School Visit
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic__ShandongExperimental.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: We were excited to host a group of 50 students and 4 teachers from
+        Shandong Experimental High School (SEHS) for a one-day school immersion
+        on 17 July 2024.
+      button: Find Out More
+  - infopic:
       title: JC2 SG Perspectives Dialogue on ‘The Future of Work’
       subtitle: Event Highlights
       description: On 5 July, our JC2 students had the invaluable opportunity to hear
@@ -42,13 +53,4 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T2_EventHighlights_Infopic_PreUSeminar.jpg
       alt: Image alt text
-  - infopic:
-      title: Parent Engagement Talk 2024
-      subtitle: Announcements
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_Announcement_Infopic_PET.jpg
-      alt: Image alt text
-      url: /about-us/announcements/
-      description: 10 May 2024 | 6.45 - 8.45PM
-      button: Find Out More
 ---
