@@ -4,6 +4,31 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Racial Harmony Day (RHD) Commemoration 2024</h4>
+<p>Racial Harmony Day (RHD) Commemoration this year spanned 22 to 29 July
+with the theme ‘Preserving Harmony in Singapore’s Multicultural Mosaic.’
+The 2-part student-driven commemoration sought to help students build bridges
+to preserve Singapore’s Multicultural Heritage.
+<br>
+<br>First, through dialogic learning, JC1 CG Leaders applied the dialogue
+facilitation skills learnt during the CG Leaders Training Workshop to facilitate&nbsp;race-related
+questions from the cohort in their classes. Meanwhile, the JC2s underwent
+game-based learning to deepen their multicultural understanding and respect
+of their own and others’ cultural experiences, practices and perspectives.
+<br>
+<br>Second, CG leaders of both levels applied their gallery facilitation skills
+gleaned from their training to facilitate experiential sense-making among
+their peers via the RHD Interactive Gallery Experience at the Library.
+Through this experience, students learnt the ups and downs of Singapore’s
+multicultural journey. A highlight is the segment featuring personal stories
+from former TMJC teachers who experienced first-hand the racial riots of
+the 1960s.
+<br>
+<br>Through these activities, we hope that our students will develop a renewed
+sense of purpose to protect Singapore’s multicultural harmony.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_RacialHarmony_01.jpg">
+</div>
 <h4>Successful Blood Donation Drive!</h4>
 <p>Thank you to everyone who participated in our blood donation drive on
 Thursday 25 July! Your generosity and willingness to help save lives is
