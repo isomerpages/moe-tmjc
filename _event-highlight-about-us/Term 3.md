@@ -103,7 +103,8 @@ amongst children.
 serves as a one stop platform for elderly in managing their daily activities
 and funds.
 <br>
-<br>The team members are:
+</p>
+<p>The team members are:
 <br>1. Hoh Zheng Kang Bryan (23S201)
 <br>2. Lim Pei Yi Meryl (23S412)
 <br>3. Leyu Jing Kai Rico (23S201)
