@@ -4,6 +4,20 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>People's Association Community Spirit Merit Award</h4>
+<p>We are thrilled to announce that Tampines Meridian Junior College has
+been awarded the People’s Association Community Spirit (PACS) Merit Award!
+This award is given to exemplary partners who have assisted the PA in building
+social capital and contributing to the community.</p>
+<p>This achievement is the result of the collective efforts of the J2 cohort
+for their active contributions during TM Unites 2023 and TM Unites 2024.
+We extend our heartfelt gratitude to everyone who has contributed to this
+success. Your support and dedication have made this possible.</p>
+<p>As we celebrate this achievement, we are also inspired to continue contributing
+and making a positive impact in our community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_PACommunitySpirit_01.jpg">
+</div>
 <h4>Singapore Futures Youth Competition</h4>
 <p>The Singapore Futures Youth Competition is an annual competition organised
 to introduce students to public policy and expose them to the complexities
