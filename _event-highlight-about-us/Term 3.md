@@ -4,6 +4,41 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Young Trailblazers Competition</h4>
+<p>Young Trailblazers is a platform designed to empower young individuals
+by challenging them to create practical solutions for real-world problems.
+Participants are engaged in a journey of innovation and entrepreneurship,
+pitching their ideas to judges and working towards transforming their concepts
+into reality.
+<br>
+<br>Two of the four groups who represented the College made it to the finals.
+They are:
+<br>
+<br>The Heathers: The team won the Best Demo Award for the board game they
+created to promote a greater sense of empathy and social responsibility
+amongst children.
+<br>
+<br>The team members are:
+<br>1. Allyna Gan Pei Xin (24S308)
+<br>2. Tanyatit Pornsannuwat (24A201)
+<br>3. Samann Chua Ting Ru ( 24A202)
+<br>4. Kelsy Lim Shi Ying (24S502)
+<br>
+<br>Trailer Park Boys: The team proposed an application, Silverlink, which
+serves as a one stop platform for elderly in managing their daily activities
+and funds.
+<br>
+<br>The team members are:
+<br>1. Hoh Zheng Kang Bryan (23S201)
+<br>2. Lim Pei Yi Meryl (23S412)
+<br>3. Leyu Jing Kai Rico (23S201)
+<br>4. Amin Avighna Rajesh (23S201)
+<br>5. Ramesh Mukul (23S201)
+<br>
+<br>Congratulations and well done, TMJCians!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_YoungTrailblazers_01.jpg">
+</div>
 <h4>Shandong Experimental High School Visit</h4>
 <p>We were excited to host a group of 50 students and 4 teachers from Shandong
 Experimental High School (SEHS) for a one-day school immersion on 17 July
