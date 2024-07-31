@@ -4,6 +4,32 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Singapore Futures Youth Competition</h4>
+<p>The Singapore Futures Youth Competition is an annual competition organised
+to introduce students to public policy and expose them to the complexities
+of policymaking . This year’s competition theme is “Re-imagining Opportunities,
+Work and Education in Singapore”, which challenges students to apply future-thinking
+and foresight to develop scenarios on the potential career and education
+opportunities in Singapore and how they can play a part in driving change
+to realise their dreams and aspirations.
+<br>
+<br>Six of our JC1s formed teams with students from other Colleges in this
+competition, out of which three of our JC1s and their teams made it to
+the finals.
+<br>
+<br>• CHUA KAI JING TOBIUS from 24S401 and his team won the consolation prize.
+His team’s project focus was on making career switching more seamless in
+2050.
+<br>• SIRAJ MUNIR BIN MUZAMMIL from 24S402 and his team won the consolation
+prize. His team’s project focus was on the future of Singapore workforce
+in 2050.
+<br>• LIM KE XIN BOBO from 24A201 and her team won the 2nd place. Her team’s
+project focus was on achieving equity in educational opportunities by 2050.
+<br>
+<br>Congratulations and well done, TMJCians!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_SgFuturesYouthComp_01.jpg">
+</div>
 <h4>Young Trailblazers Competition</h4>
 <p>Young Trailblazers is a platform designed to empower young individuals
 by challenging them to create practical solutions for real-world problems.
