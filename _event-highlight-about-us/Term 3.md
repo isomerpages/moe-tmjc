@@ -4,6 +4,16 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Successful Blood Donation Drive!</h4>
+<p>Thank you to everyone who participated in our blood donation drive on
+Thursday 25 July! Your generosity and willingness to help save lives is
+much appreciated. A special shoutout to those who came, even if you couldn’t
+donate this time.</p>
+<p>We’re proud of our community for coming together to make a difference.
+Together, we’re making the world a better place, one donation at a time.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_BloodDonation_01.jpg">
+</div>
 <h4>People's Association Community Spirit Merit Award</h4>
 <p>We are thrilled to announce that Tampines Meridian Junior College has
 been awarded the People’s Association Community Spirit (PACS) Merit Award!
