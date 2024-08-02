@@ -22,35 +22,36 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Shandong Experimental High School Visit
+      title: Racial Harmony Day (RHD) Commemoration 2024
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic__ShandongExperimental.jpg
+        images/2024_T3_EventHighlights_Infopic__RacialHarmony.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: We were excited to host a group of 50 students and 4 teachers from
-        Shandong Experimental High School (SEHS) for a one-day school immersion
-        on 17 July 2024.
+      description: Racial Harmony Day (RHD) Commemoration this year spanned 22 to 29
+        July with the theme ‘Preserving Harmony in Singapore’s Multicultural
+        Mosaic.’
       button: Find Out More
   - infopic:
-      title: JC2 SG Perspectives Dialogue on ‘The Future of Work’
+      title: Successful Blood Donation Drive!
       subtitle: Event Highlights
-      description: On 5 July, our JC2 students had the invaluable opportunity to hear
-        from Deputy Prime Minister (DPM) and Minister for Trade and Industry Mr
-        Gan Kim Yong...
+      description: Thank you to everyone who participated in our blood donation drive
+        on Thursday 25 July! Your generosity and willingness to help save lives
+        is much appreciated.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic__JC2SGPerspectives.jpg
+        images/2024_T3_EventHighlights_Infopic__BloodDonation.jpg
   - infopic:
-      title: Pre University Seminar 2024
+      title: People's Association Community Spirit Merit Award
       subtitle: Event Highlights
-      description: A group of 20 students represented Tampines Meridian Junior College
-        at this year’s Pre-University Seminar from 27 May to 30 May 2024.
+      description: We are thrilled to announce that Tampines Meridian Junior College
+        has been awarded the People’s Association Community Spirit (PACS) Merit
+        Award!
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T2_EventHighlights_Infopic_PreUSeminar.jpg
+        images/2024_T3_EventHighlights_Infopic__PACommunitySpirit.jpg
       alt: Image alt text
 ---

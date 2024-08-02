@@ -4,6 +4,117 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Racial Harmony Day (RHD) Commemoration 2024</h4>
+<p>Racial Harmony Day (RHD) Commemoration this year spanned 22 to 29 July
+with the theme ‘Preserving Harmony in Singapore’s Multicultural Mosaic.’
+The 2-part student-driven commemoration sought to help students build bridges
+to preserve Singapore’s Multicultural Heritage.
+<br>
+<br>First, through dialogic learning, JC1 CG Leaders applied the dialogue
+facilitation skills learnt during the CG Leaders Training Workshop to facilitate&nbsp;race-related
+questions from the cohort in their classes. Meanwhile, the JC2s underwent
+game-based learning to deepen their multicultural understanding and respect
+of their own and others’ cultural experiences, practices and perspectives.
+<br>
+<br>Second, CG leaders of both levels applied their gallery facilitation skills
+gleaned from their training to facilitate experiential sense-making among
+their peers via the RHD Interactive Gallery Experience at the Library.
+Through this experience, students learnt the ups and downs of Singapore’s
+multicultural journey. A highlight is the segment featuring personal stories
+from former TMJC teachers who experienced first-hand the racial riots of
+the 1960s.
+<br>
+<br>Through these activities, we hope that our students will develop a renewed
+sense of purpose to protect Singapore’s multicultural harmony.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_RacialHarmony_01.jpg">
+</div>
+<h4>Successful Blood Donation Drive!</h4>
+<p>Thank you to everyone who participated in our blood donation drive on
+Thursday 25 July! Your generosity and willingness to help save lives is
+much appreciated. A special shoutout to those who came, even if you couldn’t
+donate this time.</p>
+<p>We’re proud of our community for coming together to make a difference.
+Together, we’re making the world a better place, one donation at a time.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_BloodDonation_01.jpg">
+</div>
+<h4>People's Association Community Spirit Merit Award</h4>
+<p>We are thrilled to announce that Tampines Meridian Junior College has
+been awarded the People’s Association Community Spirit (PACS) Merit Award!
+This award is given to exemplary partners who have assisted the PA in building
+social capital and contributing to the community.</p>
+<p>This achievement is the result of the collective efforts of the J2 cohort
+for their active contributions during TM Unites 2023 and TM Unites 2024.
+We extend our heartfelt gratitude to everyone who has contributed to this
+success. Your support and dedication have made this possible.</p>
+<p>As we celebrate this achievement, we are also inspired to continue contributing
+and making a positive impact in our community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_PACommunitySpirit_01.jpg">
+</div>
+<h4>Singapore Futures Youth Competition</h4>
+<p>The Singapore Futures Youth Competition is an annual competition organised
+to introduce students to public policy and expose them to the complexities
+of policymaking . This year’s competition theme is “Re-imagining Opportunities,
+Work and Education in Singapore”, which challenges students to apply future-thinking
+and foresight to develop scenarios on the potential career and education
+opportunities in Singapore and how they can play a part in driving change
+to realise their dreams and aspirations.
+<br>
+<br>Six of our JC1s formed teams with students from other Colleges in this
+competition, out of which three of our JC1s and their teams made it to
+the finals.
+<br>
+<br>• CHUA KAI JING TOBIUS from 24S401 and his team won the consolation prize.
+His team’s project focus was on making career switching more seamless in
+2050.
+<br>• SIRAJ MUNIR BIN MUZAMMIL from 24S402 and his team won the consolation
+prize. His team’s project focus was on the future of Singapore workforce
+in 2050.
+<br>• LIM KE XIN BOBO from 24A201 and her team won the 2nd place. Her team’s
+project focus was on achieving equity in educational opportunities by 2050.
+<br>
+<br>Congratulations and well done, TMJCians!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_SgFuturesYouthComp_01.jpg">
+</div>
+<h4>Young Trailblazers Competition</h4>
+<p>Young Trailblazers is a platform designed to empower young individuals
+by challenging them to create practical solutions for real-world problems.
+Participants are engaged in a journey of innovation and entrepreneurship,
+pitching their ideas to judges and working towards transforming their concepts
+into reality.
+<br>
+<br>Two of the four groups who represented the College made it to the finals.
+They are:
+<br>
+<br>The Heathers: The team won the Best Demo Award for the board game they
+created to promote a greater sense of empathy and social responsibility
+amongst children.
+<br>
+<br>The team members are:
+<br>1. Allyna Gan Pei Xin (24S308)
+<br>2. Tanyatit Pornsannuwat (24A201)
+<br>3. Samann Chua Ting Ru ( 24A202)
+<br>4. Kelsy Lim Shi Ying (24S502)
+<br>
+<br>Trailer Park Boys: The team proposed an application, Silverlink, which
+serves as a one stop platform for elderly in managing their daily activities
+and funds.
+<br>
+</p>
+<p>The team members are:
+<br>1. Hoh Zheng Kang Bryan (23S201)
+<br>2. Lim Pei Yi Meryl (23S412)
+<br>3. Leyu Jing Kai Rico (23S201)
+<br>4. Amin Avighna Rajesh (23S201)
+<br>5. Ramesh Mukul (23S201)
+<br>
+<br>Congratulations and well done, TMJCians!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_YoungTrailblazers_01.jpg">
+</div>
 <h4>Shandong Experimental High School Visit</h4>
 <p>We were excited to host a group of 50 students and 4 teachers from Shandong
 Experimental High School (SEHS) for a one-day school immersion on 17 July
