@@ -4,6 +4,201 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>MOE Teaching Scholarship Presentation Ceremony 2024</h4>
+<p>The MOE Teaching Scholarship and MOE Teaching Award are offered to candidates
+with a strong passion for education and teaching.
+<br>
+<br>We are pleased to share that 6 of our alumni are recipients of the MOE
+Teaching Award at this year’s MOE Teaching Scholarship Presentation Ceremony
+2024, which was held on 2 August 2024. They will subsequently be pursuing
+their respective degrees at the National Institute of Education. They are:
+<br>
+<br>1) Noorhakim Bin Abdul Halim (17S207)
+<br>2) Ahmad Abdullah Bin Mohamad Munir (20S212)
+<br>3) Mohammad ‘Afif B Badrolhisham (20S402)
+<br>4) Nur Nadhirah Binte Zulhidayat (22S411)
+<br>5) Mao Yu Huen (22S501)
+<br>6) Goh Yan Ting (22S503)</p>
+<p>Our heartiest congratulations to all award recipients! We wish you all
+the very best as you embark on a rewarding career in teaching.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_MOETeachingScholarship_01.jpg">
+</div>
+<h4>PrixDefence Scholarship Awards Ceremony 2024</h4>
+<p>The Defence Scholarship Awards Ceremony 2024 was held on 1 August 2024
+at the Temasek Club. The ceremony featured the presentation of various
+scholarships such as the SAF Merit Scholarship and the DSTA Scholarship.
+<br>
+<br>The SAF Merit Scholarship and the DSTA Scholarship aim to recruit top
+students, who have demonstrated academic excellence and outstanding leadership
+qualities, to join the Defence sector and the Defence Technology sector
+respectively.
+<br>
+<br>TMJC is proud to share the following achievements of our students.&nbsp;</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Civics Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Scholarship</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Rui Ping Dextor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14S203</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAF Merit Scholarship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Yankai Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20S301</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSTA Scholarship</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Dextor has graduated with a degree in Law in Singapore Management University.
+He will be assuming a variety of challenging appointments that will groom
+him for senior command and leadership positions in MINDEF and the SAF.
+<br>
+<br>Thomas will be pursuing a degree in Computer Science in National University
+of Singapore. Thereafter, he will be groomed through multiple career pathways
+for engineering and technological leadership positions in the Defence Technology
+Community.
+<br>
+<br>Congratulations, Dexter and Thomas! We are proud of your achievement and
+we wish you all the best in your chosen field!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_DefenceScholarship_01.jpg">
+</div>
+<h4>2024 Inter-school Graphing Calculator (GC) Grand Prix</h4>
+<p>The 2024 Inter-school Graphing Calculator (GC) Grand Prix is organised
+by TMJC and proudly sponsored by Texas Instruments. This year, 57 participants
+from 10 schools battled their way for a spot in the finals that was held
+on 31st July 2024. Team TMJC (comprising Nguyen Mai Thanh 23S101, Ho Bing
+Xuan 23S101, He JingZhi 23S101 and Tan Weijia, Jaeden 23S101) was one of
+five schools that made it to the final round of the competition. Congratulations
+to Team TMJC for their outstanding performance!
+<br>
+<br>Like last year, this year’s competition was conducted on-site with a live
+audience. The Audience Round got students excited, and they enthusiastically
+solved the Mathematics questions to win attractive prizes. To further enhance
+our students' thinking and problem-solving skills, one of the highlights
+was the Second Round, in which the finalists used the GC as a computational
+tool to analyse an authentic real-world problem and offer potential solutions
+and insights. For this round, we invited esteemed academic experts Dr Hang
+Kim Hoo (STEM Education Programme Manager, Curriculum Planning &amp; Development
+Division - Singapore), Assoc Prof Toh Pee Choon (Deputy Head of Mathematics
+and Mathematics Education, National Institute of Education) and Mr Yuen
+Wen Jun (Curriculum Resource Development Officer, Curriculum Planning &amp;
+Development Division - Singapore) to preside as judges. Dr Hang also shared
+his expert insights and observations which greatly enriched the students’
+learning. The event was a success and received extremely positive responses
+from teachers and participants.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_GrandPrix_01.jpg">
+</div>
+<h4>Silent Hero Awards</h4>
+<p>We are pleased to share that three of our students received the Singapore
+Silent Heros Award on 27th July from Ms Gan Siow Huang, Minister of State,
+Ministry of Education and Ministry of Manpower. This award aims to recognise
+students' altruistic actions and inspire more individuals to contribute
+positively, thereby nurturing a culture of generosity for future generations.
+We are very proud to have among us students who exhibit kindness in their
+daily lives quietly working behind the scenes.
+<br>
+<br>The award recipients are:
+<br>1. Nguyen Mai Thanh, 23S101
+<br>2. Fiona Quek, 23S302
+<br>3. Reuben Adrian Rajoo, 23S502
+<br>
+<br>Congratulations on this well-deserved recognition. Let’s continue to promote
+a culture of respect and care within our school by doing small acts of
+kindness with great love.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_SilentHeroAwards_01.jpg">
+</div>
+<h4>CG Leaders - Celebration of Learning</h4>
+<p>On 24th July, TMJC held our inaugural Celebration of Learning for JC2
+Civics Group (CG) Chairpersons and Peer Support Leaders. Specially organised
+for our JC2 CG Leaders, this event saw CG Leaders coming together to celebrate
+their leadership journey in TMJC and expressing gratitude for those who
+have journeyed with them through the ups and downs.
+<br>
+<br>These CG Leaders certainly deserve recognition for their tireless effort
+as they often work behind the scenes, encourage their peers and provide
+support to others while juggling their own heavy commitments. While their
+leadership journey in TMJC may be coming to an end, the wonderful memories
+and lessons learnt will surely stay with them for a long time.
+<br>
+<br>May their growth as a CG leader mark the beginning of yet another chapter
+of inspiring leadership and meaningful learning. Wishing you all the best,
+6th TMJC Civics Group Leaders!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_CGLeaders_01.jpg">
+</div>
+<h4>Student Leaders’ Investiture 2024</h4>
+<p>Student Leaders’ Investiture, held on 18 July, was a significant ceremony
+to recognise our newly elected 7th TMJC Student Leaders, comprising Civics
+Group Leaders (CG Chairpersons and Peer Support Leaders), CCA Leaders,
+and Tampines Meridian Student Council (TMSC).
+<br>
+<br>The theme for this year’s Investiture is “Aspiring Constellations”. “Aspiring”
+evokes the pursuit of grand dreams, embodying the vision and commitment
+to excellence that TMJC student leaders aspire to. “Constellations” serve
+as a powerful symbol of the boundless possibilities and challenges that
+TMJC student leaders confront with a courageous attitude.
+<br>
+<br>The ceremony began with the highly anticipated and energetic Student Leaders’
+Walk-in, followed by an opening address by our Principal, Mr Sin, to encourage
+our student leaders as they embark on their leadership journey. Thereafter,
+a video montage depicting the fulfilling times which the student leaders
+had thus far was shown, followed by speeches from the 6th Tampines Meridian
+Student Council President, Samara Marguerita Joseph (23A201), and the 7th
+Tampines Meridian Student Council President, Akram Syahid Bin Salim (24S203).
+The Badge-presentation and Oath-taking ceremony followed thereafter, symbolising
+the start of our student leaders’ leadership journeys.
+<br>
+<br>We congratulate the newly elected student leaders and may they arise like
+new stars in the skies, illuminating the journey ahead for their peers
+in TMJC.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_StudentLeadersInvestiture_01.jpg">
+</div>
 <h4>Racial Harmony Day (RHD) Commemoration 2024</h4>
 <p>Racial Harmony Day (RHD) Commemoration this year spanned 22 to 29 July
 with the theme ‘Preserving Harmony in Singapore’s Multicultural Mosaic.’
@@ -150,5 +345,7 @@ for co-organising this dialogue for the benefit of our students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_JC2SGPerspectives_01.jpg">
 </div>
 <p>
+<br>
+<br>
 <br>
 </p>

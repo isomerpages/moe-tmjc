@@ -22,36 +22,33 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Racial Harmony Day (RHD) Commemoration 2024
+      title: MOE Teaching Scholarship Presentation Ceremony 2024
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic__RacialHarmony.jpg
+        images/2024_T3_EventHighlights_Infopic_MOETeaching.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: Racial Harmony Day (RHD) Commemoration this year spanned 22 to 29
-        July with the theme ‘Preserving Harmony in Singapore’s Multicultural
-        Mosaic.’
+      description: The MOE Teaching Scholarship and MOE Teaching Award are offered to
+        candidates with a strong passion for education and teaching.
       button: Find Out More
   - infopic:
-      title: Successful Blood Donation Drive!
+      title: Defence Scholarship Awards Ceremony 2024
       subtitle: Event Highlights
-      description: Thank you to everyone who participated in our blood donation drive
-        on Thursday 25 July! Your generosity and willingness to help save lives
-        is much appreciated.
+      description: The Defence Scholarship Awards Ceremony 2024 was held on 1 August
+        2024 at the Temasek Club.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic__BloodDonation.jpg
+        images/2024_T3_EventHighlights_Infopic_DefenceScholarship.jpg
   - infopic:
-      title: People's Association Community Spirit Merit Award
+      title: 2024 Inter-school Graphing Calculator (GC) Grand Prix
       subtitle: Event Highlights
-      description: We are thrilled to announce that Tampines Meridian Junior College
-        has been awarded the People’s Association Community Spirit (PACS) Merit
-        Award!
+      description: The 2024 Inter-school Graphing Calculator (GC) Grand Prix is
+        organised by TMJC and proudly sponsored by Texas Instruments.
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic__PACommunitySpirit.jpg
+        images/2024_T3_EventHighlights_Infopic_GrandPrix.jpg
       alt: Image alt text
 ---
