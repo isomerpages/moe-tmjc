@@ -4,6 +4,33 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>2024 Inter-school Graphing Calculator (GC) Grand Prix</h4>
+<p>The 2024 Inter-school Graphing Calculator (GC) Grand Prix is organised
+by TMJC and proudly sponsored by Texas Instruments. This year, 57 participants
+from 10 schools battled their way for a spot in the finals that was held
+on 31st July 2024. Team TMJC (comprising Nguyen Mai Thanh 23S101, Ho Bing
+Xuan 23S101, He JingZhi 23S101 and Tan Weijia, Jaeden 23S101) was one of
+five schools that made it to the final round of the competition. Congratulations
+to Team TMJC for their outstanding performance!
+<br>
+<br>Like last year, this year’s competition was conducted on-site with a live
+audience. The Audience Round got students excited, and they enthusiastically
+solved the Mathematics questions to win attractive prizes. To further enhance
+our students' thinking and problem-solving skills, one of the highlights
+was the Second Round, in which the finalists used the GC as a computational
+tool to analyse an authentic real-world problem and offer potential solutions
+and insights. For this round, we invited esteemed academic experts Dr Hang
+Kim Hoo (STEM Education Programme Manager, Curriculum Planning &amp; Development
+Division - Singapore), Assoc Prof Toh Pee Choon (Deputy Head of Mathematics
+and Mathematics Education, National Institute of Education) and Mr Yuen
+Wen Jun (Curriculum Resource Development Officer, Curriculum Planning &amp;
+Development Division - Singapore) to preside as judges. Dr Hang also shared
+his expert insights and observations which greatly enriched the students’
+learning. The event was a success and received extremely positive responses
+from teachers and participants.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_GrandPrix_01.jpg">
+</div>
 <h4>Silent Hero Awards</h4>
 <p>We are pleased to share that three of our students received the Singapore
 Silent Heros Award on 27th July from Ms Gan Siow Huang, Minister of State,
