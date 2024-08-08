@@ -49,6 +49,6 @@ sections:
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic__PACommunitySpirit.jpg
+        images/2024_T3_EventHighlights_Infopic_GrandPrix.jpg
       alt: Image alt text
 ---
