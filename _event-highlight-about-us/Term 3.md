@@ -4,6 +4,87 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>PrixDefence Scholarship Awards Ceremony 2024</h4>
+<p>The Defence Scholarship Awards Ceremony 2024 was held on 1 August 2024
+at the Temasek Club. The ceremony featured the presentation of various
+scholarships such as the SAF Merit Scholarship and the DSTA Scholarship.
+<br>
+<br>The SAF Merit Scholarship and the DSTA Scholarship aim to recruit top
+students, who have demonstrated academic excellence and outstanding leadership
+qualities, to join the Defence sector and the Defence Technology sector
+respectively.
+<br>
+<br>TMJC is proud to share the following achievements of our students.&nbsp;</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>S/N</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Civics Group</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Scholarship</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chow Rui Ping Dextor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14S203</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAF Merit Scholarship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choo Yankai Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20S301</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSTA Scholarship</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Dextor has graduated with a degree in Law in Singapore Management University.
+He will be assuming a variety of challenging appointments that will groom
+him for senior command and leadership positions in MINDEF and the SAF.
+<br>
+<br>Thomas will be pursuing a degree in Computer Science in National University
+of Singapore. Thereafter, he will be groomed through multiple career pathways
+for engineering and technological leadership positions in the Defence Technology
+Community.
+<br>
+<br>Congratulations, Dexter and Thomas! We are proud of your achievement and
+we wish you all the best in your chosen field!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_DefenceScholarship_01.jpg">
+</div>
 <h4>2024 Inter-school Graphing Calculator (GC) Grand Prix</h4>
 <p>The 2024 Inter-school Graphing Calculator (GC) Grand Prix is organised
 by TMJC and proudly sponsored by Texas Instruments. This year, 57 participants
