@@ -4,6 +4,27 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>MOE Teaching Scholarship Presentation Ceremony 2024</h4>
+<p>The MOE Teaching Scholarship and MOE Teaching Award are offered to candidates
+with a strong passion for education and teaching.
+<br>
+<br>We are pleased to share that 6 of our alumni are recipients of the MOE
+Teaching Award at this year’s MOE Teaching Scholarship Presentation Ceremony
+2024, which was held on 2 August 2024. They will subsequently be pursuing
+their respective degrees at the National Institute of Education. They are:
+<br>
+<br>1) Noorhakim Bin Abdul Halim (17S207)
+<br>2) Ahmad Abdullah Bin Mohamad Munir (20S212)
+<br>3) Mohammad ‘Afif B Badrolhisham (20S402)
+<br>4) Nur Nadhirah Binte Zulhidayat (22S411)
+<br>5) Mao Yu Huen (22S501)
+<br>6) Goh Yan Ting (22S503)</p>
+<p>
+<br>Our heartiest congratulations to all award recipients! We wish you all
+the very best as you embark on a rewarding career in teaching.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_MOETeachingScholarship_01.jpg">
+</div>
 <h4>PrixDefence Scholarship Awards Ceremony 2024</h4>
 <p>The Defence Scholarship Awards Ceremony 2024 was held on 1 August 2024
 at the Temasek Club. The ceremony featured the presentation of various
@@ -325,5 +346,7 @@ for co-organising this dialogue for the benefit of our students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_JC2SGPerspectives_01.jpg">
 </div>
 <p>
+<br>
+<br>
 <br>
 </p>
