@@ -19,8 +19,7 @@ their respective degrees at the National Institute of Education. They are:
 <br>4) Nur Nadhirah Binte Zulhidayat (22S411)
 <br>5) Mao Yu Huen (22S501)
 <br>6) Goh Yan Ting (22S503)</p>
-<p>
-<br>Our heartiest congratulations to all award recipients! We wish you all
+<p>Our heartiest congratulations to all award recipients! We wish you all
 the very best as you embark on a rewarding career in teaching.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_MOETeachingScholarship_01.jpg">
