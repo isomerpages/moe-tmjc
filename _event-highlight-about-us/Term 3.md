@@ -4,6 +4,73 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Silent Hero Awards</h4>
+<p>We are pleased to share that three of our students received the Singapore
+Silent Heros Award on 27th July from Ms Gan Siow Huang, Minister of State,
+Ministry of Education and Ministry of Manpower. This award aims to recognise
+students' altruistic actions and inspire more individuals to contribute
+positively, thereby nurturing a culture of generosity for future generations.
+We are very proud to have among us students who exhibit kindness in their
+daily lives quietly working behind the scenes.
+<br>
+<br>The award recipients are:
+<br>1. Nguyen Mai Thanh, 23S101
+<br>2. Fiona Quek, 23S302
+<br>3. Reuben Adrian Rajoo, 23S502
+<br>
+<br>Congratulations on this well-deserved recognition. Let’s continue to promote
+a culture of respect and care within our school by doing small acts of
+kindness with great love.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_SilentHeroAwards_01.jpg">
+</div>
+<h4>CG Leaders - Celebration of Learning</h4>
+<p>On 24th July, TMJC held our inaugural Celebration of Learning for JC2
+Civics Group (CG) Chairpersons and Peer Support Leaders. Specially organised
+for our JC2 CG Leaders, this event saw CG Leaders coming together to celebrate
+their leadership journey in TMJC and expressing gratitude for those who
+have journeyed with them through the ups and downs.
+<br>
+<br>These CG Leaders certainly deserve recognition for their tireless effort
+as they often work behind the scenes, encourage their peers and provide
+support to others while juggling their own heavy commitments. While their
+leadership journey in TMJC may be coming to an end, the wonderful memories
+and lessons learnt will surely stay with them for a long time.
+<br>
+<br>May their growth as a CG leader mark the beginning of yet another chapter
+of inspiring leadership and meaningful learning. Wishing you all the best,
+6th TMJC Civics Group Leaders!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_CGLeaders_01.jpg">
+</div>
+<h4>Student Leaders’ Investiture 2024</h4>
+<p>Student Leaders’ Investiture, held on 18 July, was a significant ceremony
+to recognise our newly elected 7th TMJC Student Leaders, comprising Civics
+Group Leaders (CG Chairpersons and Peer Support Leaders), CCA Leaders,
+and Tampines Meridian Student Council (TMSC).
+<br>
+<br>The theme for this year’s Investiture is “Aspiring Constellations”. “Aspiring”
+evokes the pursuit of grand dreams, embodying the vision and commitment
+to excellence that TMJC student leaders aspire to. “Constellations” serve
+as a powerful symbol of the boundless possibilities and challenges that
+TMJC student leaders confront with a courageous attitude.
+<br>
+<br>The ceremony began with the highly anticipated and energetic Student Leaders’
+Walk-in, followed by an opening address by our Principal, Mr Sin, to encourage
+our student leaders as they embark on their leadership journey. Thereafter,
+a video montage depicting the fulfilling times which the student leaders
+had thus far was shown, followed by speeches from the 6th Tampines Meridian
+Student Council President, Samara Marguerita Joseph (23A201), and the 7th
+Tampines Meridian Student Council President, Akram Syahid Bin Salim (24S203).
+The Badge-presentation and Oath-taking ceremony followed thereafter, symbolising
+the start of our student leaders’ leadership journeys.
+<br>
+<br>We congratulate the newly elected student leaders and may they arise like
+new stars in the skies, illuminating the journey ahead for their peers
+in TMJC.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_StudentLeadersInvestiture_01.jpg">
+</div>
 <h4>Racial Harmony Day (RHD) Commemoration 2024</h4>
 <p>Racial Harmony Day (RHD) Commemoration this year spanned 22 to 29 July
 with the theme ‘Preserving Harmony in Singapore’s Multicultural Mosaic.’
