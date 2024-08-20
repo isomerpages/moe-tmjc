@@ -21,9 +21,7 @@ well-wishes for Singapore's 59th Birthday.
 our local and global friends, transcending language barriers through interactive
 games and quizzes at Changi Airport. This experience authentically reflects
 the warmth and inclusivity of our community, creating a truly unforgettable
-Changi Experience.
-<br>
-<br>@thatsmyjc</p>
+Changi Experience.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_TMJCXCAG.jpg">
 </div>
