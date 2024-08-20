@@ -52,6 +52,20 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ong Yan Lin</strong>
+<br>Teacher (Biology)
+<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yan_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serene.jpg">
 </div>
@@ -61,6 +75,19 @@ third_nav_title: Our Staff
 <br>Teacher (Biology)
 <br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_tan@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Yin Yun Queenie</strong>
+<br>Teacher (Biology)
+<br><a href="mailto:Teo_Yin_Yun_Queenie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yin_yun_queenie@schools.gov.sg</a>'</p>
 </td>
 </tr>
 <tr>

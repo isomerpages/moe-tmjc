@@ -22,6 +22,28 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
+      title: TMJC X CAG
+      subtitle: Event Highlights
+      description: On the 2nd and 10th of August 2024, a group of students from
+        Tampines Meridian Football Girls and Taekwondo CCA had the privilege of
+        joining employees...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic_TMJCXCAG.jpg
+  - infopic:
+      title: National Day Celebrations and TM Celebrates! 2024
+      subtitle: Event Highlights
+      description: 8 August marked a day of double happiness for TMJC. On this special
+        day, our College commemorated Singapore’s 59th birthday and celebrated
+        our College’s...
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic__NationalDayTMCelebrates.jpg
+      alt: Image alt text
+  - infopic:
       title: MOE Teaching Scholarship Presentation Ceremony 2024
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
@@ -31,24 +53,4 @@ sections:
       description: The MOE Teaching Scholarship and MOE Teaching Award are offered to
         candidates with a strong passion for education and teaching.
       button: Find Out More
-  - infopic:
-      title: Defence Scholarship Awards Ceremony 2024
-      subtitle: Event Highlights
-      description: The Defence Scholarship Awards Ceremony 2024 was held on 1 August
-        2024 at the Temasek Club.
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_DefenceScholarship.jpg
-  - infopic:
-      title: 2024 Inter-school Graphing Calculator (GC) Grand Prix
-      subtitle: Event Highlights
-      description: The 2024 Inter-school Graphing Calculator (GC) Grand Prix is
-        organised by TMJC and proudly sponsored by Texas Instruments.
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_GrandPrix.jpg
-      alt: Image alt text
 ---
