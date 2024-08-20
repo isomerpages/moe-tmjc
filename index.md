@@ -33,14 +33,15 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T3_EventHighlights_Infopic_TMJCXCAG.jpg
   - infopic:
-      title: 2024 Inter-school Graphing Calculator (GC) Grand Prix
+      title: National Day Celebrations and TM Celebrates! 2024
       subtitle: Event Highlights
-      description: The 2024 Inter-school Graphing Calculator (GC) Grand Prix is
-        organised by TMJC and proudly sponsored by Texas Instruments.
+      description: 8 August marked a day of double happiness for TMJC. On this special
+        day, our College commemorated Singapore’s 59th birthday and celebrated
+        our College’s...
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_GrandPrix.jpg
+        images/2024_T3_EventHighlights_Infopic__NationalDayTMCelebrates.jpg
       alt: Image alt text
   - infopic:
       title: MOE Teaching Scholarship Presentation Ceremony 2024
