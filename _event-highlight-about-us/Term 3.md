@@ -4,6 +4,57 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>TMJC X CAG</h4>
+<p>On the 2nd and 10th of August 2024, a group of students from Tampines
+Meridian Football Girls and Taekwondo CCA had the privilege of joining
+employees from Changi Airport Group for an amazing volunteering experience
+to support all the athletes participating in the 2024 Olympics.
+<br>
+<br>Our students curated a set of football and taekwondo-related questions
+to engage with visitors in the transit areas of Terminals 1 and 2. The
+taekwondo team also put up a series of amazing showcases, delighting the
+visitors. Following this, we captured moments through group photos to demonstrate
+our unwavering support for the athletes in the Olympics and to convey heartfelt
+well-wishes for Singapore's 59th Birthday.
+<br>
+<br>It was truly heartening to witness the establishment of friendships among
+our local and global friends, transcending language barriers through interactive
+games and quizzes at Changi Airport. This experience authentically reflects
+the warmth and inclusivity of our community, creating a truly unforgettable
+Changi Experience.
+<br>
+<br>@thatsmyjc</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_TMJCXCAG.jpg">
+</div>
+<h4>National Day Celebrations and TM Celebrates! 2024</h4>
+<p>8 August marked a day of double happiness for TMJC. On this special day,
+our College commemorated Singapore’s 59th birthday and celebrated our College’s
+6th birthday alongside staff and students from CPAS. Students and staff
+were treated to a morning filled with fun and learning with the theme ‘Together,
+As One United People’.
+<br>
+<br>Part 1 of the day’s event commemorated the strength of the nation through
+a special flag-raising ceremony that symbolised Singapore’s independence.
+The dignified march-in by the 7th TMSC Exco was complemented by a rousing
+rendition of the National Anthem played live by the Band.
+<br>
+<br>Part 2 of the event celebrated the vitality of college life through exciting
+carnival and traditional games organised by the CGs and CCAs. To enhance
+the festive mood, external food vendors were engaged to dispense traditional
+local and international snack items like rainbow ice cream, muah chee and
+churros.
+<br>
+<br>Finally, Part 3 saw the joyous culmination of the event where the College
+came together as one in the hall for a series of special CCA performances
+and video montages that reflected National and College values such as resilience
+and harmony. The event ended on a high with an impassioned National Day
+Song sing-along segment and a dynamic balloon drop, where balloons containing
+the hopes and dreams TMJCians penned for Singapore were released. What
+a memorable way to end the day's celebrations!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_NationalDayTMCelebrates.jpg">
+</div>
 <h4>MOE Teaching Scholarship Presentation Ceremony 2024</h4>
 <p>The MOE Teaching Scholarship and MOE Teaching Award are offered to candidates
 with a strong passion for education and teaching.
