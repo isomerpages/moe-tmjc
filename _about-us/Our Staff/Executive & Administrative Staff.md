@@ -426,6 +426,20 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Jazlyn Seet Ling Shi</strong>
+<br>School Counsellor
+<br><a href="mailto:Jazlyn_Seet_Ling_Shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jazlyn_seet_ling_shi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Wendy.jpg">
 </div>
