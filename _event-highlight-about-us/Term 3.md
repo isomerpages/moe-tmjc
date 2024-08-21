@@ -73,7 +73,7 @@ the very best as you embark on a rewarding career in teaching.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_MOETeachingScholarship_01.jpg">
 </div>
-<h4>PrixDefence Scholarship Awards Ceremony 2024</h4>
+<h4>Defence Scholarship Awards Ceremony 2024</h4>
 <p>The Defence Scholarship Awards Ceremony 2024 was held on 1 August 2024
 at the Temasek Club. The ceremony featured the presentation of various
 scholarships such as the SAF Merit Scholarship and the DSTA Scholarship.
