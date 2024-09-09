@@ -177,7 +177,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Che Mariam Yussof</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:che_mariam_yussof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">che_mariam_yussof@schools.gov.sg</a>
 </p>
 </td>
@@ -194,7 +194,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nazreen Begum w/o Mohamed Halith</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a rel="noopener noreferrer nofollow" target="_blank">nazreen_begum_mohamed_halith@schools.gov.sg</a>
 </p>
 </td>
@@ -211,7 +211,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pradheepa Naidu D/O Kannan</strong>
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:pradheepa_naidu_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pradheepa_naidu_kannan@schools.gov.sg</a>
 </p>
 </td>
@@ -228,7 +228,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Rafiee Abu Bakar</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:rafiee_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafiee_abu_bakar@schools.gov.sg</a>
 </p>
 </td>
@@ -245,7 +245,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Raihan Kossain</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:raihan_kossain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raihan_kossain@schools.gov.sg</a>
 </p>
 </td>
@@ -432,7 +432,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Jazlyn Seet Ling Shi</strong>
-<br>Stem Instructor
+<br>School Counsellor
 <br><a href="mailto:Jazlyn_Seet_Ling_Shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jazlyn_seet_ling_shi@schools.gov.sg</a>
 </p>
 </td>
