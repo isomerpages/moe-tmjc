@@ -432,7 +432,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Jazlyn Seet Ling Shi</strong>
-<br>School Counsellor
+<br>Stem Instructor
 <br><a href="mailto:Jazlyn_Seet_Ling_Shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jazlyn_seet_ling_shi@schools.gov.sg</a>
 </p>
 </td>
