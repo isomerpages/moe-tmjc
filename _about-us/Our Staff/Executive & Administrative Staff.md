@@ -195,7 +195,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nazreen Begum w/o Mohamed Halith</strong> 
 <br>School Laboratory Technician
-<br><a href="mailto:nazreen_begum_mohamed_halith@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_begum_mohamed_halith@schools.gov.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">nazreen_begum_mohamed_halith@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,13 +206,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Doreen.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Pradheepa.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Poh Siok Peng Doreen</strong> 
+<p><strong>Ms  Pradheepa Naidu D/O Kannan</strong>
 <br>School Laboratory Technician
-<br><a href="mailto:poh_siok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siok_peng@schools.gov.sg</a>
+<br><a href="mailto:pradheepa_naidu_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pradheepa_naidu_kannan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
