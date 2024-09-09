@@ -210,7 +210,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms  Pradheepa Naidu D/O Kannan</strong>
+<p><strong>Ms Pradheepa Naidu D/O Kannan</strong>
 <br>School Laboratory Technician
 <br><a href="mailto:pradheepa_naidu_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pradheepa_naidu_kannan@schools.gov.sg</a>
 </p>
