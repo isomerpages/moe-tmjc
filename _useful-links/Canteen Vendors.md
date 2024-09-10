@@ -4,7 +4,7 @@ permalink: /useful-links/canteen-vendors/
 description: ""
 variant: markdown
 ---
-Tampines Meridian Junior College would like to invite applications for Canteen Stalls to operate in 2025 –  Malay Nasi Padang
+Tampines Meridian Junior College would like to invite applications for Canteen Stalls to operate in 2025 –  **Malay Nasi Padang**
 
 Our school is a single session and has an estimated enrolment of 1450.
 ##### Applicants must meet the following criteria:
