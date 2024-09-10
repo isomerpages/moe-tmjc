@@ -20,7 +20,7 @@ Our school is a single session and has an estimated enrolment of 1450.
 9) Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from **Monday 13 January 2025**
 
 ##### Application Procedures
-Interested applicant may obtain the application form from the school’s General Office or download it [here](/files/Useful%20Links/application_for_canteen_stall_in_existing_school.pdf).
+Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/application_for_canteen_stall_in_existing_school.pdf)
 
 The Application Form must be duly completed and accompanied with the following documents:<br>
 1)Photocopy of NRIC (front and back)<br>
