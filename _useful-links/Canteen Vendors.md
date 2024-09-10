@@ -2,38 +2,38 @@
 title: Canteen Vendors
 permalink: /useful-links/canteen-vendors/
 description: ""
+variant: markdown
 ---
-Tampines Meridian Junior College would like to invite application for Chinese Mixed Rice stall in 2024.  
+Tampines Meridian Junior College would like to invite applications for Canteen Stalls to operate in 2025 –  **Malay Nasi Padang**
 
-**<u>Closing Date for Applications: Friday 27 Oct 2023</u>**
+Our school is a single session and has an estimated enrolment of 1450.
+##### Applicants must meet the following criteria:
 
-Applicants must meet the following criteria:<br>
-1)	Singapore Citizens or Singapore Permanent Residents (for the stall holder and stall assistant)<br>
-2)	Able to provide Chinese mixed rice cooked food that meet the healthy/nutritional standards set by the Health Promotion Board; (Please refer to [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))<br>
-3) Able to provide good service and quality food at reasonable prices;<br>
-4) Able to observe a high standard of food and personal hygiene that meet NEA requirements; <br>
-5)	Must be in personal attendance at the stall during operating hours;<br>
-6)	Committed to operate between 6.45am to 4.00pm during school term;<br>
-7)	Both the stall holder and stall assistant must complete and pass the Basic Food Hygiene Certificate, approved by the Workforce Development Agency (WDA)<br>
-8)	Prior experience in school catering will be an advantage.
+1)Singapore Citizens or Singapore Permanent Residents (for stall holder and stall assistant);<br>
+2) Food preparation must adhere to HPB’s &nbsp;[Healthy Meals In Schools Programme (HMSP)](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) guidelines<br>
+3) Able to provide good service and quality food at reasonable prices<br>
+4) Able to observe a high standard of food and personal hygiene that meet NEA requirements<br>
+5) Must be in personal attendance at the stall during operating hours between 6.45 am to 4.00pm during school term;<br>
+6) Has obtained a Basic Food Hygiene Certificate (including Stall Assistant)<br>
+7) Prior experience in school catering will be an advantage.<br>
+8) For shortlisted applicants, there will be interview and food sampling session. Applicants may be required to submit food samples for evaluation.<br>
+9) Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from **Monday 13 January 2025**
 
-**<u>Application Procedures</u><br>**
-Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
+##### Application Procedures
+Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/application_for_canteen_stall_in_existing_school.pdf)
 
 The Application Form must be duly completed and accompanied with the following documents:<br>
-1)	Photocopy of NRIC (front and back)<br>
-2)	One recent passport-sized photograph (colour)<br>
-3)	Proposed daily menu and pricelist.<br>
-4)	Photocopies of relevant certifications and experiences
+1)Photocopy of NRIC (front and back)<br>
+2) One recent passport-sized photograph (in colour)<br>
+3) Proposed daily menu and pricelist.<br>
+4) Photocopies of relevant certifications and experiences<br>
 
-Please submit the completed form with the relevant supporting documents to the school, preferably by hand. If you are mailing out the application form, please ensure that your application will reach the school by the closing date – **<u>Friday 27 Oct 2023 at 5.00 pm.</u>**<br> Late or incomplete applications will not be considered.
+**Mode of submission:**<br>
+Email: tmjc@moe.edu.sg<br>
+Postal mail: TAMPINES MERIDIAN JUNIOR COLLEGE<br>
+21 Pasir Ris Street 7,  Singapore 518799<br> (Attn: Admin Manager Ms Sarah Ee)
 
-TAMPINES MERIDIAN JUNIOR COLLEGE<br>
-21 Pasir Ris Street 71<br>
-Singapore 518799<br>
-Attention: Ms Sarah Ee, Administration Manager<br>
-Tel: 6349 3660<br>
+**Closing Date for Applications:** <br>
+Completed form must reach the school latest by **Monday 30 September 2024 at 5.00 pm.**
 
-Only shortlisted applicants will be called up for an interview session. A basic food-sampling session, at applicant’s expense, may be requested by the school. 
-
-Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from<br> **<u>Monday 8 January 2024.</u>**
+For further enquiries, you may contact Ms Sarah during our opening hours at Tel: 63493660

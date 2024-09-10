@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Mr_Sin.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Mr_Sin.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
@@ -35,7 +35,7 @@ third_nav_title: Our Staff
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Mrs_Pang.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Mrs_Pang.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ third_nav_title: Our Staff
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Mr_Ang.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Mr_Ang.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
@@ -69,7 +69,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Ms_Yasmine.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024   SL/1_TMJC_Staff___SL_Ms_Yasmine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

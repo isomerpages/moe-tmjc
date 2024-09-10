@@ -52,6 +52,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yan_Lin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ong Yan Lin</strong>
@@ -83,6 +86,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Queenie.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Teo Yin Yun Queenie</strong>

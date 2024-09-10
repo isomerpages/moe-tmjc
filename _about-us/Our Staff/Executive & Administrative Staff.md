@@ -177,7 +177,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Che Mariam Yussof</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:che_mariam_yussof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">che_mariam_yussof@schools.gov.sg</a>
 </p>
 </td>
@@ -194,8 +194,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Nazreen Begum w/o Mohamed Halith</strong> 
-<br>School Laboratory Technician
-<br><a href="mailto:nazreen_begum_mohamed_halith@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazreen_begum_mohamed_halith@schools.gov.sg</a>
+<br>Stem Instructor
+<br><a rel="noopener noreferrer nofollow" target="_blank">nazreen_begum_mohamed_halith@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -206,13 +206,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Doreen.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Pradheepa.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Poh Siok Peng Doreen</strong> 
-<br>School Laboratory Technician
-<br><a href="mailto:poh_siok_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poh_siok_peng@schools.gov.sg</a>
+<p><strong>Ms Pradheepa Naidu D/O Kannan</strong>
+<br>Stem Instructor
+<br><a href="mailto:pradheepa_naidu_kannan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pradheepa_naidu_kannan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -228,7 +228,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Rafiee Abu Bakar</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:rafiee_abu_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rafiee_abu_bakar@schools.gov.sg</a>
 </p>
 </td>
@@ -245,7 +245,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Raihan Kossain</strong> 
-<br>School Laboratory Technician
+<br>Stem Instructor
 <br><a href="mailto:raihan_kossain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raihan_kossain@schools.gov.sg</a>
 </p>
 </td>
