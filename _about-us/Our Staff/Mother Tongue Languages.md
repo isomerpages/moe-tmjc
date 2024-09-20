@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Sze_Wei.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Sze_Wei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_David.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_David.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Siaw_Fang.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Siaw_Fang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Hui_sim.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Hui_sim.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Chee_Boon.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Chee_Boon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Twu_Yek_Chian.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Twu_Yek_Chian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Ishak_Abdul_Latif.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Ishak_Abdul_Latif.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Faten.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Faten.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +155,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Shamini.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Shamini.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
