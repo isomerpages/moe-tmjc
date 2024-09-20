@@ -22,6 +22,16 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
+      title: Live On Essay Competition 2024
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic_FestEssayWriting.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: We are excited to share that two of our students achieved
+        outstanding results in the recent Live On Essay competition.
+      button: Find Out More
+  - infopic:
       title: TMJC X CAG
       subtitle: Event Highlights
       description: On the 2nd and 10th of August 2024, a group of students from
@@ -43,14 +53,4 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T3_EventHighlights_Infopic__NationalDayTMCelebrates.jpg
       alt: Image alt text
-  - infopic:
-      title: MOE Teaching Scholarship Presentation Ceremony 2024
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_MOETeaching.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: The MOE Teaching Scholarship and MOE Teaching Award are offered to
-        candidates with a strong passion for education and teaching.
-      button: Find Out More
 ---
