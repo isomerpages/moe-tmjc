@@ -59,7 +59,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ong Yan Lin</strong>
 <br>Teacher (Biology)
-<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yan_ling@schools.gov.sg</a>
+<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yan_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
