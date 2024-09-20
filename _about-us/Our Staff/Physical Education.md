@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Joo_Yee.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Joo_Yee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Kenny.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Kenny.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Cheryl.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Cheryl.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Ying_qi.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Ying_qi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Suhaidah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Suhaidah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
