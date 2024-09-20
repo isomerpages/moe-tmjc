@@ -4,6 +4,34 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Live On Essay Competition 2024</h4>
+<p>We are excited to share that two of our students achieved outstanding
+results in the recent Live On Essay competition.</p>
+<p>Started in 2018, the Live On Festival (LOF) is an initiative started by
+the National Organ Transplant Unit, Ministry of Health. LOF encourages
+participants, in particular youths, to express their thoughts on organ
+donation and transplantation through creative art and essay writing. This
+serves as a platform for the exploration of the values of responsibility,
+compassion and empathy while exposing them to the field of organ donation
+and transplantation, integrating lessons on altruism with medicine and
+science.</p>
+<p>This year, there were over 2,800 essays submitted. Two of our students
+emerged as winners in the Open Category. They are:</p>
+<p>1) Koh Sy Chyi from 23S501 who obtained 3rd place
+<br>(<a href="https://www.liveon.gov.sg/essay-showcase.html?Essayid=448" rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=448</a>)</p>
+<p>2) Goh Ce Feng Shane from 24S401 who obtained 5th place
+<br>(<a href="https://www.liveon.gov.sg/essay-showcase.html?Essayid=450" rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=450</a>
+</p>
+<p>Our heartiest congratulations to them! We hope that everyone can take
+some time to read their essays (links appended above) which is in response
+to the topic ‘Encouraging living donations may be the key to improving
+organ donation rates. Do you agree?’ and gain deeper insights and appreciation
+about organ donation from two of our fellow TMJCians.</p>
+<p>Well done Sy Chyi and Shane!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_FestivalEssayWriting.jpg">
+</div>
 <h4>TMJC X CAG</h4>
 <p>On the 2nd and 10th of August 2024, a group of students from Tampines
 Meridian Football Girls and Taekwondo CCA had the privilege of joining
