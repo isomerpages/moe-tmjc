@@ -22,16 +22,6 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Live On Essay Competition 2024
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_FestEssayWriting.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: We are excited to share that two of our students achieved
-        outstanding results in the recent Live On Essay competition.
-      button: Find Out More
-  - infopic:
       title: TMJC X CAG
       subtitle: Event Highlights
       description: On the 2nd and 10th of August 2024, a group of students from
@@ -42,6 +32,16 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T3_EventHighlights_Infopic_TMJCXCAG.jpg
+  - infopic:
+      title: Live On Essay Competition 2024
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic_FestEssayWriting.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: We are excited to share that two of our students achieved
+        outstanding results in the recent Live On Essay competition.
+      button: Find Out More
   - infopic:
       title: National Day Celebrations and TM Celebrates! 2024
       subtitle: Event Highlights
