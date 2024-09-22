@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Lai_Mui.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Lai_Mui.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Sarah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Sarah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Azhar.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Azhar.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Hasriah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Hasriah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Ambiga.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Ambiga.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Bee_Hong.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Bee_Hong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Lay_See.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Lay_See.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chelvi.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chelvi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +155,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jean.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jean.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +172,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Mariam.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Mariam.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +189,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Nazreen.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Nazreen.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Pradheepa.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Pradheepa.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Rafiee.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Rafiee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +240,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Raihan.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Raihan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Noorhayati.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Noorhayati.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,7 +274,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Rashidah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Rashidah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,7 +291,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jenny.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jenny.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,7 +308,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Zaharina.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Zaharina.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,7 +325,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chua.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chua.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,7 +342,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chu_Yee_Kiew.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chu_Yee_Kiew.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -359,7 +359,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Nurwaty.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Nurwaty.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -376,7 +376,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_roslina.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_roslina.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -393,7 +393,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Suriya.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Suriya.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -410,7 +410,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Tan_Tiong_Seng.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Tan_Tiong_Seng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -427,7 +427,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jazlyn.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jazlyn.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,7 +444,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Wendy.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Wendy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +461,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Denna.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Denna.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

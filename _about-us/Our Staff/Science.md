@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yew_Wei.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yew_Wei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Sunny.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Sunny.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,13 +53,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yan_Lin.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yan_Lin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ong Yan Lin</strong>
 <br>Teacher (Biology)
-<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yan_ling@schools.gov.sg</a>
+<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yan_lin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -70,7 +70,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serene.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serene.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Queenie.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Queenie.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Silvia.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Silvia.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -120,7 +120,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +137,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,7 +154,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,7 +171,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Zhengyu.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Zhengyu.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,7 +188,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Derek.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Derek.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,7 +205,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Eugene_Choon.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Eugene_Choon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,7 +222,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_May_Ling.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_May_Ling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -256,7 +256,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hartini.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hartini.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -273,7 +273,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serena.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serena.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -290,7 +290,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Si_Qin.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Si_Qin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +307,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Daniel_Nah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Daniel_Nah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -324,7 +324,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kevin.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kevin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,7 +341,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yong_Yao.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yong_Yao.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -358,7 +358,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hoe_Sing.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hoe_Sing.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -375,7 +375,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Jeremy.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Jeremy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,7 +392,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -409,7 +409,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,7 +426,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -443,7 +443,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Adrian.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Adrian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -460,7 +460,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kok_Hwee.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kok_Hwee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -477,7 +477,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hoong_Yoong.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hoong_Yoong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -494,7 +494,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Geraldine.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Geraldine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -511,7 +511,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cher_Cheng.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cher_Cheng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -528,7 +528,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Joseph.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Joseph.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -545,7 +545,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Zhong_Wei.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Zhong_Wei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -562,7 +562,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Jin_Chang.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Jin_Chang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

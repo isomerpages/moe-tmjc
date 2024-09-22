@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kat_Wei.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kat_Wei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,7 +53,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,7 +70,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jasmine.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jasmine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Deepa.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Deepa.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Aslindah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Aslindah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sophil.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sophil.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +138,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Max.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Max.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +155,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Ee_Ling.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Ee_Ling.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +172,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -189,7 +189,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jacqueline.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jacqueline.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Joey.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Joey.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kristianne.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kristianne.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +240,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Khoon_Liang.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Khoon_Liang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +257,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Norzian.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Norzian.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,7 +274,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Vanessa_Tan.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Vanessa_Tan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -291,7 +291,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Soo_Lin.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Soo_Lin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,7 +307,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Geraldine.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Geraldine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
