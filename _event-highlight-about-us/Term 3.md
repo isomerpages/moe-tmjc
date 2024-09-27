@@ -4,6 +4,23 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h4>Teachers' Day</h4>
+<p>TMJC held our Teachers’ Day Celebrations on 23 August 2024, one week earlier
+than the actual date so that both cohorts could be present to celebrate
+the heart work put in by all teachers. The theme for Teachers’ Day Celebrations
+this year, “Enchantia #TeachingisMagic”, was chosen to honor our incredible
+teachers who ignite the magic of learning and inspire students to achieve
+the impossible!
+<br>
+<br>The highlight of the celebrations featured teachers dazzling in magical
+costumes on the runway, while thrilling performances from the Chinese Orchestra,
+Guitar Ensemble, Taekwondo, Modern Dance, and Drama Club brought Shel Silverstein’s
+The Giving Tree to life. It was certainly an enchanting day to celebrate
+the magic that our teachers do for our students!</p>
+<p>Happy Teachers’ Day to all!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T3_Events_TeachersDay_01.jpg">
+</div>
 <h4>Live On Essay Competition 2024</h4>
 <p>We are excited to share that two of our students achieved outstanding
 results in the recent Live On Essay competition.</p>
