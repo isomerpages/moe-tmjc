@@ -22,6 +22,17 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
+      title: Teachers' Day 2024
+      subtitle: Event Highlights
+      description: TMJC held our Teachers’ Day Celebrations on 23 August 2024, one
+        week earlier than the actual date so that both cohorts could be present
+        to celebrate...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic_TeachersDay.jpg
+  - infopic:
       title: Live On Essay Competition 2024
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
@@ -42,15 +53,4 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T3_EventHighlights_Infopic__NationalDayTMCelebrates.jpg
       alt: Image alt text
-  - infopic:
-      title: TMJC X CAG
-      subtitle: Event Highlights
-      description: On the 2nd and 10th of August 2024, a group of students from
-        Tampines Meridian Football Girls and Taekwondo CCA had the privilege of
-        joining employees...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_TMJCXCAG.jpg
 ---
