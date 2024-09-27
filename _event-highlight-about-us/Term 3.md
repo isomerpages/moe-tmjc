@@ -4,7 +4,7 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h4>Teachers' Day</h4>
+<h4>Teachers' Day 2024</h4>
 <p>TMJC held our Teachers’ Day Celebrations on 23 August 2024, one week earlier
 than the actual date so that both cohorts could be present to celebrate
 the heart work put in by all teachers. The theme for Teachers’ Day Celebrations
