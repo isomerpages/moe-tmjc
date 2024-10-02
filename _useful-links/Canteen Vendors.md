@@ -4,7 +4,7 @@ permalink: /useful-links/canteen-vendors/
 description: ""
 variant: markdown
 ---
-Tampines Meridian Junior College would like to invite applications for Canteen Stalls to operate in 2025 –  **Malay Nasi Padang**
+Tampines Meridian Junior College would like to invite applications for Canteen Stalls to operate in 2025 –  **Malay Cooked Food**
 
 Our school is a single session and has an estimated enrolment of 1450.
 ##### Applicants must meet the following criteria:
@@ -34,6 +34,6 @@ Postal mail: TAMPINES MERIDIAN JUNIOR COLLEGE<br>
 21 Pasir Ris Street 7,  Singapore 518799<br> (Attn: Admin Manager Ms Sarah Ee)
 
 **Closing Date for Applications:** <br>
-Completed form must reach the school latest by **Monday 30 September 2024 at 5.00 pm.**
+Completed form must reach the school latest by **Wednesday 30 October 2024 at 5.00 pm.**
 
 For further enquiries, you may contact Ms Sarah during our opening hours at Tel: 63493660
