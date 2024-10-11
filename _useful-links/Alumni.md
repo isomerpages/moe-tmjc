@@ -13,7 +13,7 @@ _Please login to TMJC Gmail Account to access the Google Site_
 ### Contact Details
 
 _Contact Details:_  <br>
-Subject Head | Partnerships (Covering) – Mr Gohel Amarsinh (Brandon) <br>
+ – Mr Gohel Amarsinh (Brandon) <br>
 [gohel\_amarsinh@schools.gov.sg](mailto:gohel_amarsinh@schools.gov.sg)
 
 TMJC Alumni Executive Committee&nbsp;<br> [tmjcalumni@gmail.com](mailto:tmjcalumni@gmail.com)
