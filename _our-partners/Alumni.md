@@ -2,6 +2,7 @@
 title: Alumni
 permalink: /our-partners/alumni/
 description: ""
+variant: markdown
 ---
 ### Partnering our Alumni
 
@@ -13,12 +14,10 @@ They are: </center>
 ![](/images/Alumni.jpeg)
 ![](/images/alumni%202.jpeg)
 
-The Alumni Executive Committee can be contacted at [tmjcalumni@gmail.com](mailto:tmjcalumni@gmail.com).
+The Alumni Executive Committee can be contacted at&nbsp;[tmjcalumni@gmail.com](mailto:tmjcalumni@gmail.com).
 
-_updated on 21 September 2021_
 
 ### Alumni Newsletters
 
 * [# Issue 1/2022](/files/TMJC%20Alumni%20Newsletter%202022%201.pdf)
 
- _updated on 18 April 2022_
