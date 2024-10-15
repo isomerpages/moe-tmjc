@@ -213,7 +213,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Kong Seng Frederick</strong>
 <br>Teacher (Mathematics)
-<br><a href="mailto:frederick_chua_kong_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">frederick_chua@schools.gov.sg</a>
+<br><a href="mailto:frederick_chua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">frederick_chua@schools.gov.sg</a>
 </p>
 </td>
 </tr>
