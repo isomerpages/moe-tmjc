@@ -3,9 +3,9 @@ title: Day 1 Message 2020
 permalink: /about-us/Principals-Message/day-1-message-2020/
 description: ""
 third_nav_title: Principal's Message
+variant: markdown
 ---
-<img src="/images/Ms%20Yoong%202020_Edited.jpeg" 
-     style="width:25%" align="right">
+<img src="/images/Ms%20Yoong%202020_Edited.jpeg" style="width:25%" align="right">
 		 
 Time flies.
 
@@ -15,7 +15,7 @@ As an educator, we have that privilege to see our students, cohort after cohort,
 
 For as long as I have been Principal, I have always used stories in my message to illustrate our focus and theme for the year. So, in the typical Ms Yoong’s style, and since it is 2020, I have selected not 1 but 2 short stories this year.
 
-(both stories are edited from [http://www.rogerdarlington.me.uk/stories.html](http://www.rogerdarlington.me.uk/stories.html))
+(both stories are edited from&nbsp;[http://www.rogerdarlington.me.uk/stories.html](http://www.rogerdarlington.me.uk/stories.html))
 
 The first is entitled, “Every bucket counts”.
 
@@ -33,21 +33,21 @@ These 2 stories serve to remind us some valuable truths about life and our respo
 
 The questions we should ask ourselves would be:
 
-(1)  Do we do the good and the right things only when it can be seen or observed?
+(1)&nbsp;&nbsp;Do we do the good and the right things only when it can be seen or observed?
 
-(2)  When challenges come our way, how do we respond? Do we complain, put the blame on others, expect someone else to do something OR do we take up the challenge to do something to make the situation better, and in so doing, serving not just ourselves but others as well?
+(2)&nbsp;&nbsp;When challenges come our way, how do we respond? Do we complain, put the blame on others, expect someone else to do something OR do we take up the challenge to do something to make the situation better, and in so doing, serving not just ourselves but others as well?
 
 Our theme for 2020 is “Be Better”. TMJC wants to “Be Better” in 2020.
 
-This theme is chosen because of who we are and who we are to become. Firstly,the theme speaks of discontentment. We stand on the shoulders of 2 established institutions, TPJC and MJC and we know we are richly blessed with the heritage of two lovely and beautiful colleges. We do not start from nothing. But that said, we do not assume either. We know the future is for us to create for ourselves. Secondly, “Be Better” is a rally call for action. It is not a command. It is something we say to ourselves and not a shout at ourselves. We are committed to ‘be better’ daily. 
+This theme is chosen because of who we are and who we are to become. Firstly,the theme speaks of discontentment. We stand on the shoulders of 2 established institutions, TPJC and MJC and we know we are richly blessed with the heritage of two lovely and beautiful colleges. We do not start from nothing. But that said, we do not assume either. We know the future is for us to create for ourselves. Secondly, “Be Better” is a rally call for action. It is not a command. It is something we say to ourselves and not a shout at ourselves. We are committed to ‘be better’ daily.&nbsp;
 
 So “Be Better” is not about living in the past or that which is to come. It is about the present, that we choose and work on ‘being better’ now - always being the better version of yesterday. And each day, we ARE the better version.
 
 It is not outdoing others, but outdoing ourselves. We decide for ourselves and we outdo ourselves:
 
-(1) in **doing** the duties and tasks assigned and
+(1) in&nbsp;**doing**&nbsp;the duties and tasks assigned and
 
-(2) in **being** by caring for ourselves and in caring for and serving others
+(2) in&nbsp;**being**&nbsp;by caring for ourselves and in caring for and serving others
 
 So my dear students and potential students reading this, I end with this quote; “Every day is a day you can be a better person than you were yesterday.” I know you understand and will reflect on this theme, personalise it and make it meaningful in the year ahead of you.  
   
@@ -57,4 +57,4 @@ Principal
 Note to potential students: Join us if you want to find that “better” version of yourself… trust me, here in TMJC, you will = )
 
   
-_updated on 6 January 2020_
+_updated on&nbsp;6 January 2020_
