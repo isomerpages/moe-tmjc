@@ -13,7 +13,7 @@ To achieve the learning outcomes of PW and to prepare students for the future, T
 
 Students also get to attend various programmes, such as workshops that equip students with the necessary soft and hard skills. These include workshops such as the basics of 3D modelling and the essentials of evaluative writing. The PW Team Leaders also undergo the PW Team Leader Seminars to raise their leadership awareness and competencies. The Leadership Challenge Model, developed by Kouzes and Posner, is adopted and modified to the PW context, with an added focus on Conflict Resolution. In addition, to support students’ independent learning, Independent Learning Modules (ILMs) may also be introduced at various junctures of the students’ PW journey.
 
-For more information on the H1 Project Work syllabus, please click 
+For more information on the H1 Project Work syllabus, please click here
 
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Project%20Work/Powerpoint%20Skills%20Workshop.jpg)
 
