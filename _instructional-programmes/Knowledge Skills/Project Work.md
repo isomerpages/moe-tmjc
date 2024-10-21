@@ -40,7 +40,7 @@ with an added focus on Conflict Resolution. In addition, to support students’
 independent learning, Independent Learning Modules (ILMs) may also be introduced
 at various junctures of the students’ PW journey.</p>
 <p>For more information on the H1 Project Work syllabus:
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8808_y21_sy.pdf" rel="noopener nofollow" target="_blank">Project Work (Syllabus 8808) </a>
+<br><a href="/files/Our Total Curriculum/Instructional Programmes/Project_Work_H1_Syllabus_8808.pdf" rel="noopener nofollow" target="_blank">Project Work H1 Syllabus 8808</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Project%20Work/Powerpoint%20Skills%20Workshop.jpg">
