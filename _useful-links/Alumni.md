@@ -7,7 +7,7 @@ variant: markdown
 * [To Update Contact Details with TMJC](https://go.gov.sg/e6s5fl)
 * [BrightSparks (Scholarship Information)](https://brightsparks.com.sg/)
 
-* [TMJC Education &amp; Career Guidance](https://go.gov.sg/tmjcecg)
+* [TMJC Education &amp; Career Guidance](https://go.gov.sg/tmjcecg)<br>
 _Please login to TMJC Gmail Account to access the Google Site_
 
 ### Contact Details
