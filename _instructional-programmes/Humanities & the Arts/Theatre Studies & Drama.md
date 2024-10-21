@@ -90,10 +90,7 @@ as well as ability to respond critically to creative stimuli.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Theatre%20Studies%20and%20Drama/tsd%20design%20strand%20coursework%20exhibition.jpg">
 </div>
 <p>TSD Design Strand Coursework Exhibition</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Theatre%20Studies%20and%20Drama/tmjc%20tsd%20dsa%20(18%20jul%202020,%20st%20insider).PNG">
-</div>
-<p>TMJC TSD DSA (18 Jul 2020, ST Insider)</p>
+<p></p>
 <p><a href="https://youtu.be/DMtirhnI9Uw" rel="noopener noreferrer nofollow" target="_blank">TMJC TSD | About Us - Coursework Trailer</a>
 </p>
 <p><a href="https://www.youtube.com/watch?v=pUQEGFAJWNE&amp;t=3s" rel="noopener noreferrer nofollow" target="_blank">TMJC TSD | About Us - Students' Journey</a>
