@@ -3,6 +3,7 @@ title: Malay Language Elective Programme (MLEP)
 permalink: /our-total-curriculum/instructional-programmes/moe-elective-programmes/mlep/
 description: ""
 third_nav_title: MOE Elective Programmes
+variant: markdown
 ---
 Tampines Meridian Junior College is one of the five junior colleges to offer the Malay Language Elective Programme (MLEP). Started in 2001 in our parent college, Tampines Junior College, MLEP aims to nurture the talent of students who have the interest and inclination to study the Malay language so as to attain a higher level of proficiency and better understanding of the Malay language, literature, and culture. The two-year programme in Tampines Meridian Junior College prepares students to take H2 Malay Language and Literature. In addition to being taught to think and analyse critically about pertinent social issues, students are introduced to modern Malay literature as part of the H2 Malay Language and Literature syllabus.  
   
@@ -11,7 +12,7 @@ Through these authentic learning experiences, the College aims to cultivate Mala
   
 For more information on the MLEP Programme: 
 
-* [MOE Malay Language Elective Programme](https://www.moe.gov.sg/programmes/mlep-jc)
+* [MOE Malay Language Elective Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/mlep-jc)
 
 
 ![](/images/TMJC-OurCurriculum_IP_MLEP_01.jpeg)
