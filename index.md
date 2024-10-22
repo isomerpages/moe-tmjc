@@ -22,17 +22,6 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Student Leaders’ Congress
-      subtitle: Event Highlights
-      description: On 8 October, the Student Leadership Committee held our annual
-        Student Leaders’ Congress. The theme for this year was "Empowering Youth
-        of Tomorrow".
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T4_EventHighlights_JC1StudentLeadersCongress.jpg
-      alt: Image alt text
-  - infopic:
       title: SG Perspectives (Staff)
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
@@ -43,6 +32,17 @@ sections:
         Permanent Secretary (Home Affairs Development, and Social and Family
         Development) Mr Aubeck Kam
       button: Find Out More
+  - infopic:
+      title: Student Leaders’ Congress
+      subtitle: Event Highlights
+      description: On 8 October, the Student Leadership Committee held our annual
+        Student Leaders’ Congress. The theme for this year was "Empowering Youth
+        of Tomorrow".
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T4_EventHighlights_JC1StudentLeadersCongress.jpg
+      alt: Image alt text
   - infopic:
       title: Teachers' Day 2024
       subtitle: Event Highlights
