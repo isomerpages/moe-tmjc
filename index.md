@@ -22,25 +22,15 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: Teachers' Day 2024
-      subtitle: Event Highlights
-      description: TMJC held our Teachers’ Day Celebrations on 23 August 2024, one
-        week earlier than the actual date so that both cohorts could be present
-        to celebrate...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_TeachersDay.jpg
-  - infopic:
-      title: Live On Essay Competition 2024
+      title: SG Perspectives (Staff) with Mr Aubeck Kam
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_FestEssayWriting.jpg
+        images/2024_T4_EventHighlights_SGPerspectives.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: We are excited to share that two of our students achieved
-        outstanding results in the recent Live On Essay competition.
+      description: On 11 October, our teachers had the unique privilege of engaging
+        Permanent Secretary (Home Affairs Development, and Social and Family
+        Development)...
       button: Find Out More
   - infopic:
       title: National Day Celebrations and TM Celebrates! 2024
@@ -53,4 +43,15 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2024_T3_EventHighlights_Infopic__NationalDayTMCelebrates.jpg
       alt: Image alt text
+  - infopic:
+      title: Teachers' Day 2024
+      subtitle: Event Highlights
+      description: TMJC held our Teachers’ Day Celebrations on 23 August 2024, one
+        week earlier than the actual date so that both cohorts could be present
+        to celebrate...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T3_EventHighlights_Infopic_TeachersDay.jpg
 ---
