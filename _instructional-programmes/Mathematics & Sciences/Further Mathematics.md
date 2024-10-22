@@ -3,8 +3,10 @@ title: Further Mathematics
 permalink: /our-total-curriculum/instructional-programmes/mathematics-n-sciences/further-mathematics/
 description: ""
 third_nav_title: Mathematics & Sciences
+variant: markdown
 ---
 H2 Further Mathematics is offered as a subject to better cater to the abilities and needs of mathematically-able students. Topics selected for H2 Further Mathematics aim to deepen and broaden students’ knowledge of mathematics and mathematical methods. Students are exposed to useful models and applications in sciences, engineering and computing (e.g. numerical methods, matrices and linear spaces, and additional probability distribution models). Students who offer H2 Further Mathematics must also offer H2 Mathematics.  
+
 Teachers employ a wide range of pedagogies in classroom teaching. Teachers guide students to construct their own understanding, deepen their conceptual understanding of mathematics and strengthen their metacognitive skills using the constructivist approach. Teachers strengthen students’ mathematical process and metacognitive skills through the design of appropriate learning experiences, including the use of real-world contexts and applications of mathematics.
 
   

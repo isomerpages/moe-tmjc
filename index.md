@@ -22,6 +22,28 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
+      title: SG Perspectives (Staff)
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T4_EventHighlights_SGPerspectives.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: On 11 October, our teachers had the unique privilege of engaging
+        Permanent Secretary (Home Affairs Development, and Social and Family
+        Development) Mr Aubeck Kam
+      button: Find Out More
+  - infopic:
+      title: Student Leaders’ Congress
+      subtitle: Event Highlights
+      description: On 8 October, the Student Leadership Committee held our annual
+        Student Leaders’ Congress. The theme for this year was "Empowering Youth
+        of Tomorrow".
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2024_T4_EventHighlights_JC1StudentLeadersCongress.jpg
+      alt: Image alt text
+  - infopic:
       title: Teachers' Day 2024
       subtitle: Event Highlights
       description: TMJC held our Teachers’ Day Celebrations on 23 August 2024, one
@@ -32,25 +54,4 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T3_EventHighlights_Infopic_TeachersDay.jpg
-  - infopic:
-      title: Live On Essay Competition 2024
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_FestEssayWriting.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: We are excited to share that two of our students achieved
-        outstanding results in the recent Live On Essay competition.
-      button: Find Out More
-  - infopic:
-      title: National Day Celebrations and TM Celebrates! 2024
-      subtitle: Event Highlights
-      description: 8 August marked a day of double happiness for TMJC. On this special
-        day, our College commemorated Singapore’s 59th birthday and celebrated
-        our College’s...
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic__NationalDayTMCelebrates.jpg
-      alt: Image alt text
 ---
