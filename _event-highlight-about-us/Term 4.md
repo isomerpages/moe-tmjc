@@ -4,6 +4,25 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Explore! Copenhagen 2024 Exchange</h3>
+<p>From 4 to 8 October, participants of the upcoming Explore! Copenhagen
+2024 trip had the pleasure of hosting students from Rysensteen Gymnasium,
+Denmark. Our students provided their Danish counterparts a first-hand experience
+of life in Singapore through a weekend homestay experience.</p>
+<p>On 7 October, as part of their trip’s anthropological focus, the Danish
+students and their local buddies participated in the Faithful Footprints
+Interfaith Heritage Learning Journey conducted by Humanity Matters to learn
+about Singapore’s rich multicultural heritage. The programme aimed to help
+participants understand Singapore's unique model of multiculturalism through
+experiential journeys to religious sites in the Bencoolen area where participants
+learnt stories of the contributions and collaborations of pioneer migrant
+and faith communities. Our Danish friends’ immersion into the Singaporean
+way of life culminated in their participation in the Student Leaders’ Congress
+organised by the College’s Student Leadership Committee. Danish students
+and TM student leaders broadened their perspectives through dialoguing
+and learning about the shared challenges of nation-building. A wonderful
+time of cross-cultural interaction and learning was had by all!</p>
+<p></p>
 <h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
 <p>On 11 October, our teachers had the unique privilege of engaging Permanent
 Secretary (Home Affairs Development, and Social and Family Development)
