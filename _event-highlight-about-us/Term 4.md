@@ -4,6 +4,35 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>JC2 Awards Ceremony and Farewell Assembly 2024</h3>
+<p>On 11 October 2024, we bade farewell to our students from the Class of
+2024. The day started with the unveiling of the Stairway to Excellence
+Mural, where students from the graduating cohort designed a beautiful mural
+for the staircase risers of the first flight of steps of the spiral staircase.
+The mural represents not just the cohort’s achievements, but also their
+commitment to excellence as they embark on their journey beyond TMJC.</p>
+<p>The next segment was the Awards Ceremony, where the cohort celebrated
+the achievements of their peers in both academic and co-curricular areas.
+It was a joyous occasion where all JC2 students gathered in the hall to
+cheer on their friends who were recognised for their contributions and
+accomplishments.&nbsp;</p>
+<p>The third highlight of the day was the Farewell Assembly programme. It
+commenced with Mr Sin’s opening address where he shared his well-wishes
+and gave valuable advice to the cohort. The juniors then shared their deepest
+appreciation to their seniors for their guidance and support in welcoming
+them to their respective CCA groups. Loud cheers rang through the hall
+when it was the teachers’ turn to deliver their heartfelt messages for
+the JC2 students through captivating, sentimental videos and mesmerising
+live choreographed performances. The event ended on a high with the College
+Anthem, College 'O' cheer and College ‘Satu Nada’ cheer with our well-loved
+College mascot, Skye.&nbsp;</p>
+<p>Each student was given our beloved TMJC Skye plushie as a meaningful memento
+to remember their TMJC experience. Student Leaders also received a specially
+crafted Skye mug in appreciation of their service and contribution to our
+College.</p>
+<p>From the bottom of our hearts, we wish the graduating cohort all the best
+for their A-Levels and their future endeavours. TM Boleh!</p>
+<p></p>
 <h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
 <p>On 11 October, our teachers had the unique privilege of engaging Permanent
 Secretary (Home Affairs Development, and Social and Family Development)
