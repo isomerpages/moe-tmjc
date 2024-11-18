@@ -4,7 +4,6 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<p></p>
 <h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
 <p>On 11 October, our teachers had the unique privilege of engaging Permanent
 Secretary (Home Affairs Development, and Social and Family Development)
@@ -103,7 +102,4 @@ and TM student leaders broadened their perspectives through dialoguing
 and learning about the shared challenges of nation-building. A wonderful
 time of cross-cultural interaction and learning was had by all!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_Home_away_from_Home.png">
-</div>
 <p></p>
