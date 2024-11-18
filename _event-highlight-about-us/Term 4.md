@@ -4,24 +4,6 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Explore! Copenhagen 2024 Exchange</h3>
-<p>From 4 to 8 October, participants of the upcoming Explore! Copenhagen
-2024 trip had the pleasure of hosting students from Rysensteen Gymnasium,
-Denmark. Our students provided their Danish counterparts a first-hand experience
-of life in Singapore through a weekend homestay experience.</p>
-<p>On 7 October, as part of their trip’s anthropological focus, the Danish
-students and their local buddies participated in the Faithful Footprints
-Interfaith Heritage Learning Journey conducted by Humanity Matters to learn
-about Singapore’s rich multicultural heritage. The programme aimed to help
-participants understand Singapore's unique model of multiculturalism through
-experiential journeys to religious sites in the Bencoolen area where participants
-learnt stories of the contributions and collaborations of pioneer migrant
-and faith communities. Our Danish friends’ immersion into the Singaporean
-way of life culminated in their participation in the Student Leaders’ Congress
-organised by the College’s Student Leadership Committee. Danish students
-and TM student leaders broadened their perspectives through dialoguing
-and learning about the shared challenges of nation-building. A wonderful
-time of cross-cultural interaction and learning was had by all!</p>
 <p></p>
 <h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
 <p>On 11 October, our teachers had the unique privilege of engaging Permanent
@@ -70,6 +52,22 @@ for their A-Levels and their future endeavours. TM Boleh!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_JC2_Farewell.png">
 </div>
+<h3>TMJC Higher Education and Careers Fest 2024</h3>
+<p>On 9 Oct 2024, our students took part in a valuable higher education and
+career exploration day.&nbsp;</p>
+<p>It kicked off with an informative SkillsFuture Advice workshop, where
+they learnt about industry trends, emerging skills, and useful resources
+to help them make informed decisions about their future career. The highlight
+was the bustling higher education and careers fair, where students, along
+with many parents, had the opportunity to engage with industry representatives
+and explore different exciting pathways. The day wrapped up with insightful
+sharing sessions by industry professionals, giving students a more concrete
+understanding of the different careers.&nbsp;</p>
+<p>We're hopeful that this experience has provided our students with useful
+information and motivation as they consider their future paths. It was
+encouraging to see their active participation and interest throughout the
+day's activities.</p>
+<p></p>
 <h3>Student Leaders’ Congress</h3>
 <p>On 8 October, the Student Leadership Committee held our annual Student
 Leaders’ Congress. The theme for this year was "Empowering Youth of Tomorrow".
@@ -85,5 +83,27 @@ future for the community and nation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_JC1StudentLeadersCongress_01.jpg">
+</div>
+<h3>Explore! Copenhagen 2024 Exchange</h3>
+<p>From 4 to 8 October, participants of the upcoming Explore! Copenhagen
+2024 trip had the pleasure of hosting students from Rysensteen Gymnasium,
+Denmark. Our students provided their Danish counterparts a first-hand experience
+of life in Singapore through a weekend homestay experience.</p>
+<p>On 7 October, as part of their trip’s anthropological focus, the Danish
+students and their local buddies participated in the Faithful Footprints
+Interfaith Heritage Learning Journey conducted by Humanity Matters to learn
+about Singapore’s rich multicultural heritage. The programme aimed to help
+participants understand Singapore's unique model of multiculturalism through
+experiential journeys to religious sites in the Bencoolen area where participants
+learnt stories of the contributions and collaborations of pioneer migrant
+and faith communities. Our Danish friends’ immersion into the Singaporean
+way of life culminated in their participation in the Student Leaders’ Congress
+organised by the College’s Student Leadership Committee. Danish students
+and TM student leaders broadened their perspectives through dialoguing
+and learning about the shared challenges of nation-building. A wonderful
+time of cross-cultural interaction and learning was had by all!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_Home_away_from_Home.png">
 </div>
 <p></p>
