@@ -32,7 +32,9 @@ crafted Skye mug in appreciation of their service and contribution to our
 College.</p>
 <p>From the bottom of our hearts, we wish the graduating cohort all the best
 for their A-Levels and their future endeavours. TM Boleh!</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_JC2_Farewell.png">
+</div>
 <h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
 <p>On 11 October, our teachers had the unique privilege of engaging Permanent
 Secretary (Home Affairs Development, and Social and Family Development)
