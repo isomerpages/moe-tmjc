@@ -4,6 +4,22 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
+<p>On 11 October, our teachers had the unique privilege of engaging Permanent
+Secretary (Home Affairs Development, and Social and Family Development)
+Mr Aubeck Kam in dialogue as part of the SG Perspectives Programme which
+seeks to broaden perspectives on contemporary issues that impact Singapore.
+Permanent Secretary Kam spoke on the challenges and importance of “Securing
+the Future of Homeland Security in Singapore.” The staff gained an insight
+into the crucial role that they can play in educating students on issues
+of national concern such as online youth self-radicalisation and the increase
+in young drug offenders. The College would like to thank PS Kam for the
+enriching session. The College would also like to thank the Ministry of
+Education Character &amp; Citizenship Education Branch for co-organising
+this dialogue for the benefit of our teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_SGPerspectives_01.jpg">
+</div>
 <h3>JC2 Awards Ceremony and Farewell Assembly 2024</h3>
 <p>On 11 October 2024, we bade farewell to our students from the Class of
 2024. The day started with the unveiling of the Stairway to Excellence
@@ -34,22 +50,6 @@ College.</p>
 for their A-Levels and their future endeavours. TM Boleh!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_JC2_Farewell.png">
-</div>
-<h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
-<p>On 11 October, our teachers had the unique privilege of engaging Permanent
-Secretary (Home Affairs Development, and Social and Family Development)
-Mr Aubeck Kam in dialogue as part of the SG Perspectives Programme which
-seeks to broaden perspectives on contemporary issues that impact Singapore.
-Permanent Secretary Kam spoke on the challenges and importance of “Securing
-the Future of Homeland Security in Singapore.” The staff gained an insight
-into the crucial role that they can play in educating students on issues
-of national concern such as online youth self-radicalisation and the increase
-in young drug offenders. The College would like to thank PS Kam for the
-enriching session. The College would also like to thank the Ministry of
-Education Character &amp; Citizenship Education Branch for co-organising
-this dialogue for the benefit of our teachers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_SGPerspectives_01.jpg">
 </div>
 <h3>Student Leaders’ Congress</h3>
 <p>On 8 October, the Student Leadership Committee held our annual Student
