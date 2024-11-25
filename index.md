@@ -22,36 +22,35 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: SG Perspectives (Staff)
+      title: JC2 Awards Ceremony and Farewell Assembly 2024
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T4_EventHighlights_SGPerspectives.jpg
+        images/2024_T4_EventHighlights_JC2Awards.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: On 11 October, our teachers had the unique privilege of engaging
-        Permanent Secretary (Home Affairs Development, and Social and Family
-        Development) Mr Aubeck Kam
+      description: On 11 October 2024, we bade farewell to our students from the Class
+        of 2024. The day started with the unveiling of the Stairway to
+        Excellence Mural...
       button: Find Out More
   - infopic:
-      title: Student Leaders’ Congress
+      title: TMJC Higher Education and Careers Fest 2024
       subtitle: Event Highlights
-      description: On 8 October, the Student Leadership Committee held our annual
-        Student Leaders’ Congress. The theme for this year was "Empowering Youth
-        of Tomorrow".
+      description: On 9 Oct 2024, our students took part in a valuable higher
+        education and career exploration day.
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T4_EventHighlights_JC1StudentLeadersCongress.jpg
+        images/2024_T4_EventHighlights_TMJCHigherEd.jpg
       alt: Image alt text
   - infopic:
-      title: Teachers' Day 2024
+      title: Explore! Copenhagen 2024 Exchange
       subtitle: Event Highlights
-      description: TMJC held our Teachers’ Day Celebrations on 23 August 2024, one
-        week earlier than the actual date so that both cohorts could be present
-        to celebrate...
+      description: From 4 to 8 October, participants of the upcoming Explore!
+        Copenhagen 2024 trip had the pleasure of hosting students from
+        Rysensteen Gymnasium, Denmark.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T3_EventHighlights_Infopic_TeachersDay.jpg
+        images/2024_T4_EventHighlights_HomeAwayFromHome.jpg
 ---
