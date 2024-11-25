@@ -4,22 +4,6 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
-<p>On 11 October, our teachers had the unique privilege of engaging Permanent
-Secretary (Home Affairs Development, and Social and Family Development)
-Mr Aubeck Kam in dialogue as part of the SG Perspectives Programme which
-seeks to broaden perspectives on contemporary issues that impact Singapore.
-Permanent Secretary Kam spoke on the challenges and importance of “Securing
-the Future of Homeland Security in Singapore.” The staff gained an insight
-into the crucial role that they can play in educating students on issues
-of national concern such as online youth self-radicalisation and the increase
-in young drug offenders. The College would like to thank PS Kam for the
-enriching session. The College would also like to thank the Ministry of
-Education Character &amp; Citizenship Education Branch for co-organising
-this dialogue for the benefit of our teachers.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_SGPerspectives_01.jpg">
-</div>
 <h3>JC2 Awards Ceremony and Farewell Assembly 2024</h3>
 <p>On 11 October 2024, we bade farewell to our students from the Class of
 2024. The day started with the unveiling of the Stairway to Excellence
@@ -49,7 +33,23 @@ College.</p>
 <p>From the bottom of our hearts, we wish the graduating cohort all the best
 for their A-Levels and their future endeavours. TM Boleh!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_JC2_Farewell.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_JC2AwardsCeremony_01.jpg">
+</div>
+<h3>SG Perspectives (Staff) with Permanent Secretary Mr Aubeck Kam</h3>
+<p>On 11 October, our teachers had the unique privilege of engaging Permanent
+Secretary (Home Affairs Development, and Social and Family Development)
+Mr Aubeck Kam in dialogue as part of the SG Perspectives Programme which
+seeks to broaden perspectives on contemporary issues that impact Singapore.
+Permanent Secretary Kam spoke on the challenges and importance of “Securing
+the Future of Homeland Security in Singapore.” The staff gained an insight
+into the crucial role that they can play in educating students on issues
+of national concern such as online youth self-radicalisation and the increase
+in young drug offenders. The College would like to thank PS Kam for the
+enriching session. The College would also like to thank the Ministry of
+Education Character &amp; Citizenship Education Branch for co-organising
+this dialogue for the benefit of our teachers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_SGPerspectives_01.jpg">
 </div>
 <h3>TMJC Higher Education and Careers Fest 2024</h3>
 <p>On 9 Oct 2024, our students took part in a valuable higher education and
@@ -66,7 +66,9 @@ understanding of the different careers.&nbsp;</p>
 information and motivation as they consider their future paths. It was
 encouraging to see their active participation and interest throughout the
 day's activities.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_TMJCHigherEducation_01.jpg">
+</div>
 <h3>Student Leaders’ Congress</h3>
 <p>On 8 October, the Student Leadership Committee held our annual Student
 Leaders’ Congress. The theme for this year was "Empowering Youth of Tomorrow".
@@ -101,5 +103,7 @@ organised by the College’s Student Leadership Committee. Danish students
 and TM student leaders broadened their perspectives through dialoguing
 and learning about the shared challenges of nation-building. A wonderful
 time of cross-cultural interaction and learning was had by all!</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_DanishStudents_01.jpg">
+</div>
 <p></p>
