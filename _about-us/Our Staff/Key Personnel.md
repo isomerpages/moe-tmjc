@@ -241,9 +241,9 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Aidil Bin Ali</p>
-<p><strong>Subject Head (21 Century  Competencies)</strong> 
+<p><strong>Mr Muhammad Aidil Bin Ali</strong>
 </p>
+<p>Subject Head (21 Century Competencies)</p>
 <p><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
 </p>
 </td>
