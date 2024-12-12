@@ -390,6 +390,20 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Huey Boon </strong>
+<br>Subject Head (Mother Tongue Languages)
+<br><a href="mailto:teo_huey_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huey_boon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
 </div>
