@@ -52,6 +52,32 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Pauline Peh Jia Ling  </strong>
+<br>Subject Head (Educational Technology)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Mark Goh Nai Lee</strong>
+<br>Teacher (Biology)
+<br><a href="mailto:goh_nai_lee_mark@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_nai_lee_mark@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yan_Lin.jpg">
 </div>
@@ -263,23 +289,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Hartini Binte Alwi</strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:hartini_alwi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hartini_alwi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serena.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Neo-Lee Hwei Ching Serena</strong>
-<br>Teacher (Chemistry)
-<br><a href="mailto:lee_hwei_ching_serena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_hwei_ching_serena@schools.gov.sg</a>
 </p>
 </td>
 </tr>
