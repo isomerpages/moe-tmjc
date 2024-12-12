@@ -239,6 +239,21 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Aidil Bin Ali</p>
+<p><strong>Subject Head (21 Century  Competencies)</strong> 
+</p>
+<p><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Sunny.jpg">
 </div>
