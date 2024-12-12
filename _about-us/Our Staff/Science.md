@@ -54,7 +54,7 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pauline Peh Jia Ling  </strong>
+<p><strong>Ms Pauline Peh Jia Ling </strong>
 <br>Subject Head (Educational Technology)</p>
 </td>
 </tr>
@@ -187,6 +187,20 @@ third_nav_title: Our Staff
 <p><strong>Mdm Goh Beng Lee</strong>
 <br>Subject Head (Chemistry)
 <br><a href="mailto:goh_beng_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_beng_lee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Clara Tan Su Hui</strong>
+<br>Teacher (Chemistry)
+<br><a href="mailto:tan_su_hui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_hui_clara@schools.gov.sg</a>
 </p>
 </td>
 </tr>
