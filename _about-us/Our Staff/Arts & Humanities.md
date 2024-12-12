@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -30,14 +35,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff___A_H_Rafidah.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Siti Rafidah Rahman</strong> 
+<p><strong>Ms Denise Chung Ai Ling</strong>
 <br>Teacher (Art)
-<br><a href="mailto:siti_rafidah_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rafidah_rahman@schools.gov.sg</a>
+<br><a href="mailto:denise_chung_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denise_chung_ai_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
