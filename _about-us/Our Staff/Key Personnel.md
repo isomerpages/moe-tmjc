@@ -242,9 +242,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Muhammad Aidil Bin Ali</strong>
-</p>
-<p>Subject Head (21 Century Competencies)</p>
-<p><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
+<br>Subject Head (21 Century Competencies)
+<br><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -331,6 +330,18 @@ third_nav_title: Our Staff
 <br>Subject Head (Economics)
 <br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Pauline Peh Jia Ling</strong>&nbsp;
+<br>Subject Head (Educational Technology)</p>
 </td>
 </tr>
 <tr>
