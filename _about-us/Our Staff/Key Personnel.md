@@ -308,6 +308,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Ong - Teo Sing Nee Keryn</strong>
+<br>Subject Head (Ed Tech)
+<br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
 </div>
 </td>
@@ -383,23 +400,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Tang Jie Ting </strong>
 <br>Subject Head (Project Work)
 <br><a href="mailto:tang_jie_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_jie_ting@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ong - Teo Sing Nee Keryn</strong>
-<br>Subject Head (Ed Tech)
-<br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
