@@ -96,6 +96,6 @@ third_nav_title: Open House
 </tbody>
 </table>
 <p>
-<br>Follow us on <a href="https://www.instagram.com/thatsmyjc/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a> - <u>@thatsmyjc</u> to
+<br>Follow us on Instagram - <a href="https://www.instagram.com/thatsmyjc/" rel="noopener nofollow" target="_blank">@thatsmyjc</a> to
 know more about our past events and students’ achievements.</p>
 <p></p>
