@@ -26,7 +26,7 @@ sections:
       subtitle: Open House
       description: We look forward to welcoming you to our College.
       button: Find Out More
-      url: /open-house-about-us/permalink/
+      url: /about-us/open-house/tmjc-open-house-2025/
       image: /images/Homepage/Infopic/Infopic
         images/2024_T4_OpenHouse_OpenHouse2025.jpg
       alt: Image alt text
