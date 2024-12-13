@@ -37,6 +37,20 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Aidil Bin Ali  </strong>
+<br>Subject Head (21 Century Competencies)
+<br><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Denise Chung Ai Ling</strong>
 <br>Teacher (Art)
 <br><a href="mailto:denise_chung_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denise_chung_ai_ling@schools.gov.sg</a>
