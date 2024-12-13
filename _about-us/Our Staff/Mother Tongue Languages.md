@@ -38,8 +38,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Teo Huey Boon</strong>
-<br>Subject Head (Mother Tongue Languages)</p>
-<p><a href="mailto:teo_huey_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huey_boon@schools.gov.sg</a>
+<br>Subject Head (Mother Tongue Languages)
+<br><a href="mailto:teo_huey_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huey_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
