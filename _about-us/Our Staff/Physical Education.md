@@ -93,7 +93,8 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><strong>Ms Cheryl Seet Shi Qian</strong>
 <br>Teacher (Physical Education)
-<br><a href="mailto:Cheryl_Seet_Shi_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_seet_shi_qian@schools.gov.sg</a>'</p>
+<br><a href="mailto:Cheryl_Seet_Shi_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_seet_shi_qian@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
