@@ -5,7 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Our Staff
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,6 +53,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Sing Nee Keryn</strong> 
+<br>Subject Head (Economics)
+<br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff_Jie_Ting.jpg">
 </div>
 </td>
@@ -65,13 +87,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Delphine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Sing Nee Keryn</strong> 
-<br>Subject Head (Ed Tech)
-<br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
+<p><strong>Ms Tan Hui Bin Delphine</strong> 
+<br>Subject Head (Student Management)
+<br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -82,13 +104,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Delphine.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Melissa_Loe.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Hui Bin Delphine</strong> 
-<br>Subject Head (Student Management)
-<br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
+<p><strong>Ms Loe Yiwen Melissa</strong> 
+<br>Subject Head (Student Leadership Development - Cov)
+<br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loe_yiwen_melissa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -174,23 +196,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Lee Xueting</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:lee_xueting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_xueting@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Melissa_Loe.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Loe Yiwen Melissa</strong> 
-<br>Teacher (Economics)
-<br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loe_yiwen_melissa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
