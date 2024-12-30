@@ -2,6 +2,7 @@
 title: Staff
 permalink: /useful-links/staff/
 description: ""
+variant: markdown
 ---
 * [Tampines Meridian Integrated Portal (TMIP)](https://portal.tmjc.edu.sg/)  
 * [Tampines Meridian Learning System (TMLS)](https://sites.google.com/tmjc.edu.sg/tmls/home)  
