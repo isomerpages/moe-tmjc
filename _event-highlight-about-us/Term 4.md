@@ -4,6 +4,60 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Lumiere 2024: A Celebration of Diversity and Connection</h3>
+<p>This year’s Lumiere concert was a dazzling celebration of diversity, uniting
+students through the universal language of art. The annual event saw an
+array of performances inspired by various cultural backgrounds, art forms,
+and styles, highlighting the vibrancy and inclusivity of our school community.
+<br>
+<br>A refreshing addition this year was the video interviews with performers,
+offering deeper insights into their artistic intentions. These stories
+brought an added layer of meaning, connecting the audience with the performers'
+personal journeys and motivations.
+<br>
+<br>Among the many memorable moments, Mill and Nannaphat captivated the audience
+with their mashup of the Thai song titled “To All the Dreamers” and “Drag
+Me Down”. Their heartfelt performance delivered a powerful message of resilience,
+inspiring everyone to keep pursuing their dreams. Equally moving was the
+lyrical contemporary dance performed by Lea Kit and friends, set to “You
+Will Be Found” from Dear Evan Hansen. Their graceful performance reminded
+us of the importance of friendship and compassion, especially during moments
+of loneliness.
+<br>
+<br>Lumiere 2024 was more than a concert - it was a celebration of the beauty
+that emerges when diverse voices come together. It left us not just entertained,
+but inspired to embrace our differences and shine brighter together!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_Lumiere2024_01.jpg">
+</div>
+<h3>TM Interest Unscripted</h3>
+<p>The annual TM Interest Unscripted, held on 12 November, provided a platform
+for students to showcase and share their passions with their peers, with
+the aim of encouraging their fellow peers to discover new skills and interests
+that align with their personal aspirations.
+<br>
+<br>The diverse topics of presentations made the even an interactive and engaging
+experience. In the presentation on “From Batter to Bliss- A Journey in
+Baking” by Heidi from 24S208, students were treated to freshly baked cookies
+made by Heidi, adding a delightfully delicious element to the learning.
+"The Circular Classroom - A Sewing Project" presentation by Krystal and
+Han Yin from 24A301, and Annisa from 24S502, which focussed on sustainable
+sewing practices, invited the audience to appreciate tote bags made from
+repurposed TMJC uniforms, thereby spotlighting the value of upcycling.
+During the "Strokes of Beauty" presentation by Jodi from 24A302, students
+gained hands-on experience in Chinese calligraphy, allowing them to learn
+the delicate art of brushwork. Lastly, the "Art in Our Free Time" presentation
+by Le Yi and Sin Yee from 24S502 expanded students' creative horizons,
+covering various artistic forms such as drawing, painting, and pop dancing.
+<br>
+<br>The student audience found the presentations both informative and inspirational,
+motivating many of them to explore at least one of the showcased interests
+further. TM Interest Unscripted was a truly memorable and impactful event,
+sparking a renewed curiosity and eagerness among students to learn new
+knowledge and explore new activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2024/2024_T4_Events_TMInterestUnscripted_01.jpg">
+</div>
 <h3>JC2 Awards Ceremony and Farewell Assembly 2024</h3>
 <p>On 11 October 2024, we bade farewell to our students from the Class of
 2024. The day started with the unveiling of the Stairway to Excellence

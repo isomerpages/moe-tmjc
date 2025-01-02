@@ -15,7 +15,7 @@ As an educator, we have that privilege to see our students, cohort after cohort,
 
 For as long as I have been Principal, I have always used stories in my message to illustrate our focus and theme for the year. So, in the typical Ms Yoong’s style, and since it is 2020, I have selected not 1 but 2 short stories this year.
 
-(both stories are edited from&nbsp;[http://www.rogerdarlington.me.uk/stories.html](http://www.rogerdarlington.me.uk/stories.html))
+(both stories are edited from rogerdarlington.me.uk/stories)
 
 The first is entitled, “Every bucket counts”.
 

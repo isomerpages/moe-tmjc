@@ -53,6 +53,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Wei Ming</strong>
+<br>Subject Head (General Paper) - Cov
+<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ming@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
 </div>
 </td>
@@ -172,23 +189,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chua Wei Ming</strong>
-<br>Teacher (General Paper)
-<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ming@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jacqueline.jpg">
 </div>
 </td>
@@ -223,13 +223,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kristianne.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Khoon_Liang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kristianne Thea Gibe Magkawas </strong>
+<p><strong>Mr Lim Khoon Liang</strong>
 <br>Teacher (General Paper)
-<br><a href="mailto:kristianne_magkawas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kristianne_magkawas@schools.gov.sg</a>
+<br><a href="mailto:lim_khoon_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_khoon_liang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -239,14 +239,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Khoon_Liang.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Khoon Liang</strong>
+<p><strong>Mr Nicholas Chua Bingkai </strong>
 <br>Teacher (General Paper)
-<br><a href="mailto:lim_khoon_liang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_khoon_liang@schools.gov.sg</a>
+<br><a href="mailto:nicholas_chua_bingkai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_chua_bingkai@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -264,6 +261,20 @@ third_nav_title: Our Staff
 <p><strong>Ms Norzian Mohamed Yunos</strong>
 <br>Teacher (General Paper)
 <br><a href="mailto:norzian_bt_mohd_yunos@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norzian_bt_mohd_yunos@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Sophia Ng Gay Hoon</strong>
+<br>Teacher (General Paper)
+<br><a href="mailto:sophia_ng_gay_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophia_ng_gay_koon@schools.gov.sg</a>
 </p>
 </td>
 </tr>

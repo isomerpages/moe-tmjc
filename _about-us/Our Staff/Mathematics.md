@@ -105,6 +105,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chia Yi Fang, Nicolette</strong>
+<br>Subject Head (Mathematics)
+<br><a href="mailto:yi_fang_nicolette_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yi_fang_nicolette_chia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Aik_Leong.jpg">
 </div>
 </td>
@@ -129,23 +146,6 @@ third_nav_title: Our Staff
 <p><strong>Mrs Chen - Lee Sok Hui Michelle</strong>
 <br>Subject Head (VIA)
 <br><a href="mailto:lee_sok_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Chia Yi Fang, Nicolette</strong>
-<br>Subject Head (Student Leadership Development)
-<br><a href="mailto:yi_fang_nicolette_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yi_fang_nicolette_chia@schools.gov.sg</a>
 </p>
 </td>
 </tr>

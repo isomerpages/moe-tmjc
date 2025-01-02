@@ -239,6 +239,20 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Aidil Bin Ali</strong>
+<br>Subject Head (21 Century Competencies)
+<br><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Sunny.jpg">
 </div>
@@ -247,6 +261,23 @@ third_nav_title: Our Staff
 <p><strong>Mr Ho Yong Hou Sunny</strong>
 <br>Subject Head (Biology)
 <br><a href="mailto:ho_yong_hou_sunny@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_yong_hou_sunny@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Teck Min Abigail</strong>
+<br>Subject Head (CCA) - Cov
+<br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_teck_min_abigail@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -308,6 +339,35 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Ong - Teo Sing Nee Keryn</strong>
+<br>Subject Head (Economics)
+<br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Pauline Peh Jia Ling</strong>&nbsp;
+<br>Subject Head (Educational Technology)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
 </div>
 </td>
@@ -325,6 +385,40 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Wei Ming</strong>
+<br>Subject Head (General Paper) - Cov
+<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_wei_ming@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chia Yi Fang, Nicolette</strong>
+<br>Subject Head (Mathematics)
+<br><a href="mailto:yi_fang_nicolette_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yi_fang_nicolette_chia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Aik_Leong.jpg">
 </div>
 </td>
@@ -332,6 +426,20 @@ third_nav_title: Our Staff
 <p><strong>Mr Lim Aik Leong </strong>
 <br>Subject Head (Mathematics)
 <br><a href="mailto:lim_aik_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_aik_leong@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Huey Boon </strong>
+<br>Subject Head (Mother Tongue Languages)
+<br><a href="mailto:teo_huey_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_huey_boon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -393,23 +501,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ong - Teo Sing Nee Keryn</strong>
-<br>Subject Head (Ed Tech)
-<br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
 </div>
 </td>
@@ -461,13 +552,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Melissa_Loe.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Chia Yi Fang, Nicolette</strong>
-<br>Subject Head (Student Leadership Development)
-<br><a href="mailto:yi_fang_nicolette_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yi_fang_nicolette_chia@schools.gov.sg</a>
+<p><strong>Ms Loe Yiwen Melissa</strong>
+<br>Subject Head (Student Leadership Development - Cov)
+<br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loe_yiwen_melissa@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>

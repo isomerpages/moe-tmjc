@@ -53,6 +53,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Teck Min Abigail</strong>
+<br>Subject Head (CCA) - Cov
+<br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_min_abigail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Kenny.jpg">
 </div>
 </td>
@@ -76,7 +93,8 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p><strong>Ms Cheryl Seet Shi Qian</strong>
 <br>Teacher (Physical Education)
-<br><a href="mailto:Cheryl_Seet_Shi_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_seet_shi_qian@schools.gov.sg</a>'</p>
+<br><a href="mailto:Cheryl_Seet_Shi_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_seet_shi_qian@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,23 +128,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Suhaidah Mohd Yusof</strong>
 <br>Teacher (Physical Education)
 <br><a href="mailto:suhaidah_mohd_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">suhaidah_mohd_yusof@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Teacher (Physical Education)
-<br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_min_abigail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
