@@ -58,7 +58,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Wei Ming</strong>
-<br>Subject Head (General Paper) - Cov
+<br>Subject Head (General Paper) - Covering
 <br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ming@schools.gov.sg</a>
 </p>
 </td>
@@ -126,7 +126,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Aslindah Mohamed Ali</strong>
-<br>Teacher(General Paper)
+<br>Teacher (General Paper)
 <br><a href="mailto:aslindah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aslindah_mohamed_ali@schools.gov.sg</a>
 </p>
 </td>
