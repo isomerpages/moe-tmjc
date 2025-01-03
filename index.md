@@ -27,8 +27,7 @@ sections:
       description: We look forward to welcoming you to our College.
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2025/
-      image: /images/Homepage/Infopic/Infopic
-        images/2024_T4_OpenHouse_OpenHouse2025.jpg
+      image: /images/Open House/2025/OpenHouse_2025_Banner.jpg
       alt: Image alt text
   - infopic:
       title: "Lumiere 2024: A Celebration of Diversity and Connection"
