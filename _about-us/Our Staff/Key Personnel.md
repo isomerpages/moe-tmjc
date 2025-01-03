@@ -69,6 +69,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Luo - Tan Jing Ying Amy</strong>
@@ -83,6 +86,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Gohel Amarsinh (Brandon)</strong>
@@ -131,6 +137,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Ming_Kong.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chow Ming Kong</strong>
@@ -312,6 +321,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Tan Jen Vin Teddy</strong>
@@ -360,6 +372,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Wong Chu Jing Cheryl</strong>
@@ -388,6 +403,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Wei Ming</strong>
@@ -541,7 +559,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Loe Yiwen Melissa</strong>
-<br>Subject Head (Student Leadership Development - Cov)
+<br>Subject Head (Student Leadership Development) - Covering
 <br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loe_yiwen_melissa@schools.gov.sg</u></a>
 </p>
 </td>
