@@ -18,17 +18,6 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
 </div>
@@ -80,6 +69,34 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Luo - Tan Jing Ying Amy</strong>
+<br>Head of Department (CCE)
+<br><a href="mailto:amy_tan_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_tan_jing_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Gohel Amarsinh (Brandon)</strong>
+<br>Head of Department (Curriculum &amp; Assessment)
+<br><a href="mailto:gohel_amarsinh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gohel_amarsinh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Ting_Lin_Ying.jpg">
 </div>
@@ -105,6 +122,20 @@ third_nav_title: Our Staff
 <p><strong>Mr Yeoh Keat Wei</strong>
 <br>Head of Department (English)
 <br><a href="mailto:yeoh_keat_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeoh_keat_wei@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chow Ming Kong</strong>
+<br>Head of Department (Knowledge Management &amp; ICT)
+<br><a href="mailto:chow_ming_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_ming_kong@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -183,57 +214,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Luo - Tan Jing Ying Amy</strong>
-<br>Head of Department (CCE)
-<br><a href="mailto:amy_tan_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_tan_jing_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Gohel Amarsinh (Brandon)</strong>
-<br>Head of Department (Curriculum &amp; Assessment)
-<br><a href="mailto:gohel_amarsinh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gohel_amarsinh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Ming_Kong.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chow Ming Kong</strong>
-<br>Head of Department (Knowledge Management &amp; ICT)
-<br><a href="mailto:chow_ming_kong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_ming_kong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_June.jpg">
 </div>
 </td>
@@ -287,7 +267,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Subject Head (CCA) - Cov
+<br>Subject Head (CCA) - Covering
 <br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_teck_min_abigail@schools.gov.sg</u></a>
 </p>
 </td>
@@ -323,6 +303,20 @@ third_nav_title: Our Staff
 <p><strong>Mdm Goh Beng Lee</strong>
 <br>Subject Head (Chemistry)
 <br><a href="mailto:goh_beng_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_beng_lee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tan Jen Vin Teddy</strong>
+<br>Subject Head (Citizenship Education)
+<br><a href="mailto:tan_jen_vin_teddy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jen_vin_teddy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -368,9 +362,37 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Ms Wong Chu Jing Cheryl</strong>
+<br>Subject Head (ECG)
+<br><a rel="noopener noreferrer nofollow" target="_blank">wong_chu_jing_cheryl@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Ms Pauline Peh Jia Ling</strong>&nbsp;
 <br>Subject Head (Educational Technology)
 <br><a href="mailto:pauline_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_peh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chua Wei Ming</strong>
+<br>Subject Head (General Paper) - Covering
+<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_wei_ming@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -388,23 +410,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Wong Yingxian Sharon</strong>
 <br>Subject Head (General Paper)
 <br><a href="mailto:wong_yingxian_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yingxian_sharon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chua Wei Ming</strong>
-<br>Subject Head (General Paper) - Cov
-<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_wei_ming@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -504,40 +509,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Tang Jie Ting </strong>
 <br>Subject Head (Project Work)
 <br><a href="mailto:tang_jie_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_jie_ting@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Tan Jen Vin Teddy</strong>
-<br>Subject Head (Citizenship Education)
-<br><a href="mailto:tan_jen_vin_teddy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jen_vin_teddy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wong Chu Jing Cheryl</strong>
-<br>Subject Head (ECG)
-<br><a rel="noopener noreferrer nofollow" target="_blank">wong_chu_jing_cheryl@schools.gov.sg</a>
 </p>
 </td>
 </tr>
