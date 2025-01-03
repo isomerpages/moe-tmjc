@@ -272,7 +272,7 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sophia Ng Gay Hoon</strong>
+<p><strong>Ms Sophia Ng Gay Koon</strong>
 <br>Teacher (General Paper)
 <br><a href="mailto:sophia_ng_gay_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophia_ng_gay_koon@schools.gov.sg</a>
 </p>
