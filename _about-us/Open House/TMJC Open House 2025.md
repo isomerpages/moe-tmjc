@@ -95,10 +95,9 @@ third_nav_title: Open House
 </tr>
 </tbody>
 </table>
-<p>
-<br>Follow us on Instagram - <a href="https://www.instagram.com/thatsmyjc/" rel="noopener nofollow" target="_blank">@thatsmyjc</a> to
-know more about our past events and students’ achievements.
-<br>
-<br>Click <a href="https://drive.google.com/file/d/1VpQN-Qg7lFv5LPh4mTcE8XpWhlJtvtQw/view?usp=sharing" rel="noopener nofollow" target="_blank">here</a> to
-view the TMJC Open House Publicity Video</p>
+<p>Follow us on Instagram - <a href="https://www.instagram.com/thatsmyjc/" rel="noopener nofollow" target="_blank">@thatsmyjc</a> to
+know more about our past events and students’ achievements.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3heGGU9s-NY?si=m2EVUrz8dnHk8U-f"></iframe>
+</div>
 <p></p>

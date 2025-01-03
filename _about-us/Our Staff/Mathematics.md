@@ -347,7 +347,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Li Jun Teacher Angeline </strong>
+<p><strong>Ms Tan Li Jun Angeline </strong>
 <br>Teacher (Mathematics)
 <br><a href="mailto:angeline_tan_li_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">angeline_tan_li_jun@schools.gov.sg</a>
 </p>
