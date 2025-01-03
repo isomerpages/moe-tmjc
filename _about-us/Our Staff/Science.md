@@ -55,7 +55,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pauline Peh Jia Ling </strong>
-<br>Subject Head (Educational Technology)</p>
+<br>Subject Head (Educational Technology)
+<br><a href="mailto:pauline_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_peh@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
