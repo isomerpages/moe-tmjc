@@ -92,7 +92,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Loe Yiwen Melissa</strong> 
-<br>Subject Head (Student Leadership Development - Cov)
+<br>Subject Head (Student Leadership Development) - Covering
 <br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loe_yiwen_melissa@schools.gov.sg</a>
 </p>
 </td>
