@@ -37,9 +37,23 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Muhammad Aidil Bin Ali  </strong>
+<p><strong>Mr Muhammad Aidil Bin Ali </strong>
 <br>Subject Head (21 Century Competencies)
 <br><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Chia Sor Siang Audrey</strong> 
+<br>Senior Teacher (History)
+<br><a href="mailto:audrey_chia_sor_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_chia_sor_siang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -54,23 +68,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Denise Chung Ai Ling</strong>
 <br>Teacher (Art)
 <br><a href="mailto:denise_chung_ai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denise_chung_ai_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff_Fazli.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Fazli Ahmad </strong>
-<br>Teacher (Theatre Studies and Drama)
-<br><a href="mailto:fazli_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fazli_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -149,23 +146,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff_Audrey.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Chia Sor Siang Audrey</strong> 
-<br>Senior Teacher (History)
-<br><a href="mailto:audrey_chia_sor_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_chia_sor_siang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff_Vanessa.jpg">
 </div>
 </td>
@@ -207,6 +187,20 @@ third_nav_title: Our Staff
 <p><strong>Ms Sumithra Kalidas</strong> 
 <br>Teacher (Literature in English)
 <br><a href="mailto:sumithra_kalidas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sumithra_kalidas@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Fazli Ahmad </strong>
+<br>Teacher (Theatre Studies and Drama)
+<br><a href="mailto:fazli_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fazli_ahmad@schools.gov.sg</a>
 </p>
 </td>
 </tr>
