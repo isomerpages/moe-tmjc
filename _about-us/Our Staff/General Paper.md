@@ -36,13 +36,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wong Yingxian Sharon</strong>
-<br>Subject Head (General Paper)
-<br><a href="mailto:wong_yingxian_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yingxian_sharon@schools.gov.sg</a>
+<p><strong>Mr Chua Wei Ming</strong>
+<br>Subject Head (General Paper) - Covering
+<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ming@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -53,13 +53,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Chua Wei Ming</strong>
-<br>Subject Head (General Paper) - Covering
-<br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ming@schools.gov.sg</a>
+<p><strong>Ms Wong Yingxian Sharon</strong>
+<br>Subject Head (General Paper)
+<br><a href="mailto:wong_yingxian_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yingxian_sharon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -121,13 +121,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Aslindah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sophil.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Aslindah Mohamed Ali</strong>
+<p><strong>Ms Ang Shue Ying Sophil</strong>
 <br>Teacher (General Paper)
-<br><a href="mailto:aslindah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aslindah_mohamed_ali@schools.gov.sg</a>
+<br><a href="mailto:sophil_ang_shue_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophil_ang_shue_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -138,13 +138,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sophil.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Aslindah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ang Shue Ying Sophil</strong>
+<p><strong>Mdm Aslindah Mohamed Ali</strong>
 <br>Teacher (General Paper)
-<br><a href="mailto:sophil_ang_shue_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophil_ang_shue_ying@schools.gov.sg</a>
+<br><a href="mailto:aslindah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aslindah_mohamed_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
