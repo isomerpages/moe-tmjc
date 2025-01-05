@@ -18,6 +18,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Lim - Loh Wee Chin Rosalind</strong>
@@ -32,6 +35,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Gohel Amarsinh</strong>
@@ -46,6 +52,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yew_Wei.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lim Yew Wei</strong>
@@ -77,6 +86,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chong Kian Seng</strong>
@@ -91,6 +103,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Goh Beng Lee</strong>
@@ -105,6 +120,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Wong Chu Jing Cheryl</strong>
@@ -133,6 +151,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Ong Eng Choy Bryan </strong>
