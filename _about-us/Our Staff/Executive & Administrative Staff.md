@@ -273,6 +273,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chua.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Kang Tee</strong> 
@@ -287,6 +290,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chu_Yee_Kiew.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Chu Yee Kiew</strong> 
@@ -301,6 +307,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jenny.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Ng Poh Eng Jenny</strong> 
@@ -332,6 +341,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Nurwaty.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nurwaty Nadin</strong> 
@@ -397,6 +409,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Wendy.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ng Wei Li Wendy</strong> 
