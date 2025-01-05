@@ -35,14 +35,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Sim Sheng Xiang</strong>
-<br>Subject Head (Physical Education)
-<br><a href="mailto:sim_sheng_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sheng_xiang@schools.gov.sg</a>
+<p><strong>Ms Tan Teck Min Abigail</strong>
+<br>Subject Head (CCA) - Covering
+<br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_min_abigail@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -53,13 +50,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Subject Head (CCA) - Cov
-<br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_min_abigail@schools.gov.sg</a>
+<p><strong>Mr Sim Sheng Xiang</strong>
+<br>Subject Head (Physical Education)
+<br><a href="mailto:sim_sheng_xiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sheng_xiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
