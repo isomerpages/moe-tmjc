@@ -36,13 +36,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Wong Yingxian Sharon</strong>
-<br>Subject Head (General Paper)
-<br><a href="mailto:wong_yingxian_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yingxian_sharon@schools.gov.sg</a>
+<p><strong>Mr Tan Jen Vin Teddy</strong>
+<br>Subject Head (Citizenship Education)
+<br><a href="mailto:tan_jen_vin_teddy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jen_vin_teddy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -58,7 +58,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Wei Ming</strong>
-<br>Subject Head (General Paper) - Cov
+<br>Subject Head (General Paper) - Covering
 <br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_wei_ming@schools.gov.sg</a>
 </p>
 </td>
@@ -70,13 +70,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Jen Vin Teddy</strong>
-<br>Subject Head (Citizenship Education)
-<br><a href="mailto:tan_jen_vin_teddy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jen_vin_teddy@schools.gov.sg</a>
+<p><strong>Ms Wong Yingxian Sharon</strong>
+<br>Subject Head (General Paper)
+<br><a href="mailto:wong_yingxian_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yingxian_sharon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -121,13 +121,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Aslindah.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sophil.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Aslindah Mohamed Ali</strong>
-<br>Teacher(General Paper)
-<br><a href="mailto:aslindah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aslindah_mohamed_ali@schools.gov.sg</a>
+<p><strong>Ms Ang Shue Ying Sophil</strong>
+<br>Teacher (General Paper)
+<br><a href="mailto:sophil_ang_shue_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophil_ang_shue_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -138,13 +138,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sophil.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Aslindah.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ang Shue Ying Sophil</strong>
+<p><strong>Mdm Aslindah Mohamed Ali</strong>
 <br>Teacher (General Paper)
-<br><a href="mailto:sophil_ang_shue_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophil_ang_shue_ying@schools.gov.sg</a>
+<br><a href="mailto:aslindah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aslindah_mohamed_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -272,7 +272,7 @@ third_nav_title: Our Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sophia Ng Gay Hoon</strong>
+<p><strong>Ms Sophia Ng Gay Koon</strong>
 <br>Teacher (General Paper)
 <br><a href="mailto:sophia_ng_gay_koon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sophia_ng_gay_koon@schools.gov.sg</a>
 </p>

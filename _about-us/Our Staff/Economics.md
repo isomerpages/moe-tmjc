@@ -92,7 +92,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Loe Yiwen Melissa</strong> 
-<br>Subject Head (Student Leadership Development - Cov)
+<br>Subject Head (Student Leadership Development) - Covering
 <br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loe_yiwen_melissa@schools.gov.sg</a>
 </p>
 </td>
@@ -111,23 +111,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Tan Hui Bin Delphine</strong> 
 <br>Subject Head (Student Management)
 <br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Zhiling.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Yeo - Chen Zhiling</strong> 
-<br>Teacher (Economics)
-<br><a href="mailto:chen_zhi_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhi_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -213,6 +196,23 @@ third_nav_title: Our Staff
 <p><strong>Ms Sue Poh Guat Jane</strong> 
 <br>Teacher (Economics)
 <br><a href="mailto:sue_poh_guat_jane@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sue_poh_guat_jane@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Zhiling.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Yeo - Chen Zhiling</strong> 
+<br>Teacher (Economics)
+<br><a href="mailto:chen_zhi_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_zhi_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>

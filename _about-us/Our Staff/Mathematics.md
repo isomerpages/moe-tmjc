@@ -36,13 +36,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Vanson.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Lim Vanson</strong>
-<br>Head of Department (Mathematics)
-<br><a href="mailto:lim_vanson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_vanson@schools.gov.sg</a>
+<p><strong>Mrs Luo - Tan Jing Ying Amy</strong>
+<br>Head of Department (CCE)
+<br><a href="mailto:amy_tan_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_tan_jing_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -71,13 +71,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Vanson.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Luo - Tan Jing Ying Amy</strong>
-<br>Head of Department (CCE)
-<br><a href="mailto:amy_tan_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_tan_jing_ying@schools.gov.sg</a>
+<p><strong>Mr Lim Vanson</strong>
+<br>Head of Department (Mathematics)
+<br><a href="mailto:lim_vanson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_vanson@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -347,7 +347,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Li Jun Teacher Angeline </strong>
+<p><strong>Ms Tan Li Jun Angeline </strong>
 <br>Teacher (Mathematics)
 <br><a href="mailto:angeline_tan_li_jun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">angeline_tan_li_jun@schools.gov.sg</a>
 </p>

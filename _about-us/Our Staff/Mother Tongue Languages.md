@@ -50,6 +50,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Ishak_Abdul_Latif.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ishak Abdul Latif</strong>
+<br>Senior Teacher (Malay Language)
+<br><a href="mailto:ishak_abdul_latif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ishak_abdul_latif@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_David.jpg">
 </div>
 </td>
@@ -57,6 +74,23 @@ third_nav_title: Our Staff
 <p><strong>Mr Cia David</strong>
 <br>Teacher (Chinese Language)
 <br><a href="mailto:david_cia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">david_cia@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Faten.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Faten Hana Mustafa</strong>
+<br>Teacher (Malay Language)
+<br><a href="mailto:faten_hana_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faten_hana_mustafa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -101,6 +135,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Shamini.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Shamini d/o Raja Kumar</strong>
+<br>Teacher (Tamil Language)
+<br><a href="mailto:shamini_raja_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shamini_raja_kumar@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Chee_Boon.jpg">
 </div>
 </td>
@@ -125,57 +176,6 @@ third_nav_title: Our Staff
 <p><strong>Mdm Twu Yek Chian</strong>
 <br>Teacher (Chinese Language)
 <br><a href="mailto:twu_yek_chian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">twu_yek_chian@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Ishak_Abdul_Latif.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ishak Abdul Latif</strong>
-<br>Senior Teacher (Malay Language)
-<br><a href="mailto:ishak_abdul_latif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ishak_abdul_latif@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Faten.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Faten Hana Mustafa</strong>
-<br>Teacher (Malay Language)
-<br><a href="mailto:faten_hana_mustafa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">faten_hana_mustafa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Shamini.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Shamini d/o Raja Kumar</strong>
-<br>Teacher (Tamil Language)
-<br><a href="mailto:shamini_raja_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shamini_raja_kumar@schools.gov.sg</a>
 </p>
 </td>
 </tr>

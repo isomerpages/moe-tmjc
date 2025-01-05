@@ -274,74 +274,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Noorhayati.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Noorhayati Aris</strong> 
-<br>Operations Support Officer
-<br><a href="mailto:noorhayati_iris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorhayati_iris@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Rashidah.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Rashidah Mohamed Ali</strong> 
-<br>Operations Support Officer
-<br><a href="mailto:rashidah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamed_ali@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jenny.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Ng Poh Eng Jenny</strong> 
-<br>Operations Support Officer
-<br><a href="mailto:ng_poh_eng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_eng_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Zaharina.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Zaharina Tainy</strong> 
-<br>Operations Support Officer
-<br><a href="mailto:zaharina_tainy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaharina_tainy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Chua.jpg">
 </div>
 </td>
@@ -376,6 +308,40 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Jenny.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Ng Poh Eng Jenny</strong> 
+<br>Operations Support Officer
+<br><a href="mailto:ng_poh_eng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_poh_eng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Noorhayati.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Noorhayati Aris</strong> 
+<br>Operations Support Officer
+<br><a href="mailto:noorhayati_iris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noorhayati_iris@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Nurwaty.jpg">
 </div>
 </td>
@@ -383,6 +349,23 @@ third_nav_title: Our Staff
 <p><strong>Mdm Nurwaty Nadin</strong> 
 <br>Operations Support Officer
 <br><a href="mailto:nurwaty_nadin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurwaty_nadin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Rashidah.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Rashidah Mohamed Ali</strong> 
+<br>Operations Support Officer
+<br><a href="mailto:rashidah_mohamed_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rashidah_mohamed_ali@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -427,13 +410,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Tan_Tiong_Seng.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Wendy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Tiong Seng</strong> 
-<br>Operations Support Officer
-<br><a href="mailto:tan_tiong_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tiong_seng@schools.gov.sg</a>
+<p><strong>Ms Ng Wei Li Wendy</strong> 
+<br>ECG Counsellor
+<br><a href="mailto:wendy_ng_wei_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wendy_ng_wei_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -451,23 +434,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Jazlyn Seet Ling Shi</strong>
 <br>School Counsellor
 <br><a href="mailto:Jazlyn_Seet_Ling_Shi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jazlyn_seet_ling_shi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Wendy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Ng Wei Li Wendy</strong> 
-<br>ECG Counsellor
-<br><a href="mailto:wendy_ng_wei_li@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wendy_ng_wei_li@schools.gov.sg</a>
 </p>
 </td>
 </tr>

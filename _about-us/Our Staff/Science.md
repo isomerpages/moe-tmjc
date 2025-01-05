@@ -19,6 +19,40 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Lim - Loh Wee Chin Rosalind</strong>
+<br>Year Head
+<br><a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Gohel Amarsinh</strong>
+<br>Head of Department (Curriculum &amp; Assessment)
+<br><a href="mailto:gohel_amarsinh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gohel_amarsinh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yew_Wei.jpg">
 </div>
 </td>
@@ -52,11 +86,79 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Chong Kian Seng</strong>
+<br>Subject Head (Chemistry)
+<br><a href="mailto:chong_kian_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kian_seng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Goh Beng Lee</strong>
+<br>Subject Head (Chemistry)
+<br><a href="mailto:goh_beng_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_beng_lee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Wong Chu Jing Cheryl</strong>
+<br>Subject Head (ECG)
+<br><a href="mailto:wong_chu_jing_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chu_jing_cheryl@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Pauline Peh Jia Ling </strong>
 <br>Subject Head (Educational Technology)
 <br><a href="mailto:pauline_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_peh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Ong Eng Choy Bryan </strong>
+<br>Subject Head (Physics)
+<br><a href="mailto:bryan_ong_eng_choy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_ong_eng_choy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -148,71 +250,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Lim - Loh Wee Chin Rosalind</strong>
-<br>Year Head
-<br><a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Chong Kian Seng</strong>
-<br>Subject Head (Chemistry)
-<br><a href="mailto:chong_kian_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_kian_seng@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Goh Beng Lee</strong>
-<br>Subject Head (Chemistry)
-<br><a href="mailto:goh_beng_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_beng_lee@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Clara Tan Su Hui</strong>
-<br>Teacher (Chemistry)
-<br><a href="mailto:tan_su_hui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_hui_clara@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Zhengyu.jpg">
 </div>
 </td>
@@ -271,6 +308,20 @@ third_nav_title: Our Staff
 <p><strong>Ms Chua May Ling</strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:chua_may_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_may_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Clara Tan Su Hui</strong>
+<br>Teacher (Chemistry)
+<br><a href="mailto:tan_su_hui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_hui_clara@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -407,57 +458,6 @@ third_nav_title: Our Staff
 <p><strong>Mr Wong Ling Keong Jeremy</strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:wong_ling_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ling_keong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Gohel Amarsinh</strong>
-<br>Head of Department (Curriculum &amp; Assessment)
-<br><a href="mailto:gohel_amarsinh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gohel_amarsinh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Ong Eng Choy Bryan </strong>
-<br>Subject Head (Physics)
-<br><a href="mailto:bryan_ong_eng_choy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_ong_eng_choy@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wong Chu Jing Cheryl</strong>
-<br>Subject Head (ECG)
-<br><a href="mailto:wong_chu_jing_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_chu_jing_cheryl@schools.gov.sg</a>
 </p>
 </td>
 </tr>
