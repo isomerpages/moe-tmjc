@@ -360,7 +360,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Ong - Teo Sing Nee Keryn</strong>
+<p><strong>Ms Teo Sing Nee Keryn</strong>
 <br>Subject Head (Economics)
 <br><a href="mailto:teo_sing_nee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_sing_nee@schools.gov.sg</a>
 </p>
