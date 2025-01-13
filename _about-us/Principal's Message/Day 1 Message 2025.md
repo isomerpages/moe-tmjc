@@ -43,7 +43,7 @@ I'm confident it will be a year rich with learning opportunities.
 <br>
 <br>Extracting from our college anthem:
 <br><em>The world is every changing <br>No challenge is too big,<br>With courage and resilience,<br>With honour we’ll succeed.</em>
-</p>
-<p>Mr Sin Kim Ho</p>
-<p>Principal</p>
+<br>
+<br>Mr Sin Kim Ho
+<br>Principal</p>
 <p></p>
