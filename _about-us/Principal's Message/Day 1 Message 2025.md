@@ -46,4 +46,3 @@ I'm confident it will be a year rich with learning opportunities.
 <br>
 <br>Mr Sin Kim Ho
 <br>Principal</p>
-<p></p>
