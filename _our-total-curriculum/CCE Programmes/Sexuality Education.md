@@ -80,14 +80,14 @@ the main focus on relationships</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Total Curriculum/2 Character and Citizenship/Sexuality Education/2025_CCE_SexualityEd_02.jpg">
 </div>
-<h5><br><em>eTeens</em> Programme:</h5>
+<h5><em>eTeens</em> Programme:</h5>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide JC/MI Year 1 students with accurate
 information on STIs/HIV and protection from a health perspective. The desired
 outcome of the eTeens programme is that students are empowered to make
-wise, informed and sensible decisions.</p>
+wise, informed and sensible decisions</p>
 <p></p>
 </li>
 <li>
@@ -96,33 +96,34 @@ on an individual and the family, and the importance of responsible decision-maki
 and seeking help. Abstinence and upholding family values are the key messages.</p>
 </li>
 </ol>
-<h5>At&nbsp;Tampines Meridian Junior College, the <em>eTeens</em> programme will be implemented as follows in&nbsp;2024:</h5>
+<h5>At&nbsp;Tampines Meridian Junior College, the <em>eTeens</em> programme will be implemented as follows in&nbsp;2025:</h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Total Curriculum/2 Character and Citizenship/Sexuality Education/2024_CCE_SexualityEd_03.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Total Curriculum/2 Character and Citizenship/Sexuality Education/2025_CCE_SexualityEd_03.jpg">
 </div>
 <h3>Information for Parents</h3>
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education and/or supplementary
-Sexuality Education programmes by MOE-approved external providers.</p>
-<p></p>
+Sexuality Education programmes by MOE-approved external providers.
+<br>
+</p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_Opt_Out_Form_2024__Annex_A_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 28/03/2024.</p>
+to parents at the start of the year and is also downloadable <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_eTeens_Opt_Out_Form_2025__Annex_B_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 04/04/2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+<p>Parents who wish to opt their children out of the eTeens programme need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_eTeens_Opt_Out_Form_2024__Annex_B_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 12/07/2024.</p>
+at the start of the year and is also downloadable <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_eTeens_Opt_Out_Form_2025__Annex_B_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 18/07/2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at <a href="mailto:TMJC@MOE.EDU.SG" rel="noopener noreferrer nofollow" target="_blank">TMJC@MOE.EDU.SG</a> for discussion or to seek
+<p>Parents can contact the school at <a href="mailto:tmjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TMJC@MOE.EDU.SG</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
