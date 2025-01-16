@@ -69,8 +69,8 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Denise Chung Ai Ling</strong>
-<br>Teacher (Art)</p>
-<p><a href="mailto:chung_ai_ling_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_ai_ling_denise@schools.gov.sg</a>
+<br>Teacher (Art)
+<br><a href="mailto:chung_ai_ling_denise@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chung_ai_ling_denise@schools.gov.sg</a>
 </p>
 </td>
 </tr>
