@@ -122,7 +122,7 @@ The completed form is to be submitted by 18/07/2025.</p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at <a href="mailto:tmjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">TMJC@MOE.EDU.SG</a> for discussion or to seek
+<p>Parents can contact the school at <a href="mailto:tmjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tmjc@moe.edu.sg</a> for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
