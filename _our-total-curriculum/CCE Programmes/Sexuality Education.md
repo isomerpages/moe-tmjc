@@ -33,16 +33,19 @@ sexuality matters.
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
 <p></p>
-<p></p>
 </li>
 <li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+<p>The <strong>Key Messages</strong> of Sexuality Education are:
+<br>
+<br>(a) Love and respect yourself as you love and respect others;
+<br>
+<br>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);
+<br>
+<br>(c) Make responsible decisions for yourself, your family and society;
+and
+<br>
+<br>(d) Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p></p>
@@ -50,13 +53,13 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<h3>Overview of Tampines Meridian Junior College's Sexuality Education Programme for 2024</h3>
+<h3>Overview of Tampines Meridian Junior College's Sexuality Education Programme for 2025</h3>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 </ol>
