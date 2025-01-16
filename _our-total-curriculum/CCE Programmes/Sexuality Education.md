@@ -104,14 +104,13 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education and/or supplementary
-Sexuality Education programmes by MOE-approved external providers.
-<br>
-</p>
+Sexuality Education programmes by MOE-approved external providers.</p>
+<p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_eTeens_Opt_Out_Form_2025__Annex_B_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+to parents at the start of the year and is also downloadable <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_Opt_Out_Form_2025__Annex_A_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by 04/04/2025.</p>
 <p></p>
 </li>
