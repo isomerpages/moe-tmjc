@@ -72,7 +72,7 @@ Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into
 the main focus on relationships</p>
 </li>
 </ol>
-<h5>At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in&nbsp;2024:</h5>
+<h5>At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in&nbsp;2025:</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Total Curriculum/2 Character and Citizenship/Sexuality Education/2024_CCE_SexualityEd_01.jpg">
 </div>
