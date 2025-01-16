@@ -69,7 +69,7 @@ more information on the scope of Sexuality Education in the school curriculum.</
 <p>The focus for Sexuality Education at Pre-University is on respectful relationships.
 Specifically, the JC/MI package covers themes of Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and Culture, Society and Law woven into
-the main focus on relationships.</p>
+the main focus on relationships</p>
 </li>
 </ol>
 <h5>At Tampines Meridian Junior College, the following Sexuality Education lessons will be taught in&nbsp;2024:</h5>
