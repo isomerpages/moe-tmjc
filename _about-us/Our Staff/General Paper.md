@@ -239,6 +239,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 GP/5_TMJC_Staff___GP_Nicholas.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Nicholas Chua Bingkai </strong>
@@ -270,6 +273,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 GP/5_TMJC_Staff___GP_Sophia.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Sophia Ng Gay Koon</strong>
