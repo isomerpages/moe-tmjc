@@ -2,37 +2,59 @@
 title: Joint Admissions Exercise
 permalink: /admissions/joint-admissions-exercise/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Joint Admission Exercise
-
-The Joint Admissions Exercise (JAE) is conducted annually by the Ministry of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate holders to apply for admission to courses offered by the JCs/Millennia Institute/Polytechnics/ITEs.  
-
-The following groups of students (not on Direct School Admission) are eligible to apply: 
-
-•	Singapore Citizens (SC) or Permanent Residents (SPR) with valid Singapore-Cambridge GCE ‘O’ Level Examinations results,  
-
-•	International students studying in a Government School, Government-Aided School or Independent School in Singapore with valid Singapore-Cambridge GCE ‘O’ Level Examination results for the preceding year.  
-
-Applicants may apply for the Joint Admissions Exercise (JAE) registration via JAE Internet System (JAE-IS) within 6 calendar days after the release of the Singapore-Cambridge GCE ‘O’ Level Examination results.
-
-### JAE Appeal Procedure
-
-The Appeal period starts after the JAE posting results.
-
-**Start Date:  1 Feb 2024 (Thursday), 9.00 am**
-
-**End Date: 7 Feb 2024 (Wednesday), 5.00 pm**
-
-Only students with **net** L1R5 equal to or less than TMJC cut-off points can be considered for appeals. All appeals applications **must be** completed **online.** The online application form can be accessed here:  [https://portal.tmjc.edu.sg/appeal](https://portal.tmjc.edu.sg/appeal). The deadline for submission of the **online appeal application** is **6 Feb, 12.00 pm.** Late or incomplete submission will not be considered.  
-
-Applicants are required to **upload** the following relevant documents in the **Online Appeal Portal.**
-
-*   Form A  
-*   JAE Verification slip (showing JC/Poly choices)
-*   ‘O’ level results
-*   Sec 1 to Sec 4 Result Slips showing Form Teachers’ comments and conduct grades
-*   CCA records
-*   Any other relevant supporting documents
-
-Shortlisted applicants will be invited for an interview. Only successful applicants will be notified by **7 Feb, 12.00 pm**.
+<h3>Joint Admission Exercise</h3>
+<p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry
+of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate
+holders to apply for admission to courses offered by the JCs/Millennia
+Institute/Polytechnics/ITEs.</p>
+<p>The following groups of students (not on Direct School Admission) are
+eligible to apply:</p>
+<p>• Singapore Citizens (SC) or Permanent Residents (SPR) with valid Singapore-Cambridge
+GCE ‘O’ Level Examinations results,</p>
+<p>• International students studying in a Government School, Government-Aided
+School or Independent School in Singapore with valid Singapore-Cambridge
+GCE ‘O’ Level Examination results for the preceding year.
+<br>
+<br>Applicants may apply for the Joint Admissions Exercise (JAE) registration
+via JAE Internet System (JAE-IS) within 6 calendar days after the release
+of the Singapore-Cambridge GCE ‘O’ Level Examination results.</p>
+<h3>JAE Appeal Procedure</h3>
+<p>The Appeal period starts after the JAE posting results.</p>
+<p><strong>Start Date:&nbsp; 4 Feb 2025 (Tuesday), 9.00 am</strong>
+</p>
+<p><strong>End Date: 10 Feb 2025 (Wednesday), 5.00 pm</strong>
+</p>
+<p>Only students with&nbsp;<strong>net</strong>&nbsp;L1R5 equal to or less
+than TMJC cut-off points can be considered for appeals.&nbsp;All appeals
+applications&nbsp;<strong>must be</strong>&nbsp;completed&nbsp;<strong>online.</strong>&nbsp;The
+online application form can be accessed&nbsp;here: &nbsp;<a href="https://portal.tmjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">https://portal.tmjc.edu.sg/appeal</a>.
+The deadline for submission of the&nbsp;<strong>online appeal application</strong>&nbsp;is&nbsp;<strong>9 Feb, 12.00 pm.</strong>&nbsp;Late
+or incomplete submission will not be considered.</p>
+<p>Applicants are required to&nbsp;<strong>upload</strong>&nbsp;the following
+relevant documents in the&nbsp;<strong>Online Appeal Portal.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Form A</p>
+</li>
+<li>
+<p>JAE Verification slip (showing JC/Poly choices)</p>
+</li>
+<li>
+<p>‘O’ level results</p>
+</li>
+<li>
+<p>Sec 1 to Sec 4 Result Slips showing Form Teachers’ comments and conduct
+grades</p>
+</li>
+<li>
+<p>CCA records</p>
+</li>
+<li>
+<p>Any other relevant supporting documents</p>
+</li>
+</ul>
+<p>Shortlisted applicants will be invited for an interview.&nbsp;Only successful
+applicants will be notified by&nbsp;<strong>7 Feb, 12.00 pm</strong>.</p>
