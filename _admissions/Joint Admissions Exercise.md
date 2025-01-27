@@ -8,12 +8,15 @@ variant: tiptap
 <p>The Joint Admissions Exercise (JAE) is conducted annually by the Ministry
 of Education (MOE) to allow Singapore-Cambridge GCE ‘O’ Level certificate
 holders to apply for admission to courses offered by the JCs/Millennia
-Institute/Polytechnics/ITEs.</p>
-<p>The following groups of students (not on Direct School Admission) are
-eligible to apply:</p>
-<p>• Singapore Citizens (SC) or Permanent Residents (SPR) with valid Singapore-Cambridge
-GCE ‘O’ Level Examinations results,</p>
-<p>• International students studying in a Government School, Government-Aided
+Institute/Polytechnics/ITEs.
+<br>
+<br>The following groups of students (not on Direct School Admission) are
+eligible to apply:
+<br>
+<br>• Singapore Citizens (SC) or Permanent Residents (SPR) with valid Singapore-Cambridge
+GCE ‘O’ Level Examinations results,
+<br>
+<br>• International students studying in a Government School, Government-Aided
 School or Independent School in Singapore with valid Singapore-Cambridge
 GCE ‘O’ Level Examination results for the preceding year.
 <br>
