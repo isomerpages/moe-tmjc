@@ -57,4 +57,4 @@ grades</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited for an interview.&nbsp;Only successful
-applicants will be notified by&nbsp;<strong>7 Feb, 12.00 pm</strong>.</p>
+applicants will be notified by&nbsp;<strong>10 Feb, 12.00 pm</strong>.</p>
