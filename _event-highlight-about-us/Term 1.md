@@ -4,7 +4,42 @@ permalink: /about-us/event-highlights/term-1/
 variant: tiptap
 description: ""
 ---
-<h3><a href="OnePeople.SG" rel="noopener nofollow" target="_blank">OnePeople.SG</a> Model United Nations 2024</h3>
+<h3>Kicking off the new year and term in style!</h3>
+<p>Kicking off the new year and term in style!</p>
+<p>After a refreshing long break, our students returned to school buzzing
+with excitement! The Back-to-School event, organised by our amazing Peer
+Support Leaders (PSLs), Student Council (TMSC) and Orientation Group Leaders
+(OGLs), was a heartwarming reunion filled with fun, laughter, and connection.
+<br>
+<br>Here’s how the day unfolded:</p>
+<p>● <strong>Meaningful Moments in CT segment</strong>
+<br>The day started in the classrooms, where students gathered to share their
+holiday highlights and personal reflections. This special time of sharing,
+led by our supportive CTs, encouraged empathy, understanding, and goal-setting
+for the term ahead.</p>
+<p>● <strong>CG Bonding Activities</strong>
+<br>Students also participated in bonding activities with their CGs, strengthening
+friendships and creating unforgettable memories. These moments of re-connection
+were filled with joy, energy, and togetherness.
+<br>
+<br>● <strong>House Challenge Fun!</strong>
+<br>Next up, the excitement moved outdoors with the House Challenge that brought
+out teamwork and camaraderie. Laughter and cheerful banter filled the air
+as friendships were rekindled through collaboration and friendly competition.
+<br>
+<br>● <strong>House Cheers and Mass Dance Magic!</strong>
+<br>We wrapped up the day with an electrifying cheering session and vibrant
+mass dance! The energy was contagious, leaving everyone with big smiles
+and a renewed sense of belonging to our community.
+<br>
+<br>With hearts full and spirits high, we're ready to take on the year together!
+<br>
+<br>#BackToSchool #CommunityVibes #TeamworkMakesTheDreamWork #NewYearNewTermNewAdventures</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_BackToSchool.jpg">
+</div>
+<h3><br><a href="OnePeople.SG" rel="noopener nofollow" target="_blank">OnePeople.SG</a> Model United Nations 2024</h3>
 <p>9 students from our College participated in the <a rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> Model
 United Nations from 3-6 December 2024. Instead of focussing primarily on
 UN functions, students attending the conference had the opportunity to
