@@ -25,7 +25,7 @@ sections:
       title: JC1 Orientation 2025
       subtitle: Announcements
       button: Find Out More
-      url: /about-us/open-house/tmjc-open-house-2025/
+      url: /about-us/announcements/
       image: /images/Homepage/Infopic/Infopic
         images/2025_T1_Announcements_JC1Orientation.jpg
       alt: Image alt text
