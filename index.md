@@ -22,32 +22,31 @@ sections:
           url: /about-us/year-2024/
       variant: center
   - infopic:
-      title: TMJC Open House 2025
-      subtitle: Open House
-      description: We look forward to welcoming you to our College.
+      title: JC1 Orientation 2025
+      subtitle: Announcements
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2025/
-      image: /images/Open House/2025/OpenHouse_2025_Banner.jpg
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T1_Announcements_JC1Orientation.jpg
       alt: Image alt text
   - infopic:
-      title: "Lumiere 2024: A Celebration of Diversity and Connection"
+      title: Kicking off the new year and term in style!
       subtitle: Event Highlights
-      description: This year’s Lumiere concert was a dazzling celebration of
-        diversity, uniting students through the universal language of art.
+      description: After a refreshing long break, our students returned to school
+        buzzing with excitement!
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T4_EventHighlights_Lumiere.jpg
+        images/2025_T1_EventHighlights_BackToSch.jpg
   - infopic:
-      title: JC2 Awards Ceremony and Farewell Assembly 2024
+      title: Open House 2025
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
-        images/2024_T4_EventHighlights_JC2Awards.jpg
+        images/2025_T1_EventHighlights_OpenHouse.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: On 11 October 2024, we bade farewell to our students from the Class
-        of 2024. The day started with the unveiling of the Stairway to
-        Excellence Mural...
+      description: On 11 January, we hosted our Open House, inviting visitors to
+        explore, discover and immerse in the unique TMJC experience.
       button: Find Out More
 ---
