@@ -39,17 +39,17 @@ and a renewed sense of belonging to our community.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_BackToSchool.jpg">
 </div>
-<h3><br><a href="OnePeople.SG" rel="noopener nofollow" target="_blank">OnePeople.SG</a> Model United Nations 2024</h3>
-<p>9 students from our College participated in the <a rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> Model
-United Nations from 3-6 December 2024. Instead of focussing primarily on
-UN functions, students attending the conference had the opportunity to
-look specifically at local issues in Singapore. Our students took on the
-roles of local agencies and government bodies to discuss hot button issues
-pertaining to race relations, and worked towards consensus building. It
-is noteworthy that our students, Yew Shang Hong and Riddhimaa Rampuria
-were accorded the Outstanding Delegate award for the council they represented.
-Overall, our students had an enriching time and thoroughly enjoyed hearing
-the different perspectives presented by all participants!</p>
+<h3><br><a href="http://OnePeople.SG" rel="noopener noreferrer nofollow" target="_blank">OnePeople.SG</a> Model United Nations 2024</h3>
+<p>9 students from our College participated in the <a href="http://OnePeople.SG" rel="noopener noreferrer nofollow" target="_blank">OnePeople.sg</a> Model United Nations from 3-6
+December 2024. Instead of focussing primarily on UN functions, students
+attending the conference had the opportunity to look specifically at local
+issues in Singapore. Our students took on the roles of local agencies and
+government bodies to discuss hot button issues pertaining to race relations,
+and worked towards consensus building. It is noteworthy that our students,
+Yew Shang Hong and Riddhimaa Rampuria were accorded the Outstanding Delegate
+award for the council they represented. Overall, our students had an enriching
+time and thoroughly enjoyed hearing the different perspectives presented
+by all participants!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_OPMUN.jpg">
 </div>
