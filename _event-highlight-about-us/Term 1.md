@@ -4,6 +4,56 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Chinese  New Year Celebrations 2025</h3>
+<p>The 2025 Lunar New Year celebrations at Tampines Meridian Junior College
+(TMJC) took place on 28 January, bringing the college community together
+in a joyous and meaningful event. With the theme “Spring in Tampines Meridian,”
+the festivities embraced the spirit of new beginnings, gratitude, and unity.
+<br>
+<br>The celebrations commenced with all JC2 students engaging in a Spring
+Cleaning activity as part of the TM Sparkles Community Program. This initiative
+reinforced the value of social responsibility, as students worked together
+to clean various facilities in the College. More than just a practical
+task, this symbolic act reflected the tradition of bidding farewell to
+the old and welcoming new beginnings—a key theme of the Lunar New Year.
+<br>
+<br>Following the Spring Cleaning session, the college community gathered
+in the Hall for an exciting array of performances by various CCA groups.
+Students from the Chinese Orchestra, Guitar Ensemble, Taekwondo, Modern
+Dance, and Wushu took the stage, captivating the audience with a dynamic
+showcase of music, dance, and martial arts that heightened the festive
+spirit.
+<br>
+<br>Adding to the celebratory atmosphere, our teachers, Ms Queenie Teo, Ms
+Ong Yan Lin, Mr Lim Khoon Liang, and Mr Nicholas Chua took center stage
+to lead the performers in a heartwarming rendition of traditional Lunar
+New Year melodies, filling the hall with joy and camaraderie.
+<br>
+<br>The concert reached a thrilling climax with an electrifying Lion Dance
+performance by NUS Lion Dance, a highlight of the celebration. As the lions
+leaped and twirled across the stage, they presented auspicious New Year
+couplets to Mr Sin Kim Ho, Principal of TMJC, and Mr Nelson Chua, Chairman
+of the College Advisory Committee. The crowd erupted in cheers, embracing
+the blessings of good fortune and prosperity.
+<br>
+<br>Continuing a cherished Lunar New Year tradition, student leaders presented
+mandarin oranges to school leaders and staff, expressing their gratitude
+and appreciation for their guidance and dedication. This simple yet heartfelt
+gesture reinforced the values of respect and unity within the TMJC family.
+The celebrations concluded on a high note with a college-wide Lo-Hei session,
+a tradition symbolizing abundance, prosperity, and shared aspirations for
+the year ahead. As students and staff tossed the ingredients high into
+the air, laughter and well-wishes filled the room, marking the perfect
+end to a meaningful and joyous Lunar New Year celebration.
+<br>
+<br>With hearts full of hope and spirits uplifted, the TMJC family welcomed
+the new year with renewed energy, gratitude, and a strengthened sense of
+community.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_CNY.jpg">
+</div>
 <h3>Kicking off the new year and term in style!</h3>
 <p>Kicking off the new year and term in style!</p>
 <p>After a refreshing long break, our students returned to school buzzing
