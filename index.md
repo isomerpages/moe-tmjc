@@ -24,8 +24,7 @@ sections:
   - infopic:
       title: Chinese  New Year Celebrations 2025
       subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_OpenHouse.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_CNY.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       description: The 2025 Lunar New Year celebrations at Tampines Meridian Junior
