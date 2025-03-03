@@ -31,13 +31,15 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_STEM.jpg
   - infopic:
-      title: JC1 Orientation 2025
-      subtitle: Announcements
+      title: "JC1 Orientation 2025: ILLUMINA"
+      subtitle: Event Highlights
       button: Find Out More
       url: /about-us/announcements/
       image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_Announcements_JC1Orientation.jpg
+        images/2025_T1_EventHighlights_Orientation.jpg
       alt: Image alt text
+      description: On 5th February 2025, TMJC welcomed our JC1 students with the theme
+        "ILLUMINA," marking the beginning of their journey at the College.
   - infopic:
       title: Chinese  New Year Celebrations 2025
       subtitle: EVENT HIGHLIGHTS
