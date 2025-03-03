@@ -22,24 +22,14 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Chinese  New Year Celebrations 2025
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_CNY.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: The 2025 Lunar New Year celebrations at Tampines Meridian Junior
-        College (TMJC) took place on 28 January...
-      button: Find Out More
-  - infopic:
-      title: Kicking off the new year and term in style!
+      title: "TMJC STEM Week 2025: STEM in our Lives"
       subtitle: Event Highlights
-      description: After a refreshing long break, our students returned to school
-        buzzing with excitement!
+      description: The recently concluded STEM Week 2025 between 12 – 19 Feb was a
+        second iteration of the event first inaugurated last year.
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_BackToSch.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_STEM.jpg
   - infopic:
       title: JC1 Orientation 2025
       subtitle: Announcements
@@ -48,4 +38,13 @@ sections:
       image: /images/Homepage/Infopic/Infopic
         images/2025_T1_Announcements_JC1Orientation.jpg
       alt: Image alt text
+  - infopic:
+      title: Chinese  New Year Celebrations 2025
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_CNY.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: The 2025 Lunar New Year celebrations at Tampines Meridian Junior
+        College (TMJC) took place on 28 January...
+      button: Find Out More
 ---
