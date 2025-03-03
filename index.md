@@ -19,7 +19,7 @@ sections:
           url: /about-us/announcements
         - title: Media Stories
           description: ""
-          url: /about-us/year-2024/
+          url: /about-us/year-2025/
       variant: center
   - infopic:
       title: Chinese  New Year Celebrations 2025
