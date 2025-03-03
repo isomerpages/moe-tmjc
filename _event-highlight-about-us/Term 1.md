@@ -4,6 +4,47 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>TMJC STEM Week 2025: STEM in our Lives</h3>
+<p>The recently concluded STEM Week 2025 between 12 – 19 Feb was a second
+iteration of the event first inaugurated last year. Jointly organised by
+the Science and Mathematics Departments, this event continued to showcase
+to our students the relevance of science, technology, engineering and mathematics
+in our daily lives. The week-long programme featured diverse "islands"
+of learning, including engaging talks, hands-on workshops, and enlightening
+learning journeys. JC1 students could choose from a series of presentations
+by their JC2 seniors, alumni, and staff members, covering a range of topics
+from immunology to String Theory.
+<br>
+<br>Popular workshops provided practical insights into scientific concepts.
+The "Brewed Chemistry: The Science Behind Coffee" session delved into the
+intricate processes behind our favourite morning beverage. Biology enthusiasts
+extracted DNA from strawberries, while mathematics sleuths explored the
+fascinating world of Platonic solids and even forensic science. Our college
+STEM instructors also supported the conduct of various activities, and
+were also involved in helming a workshop, bringing their expertise directly
+to the students.
+<br>
+<br>Learning journeys offered students real-world perspectives on STEM applications.
+A highlight was the visit to the Science Centre, where students experienced
+"Space Explorers: THE INFINITE", an immersive VR journey to the International
+Space Station. Other visits to 3M Technologies, and Singapore Maritime
+Gallery provided students with real-world perspectives on STEM applications
+and related industries.
+<br>
+<br>Other discovery activities, such as creating thaumatropes and exploring
+DIY lab-in-a-bag kits encouraged hands-on learning and creativity. Posters
+highlighted how STEM permeates many aspects of our everyday lives, while
+contests such as the “Guesstimate” showcase challenged students' estimation
+skills. The week culminated in an eventful paper airplane competition,
+with students applying their understanding of aerodynamics and design principles
+in a spirit of friendly competition.
+<br>
+<br>STEM Week not only celebrated the wonders of science, technology, engineering,
+and mathematics but also inspired our students to consider how these disciplines
+and relevant industries shape our world and influence our daily lives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_STEMWeek.jpg">
+</div>
 <h3>JC1 Orientation 2025: ILLUMINA</h3>
 <p>On 5th February 2025, TMJC welcomed our JC1 students with the theme "ILLUMINA,"
 marking the beginning of their journey at the College. The JC1 Orientation,
