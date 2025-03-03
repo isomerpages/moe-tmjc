@@ -4,7 +4,92 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Chinese  New Year Celebrations 2025</h3>
+<h3>TMJC STEM Week 2025: STEM in our Lives</h3>
+<p>The recently concluded STEM Week 2025 between 12 – 19 Feb was a second
+iteration of the event first inaugurated last year. Jointly organised by
+the Science and Mathematics Departments, this event continued to showcase
+to our students the relevance of science, technology, engineering and mathematics
+in our daily lives. The week-long programme featured diverse "islands"
+of learning, including engaging talks, hands-on workshops, and enlightening
+learning journeys. JC1 students could choose from a series of presentations
+by their JC2 seniors, alumni, and staff members, covering a range of topics
+from immunology to String Theory.
+<br>
+<br>Popular workshops provided practical insights into scientific concepts.
+The "Brewed Chemistry: The Science Behind Coffee" session delved into the
+intricate processes behind our favourite morning beverage. Biology enthusiasts
+extracted DNA from strawberries, while mathematics sleuths explored the
+fascinating world of Platonic solids and even forensic science. Our college
+STEM instructors also supported the conduct of various activities, and
+were also involved in helming a workshop, bringing their expertise directly
+to the students.
+<br>
+<br>Learning journeys offered students real-world perspectives on STEM applications.
+A highlight was the visit to the Science Centre, where students experienced
+"Space Explorers: THE INFINITE", an immersive VR journey to the International
+Space Station. Other visits to 3M Technologies, and Singapore Maritime
+Gallery provided students with real-world perspectives on STEM applications
+and related industries.
+<br>
+<br>Other discovery activities, such as creating thaumatropes and exploring
+DIY lab-in-a-bag kits encouraged hands-on learning and creativity. Posters
+highlighted how STEM permeates many aspects of our everyday lives, while
+contests such as the “Guesstimate” showcase challenged students' estimation
+skills. The week culminated in an eventful paper airplane competition,
+with students applying their understanding of aerodynamics and design principles
+in a spirit of friendly competition.
+<br>
+<br>STEM Week not only celebrated the wonders of science, technology, engineering,
+and mathematics but also inspired our students to consider how these disciplines
+and relevant industries shape our world and influence our daily lives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_STEMWeek.jpg">
+</div>
+<h3>JC1 Orientation 2025: ILLUMINA</h3>
+<p>On 5th February 2025, TMJC welcomed our JC1 students with the theme "ILLUMINA,"
+marking the beginning of their journey at the College. The JC1 Orientation,
+led by the Orientation Group Leaders (OGLs), fostered a strong sense of
+community, introducing the students to TMJC’s culture. Over the five days,
+TMJC’s strong college spirit and vibrant student experiences were showcased
+through various activities.
+<br>
+<br>Day 1 began with a spectacular flash mob of the College Mass Dance by
+the OGLs. Next, informative talks about the JC curriculum, and a dialogue
+with School Leaders and Academic Heads were held, which provided an avenue
+for students to gain a deeper understanding of the various subject disciplines.
+<br>
+<br>The Orientation and House banners were revealed on Day 2 and the JC1s
+were treated to the House walk-in performances by the OGLs. Icebreakers
+were also designed to facilitate new friendships, and the OGLs served as
+tour ambassadors to introduce our College venues and facilities to their
+juniors.
+<br>
+<br>On Day 3, the JC1s participated in games that helped build a strong foundation
+of friendships, teamwork, and College spirit, setting the tone for a positive
+and successful start to their time at TMJC. They also learnt the College
+mass dance and College cheers.
+<br>
+<br>On Day 4, the OGLs demonstrated TMJC’s house spirit as they taught their
+juniors the unique cheers that belonged to the 5 houses. In addition, the
+JC2 CCA leaders inspired our JC1 students with the iconic CCA Leaders’
+Walk-in and Oath Taking Ceremony. This was followed by the CCA booth exhibition
+where the unique experiences each CCA had to offer was shared.
+<br>
+<br>Day 5 brought the Orientation adventure to an exhilarating end as everyone
+headed to Pasir Ris Park for a time of bonding through games. The highlight
+of the Orientation was the highly anticipated Finale, which comprised a
+myriad of performances, aimed at showcasing our dynamic college spirit.
+Orientation ended on a high note as everyone sang the College anthem with
+pride and joy together.
+<br>
+<br>Overall, the JC1 students had a fulfilling experience during the Orientation
+programme. We are excited to welcome them into the TMJC family as they
+embark on their own Skye story!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_Orientation.jpg">
+</div>
+<h3>Chinese New Year Celebrations 2025</h3>
 <p>The 2025 Lunar New Year celebrations at Tampines Meridian Junior College
 (TMJC) took place on 28 January, bringing the college community together
 in a joyous and meaningful event. With the theme “Spring in Tampines Meridian,”
