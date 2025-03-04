@@ -22,6 +22,16 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
+      title: Congratulations to the Class of 2024!
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T1_EventHighlights_ALevelResults.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: On 21 February 2025, our Class of 2024 returned to College to
+        receive their GCE A-Level Examination results.
+      button: Find Out More
+  - infopic:
       title: "TMJC STEM Week 2025: STEM in our Lives"
       subtitle: Event Highlights
       description: The recently concluded STEM Week 2025 between 12 – 19 Feb was a
@@ -40,13 +50,4 @@ sections:
       alt: Image alt text
       description: On 5th February 2025, TMJC welcomed our JC1 students with the theme
         "ILLUMINA," marking the beginning of their journey at the College.
-  - infopic:
-      title: Chinese  New Year Celebrations 2025
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_CNY.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: The 2025 Lunar New Year celebrations at Tampines Meridian Junior
-        College (TMJC) took place on 28 January...
-      button: Find Out More
 ---

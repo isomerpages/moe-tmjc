@@ -4,6 +4,25 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Congratulations to the Class of 2024!</h3>
+<p>On 21 February 2025, our Class of 2024 returned to College to receive
+their GCE A-Level Examination results.
+<br>
+<br>Our Principal Mr Sin extended his warmest congratulations to the entire
+student body and shared his well-wishes with the graduating Class of 2024.
+We take immense pride in our students’ growth in their JC years, a testament
+of their hard work and dedication.
+<br>
+<br>To Class of 2024, we have come together to celebrate your successes and
+support one another, recognising that each individual's accomplishment
+which reflected the collective spirit and camaraderie that defined our
+cohort. As you embark on the next stage of their life's journey, we reaffirm
+our College’s commitment to supporting them every step of the way.
+<br>
+<br>TMJC is very proud of you.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_AlevelResult.jpg">
+</div>
 <h3>TMJC STEM Week 2025: STEM in our Lives</h3>
 <p>The recently concluded STEM Week 2025 between 12 – 19 Feb was a second
 iteration of the event first inaugurated last year. Jointly organised by
