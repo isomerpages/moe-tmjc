@@ -4,7 +4,25 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Commemorating 41 years of Total Defence </h3>
+<h3>TM Connects 2025</h3>
+<p>TM Connects, a community awareness event organised by the TMJC Values
+in Action (VIA) Committee, was held on 28 Feb 2025. This year, we had a
+total of 21 organisations participating in the event, which included talks
+as well as informative and experiential booths to engage our JC1 students.
+Five JC2 student groups also took the opportunity to showcase their VIA
+projects, as they looked to encourage their juniors to continue the various
+community service efforts. We express our gratitude to our partner organisations
+and the various JC2 students for enthusiastically sharing insights on service
+learning with our JC1s and inspiring them to serve the community.
+<br>
+<br>Through TM Connects, we hope that our students can develop an understanding
+of various community issues, explore areas of interest, and select organisations
+they wish to serve. We look forward to seeing our students actively strive
+to enact positive changes within the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_JC1TMConnects.jpg">
+</div>
+<h3>Commemorating 41 years of Total Defence</h3>
 <p>The College commemorated 41 years of Total Defence Day under the theme
 “Together, We Keep Singapore Strong”. Amid crises and disruptions such
 as geopolitical and geoeconomic developments that impact Singapore, the
