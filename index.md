@@ -22,6 +22,15 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
+      title: JC1 Badge Pinning Ceremony 2025
+      subtitle: Event Highlights
+      button: Find Out More
+      url: /about-us/announcements/
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T1_EventHighlights_JC1BadgePinning.jpg
+      alt: Image alt text
+      description: TMJC held our annual JC1 Badge Pinning Ceremony on 24 February 2025.
+  - infopic:
       title: TM Connects 2025
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
@@ -41,13 +50,4 @@ sections:
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2025_T1_EventHighlights_TotalDefenceDay.jpg
-  - infopic:
-      title: JC1 Badge Pinning Ceremony 2025
-      subtitle: Event Highlights
-      button: Find Out More
-      url: /about-us/announcements/
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_JC1BadgePinning.jpg
-      alt: Image alt text
-      description: TMJC held our annual JC1 Badge Pinning Ceremony on 24 February 2025.
 ---
