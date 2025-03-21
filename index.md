@@ -22,32 +22,32 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Congratulations to the Class of 2024!
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_ALevelResults.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: On 21 February 2025, our Class of 2024 returned to College to
-        receive their GCE A-Level Examination results.
-      button: Find Out More
-  - infopic:
-      title: "TMJC STEM Week 2025: STEM in our Lives"
-      subtitle: Event Highlights
-      description: The recently concluded STEM Week 2025 between 12 – 19 Feb was a
-        second iteration of the event first inaugurated last year.
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T1_EventHighlights_STEM.jpg
-  - infopic:
-      title: "JC1 Orientation 2025: ILLUMINA"
+      title: JC1 Badge Pinning Ceremony 2025
       subtitle: Event Highlights
       button: Find Out More
       url: /about-us/announcements/
       image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_Orientation.jpg
+        images/2025_T1_EventHighlights_JC1BadgePinning.jpg
       alt: Image alt text
-      description: On 5th February 2025, TMJC welcomed our JC1 students with the theme
-        "ILLUMINA," marking the beginning of their journey at the College.
+      description: TMJC held our annual JC1 Badge Pinning Ceremony on 24 February 2025.
+  - infopic:
+      title: TM Connects 2025
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T1_EventHighlights_JC1TMConnects.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: TM Connects, a community awareness event organised by the TMJC
+        Values in Action (VIA) Committee, was held on 28 Feb 2025.
+      button: Find Out More
+  - infopic:
+      title: Commemorating 41 years of Total Defence
+      subtitle: Event Highlights
+      description: The College commemorated 41 years of Total Defence Day under the
+        theme “Together, We Keep Singapore Strong”.
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T1_EventHighlights_TotalDefenceDay.jpg
 ---

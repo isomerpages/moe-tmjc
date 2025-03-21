@@ -4,6 +4,64 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>TM Connects 2025</h3>
+<p>TM Connects, a community awareness event organised by the TMJC Values
+in Action (VIA) Committee, was held on 28 Feb 2025. This year, we had a
+total of 21 organisations participating in the event, which included talks
+as well as informative and experiential booths to engage our JC1 students.
+Five JC2 student groups also took the opportunity to showcase their VIA
+projects, as they looked to encourage their juniors to continue the various
+community service efforts. We express our gratitude to our partner organisations
+and the various JC2 students for enthusiastically sharing insights on service
+learning with our JC1s and inspiring them to serve the community.
+<br>
+<br>Through TM Connects, we hope that our students can develop an understanding
+of various community issues, explore areas of interest, and select organisations
+they wish to serve. We look forward to seeing our students actively strive
+to enact positive changes within the community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_JC1TMConnects.jpg">
+</div>
+<h3>Commemorating 41 years of Total Defence</h3>
+<p>The College commemorated 41 years of Total Defence Day under the theme
+“Together, We Keep Singapore Strong”. Amid crises and disruptions such
+as geopolitical and geoeconomic developments that impact Singapore, the
+significance of Total Defence remains ever relevant. The focus of the commemoration
+was thus on preparing students to respond to potential disruptions, in
+particular food supply disruptions.
+<br>
+<br>Apart from student reflection on the national and personal importance
+of Total Defence during their CCE lessons, two highlights stand out. On
+14 February, the JC1s participated in an experiential learning journey
+to Nippon Koi Farm to gain a better understanding of how Singapore uses
+technology such as nanoengineering and titanium technology to enhance her
+food security, a key aspect of our Economic Defence. In the process, they
+also forged deeper ties with one another. On 28 February, the commemoration
+concluded on an impactful note. Our canteen vendors supported our Total
+Defence efforts by offering only two dishes or meal options to simulate
+limited food choices in emergency situations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_TotalDay.jpg">
+</div>
+<h3>JC1 Badge Pinning Ceremony 2025</h3>
+<p>TMJC held our annual JC1 Badge Pinning Ceremony on 24 February 2025. This
+ceremony symbolised the start of the JC1s' journey at TMJC, and the involvement
+of the JC2s was a reflection of the support that they would receive, as
+both cohorts forge ahead as one TMJC student body.
+<br>
+<br>During the ceremony, the CG Chairpersons and Peer Support Leaders from
+each JC2 class presented the College collar pins to their JC1 juniors,
+warmly welcoming them into the TMJC family. The JC2 seniors also shared
+valuable words of advice and personal experiences, offering guidance on
+what truly matters as the JC1s embark on their two-year journey. As the
+JC1s proudly pinned on their College collar pins together as a cohort,
+it marked the official beginning of their exciting and fulfilling journey
+ahead.
+<br>
+<br>Welcome JC1s!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T1_Events_JC1BadgePinning.jpg">
+</div>
 <h3>Congratulations to the Class of 2024!</h3>
 <p>On 21 February 2025, our Class of 2024 returned to College to receive
 their GCE A-Level Examination results.
