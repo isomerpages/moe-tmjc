@@ -4,11 +4,11 @@ permalink: /useful-links/canteen-vendors/
 description: ""
 variant: markdown
 ---
-Tampines Meridian Junior College would like to invite applications for Canteen Stalls to operate in 2025 –  **Malay Cooked Food**
+Tampines Meridian Junior College would like to invite application for Halal Hot Drinks &amp; Snacks stall to commence operations in May 2025. Our school is a single session and has an estimated enrolment of 1450.
 
-Our school is a single session and has an estimated enrolment of 1450.
-##### Applicants must meet the following criteria:
+##### Closing Date for Applications: 17 Apr 2025
 
+**Applicants must meet the following criteria:**
 1)Singapore Citizens or Singapore Permanent Residents (for stall holder and stall assistant);<br>
 2) Food preparation must adhere to HPB’s &nbsp;[Healthy Meals In Schools Programme (HMSP)](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) guidelines<br>
 3) Able to provide good service and quality food at reasonable prices<br>
