@@ -9,7 +9,6 @@ Tampines Meridian Junior College would like to invite application for Halal Hot 
 ##### Closing Date for Applications: 17 Apr 2025
 
 **Applicants must meet the following criteria:**
-
 1)Singapore Citizens or Singapore Permanent Residents (for stall holder and stall assistant);<br>
 2) Able to provide hot drinks and halal snack items including sandwiches, desserts, slice cakes &amp; pastries etc, that meet the healthy/nutritional standards set by the Health Promotion Board; (Please refer to https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)<br>
 3) Able to provide good service and quality food at reasonable prices;<br>
@@ -20,7 +19,7 @@ Tampines Meridian Junior College would like to invite application for Halal Hot 
 8) Prior experience in catering experience or experience operating in a school environment will be an advantage.
 
 ##### Application Procedures
-Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/application_for_canteen_stall_in_existing_school.pdf)
+Interested applicant may obtain the application form from the school’s General Office or download it here.
 
 The Application Form must be duly completed and accompanied with the following documents:<br>
 1)Photocopy of NRIC (front and back)<br>
@@ -28,12 +27,14 @@ The Application Form must be duly completed and accompanied with the following d
 3) Proposed daily menu and pricelist.<br>
 4) Photocopies of relevant certifications and experiences<br>
 
-**Mode of submission:**<br>
-Email: tmjc@moe.edu.sg<br>
-Postal mail: TAMPINES MERIDIAN JUNIOR COLLEGE<br>
-21 Pasir Ris Street 7,  Singapore 518799<br> (Attn: Admin Manager Ms Sarah Ee)
+Shortlisted applicants will be required to attend an interview and provide food samples during the food-tasting session at his/her own expense.
 
-**Closing Date for Applications:** <br>
-Completed form must reach the school latest by **Wednesday 30 October 2024 at 5.00 pm.**
+Please submit the completed form with the relevant supporting documents to the school, preferably by hand. If you are mailing out the application form, please ensure that your application will reach the school by the closing date – **Thursday, 17 Apr 2025 at 5.00pm**. Late or incomplete applications will not be considered.
 
-For further enquiries, you may contact Ms Sarah during our opening hours at Tel: 63493660
+TAMPINES MERIDIAN JUNIOR COLLEGE<br>
+21 Pasir Ris Street 71<br>
+Singapore 518799<br>
+Attention: Mdm Shazwani Awi, Administrative Executive<br>
+Tel: 63493660
+
+Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from end April or early May.
