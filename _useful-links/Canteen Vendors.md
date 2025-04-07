@@ -9,15 +9,15 @@ Tampines Meridian Junior College would like to invite application for Halal Hot 
 ##### Closing Date for Applications: 17 Apr 2025
 
 **Applicants must meet the following criteria:**
+
 1)Singapore Citizens or Singapore Permanent Residents (for stall holder and stall assistant);<br>
-2) Food preparation must adhere to HPB’s &nbsp;[Healthy Meals In Schools Programme (HMSP)](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme) guidelines<br>
-3) Able to provide good service and quality food at reasonable prices<br>
-4) Able to observe a high standard of food and personal hygiene that meet NEA requirements<br>
-5) Must be in personal attendance at the stall during operating hours between 6.45 am to 4.00pm during school term;<br>
-6) Has obtained a Basic Food Hygiene Certificate (including Stall Assistant)<br>
-7) Prior experience in school catering will be an advantage.<br>
-8) For shortlisted applicants, there will be interview and food sampling session. Applicants may be required to submit food samples for evaluation.<br>
-9) Successful applicant is required to apply for a food stall licence from the Singapore Food Agency (SFA) and must be able to commence operation of the stall from **Monday 13 January 2025**
+2) Able to provide hot drinks and halal snack items including sandwiches, desserts, slice cakes &amp; pastries etc, that meet the healthy/nutritional standards set by the Health Promotion Board; (Please refer to https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)<br>
+3) Able to provide good service and quality food at reasonable prices;<br>
+4) Able to observe a high standard of food and personal hygiene that meet NEA requirements;<br> 
+5) Must be in personal attendance at the stall during operating hours;<br>
+6) Committed to operate between 6.45am to 4.00pm during school term;<br> 
+7) Both the stall holder and stall assistant must complete and pass the Basic Food Hygiene Certificate, approved by the Workforce Development Agency (WDA)<br>
+8) Prior experience in catering experience or experience operating in a school environment will be an advantage.
 
 ##### Application Procedures
 Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/application_for_canteen_stall_in_existing_school.pdf)
