@@ -8,7 +8,7 @@ Tampines Meridian Junior College would like to invite application for Halal Hot 
 
 ##### Closing Date for Applications: 17 Apr 2025
 
-**Applicants must meet the following criteria:**
+**Applicants must meet the following criteria:**<br>
 1)Singapore Citizens or Singapore Permanent Residents (for stall holder and stall assistant);<br>
 2) Able to provide hot drinks and halal snack items including sandwiches, desserts, slice cakes &amp; pastries etc, that meet the healthy/nutritional standards set by the Health Promotion Board; (Please refer to [https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme))<br>
 3) Able to provide good service and quality food at reasonable prices;<br>
