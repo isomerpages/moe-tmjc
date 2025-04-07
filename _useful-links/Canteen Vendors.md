@@ -6,7 +6,7 @@ variant: markdown
 ---
 Tampines Meridian Junior College would like to invite application for Halal Hot Drinks &amp; Snacks stall to commence operations in May 2025. Our school is a single session and has an estimated enrolment of 1450.
 
-##### Closing Date for Applications: 17 Apr 2025
+**Closing Date for Applications: 17 Apr 2025**
 
 **Applicants must meet the following criteria:**
 1)Singapore Citizens or Singapore Permanent Residents (for stall holder and stall assistant);<br>
