@@ -19,7 +19,7 @@ Tampines Meridian Junior College would like to invite application for Halal Hot 
 8) Prior experience in catering experience or experience operating in a school environment will be an advantage.
 
 ##### Application Procedures
-Interested applicant may obtain the application form from the school’s General Office or download it here.
+Interested applicant may obtain the application form from the school’s General Office or download it [here.](/files/Useful%20Links/Canteen_Stall__Application_Form.pdf)
 
 The Application Form must be duly completed and accompanied with the following documents:<br>
 1)Photocopy of NRIC (front and back)<br>
