@@ -4,7 +4,7 @@ permalink: /admissions/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h1>2024 Direct School Admission Exercise (DSA)</h1>
+<h1>2025 Direct School Admission Exercise (DSA)</h1>
 <p>The DSA-JC exercise aims to promote holistic education by giving participating
 JCs the flexibility in selecting secondary school students for admission
 to JC1 based on their achievements and talents, while upholding key principles
@@ -20,8 +20,8 @@ and join us if you treasure enriching learning experiences, look forward
 to a well-rounded college life, and aspire to grow and contribute to the
 College.
 <br>
-<br>The 2024 DSA-JC exercise at TMJC is open to students who wish to seek
-direct admission into JC1 in 2025. Graduating students from Singapore secondary
+<br>The 2025 DSA-JC exercise at TMJC is open to students who wish to seek
+direct admission into JC1 in 2026. Graduating students from Singapore secondary
 schools can apply for DSA into TMJC during the application period.
 <br>
 <br><strong>DSA Talent Areas</strong> 
@@ -29,13 +29,15 @@ schools can apply for DSA into TMJC during the application period.
 <br>The following <strong>talent areas</strong> are open for DSA applications
 in TMJC.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2024_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2025.jpg">
 </div>
 <p><strong><u>DSA Selection Criteria</u></strong>
 </p>
-<p>Applicants will be selected based on their performance during auditions/trials/interviews.
-In addition, applicants would need to fulfil the following:</p>
+<p>Applicants will be evaluated and selected according to the following criteria:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Performance at trials / auditions / interviews</p>
+</li>
 <li>
 <p>Acceptable academic results</p>
 </li>
@@ -43,7 +45,8 @@ In addition, applicants would need to fulfil the following:</p>
 <p>Good conduct</p>
 </li>
 <li>
-<p>Track record in the chosen area of Sports/Performing Arts</p>
+<p>Track record in the chosen DSA Talent Area such as Sports/Performing Arts/
+Leaderships/Academics</p>
 </li>
 <li>
 <p>Achievements/Awards in National/Regional/International Competitions</p>
@@ -52,14 +55,16 @@ In addition, applicants would need to fulfil the following:</p>
 <p>Representation at Zonal/National competitions, National or Club level</p>
 </li>
 <li>
-<p>Relevant experience in the performing arts</p>
+<p>Relevant experience in the DSA Talent Area</p>
 </li>
 <li>
-<p>Relevant leadership skills or initiate projects to make a positive difference
+<p>Relevant leadership skills / initiate projects to make a positive difference
 to the school community or beyond.</p>
 </li>
 </ul>
-<p><strong><u>Application Procedure</u></strong>
+<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+<br>
+<br><strong><u>Application Procedure</u></strong>
 </p>
 <p>If you are interested in applying to Tampines Meridian Junior College
 through the DSA-JC exercise, you are required to complete the following:</p>
@@ -73,51 +78,53 @@ application form.
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>CCA records (all available records)</p>
+<p>CCA records</p>
 </li>
 <li>
-<p>VIA records (all available records)</p>
+<p>VIA records</p>
 </li>
 <li>
-<p>Sec 1 to 3 academic results (Weighted Assessment, Year End Exam)</p>
+<p>Academic result slips showing results of Weighted Assessment, Year End
+Examination, Form Teachers’ comments and conduct grades for <strong>Sec 3, Sec 4, Sec 5</strong> (if
+applicable).</p>
 </li>
 <li>
-<p>Sec 4 Weighted Assessment or Mid-year Exam</p>
-</li>
-<li>
-<p>Sec 1 to Sec 4 Result Slips showing Form Teachers’ comments and conduct
-grades</p>
+<p>Any other relevant supporting documents (eg: CCA achievement/scholarships)</p>
 </li>
 </ul>
 <p>Incomplete applications (e.g. without a complete set of supporting documents,
 or insufficient information provided on the online application form) will
 not be accepted or considered.</p>
 <p><strong><u>JC DSA Application Timeline</u></strong>
+<br>
+<br><strong><em>The online TMJC DSA application form will open on Wednesday, 7 May 2025, starting at 8:00 a.m.</em></strong>
 </p>
 <p>Deadline for submission of online DSA application:
 <br>
-<br><strong>Phase 1: 12 Jul 2024*</strong>
+<br><strong>Phase 1: 12 Jul 2025*</strong>
 </p>
-<p><strong>Phase 2: 12 Aug 2024*</strong>
+<p><strong>Phase 2: 12 Aug 2025*</strong>
 </p>
 <p>* Applicants are advised to submit their applications early and by the
-deadline for Phase 1 or Phase 2 as shown above, in order for the application
-to be duly considered.</p>
-<p>Applicants not being offered a place in Phase 1 <strong>need not re-submit</strong> an
+deadline for Phase 1 or Phase 2 as shown above, for the application to
+be duly considered.
+<br>
+<br>Applicants not being offered a place in Phase 1&nbsp;<strong>need not re-submit</strong>&nbsp;an
 application for Phase 2 as the application will be considered for both
 phases.</p>
-<p><strong><u>Date for Trials/Auditions</u></strong>
+<p>All shortlisted applicants who have participated in the Phase 1 or Phase
+2 selection will be informed of the outcome as shown:</p>
+<p><strong>Phase 1 - between 30 Jul and 12 Aug 2025</strong>
 </p>
-<p>Please <a href="/files/Admissions/DSA/2024_DSA_Trials_and_Auditions__updated_21_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> to
-view the dates for trials and auditions.</p>
-<p><strong>Shortlisted applicants</strong> will be notified to attend <strong>trials/auditions/interviews</strong> by <strong>30 August 2024.</strong>
+<p><strong>Phase 2 – between 26 Aug and 8 Sep 2025</strong>
+<br>
+<br><strong><u>Date for Trials/Auditions</u></strong>
 </p>
-<p>After the trials/auditions/interviews, only successful candidates for
-DSA offers will be notified by the College by <strong>5 Sep 2024.</strong>
-</p>
+<p>The dates for trials and auditions will be updated on this website by
+end of May 2025.</p>
 <p>General inquiries regarding DSA can be made via email to Mrs Rosalind
-Lim, at <a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
-<p>You may click on this <a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a> to submit the <strong>DSA Online Application</strong> for
+Lim, at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
+<p>You may click on the&nbsp;<a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to submit the&nbsp;<strong>DSA Online Application</strong>&nbsp;for
 admission to TMJC.
 <br>
 <br><strong>Important Note</strong> 
@@ -129,5 +136,3 @@ commitment to the DSA-JC schools and to participate in activities related
 to the talent selected in, for the duration of the programme admitted to.
 Students who do not fulfil their DSA commitment without valid reason may
 be required to transfer out to another school.</p>
-<p></p>
-<p></p>
