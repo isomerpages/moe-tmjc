@@ -29,7 +29,7 @@ schools can apply for DSA into TMJC during the application period.
 <br>The following <strong>talent areas</strong> are open for DSA applications
 in TMJC.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2024_v2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2025.jpg">
 </div>
 <p><strong><u>DSA Selection Criteria</u></strong>
 </p>
@@ -136,5 +136,3 @@ commitment to the DSA-JC schools and to participate in activities related
 to the talent selected in, for the duration of the programme admitted to.
 Students who do not fulfil their DSA commitment without valid reason may
 be required to transfer out to another school.</p>
-<p></p>
-<p></p>
