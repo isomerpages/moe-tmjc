@@ -120,8 +120,7 @@ phases.</p>
 <br>
 <br><strong><u>Date for Trials/Auditions</u></strong>
 </p>
-<p>The dates for trials and auditions will be updated on this website by
-end of May 2025.</p>
+<p>The dates for DSA trials and auditions are as shown in this <a href="https://go.gov.sg/tmjcdsa2025trialdates" rel="noopener nofollow" target="_blank">link</a>.</p>
 <p>General inquiries regarding DSA can be made via email to Mrs Rosalind
 Lim, at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
 <p>You may click on the&nbsp;<a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to submit the&nbsp;<strong>DSA Online Application</strong>&nbsp;for
