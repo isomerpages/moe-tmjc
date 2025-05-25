@@ -25,7 +25,7 @@ sections:
       title: MTL Fortnight 2025
       subtitle: Event Highlights
       button: Find Out More
-      url: /about-us/announcements/
+      url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
         images/2025_T2_EventHighlights_MTLFortnight.jpg
       alt: Image alt text
