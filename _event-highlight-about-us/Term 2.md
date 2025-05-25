@@ -4,6 +4,34 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3><br>Hari Raya Celebrations</h3>
+<p>On 9 April 2025, Tampines Meridian Junior College came alive with the
+spirit of Hari Raya Aidilfitri in a vibrant morning celebration that brought
+students and staff together in joyful cultural appreciation.
+<br>
+<br>Held in the college hall, the programme began with a meaningful sharing
+on the significance of Hari Raya, offering insights into its religious
+and cultural importance. This was followed by an engaging presentation
+on how Hari Raya is celebrated across different countries and regions,
+highlighting the beautiful diversity within the Muslim world.
+<br>
+<br>The audience was then treated to a series of lively performances, including
+traditional dance and a humorous yet heartwarming skit that depicted festive
+customs and family bonds. Adding to the festive cheer were interactive
+segments and quizzes that tested students' knowledge and encouraged participation.
+<br>
+<br>The celebrations continued at the Multi-Purpose Hall with hands-on sessions
+where students had the opportunity to make ondeh-ondeh, a beloved traditional
+Malay delicacy. Food stations were also set up, offering a wide array of
+traditional Hari Raya treats for everyone to enjoy, creating a warm and
+communal atmosphere.
+<br>
+<br>This celebration not only deepened cultural understanding but also reinforced
+the college's commitment to inclusivity, mutual respect, and the celebration
+of Singapore's multicultural identity.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T2_Events_HariRaya.jpg">
+</div>
 <h3>Economics Edventure &amp; Project Work Innovation Week 2025 (1 April to 11 April)</h3>
 <p>This year’s theme, “Imagining Possibilities”, encouraged students to explore
 new ideas, anticipate challenges, and craft innovative solutions through
