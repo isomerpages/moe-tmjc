@@ -216,6 +216,23 @@ third_nav_title: Our Staff
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Econs/4_TMJC_Staff___Econs_Deborah.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Rui Yan Deborah</strong>
+<br>Beginning Teacher (Economics)
+<br><a href="mailto:tan_rui_yan_deborah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_rui_yan_deborah_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><a href="https://www.tmjc.moe.edu.sg/about-us/Our-Staff/" rel="noopener noreferrer nofollow" target="_blank">Back</a>

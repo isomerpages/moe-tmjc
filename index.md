@@ -22,32 +22,35 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: JC1 Badge Pinning Ceremony 2025
+      title: MTL Fortnight 2025
       subtitle: Event Highlights
       button: Find Out More
-      url: /about-us/announcements/
+      url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_JC1BadgePinning.jpg
+        images/2025_T2_EventHighlights_MTLFortnight.jpg
       alt: Image alt text
-      description: TMJC held our annual JC1 Badge Pinning Ceremony on 24 February 2025.
+      description: The MTL Department successfully concluded Mother Tongue Fortnight
+        2025, an immersive event designed to foster a deeper appreciation for
+        Mother Tongue...
   - infopic:
-      title: TM Connects 2025
+      title: Brown Bag Session
       subtitle: EVENT HIGHLIGHTS
       image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_JC1TMConnects.jpg
+        images/2025_T2_EventHighlights_BrownBag.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: TM Connects, a community awareness event organised by the TMJC
-        Values in Action (VIA) Committee, was held on 28 Feb 2025.
+      description: At this week’s Current Affairs Brown Bag Session, students came
+        together for a lively and thoughtful discussion on some of today’s most
+        pressing societal...
       button: Find Out More
   - infopic:
-      title: Commemorating 41 years of Total Defence
+      title: International Friendship Day & Beyond
       subtitle: Event Highlights
-      description: The College commemorated 41 years of Total Defence Day under the
-        theme “Together, We Keep Singapore Strong”.
+      description: In April, TMJC commemorated International Friendship Day to imbue
+        in students an appreciation for diversity and how Singapore navigates
+        diversity...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T1_EventHighlights_TotalDefenceDay.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T2_EventHighlights_IFD.jpg
 ---
