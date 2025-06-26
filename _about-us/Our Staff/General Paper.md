@@ -70,23 +70,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Sharon.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Wong Yingxian Sharon</strong>
-<br>Subject Head (General Paper)
-<br><a href="mailto:wong_yingxian_sharon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yingxian_sharon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jasmine.jpg">
 </div>
 </td>
@@ -346,7 +329,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Goh Jin Kwang Timothy</strong>
-<br>Beginning Teacher (General Paper)
+<br>Teacher (General Paper)
 <br><a href="mailto:goh_jin_kwang_timothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_kwang_timothy@schools.gov.sg</a>
 </p>
 </td>
