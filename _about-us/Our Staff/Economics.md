@@ -228,7 +228,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Rui Yan Deborah</strong>
-<br>Beginning Teacher (Economics)
+<br>Teacher (Economics)
 <br><a href="mailto:tan_rui_yan_deborah_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_rui_yan_deborah_a@schools.gov.sg</a>
 </p>
 </td>
