@@ -482,7 +482,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Low Jingwen Megan</strong>
-<br>Beginning Teacher (Chemistry)
+<br>Teacher (Chemistry)
 <br><a href="mailto:low_jingwen_megan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jingwen_megan_a@schools.gov.sg</a>
 </p>
 </td>

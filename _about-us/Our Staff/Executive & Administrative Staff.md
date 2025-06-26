@@ -24,8 +24,25 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Ng Lai Mui</strong> 
-<br>Administration Manager (Finance)
+<br>Administration Manager
 <br><a href="mailto:ng_lai_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lai_mui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 EAS/10_TMJC_Staff___EAS_Khim_14.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Yee Khim</strong> 
+<br>Administration Manager
+<br><a href="mailto:teo_yee_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_yee_khim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
