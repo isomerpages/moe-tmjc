@@ -138,23 +138,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Shamini.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Shamini d/o Raja Kumar</strong>
-<br>Teacher (Tamil Language)
-<br><a href="mailto:shamini_raja_kumar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shamini_raja_kumar@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Chee_Boon.jpg">
 </div>
 </td>
