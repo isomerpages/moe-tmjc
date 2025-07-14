@@ -4,7 +4,7 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Combined IP Department Learning Journey </h3>
+<h3>Combined IP Department Learning Journey</h3>
 <p>On 8 May, students embarked on an exciting day of exploration with five
 multidisciplinary learning journeys to organisations like the Government
 Investment Corporation (GIC), vibrant walking tours of Telok Ayer and Boon
