@@ -4,6 +4,52 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Combined IP Department Learning Journey</h3>
+<p>On 8 May, students embarked on an exciting day of exploration with five
+multidisciplinary learning journeys to organisations like the Government
+Investment Corporation (GIC), vibrant walking tours of Telok Ayer and Boon
+Keng, Enabling Village, and ComCrop.
+<br>
+<br>The dynamic visit to GIC gave students a real-world glimpse into economic
+concepts, sparking critical thinking on Singapore’s reserves management
+and the power of informed financial decisions. The "Harmony in Diversity"
+walking tour brought Telok Ayer’s fascinating cultural history to life,
+while the walking tour at Boon Keng revealed how the past and present converge
+to shape Singapore’s unique identity. At Enabling Village, students discovered
+innovative inclusive spaces and learnt how businesses thrive by embracing
+diversity and employing people with disabilities. Finally, at ComCrop,
+they explored Singapore’s food security challenges, understanding the nation's
+dependence on imports and the vital role of urban farming in ensuring sustainability.
+<br>
+<br>These immersive and thought-provoking journeys offered TMJCians a deep,
+engaging learning experience that encouraged reflection and sparked curiosity.
+Well done, TMJCians!
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T2_Events_IPDeptLJs.jpg">
+</div>
+<h3>College Day 2025</h3>
+<p>On 2 May, the College celebrated the efforts and achievements of the Class
+of 2024 with our Guest of Honour, Dr Mok Ying Jang, Chief Executive Officer
+of Kwong Wai Shiu Hospital. The guests, awardees, parents and staff came
+together to witness the presentation of awards to our distinguished students.
+The ceremony began with a beautiful performance by the TMJC Choir.</p>
+<p>It was truly a day of celebration, marking the holistic achievements of
+the Class of 2024. Our students distinguished themselves not only through
+commendable results in the 2024 GCE A-Level Examination but also through
+their outstanding contributions to co-curricular activities. Their leadership
+shone in sports, games, and the Performing Arts, where they competed with
+determination and upheld the College’s spirit with pride. Their passion
+for learning, coupled with empathy and kindness, left a meaningful impact
+on the community and fostered a deep sense of camaraderie within the cohort.</p>
+<p>The College sincerely wishes the awardees all the very best in their future
+endeavours.</p>
+<p>TMJCians of the Class of 2024: we are proud of you, and we look forward
+to having you back as alumni among our TMJC family.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T2_Events_CollegeDay.jpg">
+</div>
 <h3>MTL Fortnight 2025 – Appreciating Our Mother Tongue Languages and Cultures</h3>
 <p>The MTL Department successfully concluded Mother Tongue Fortnight 2025,
 an immersive event designed to foster a deeper appreciation for Mother

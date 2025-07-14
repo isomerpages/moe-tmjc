@@ -22,6 +22,26 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
+      title: Combined IP Department Learning Journey
+      subtitle: Event Highlights
+      description: On 8 May, students embarked on an exciting day of exploration with
+        five multidisciplinary learning journeys to organisations like...
+      button: Find Out More
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T2_EventHighlights_IPDeptLJs.jpg
+  - infopic:
+      title: College Day 2025
+      subtitle: EVENT HIGHLIGHTS
+      image: /images/Homepage/Infopic/Infopic
+        images/2025_T2_EventHighlights_CollegeDay.jpg
+      alt: Image alt text
+      url: /event-highlight-about-us/permalink/
+      description: On 2 May, the College celebrated the efforts and achievements of
+        the Class of 2024 with our Guest of Honour, Dr Mok Ying Jang,...
+      button: Find Out More
+  - infopic:
       title: MTL Fortnight 2025
       subtitle: Event Highlights
       button: Find Out More
@@ -32,25 +52,4 @@ sections:
       description: The MTL Department successfully concluded Mother Tongue Fortnight
         2025, an immersive event designed to foster a deeper appreciation for
         Mother Tongue...
-  - infopic:
-      title: Brown Bag Session
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T2_EventHighlights_BrownBag.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: At this week’s Current Affairs Brown Bag Session, students came
-        together for a lively and thoughtful discussion on some of today’s most
-        pressing societal...
-      button: Find Out More
-  - infopic:
-      title: International Friendship Day & Beyond
-      subtitle: Event Highlights
-      description: In April, TMJC commemorated International Friendship Day to imbue
-        in students an appreciation for diversity and how Singapore navigates
-        diversity...
-      button: Find Out More
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T2_EventHighlights_IFD.jpg
 ---
