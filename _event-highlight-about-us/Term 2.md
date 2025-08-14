@@ -4,6 +4,76 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Staff Bonding Day</h3>
+<p>Our staff teambuilding day at the National Gallery was a perfect blend
+of culture, connection, and creativity. Set against a stunning backdrop
+of art and architecture, staff took part in an engaging gallery game that
+sparked teamwork, laughter, and meaningful conversations. From solving
+clues to completing quirky missions, the activity brought energy and joy
+to all.
+<br>
+<br>The morning wrapped up with a sumptuous buffet lunch, where colleagues
+bonded over delicious food and hearty conversations. It was a time to unwind,
+connect, and celebrate the vibrant spirit of our staff community.
+<br>
+<br>We left recharged, reconnected, and ready to take on Semester 2 together!
+💪✨</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T2_Events_StaffBonding.jpg">
+</div>
+<h3>Pre-U Seminar 2025</h3>
+<p>The Pre-University (Pre-U) Seminar is an annual programme that brings
+together students from different educational institutions for an enriching
+exploration of national issues through dialogue, research, and collaboration.
+<br>
+<br>This year, TMJC is proud to be the organising school of the 56th edition
+of the Pre-U Seminar, which also coincides with the year Singapore celebrates
+SG60. As such, the Seminar is aptly themed “Re-ImagiNation”, inviting all
+552 participants from 30 pre-university institutions to boldly challenge
+assumptions, ask difficult questions and present innovative solutions,
+and collectively ‘re-imagine’ Singapore in 2040.
+<br>
+<br>The participants started their Seminar journey at the end of March this
+year, forming their groups to start work on their research task. And from
+2 to 5 June, the participants gathered at Nanyang Technological University
+(NTU) to embark on the final 4-day residential programme, culminating in
+the presentation of their projects to their peers and special guests, including
+the event’s Guest of Honour, Minister of Education, Mr Desmond Lee.
+<br>
+<br><strong>Day 1 - 2 June 2025</strong>
+<br>The Pre-University Seminar 2025 commenced with participants gathering
+for an inspiring opening address by Mr Sin Kim Ho, Principal of Tampines
+Meridian Junior College, at the Lee Kong Chian Lecture Theatre. The day
+unfolded with students embarking on enriching learning journeys to various
+organisations, culminating in thought-provoking group discussions where
+participants shared insights within their sub-theme groups.
+<br>
+<br><strong>Day 2 - 3 June 2025</strong>
+<br>Distinguished panellists from diverse sectors enriched the morning sessions
+with their expertise, leading engaging discussions across the three sub-themes:
+Thrive, Connect, and Grow. The afternoon saw participants delving into
+cross-group discussions and strengthening bonds through team activities,
+before concluding the day with focused mentoring sessions where groups
+refined their ideas with their solution mentors.
+<br>
+<br><strong>Day 3 - 4 June 2025</strong>
+<br>Our student participants channelled their creativity today, using LEGO
+blocks to construct their vision of Singapore 2065. Through cross-group
+presentations exploring the themes of Thrive, Connect, and Grow, they shared
+inspiring ideas for our nation's future before diving into preparations
+for the upcoming final exhibition.
+<br>
+<br><strong>Day 4 - 5 June 2025</strong>
+<br>The Pre-University Seminar 2025 concluded with an inspiring exhibition
+showcase where student participants presented their projects to guests
+and peers.
+<br>
+<br>Minister for Education, Mr Desmond Lee, graced the event with a closing
+address, followed by an engaging Q&amp;A session. The seminar ended with
+closing remarks from TMJC Principal, Mr Sin Kim Ho.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T2_Events_PreUSem.jpg">
+</div>
 <h3>Combined IP Department Learning Journey</h3>
 <p>On 8 May, students embarked on an exciting day of exploration with five
 multidisciplinary learning journeys to organisations like the Government
