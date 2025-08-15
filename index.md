@@ -22,34 +22,32 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Combined IP Department Learning Journey
+      title: Racial Harmony Day 2025
       subtitle: Event Highlights
-      description: On 8 May, students embarked on an exciting day of exploration with
-        five multidisciplinary learning journeys to organisations like...
+      description: In collaboration with the Student Leadership Development Team and
+        Culture Promotion Club that comprise the Student Organising Committee...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T2_EventHighlights_IPDeptLJs.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_RacialHarmony.jpg
   - infopic:
-      title: College Day 2025
+      title: TM Run 2025
       subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T2_EventHighlights_CollegeDay.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_TMRun.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: On 2 May, the College celebrated the efforts and achievements of
-        the Class of 2024 with our Guest of Honour, Dr Mok Ying Jang,...
+      description: TMJC’s very first college event of the new semester took place on
+        16 July 2025 at Bedok Reservoir Park.
       button: Find Out More
   - infopic:
-      title: MTL Fortnight 2025
+      title: Pre-U Seminar 2025
       subtitle: Event Highlights
       button: Find Out More
-      url: /event-highlight-about-us/permalink/
+      url: /event-highlight-about-us/term-2/
       image: /images/Homepage/Infopic/Infopic
-        images/2025_T2_EventHighlights_MTLFortnight.jpg
+        images/2025_T2_EventHighlights_PreUSem.jpg
       alt: Image alt text
-      description: The MTL Department successfully concluded Mother Tongue Fortnight
-        2025, an immersive event designed to foster a deeper appreciation for
-        Mother Tongue...
+      description: The Pre-University (Pre-U) Seminar is an annual programme that
+        brings together students from different educational institutions for an
+        enriching exploration...
 ---
