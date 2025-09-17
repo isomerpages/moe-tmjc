@@ -44,7 +44,7 @@ sections:
       title: TM GC Challenge 2025
       subtitle: Event Highlights
       button: Find Out More
-      url: /event-highlight-about-us/term-2/
+      url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic images/2025_T3_GrandPrix.jpg
       alt: Image alt text
       description: Held from 22 to 30 July 2025, the TM GC Challenge brought together
