@@ -22,32 +22,32 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Racial Harmony Day 2025
+      title: Tampines Meridian Student Leaders' Investiture 2025
       subtitle: Event Highlights
-      description: In collaboration with the Student Leadership Development Team and
-        Culture Promotion Club that comprise the Student Organising Committee...
+      description: On 31st July 2025, we concluded our 8th Tampines Meridian Student
+        Leaders' Investiture 2025, where we celebrate our newly invested Student
+        Leaders...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_RacialHarmony.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_StudentLeaders.jpg
   - infopic:
-      title: TM Run 2025
+      title: Project Care + L.O.V.E 3 Week
       subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_TMRun.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_ProjectCare.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: TMJC’s very first college event of the new semester took place on
-        16 July 2025 at Bedok Reservoir Park.
+      description: L.O.V.E Week is a week dedicated to celebrating the values that we
+        believe in as an individual and as a TMJC family.
       button: Find Out More
   - infopic:
-      title: Pre-U Seminar 2025
+      title: TM GC Challenge 2025
       subtitle: Event Highlights
       button: Find Out More
-      url: /event-highlight-about-us/term-2/
-      image: /images/Homepage/Infopic/Infopic
-        images/2025_T2_EventHighlights_PreUSem.jpg
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_GrandPrix.jpg
       alt: Image alt text
-      description: The Pre-University (Pre-U) Seminar is an annual programme that
-        brings together students from different educational institutions for an
-        enriching exploration...
+      description: Held from 22 to 30 July 2025, the TM GC Challenge brought together
+        TMJC students in an exciting showcase of mathematical thinking and
+        teamwork.
 ---
