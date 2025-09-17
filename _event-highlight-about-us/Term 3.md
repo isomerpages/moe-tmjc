@@ -4,6 +4,22 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>TM GC Challenge 2025</h3>
+<p>Held from 22 to 30 July 2025, the <strong>TM GC Challenge</strong> brought
+together TMJC students in an exciting showcase of mathematical thinking
+and teamwork. JC1 students battled it out in an <strong>intra-class competition</strong>,
+applying graphing calculator (GC) skills to tackle A Level exam-type problems
+independently. Meanwhile, JC2 students engaged in an <strong>inter-house challenge</strong> during
+Math lecture, followed by meaningful group discussions to solve authentic,
+data-driven problems.</p>
+<p>The <strong>TM GC Challenge</strong> not only enhanced students’ GC competencies
+and appreciation of math in real-life contexts, but also encouraged <strong>independent learning</strong>, <strong>collaborative problem-solving</strong>,
+and <strong>effective communication</strong>.</p>
+<p>#TMGCChallenge2025 #TMJC #InfiniTuM #MathInAction #FutureReadyLearners
+#ThinkSolveReflect</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_GCGrandPrix.jpg">
+</div>
 <h3>Racial Harmony Day 2025</h3>
 <p>In collaboration with the Student Leadership Development Team and Culture
 Promotion Club that comprise the Student Organising Committee, the college
