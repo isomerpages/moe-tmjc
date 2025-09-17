@@ -4,7 +4,36 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Project Care + L.O.V.E 3 Week</h3>
+<h3>Tampines Meridian Student Leaders' Investiture 2025</h3>
+<p>On 31st July 2025, we concluded our 8th Tampines Meridian Student Leaders'
+Investiture 2025, where we celebrate our newly invested Student Leaders
+taking a bold step forward in their leadership journey.
+<br>
+<br>Themed Crescita, this year’s Student Leaders’ Investiture emphasised the
+spirit of growth. This investiture saw our CCA Leaders, CG Leaders and
+Student Councillors come together with pride and purpose ready to grow,
+lead, and uplift one another as one united TMJC family!
+<br>
+<br>The event began with an energetic walk-in by the Student Leaders. CCA
+Leaders showcased their group identities, while CG Leaders and the TMSC
+entered by Houses, reflecting TMJC’s strong House spirit. Our Principal,
+Mr Sin, delivered an inspiring speech, encouraging the leaders as they
+began their journey. Outgoing President of the 7th TMSC, Akram Syahid,
+reflected on his leadership experience next, and offered heartfelt advice
+to the new cohort. The Badge Presentation Ceremony which followed saw our
+student representatives being presented a badge by our School Leaders to
+identify themselves as student leaders and to officially mark the start
+of their leadership journey. The event concluded with a speech by Felicia
+Raman, the new President of the 8th TMSC, who led all leaders in reciting
+the Leaders’ Oath.
+<br>
+<br>As their leadership journey begins, we look forward to seeing our student
+leaders grow in strength, character, and unity — inspiring change and making
+a difference together as one TMJC leadership body.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_StudentLeaders.jpg">
+</div>
+<h4>Project Care + L.O.V.E 3 Week</h4>
 <p>L.O.V.E Week is a week dedicated to celebrating the values that we believe
 in as an individual and as a TMJC family. Over the week, we aim to inspire
 students to live out our College values and allow them to develop strong
