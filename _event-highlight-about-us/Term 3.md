@@ -4,6 +4,87 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Celebration of Learning</h3>
+<p>This year’s Celebration of Learning honoured the journey of our Civics
+Group Leaders (CGLs) under the theme “Echoes”, celebrating leadership that
+leaves a lasting impact across cohorts and time.
+<br>
+<br>Led by the JC1 CGLs, the session was a meaningful platform of learning
+and reflection. Through the heartfelt sharings of their JC2 seniors, the
+JC1s gained insights into how the five pillars of leadership had guided
+their predecessors and how the support of community, at both class and
+school level, was vital to their growth.
+<br>
+<br>The JC1s also delivered a thank-you segment, recognising the JC2 leaders’
+contributions to initiatives such as JC1 CG Day and CGL Training. As a
+surprise, each JC2 leader received a personalised graduation card with
+handwritten messages and photos from the juniors and classes they had inspired.
+<br>
+<br>The event closed with a teacher tribute montage, featuring teachers reflecting
+on the impact of this cohort on the wider school community.
+<br>
+<br>In the spirit of gratitude, reflection and service, Celebration of Learning
+2024 reminded all present that true leadership continues to echo long after
+the journey ends.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_CelebrationsofLearning.jpg">
+</div>
+<h3>Cultural Performance Exposure Scheme: Chinese Musical “Partial Eclipse Of The Heart!”《逆光》</h3>
+<p>70 students took part in the Cultural Performance Exposure Scheme on Friday,
+22 August 2025. They watched the original Mandarin musical “Partial Eclipse
+of the Heart!” at the Drama Centre Theatre located in the National Library.
+Themed around “a ten-year promise under the solar eclipse”, the production
+tells the story of five astronomy club friends as they journey from youthful
+school days into adulthood. It vividly portrays the innocence and passion
+of campus life, as well as the struggles and perseverance faced later in
+reality.
+<br>
+<br>The musical featured classic hits by local musicians such as Li Weisong,
+Stefanie Sun and Tanya Chua, along with newly composed original pieces.
+The familiar melodies evoked cherished memories of youth, while the engaging
+performances struck an emotional chord with the students.
+<br>
+<br>The performance was well received by the student attendees. They shared
+that the musical was not only a visual and musical feast but also a touching
+reminder to move forward bravely despite challenges. The storyline was
+heartfelt as it highlighted all forms of relationships, ranging from friends,
+lovers, and family love while including a healthy dose of humour. Eunice
+Mok of 25S305 specially mentioned that the musical was not a typical storyline
+but more of one that truly speaks to Singaporeans. She also felt that the
+musical also taught the audience that Chinese can be beautifully crafted
+to signify profound meanings.
+<br>
+<br>We hope that our students will continue to enthusiastically sign up for
+more of such meaningful programmes in the future.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_CPES_MTLDeptEnrichment.jpg">
+</div>
+<h3>2025 National Day Celebration and TM Celebrates!</h3>
+<p>On 8 August, TMJC celebrated a double milestone: Singapore’s 60th birthday
+and our College’s 7th. Under the theme “Building Our Singapore Together”,
+we partnered the 3rd Battalion, Singapore Infantry Regiment (3SIR) in showcasing
+the army’s role in safeguarding the nation, and welcomed students from
+our partner school, CPAS, to join the festivities.
+<br>
+<br>A dignified observance ceremony to commemorate Singapore’s independence
+kickstarted the celebrations. The sharp march-in by the 8<sup>th</sup> TMSC
+EXCOs and special flag-raising ceremony was complemented by a rousing rendition
+of the National Anthem by the College Band.
+<br>
+<br>This was followed by the unveiling of our SG60 x TM7 event mural which
+featured the craft contributions of all 60 classes. Students then immersed
+in a lively carnival of traditional games, experiential defence-themed
+booths by 3SIR, and were treated to yummy snacks such as muah chee, tutu
+kueh and churros.
+<br>
+<br>The celebrations closed with a concert in the hall that featured lively
+CCA performances and uplifting video montages celebrating College and National
+values. The event ended on a high with a spirited National Day sing-along
+that honoured the past while looking to the future with pride, hope and
+joy!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_NationalDay.jpg">
+</div>
 <h3>Tampines Meridian Student Leaders' Investiture 2025</h3>
 <p>On 31st July 2025, we concluded our 8th Tampines Meridian Student Leaders'
 Investiture 2025, where we celebrate our newly invested Student Leaders

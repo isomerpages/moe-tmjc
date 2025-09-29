@@ -22,32 +22,32 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Tampines Meridian Student Leaders' Investiture 2025
+      title: Celebration of Learning
       subtitle: Event Highlights
-      description: On 31st July 2025, we concluded our 8th Tampines Meridian Student
-        Leaders' Investiture 2025, where we celebrate our newly invested Student
-        Leaders...
+      description: This year’s Celebration of Learning honoured the journey of our
+        Civics Group Leaders (CGLs) under the theme “Echoes”, celebrating
+        leadership that leaves...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_StudentLeaders.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_CelebrationofLearning.jpg
   - infopic:
-      title: Project Care + L.O.V.E 3 Week
+      title: Cultural Performance Exposure Scheme
       subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_ProjectCare.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_CPES_MTL.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: L.O.V.E Week is a week dedicated to celebrating the values that we
-        believe in as an individual and as a TMJC family.
+      description: 70 students took part in the Cultural Performance Exposure Scheme
+        on Friday, 22 August 2025. They watched the original Mandarin musical
+        “Partial Eclipse of...
       button: Find Out More
   - infopic:
-      title: TM GC Challenge 2025
+      title: National Day Celebration and TM Celebrates!
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_GrandPrix.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_National_Day.jpg
       alt: Image alt text
-      description: Held from 22 to 30 July 2025, the TM GC Challenge brought together
-        TMJC students in an exciting showcase of mathematical thinking and
-        teamwork.
+      description: "On 8 August, TMJC celebrated a double milestone: Singapore’s 60th
+        birthday and our College’s 7th."
 ---
