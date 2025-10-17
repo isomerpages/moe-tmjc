@@ -3,19 +3,18 @@ title: Term 3
 permalink: /about-us/event-highlights/2022/term-4/
 description: ""
 third_nav_title: "2022"
+variant: markdown
 ---
-
-
 ### Teachers’ Day Celebration 2022
 
-Teachers’ Day came early for TMJC on 26th August as we celebrated together as a College. This year’s theme, **_The Good Old Days_**, not only serves as a homage to our teachers and their youthful spirit, but also aptly describes our students’ school days that have been made more wonderful because of our teachers.  
+Teachers’ Day came early for TMJC on 26th&nbsp;August as we celebrated together as a College. This year’s theme,&nbsp;**_The Good Old Days_**, not only serves as a homage to our teachers and their youthful spirit, but also aptly describes our students’ school days that have been made more wonderful because of our teachers.  
   
 Comprising two key segments, “Good morning, Class!” and “Thank you, Teacher!”, the celebration was thoughtfully planned with the hope that the collective experience shared that day would be remembered fondly by both teachers and students alike.  
   
 “Good morning, Class!” - Cohort Celebration felt even more special this year after a two year hiatus. It included heartfelt performances put up by our talented students, our very own teacher Mr Wong Hoe Sing, and exciting games that kept everyone on their toes. The Teachers versus Students Dance Battle was certainly the highlight of this segment!  
   
 “Thank you, Teacher!” – Civics Group (CG) Activities was a time for the CGs and our teachers to bond over competitive games and a timely opportunity for students to show their appreciation to their tutors in meaningful ways.  
-Our celebration ended on a high note, with our Principal, Ms Yoong, and Vice-Principals, Mrs Pang, Mr Ang and Mr Tan, displaying their acting chops and gamely putting up a surprise performance. Indeed, it was a heart-warming and fun-filled morning that would be fondly remembered as part of our _good old days_.  
+Our celebration ended on a high note, with our Principal, Ms Yoong, and Vice-Principals, Mrs Pang, Mr Ang and Mr Tan, displaying their acting chops and gamely putting up a surprise performance. Indeed, it was a heart-warming and fun-filled morning that would be fondly remembered as part of our&nbsp;_good old days_.  
   
 As our students thanked their tutors for putting in the heart work into developing them on this special day, they also seized the opportunity to express their sincere gratitude to our non-teaching staff. They are our unsung heroes who have been working tirelessly behind the scenes to make TMJC a more conducive second home for learning.  
   
@@ -23,20 +22,20 @@ A big thank you to all teachers and non-teaching staff! Happy Teachers’ Day!
 
 ![](/images/2022-T3-Events-TeachersDay_01.jpg)
 
-### Social Mixing Initiative: TMJC MLEP & Poi Ching School
+### Social Mixing Initiative: TMJC MLEP &amp; Poi Ching School
 
 On 25 August, our TMJC Malay Language Elective Programme (MLEP) hosted students from Poi Ching School for a unique social mixing initiative.  
 
-Our TMJC MLEP students took on the mantle of Cultural Ambassadors to share about the unique heritage and practices of the _tanjak,_ a Malay head apparel. The student-facilitated programme included sharing, quizzes, and a hands-on activity on the folding of the _tanjak._  
+Our TMJC MLEP students took on the mantle of Cultural Ambassadors to share about the unique heritage and practices of the&nbsp;_tanjak,_&nbsp;a Malay head apparel. The student-facilitated programme included sharing, quizzes, and a hands-on activity on the folding of the&nbsp;_tanjak._  
 
-Social mixing aims to deepen students’ understanding of and sensitivity to other cultures. On top of providing opportunities for interactions between our students and peers of other races, the programme aims to allow students to interact with people from different segments of our community, and for this programme, our MLEP students were _kakak_ (big sisters) and _abang_ (big brothers) to the _mei-
-mei_ (younger sisters) and _di-di_ (younger brothers) from Poi Ching School.
+Social mixing aims to deepen students’ understanding of and sensitivity to other cultures. On top of providing opportunities for interactions between our students and peers of other races, the programme aims to allow students to interact with people from different segments of our community, and for this programme, our MLEP students were&nbsp;_kakak_&nbsp;(big sisters) and&nbsp;_abang_&nbsp;(big brothers) to the&nbsp;_mei-
+mei_&nbsp;(younger sisters) and&nbsp;_di-di_&nbsp;(younger brothers) from Poi Ching School.
 
 ![](/images/2022-T3-Events-SocialMixingPartnership_01.jpg)
 
 ### Singapore Mathematical Society Essay Competition
 
-This year, 3 TMJCians participated in the 2022 Singapore Mathematical Society (SMS) Essay Competition organised by the Singapore Mathematical Society.  
+This year, 3 TMJCians participated in the 2022 Singapore Mathematical Society (SMS) Essay Competition&nbsp;organised by the Singapore Mathematical Society.  
   
 We are pleased to share that our students JORDON YEE (22S101), EUGENE LEE KANG RUI (22S101) and DAVID LAUW KWAI YONG (22S101) have achieved Honourable Mention for their essay.  
   
@@ -54,11 +53,11 @@ The MLES is offered to all five Malay Language Elective Programme centres in Sin
   
 The College would like to congratulate that three of our MLEP students have received the Malay Language Elective Scholarship. They are:  
   
-HUSNA SAFIYYA BINTE MAHDI (22A101)
+HUSNA SAFIYYA BINTE MAHDI&nbsp;(22A101)
 
-ADLINA BINTE JAAFAR (22A301)
+ADLINA BINTE JAAFAR&nbsp;(22A301)
 
-NUR NABILAH NAZIHAH BINTE MUHAMMAD ASHAHRI (22A302)  
+NUR NABILAH NAZIHAH BINTE MUHAMMAD ASHAHRI&nbsp;(22A302)  
 
 Congratulations to our MLEP scholars!
 
@@ -66,7 +65,7 @@ Congratulations to our MLEP scholars!
 
 ### Singapore Mathematics Olympiad 2022
 
-On 2 June 2022, 83 students participated in the Singapore Mathematical Olympiad (SMO). SMO is an annual mathematics competition organised by the Singapore Mathematical Society to test the ingenuity and mathematical problem-solving ability of the participants, and to discover and encourage mathematical talents in schools in Singapore.  
+On 2 June 2022, 83 students participated in the Singapore Mathematical Olympiad (SMO). SMO is an annual&nbsp;mathematics competition organised by the Singapore Mathematical Society to test the ingenuity and mathematical problem-solving ability of the participants, and to discover and encourage mathematical talents in schools in Singapore.  
 
 We are pleased to share that our TMJCians have achieved 2 Bronze and 4 Honourable Mention for the Open Section.  
   
@@ -94,7 +93,7 @@ Our heartiest congratulations to all awardees!
 
 Established in 1974, the Prime Minister’s Book Prize (PMBP) is an annual award for bilingualism given to primary, secondary, and pre-university students.  
 
-We are very happy that our alumnus from the Class of 2021, Nurul Iman Bte Othman (20A301)  is one of the 11 pre-university recipients of the PMBP this year.  
+We are very happy that our alumnus from the Class of 2021, Nurul Iman Bte Othman (20A301)&nbsp; is one of the 11 pre-university recipients of the PMBP this year.  
 
 The PMBP was presented by Second Minister for Education Dr Maliki Osman at this year's Special Awards Presentation Ceremony on 29 August 2022 at the National University of Singapore's University Cultural Centre.  
   
@@ -109,7 +108,6 @@ The Competition and Consumer Commission of Singapore launched the 5th run of the
 This year’s topic “Environmental Sustainability: The role of competition and consumer protection laws and policies” highlighted environmental sustainability as one of the most important priorities facing many economies today and invited contestants to examine the role of competition and consumer protection laws and policies in supporting environmental sustainability in Singapore.  
   
 We are proud to share that Caius Or Shin Yi (21A101) won the 1st Prize for the School Category!  
-You may read Caius’ essay and find out more about the competition here: [https://www.cccs.gov.sg/media-and-consultation/ccs-campaigns/events/results-of-the-cccs-ess-essay-competition-2022](https://www.cccs.gov.sg/media-and-consultation/ccs-campaigns/events/results-of-the-cccs-ess-essay-competition-2022)  
   
 Congratulations, Caius!
 
@@ -119,7 +117,7 @@ Congratulations, Caius!
 
 A group of JC1 Economics students represented TMJC in the GIC-MOE Last Reserve Game Competition.Our TMJCians managed to unlock all 4 badges in the game, earning themselves a Tote Bag containing limited-edition game badge stickers and a t-shirt.  
   
-We are also proud to share that Lim Yong Le from 22S201 earned the 3rd Highest Game Score in the  Junior College and Centralised Institute Category!  
+We are also proud to share that Lim Yong Le from 22S201 earned the 3rd Highest Game Score in the&nbsp; Junior College and Centralised Institute Category!  
   
 Congratulations to all!
 
@@ -128,7 +126,7 @@ Congratulations to all!
 
 ### Ministry of Finance Budget Quiz 2022
 
-Our JC2 Cohort participated in the Budget Quiz conducted by the Ministry of Finance at the beginning of the year.   
+Our JC2 Cohort participated in the Budget Quiz conducted by the Ministry of Finance at the beginning of the year.&nbsp;  
 
 We are proud to share that TMJC emerged Second Runner-Up in Junior College and Centralised Institute Category, earning the College a Challenge Trophy, as well as a copy of Professor Terence Ho Wai Luen’s book, ‘Refreshing the Singapore System’.
 
@@ -173,12 +171,12 @@ _____Photo Acknowledgment: Taken from Minister Chan Chun Sing’s Facebook_____
 
 ### National Day cum TM Celebrates! 2022
 
-On 8 August, TMJC celebrated her 4th birthday alongside Singapore's 57th! To mark this special day, the College put together a unique programme that was engaging and meaningful under the twin themes “Stronger Together, Majulah!” and “Be Better Together, United As ONE.”  
+On 8 August, TMJC celebrated her 4th&nbsp;birthday alongside Singapore's 57th! To mark this special day, the College put together a unique programme that was engaging and meaningful under the twin themes “Stronger Together, Majulah!” and “Be Better Together, United As ONE.”  
   
-After the special National Day Observance Ceremony that included the band playing the National Anthem live for the first time and presentation of the National Day Awards that recognise our teachers’ contributions to the nation, our Principal, Ms Pamela Yoong unveiled Singapore’s largest Contact Lens Blisters mosaic, a highlight that entered into the Singapore Book of Records. After that, students participated in a variety of exciting interhouse classroom and outdoor games organised by the various CCAs. This was followed by the cohort breakfast CG bonding segment that featured a sumptuous menu of traditional breakfast items.  
+After the special National Day Observance Ceremony that included the band playing the National Anthem live for the first time and presentation of the National Day Awards that recognise our teachers’ contributions to the nation, our&nbsp;Principal, Ms Pamela Yoong unveiled Singapore’s largest Contact Lens Blisters mosaic, a highlight that entered into the Singapore Book of Records. After that, students participated in a variety of exciting interhouse classroom and outdoor games organised by the various CCAs. This was followed by the cohort breakfast CG bonding segment that featured a sumptuous menu of traditional breakfast items.  
 The event ended on a high with the launch and officiation of TM Cove by Ms Yoong - a communal space for students to recharge and connect with their friends. What a way to end off our combined celebrations!  
   
-Happy 57th Birthday Singapore! And Happy 4th Birthday TMJC!  
+Happy 57th&nbsp;Birthday Singapore! And Happy 4th&nbsp;Birthday TMJC!  
 Do check out the feature on our College by Mediacorp News here:  
 [https://berita.mediacorp.sg/singapura/sambutan-hari-kemerdekaan-di-sekolah-kembali-meriah-tmjc-catat-sejarah-680646](https://berita.mediacorp.sg/singapura/sambutan-hari-kemerdekaan-di-sekolah-kembali-meriah-tmjc-catat-sejarah-680646)
 
@@ -186,7 +184,7 @@ Do check out the feature on our College by Mediacorp News here:
 
 ### Fastest Fingers Graphing Calculator Competition (FFGCC) 2022
 
-The 2022 inter-school Fastest Fingers Graphing Calculator Competition (FFGCC) is organised by TMJC and proudly sponsored by Texas Instruments. This year, 65 participants from 12 schools battled their way for a spot in the finals that was held on 3rd August 2022. Five schools (ACJC, DHS, NYJC, RI and TMJC) made it to the finals and we are proud to announce that the team from TMJC (comprising Nguyen Anh Duc from 21S101, Lee Hao from 21S101, Marcus Tan from 21S203 and Paulyne Santos Anthony from 21S203) came in 5th after putting up a tough fight.
+The 2022 inter-school Fastest Fingers Graphing Calculator Competition (FFGCC) is organised by TMJC and proudly sponsored by Texas Instruments. This year, 65 participants from 12 schools battled their way for a spot in the finals that was held on 3rd&nbsp;August 2022. Five schools (ACJC, DHS, NYJC, RI and TMJC) made it to the finals and we are proud to announce that the team from TMJC (comprising Nguyen Anh Duc from 21S101, Lee Hao from 21S101, Marcus Tan from 21S203 and Paulyne Santos Anthony from 21S203) came in 5th after putting up a tough fight.
 
 ![](/images/2022-T3-Events-FFGCC_01.jpg)
 
@@ -238,7 +236,7 @@ Our heartiest congratulations to them! We wish you all the best as you embark on
 
 ### L.O.V.E.3 Week
 
-L.O.V.E.3 Week 2022, which stands for _Living Our Values Every Day, Everywhere, with Everyone_, took place this year from 25th to 29th July. L.O.V.E.3 Week is a week dedicated to celebrating the values that we believe in as an individual and as a TMJC family. Over the week, we aim to inspire students to live out our College values and allow them to develop strong moral reasoning capabilities through the discussion of moral dilemmas through a series of activities.  
+L.O.V.E.3 Week 2022, which stands for&nbsp;_Living Our Values Every Day, Everywhere, with Everyone_, took place this year from 25th to 29th July. L.O.V.E.3 Week is a week dedicated to celebrating the values that we believe in as an individual and as a TMJC family. Over the week, we aim to inspire students to live out our College values and allow them to develop strong moral reasoning capabilities through the discussion of moral dilemmas through a series of activities.  
   
 The series of activities comprise of video interviews featuring members of the TMJC family and how they lived out our College values amidst the challenges, daily moral dilemma polls on Instagram to allow TMJC students to take a vote on their course of action, and a CCE lesson featuring different moral dilemmas for both JC1 and JC2 students. To encourage student voice, the JC1 students were also involved in a Video Competition, where each JC1 CG submitted a short 1-minute video, sharing about how they have been inspired by others who lived out admirable values.  
   
@@ -278,11 +276,11 @@ Through these meaningful activities, we hope that our TMJC students will develop
 
 The Student Leaders’ Investiture is a significant ceremony held annually to recognise our newly elected JC1 Student Leaders, comprising CG Leaders (CG Chairpersons and Peer Support Leaders), CCA Leaders, and the Tampines Meridian Student Council (TMSC). The Investiture for the Class of 2023 took place on 20 July 2022, officially marking the start of their term in office.  
 
-The theme for this year’s Investiture was **“Astron**”, which means **“star”** in Greek. It was chosen to be a reminder for all the Student Leaders that just as how stars provide guidance and light, the student leaders should similarly strive to be the “stars” – the role models – that guide and create meaningful experiences for their peers throughout their journey in TMJC.  
+The theme for this year’s Investiture was&nbsp;**“Astron**”, which means&nbsp;**“star”**&nbsp;in Greek. It was chosen to be a reminder for all the Student Leaders that just as how stars provide guidance and light, the student leaders should similarly strive to be the “stars” – the role models – that guide and create meaningful experiences for their peers throughout their journey in TMJC.  
 
 The ceremony began with the highly anticipated Student Leaders’ Walk-in, where the CCA leaders showcased their talents as they walked in, identifying themselves as each unique CCA group, while the CG Leaders and TMSC walked in according to their respective Houses, symbolising the strong House Spirit of TMJC. They warmly greeted with supportive cheers and applause from their peers and teachers.  
 
-Our Principal, Ms Pamela Yoong, addressed the student leaders and shared inspiring words to encourage them on their leadership journey. Following that, the President of the 4th Tampines Meridian Student Council, El’yez Mu’raif (21A301), addressed the cohort of JC1 students and reflected on his journey as a Student Leader. The Badge Presentation Ceremony, which followed, was an important part of the Investiture, as student representatives were presented a badge by our Principal to identify themselves as Student Leaders and to officially mark the start of their leadership journey. In concluding the Investiture, our newly elected President of the 5th TMSC, Gerrard Poh (22S203), addressed the cohort and subsequently led all our TMJC Student Leaders in reciting the Leaders’ Oath.  
+Our Principal, Ms Pamela Yoong, addressed the student leaders and shared inspiring words to encourage them on their leadership journey. Following that, the President of the 4th&nbsp;Tampines Meridian Student Council, El’yez Mu’raif (21A301), addressed the cohort of JC1 students and reflected on his journey as a Student Leader. The Badge Presentation Ceremony, which followed, was an important part of the Investiture, as student representatives were presented a badge by our Principal to identify themselves as Student Leaders and to officially mark the start of their leadership journey. In concluding the Investiture, our newly elected President of the 5th&nbsp;TMSC, Gerrard Poh (22S203), addressed the cohort and subsequently led all our TMJC Student Leaders in reciting the Leaders’ Oath.  
 
 It was truly a momentous occasion witnessing the installation of the incoming batch of Student Leaders. We congratulate them once again and wish them a fruitful and meaningful leadership journey in TMJC!
 
