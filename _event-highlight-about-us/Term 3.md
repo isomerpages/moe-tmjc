@@ -4,6 +4,29 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Staff Professional Learning Day 2025: Exploring Innovation Beyond the Classroom</h3>
+<p>On 12 September 2025, TMJC teachers participated in a Staff Professional
+Learning Day aimed at broadening perspectives and inspiring innovative
+teaching practices.
+<br>
+<br>Educators embarked on learning journeys to SingHealth, Shopee, the Urban
+Redevelopment Authority (URA), and the Hyundai Motor Group Innovation Center
+Singapore (HMGICS). These visits offered valuable insights into how different
+industries apply innovation and technology to address real-world challenges
+— from healthcare and e-commerce to urban planning and smart manufacturing.
+<br>
+<br>The day concluded with an engaging sharing by our Alumnus, Mr Joel Lim,
+Managing Director of Zyrup Media, who highlighted how Artificial Intelligence
+is transforming the media industry. His session encouraged teachers to
+reflect on how AI can also be harnessed in education to enhance creativity
+and learning.
+<br>
+<br>Through these meaningful experiences, TMJC educators returned with renewed
+inspiration to integrate fresh ideas into their classrooms and to continue
+nurturing future-ready learners.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_StaffProfessionalLearningDay.jpg">
+</div>
 <h3>Staff Appreciation Week 2025</h3>
 <p>TMJC celebrated its annual Staff Appreciation Week with a series of engaging
 activities and meaningful moments, recognising the dedication and contributions
