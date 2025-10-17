@@ -22,32 +22,33 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Celebration of Learning
+      title: Staff Professional Learning Day 2025
       subtitle: Event Highlights
-      description: This year’s Celebration of Learning honoured the journey of our
-        Civics Group Leaders (CGLs) under the theme “Echoes”, celebrating
-        leadership that leaves...
+      description: On 12 September 2025, TMJC teachers participated in a Staff
+        Professional Learning Day aimed at broadening perspectives and inspiring
+        innovative...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_CelebrationofLearning.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_StaffProfessional.jpg
   - infopic:
-      title: Cultural Performance Exposure Scheme
+      title: "TMJC Teachers' Day 2025: Galaxia – Educators of the Future"
       subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_CPES_MTL.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_TeachersDay.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: 70 students took part in the Cultural Performance Exposure Scheme
-        on Friday, 22 August 2025. They watched the original Mandarin musical
-        “Partial Eclipse of...
+      description: "On 29 August 2025, TMJC celebrated Teachers’ Day with the
+        electrifying theme: Galaxia – Educators of the Future, Navigating New
+        Worlds."
       button: Find Out More
   - infopic:
-      title: National Day Celebration and TM Celebrates!
+      title: Project Care 2025
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_National_Day.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T3_Project_Care2.jpg
       alt: Image alt text
-      description: "On 8 August, TMJC celebrated a double milestone: Singapore’s 60th
-        birthday and our College’s 7th."
+      description: As the collaboration with L.O.V.E Week wrapped up in Term 3 Week 5,
+        Project Care invited students to continue enhancing their overall
+        well-being.
 ---
