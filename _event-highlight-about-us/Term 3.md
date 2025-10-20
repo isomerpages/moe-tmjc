@@ -4,6 +4,131 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Staff Professional Learning Day 2025: Exploring Innovation Beyond the Classroom</h3>
+<p>On 12 September 2025, TMJC teachers participated in a Staff Professional
+Learning Day aimed at broadening perspectives and inspiring innovative
+teaching practices.
+<br>
+<br>Educators embarked on learning journeys to SingHealth, Shopee, the Urban
+Redevelopment Authority (URA), and the Hyundai Motor Group Innovation Center
+Singapore (HMGICS). These visits offered valuable insights into how different
+industries apply innovation and technology to address real-world challenges
+— from healthcare and e-commerce to urban planning and smart manufacturing.
+<br>
+<br>The day concluded with an engaging sharing by our Alumnus, Mr Joel Lim,
+Managing Director of Zyrup Media, who highlighted how Artificial Intelligence
+is transforming the media industry. His session encouraged teachers to
+reflect on how AI can also be harnessed in education to enhance creativity
+and learning.
+<br>
+<br>Through these meaningful experiences, TMJC educators returned with renewed
+inspiration to integrate fresh ideas into their classrooms and to continue
+nurturing future-ready learners.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_StaffProfessionalLearningDay.jpg">
+</div>
+<h3>Staff Appreciation Week 2025</h3>
+<p>TMJC celebrated its annual Staff Appreciation Week with a series of engaging
+activities and meaningful moments, recognising the dedication and contributions
+of our staff throughout the year.
+<br>
+<br>From 1 to 4 September 2025, we held our Staff Appreciation Week to celebrate
+and thank our staff for their unwavering dedication, hard work, and the
+many ways they contribute to the growth of our students and the college
+community.
+<br>
+<br>Highlights of the week included a waffle treat prepared by our Principal,
+Mr Sin, a DIY yoghurt bar, and refreshing juice drinks.
+<br>
+<br>The celebrations culminated in our annual Skills Share Circle @ TM, an
+event where staff take on the role of trainers to share their interests
+and expertise with colleagues. This year’s Skills Share circle offered
+staff the opportunity to explore new skills and discover their peers’ passions
+— from pickleball and squash to darts, making traditional Malay potpourri,
+preparing matcha, and more. It was heartening to witness the strong spirit
+of collaboration and camaraderie among staff.
+<br>
+<br>We concluded Term 3 on a high and look forward to even more shared learning,
+joy, and meaningful experiences together in Term 4.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_StaffAppreciationWeek.jpg">
+</div>
+<h3>TMJC Teachers' Day 2025: Galaxia – Educators of the Future</h3>
+<p>On 29 August 2025, TMJC celebrated Teachers’ Day with the electrifying
+theme: Galaxia – Educators of the Future, Navigating New Worlds.
+<br>
+<br>The central message, conveyed through a captivating sci-fi storyline,
+was clear: Artificial Intelligence may power the future, but our teachers
+remain truly irreplaceable. Their wisdom, humanity, and unwavering dedication
+are the guiding stars for every generation of students.
+<br>
+<br>Highlights of the day included:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Galaxia Runway: Our teachers showcased that style, spirit, and heart
+never go out of fashion.</p>
+</li>
+<li>
+<p>Electrifying Student Performances: Dynamic acts by students from Wushu,
+Modern Dance, Choir, and a student-initiated band brought the galaxy to
+life.</p>
+</li>
+<li>
+<p>Gifts of Appreciation: Students presented specially prepared tokens of
+gratitude to teachers across all departments.</p>
+</li>
+</ul>
+<p>Above all, the celebration was a heartfelt honouring of the brightest
+stars in our galaxy—our teachers. It truly reaffirmed the spirit of TMJC:
+while technology may shape the future, teachers remain the irreplaceable
+heart and light that guide us forward.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_TeachersDay.jpg">
+</div>
+<h3>Project Care 2025</h3>
+<p>As the collaboration with L.O.V.E Week wrapped up in Term 3 Week 5, Project
+Care invited students to continue enhancing their overall well-being. The
+project shifted from the initial theme of Authenticity through Reflection
+to the second theme: Gratitude for Relationships, where students participated
+in activities to show appreciation for people around them.
+<br>
+<br>In Term 3 Week 7, we moved on to the third theme, Recognition of Everyday
+Beauty, encouraging students to savour the simple joys in their daily lives.
+<br>
+<br>Here are some snapshots of the activities students participated in over
+those two weeks:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Signing up for the Cyanotype Workshop.</p>
+</li>
+<li>
+<p>Buying and gifting B-Eats of Appreciation vouchers to their friends.</p>
+</li>
+<li>
+<p>Making lotus origami for people they want to appreciate.</p>
+</li>
+<li>
+<p>Writing an appreciation card designed by the L.O.V.E Week team.</p>
+</li>
+<li>
+<p>Making acrylic bookmarks to remind themselves of simple joys in life.</p>
+</li>
+<li>
+<p>Dedication of songs during break times!</p>
+</li>
+</ul>
+<p>On top of that, Project Care also included exam welfare treats for both
+cohorts. The PSLs (Peer Support Leaders) worked hard behind the scenes
+to pack cookies for every Civics Group, and designed a TMJC sticker and
+well-wishing messages to encourage and bring cheer to their peers.
+<br>
+<br>This was a timely juncture for TMJC students to use these platforms to
+recharge themselves by showing appreciation and being appreciated, making
+the College a more conducive place for all as they continued to strive
+on and gear up for their exams!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2025/2025_T3_Events_ProjectCare2.jpg">
+</div>
 <h3>Celebration of Learning</h3>
 <p>This year’s Celebration of Learning honoured the journey of our Civics
 Group Leaders (CGLs) under the theme “Echoes”, celebrating leadership that
