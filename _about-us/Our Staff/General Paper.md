@@ -291,22 +291,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Soo_Lin.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Tan Soo Lin<br></strong>Teacher (General Paper)
-<br><a href="mailto:hanson-tan_soo_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hanson-tan_soo_lin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Geraldine.jpg">
 </div>
 </td>
