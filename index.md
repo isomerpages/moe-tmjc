@@ -22,33 +22,30 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Staff Professional Learning Day 2025
+      title: TMJC Deepavali Celebration 2025
       subtitle: Event Highlights
-      description: On 12 September 2025, TMJC teachers participated in a Staff
-        Professional Learning Day aimed at broadening perspectives and inspiring
-        innovative...
+      description: The college dive into the electrifying spirit of Deepavali as our
+        students brought the joyous spirit of Festival of Lights to life!
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_StaffProfessional.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T4_Deepavali.jpg
   - infopic:
-      title: "TMJC Teachers' Day 2025: Galaxia – Educators of the Future"
+      title: JC1 Higher Education and Careers Fest 2025
       subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_TeachersDay.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T4_HigherEducation.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: "On 29 August 2025, TMJC celebrated Teachers’ Day with the
-        electrifying theme: Galaxia – Educators of the Future, Navigating New
-        Worlds."
+      description: On 14 Oct 2025, our students took part in a valuable higher
+        education and career exploration day.
       button: Find Out More
   - infopic:
-      title: Project Care 2025
+      title: JC2 Awards Ceremony and Farewell Assembly 2025
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T3_Project_Care2.jpg
+      image: /images/Homepage/Infopic/Infopic images/2025_T4_JC2AwardsCeremony.jpg
       alt: Image alt text
-      description: As the collaboration with L.O.V.E Week wrapped up in Term 3 Week 5,
-        Project Care invited students to continue enhancing their overall
-        well-being.
+      description: On 10 October 2025, we came together to celebrate and bid farewell
+        to the Class of 2025.
 ---
