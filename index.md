@@ -25,7 +25,7 @@ sections:
       title: TMJC Open House 2026
       subtitle: Open House
       button: Find Out More
-      url: /event-highlight-about-us/permalink/
+      url: /about-us/open-house/tmjc-open-house-2026/
       image: /images/Open House/2026/Approved_Design_2___Edited.png
       alt: Image alt text
       description: The date for the TMJC Open House 2026 will be confirmed following
