@@ -23,10 +23,10 @@ sections:
       variant: center
   - infopic:
       title: TMJC Open House 2026
-      subtitle: Event Highlights
+      subtitle: Open House
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T4_JC2AwardsCeremony.jpg
+      image: /images/Open House/2026/Approved_Design_2___Edited.png
       alt: Image alt text
       description: The date for the TMJC Open House 2026 will be confirmed following
         the announcement of the O-Level results release date by MOE.
