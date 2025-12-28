@@ -23,7 +23,7 @@ sections:
       variant: center
   - infopic:
       title: TMJC Open House 2026
-      subtitle: Open House
+      subtitle: Announcements
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2026/
       image: /images/Open House/2026/Approved_Design_2___Edited.png
