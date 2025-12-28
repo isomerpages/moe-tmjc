@@ -16,5 +16,4 @@ variant: markdown
 * [SC Mobile](https://scmobile.moe.edu.sg/login)  
 * [SEAB](https://www.seab.gov.sg/)  
 * [All Ears Form Builder](https://forms.moe.edu.sg/)
-* [Sport Singapore Sports Safety](https://www.sportsingapore.gov.sg/sports-education/sports-safety/introduction/)  
 * [VITAL](https://www.vital.gov.sg/)
