@@ -22,6 +22,15 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
+      title: TMJC Open House 2026
+      subtitle: Announcements
+      button: Find Out More
+      url: /about-us/open-house/tmjc-open-house-2026/
+      image: /images/Open House/2026/Approved_Design_2___Edited.png
+      alt: Image alt text
+      description: The date for the TMJC Open House 2026 will be confirmed following
+        the announcement of the O-Level results release date by MOE.
+  - infopic:
       title: TMJC Deepavali Celebration 2025
       subtitle: Event Highlights
       description: The college dive into the electrifying spirit of Deepavali as our
@@ -39,13 +48,4 @@ sections:
       description: On 14 Oct 2025, our students took part in a valuable higher
         education and career exploration day.
       button: Find Out More
-  - infopic:
-      title: JC2 Awards Ceremony and Farewell Assembly 2025
-      subtitle: Event Highlights
-      button: Find Out More
-      url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T4_JC2AwardsCeremony.jpg
-      alt: Image alt text
-      description: On 10 October 2025, we came together to celebrate and bid farewell
-        to the Class of 2025.
 ---
