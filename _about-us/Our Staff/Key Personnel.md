@@ -87,6 +87,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Aya.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nagashima Aya</strong>
+<br>Head of Department (Economics) - Covering
+<br><a href="mailto:nagashima_aya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nagashima_aya@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kat_Wei.jpg">
 </div>
 </td>
@@ -305,23 +322,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Aya.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Nagashima Aya</strong>
-<br>Subject Head (Economics)
-<br><a href="mailto:nagashima_aya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nagashima_aya@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
 </div>
 </td>
@@ -513,6 +513,23 @@ third_nav_title: Our Staff
 <p><strong>Ms Tan Hui Bin Delphine</strong>
 <br>Subject Head (Student Management)
 <br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Xueting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xueting</strong>
+<br>Subject Head (VIA) - Covering
+<br><a href="mailto:lee_xueting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xueting@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
