@@ -19,23 +19,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Sze_Wei.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Koh Sze Wei</strong>
-<br>Head of Department (Mother Tongue Languages)
-<br><a href="mailto:koh_sze_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sze_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 MTL/7_TMJC_Staff___Mother_Tongue_Teo_Huey_Boon.jpg">
 </div>
 </td>
