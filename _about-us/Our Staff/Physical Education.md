@@ -41,7 +41,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Subject Head (CCA) - Covering
+<br>Subject Head (CCA)
 <br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_min_abigail@schools.gov.sg</a>
 </p>
 </td>
