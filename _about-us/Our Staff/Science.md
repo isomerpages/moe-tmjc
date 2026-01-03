@@ -155,6 +155,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Devi Shunmugam</strong>
+<br>Subject Head (Student Well-Being)
+<br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>devi_shunmugam@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serene.jpg">
 </div>
 </td>
@@ -314,23 +331,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Clara Tan Su Hui</strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:tan_su_hui_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_su_hui_clara@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Devi Shunmugam</strong>
-<br>Teacher (Chemistry)
-<br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">devi_shunmugam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
