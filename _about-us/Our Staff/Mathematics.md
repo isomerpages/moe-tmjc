@@ -87,6 +87,23 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Michelle.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Chen - Lee Sok Hui Michelle</strong>
+<br>Assistant Year Head
+<br><a href="mailto:lee_sok_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_sok_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Rendy Valliant Liwang</strong>
@@ -126,23 +143,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Murugiah Padma</strong>
 <br>Subject Head (Mathematics) - Covering
 <br><a href="mailto:murugiah_padma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>murugiah_padma@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Michelle.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Chen - Lee Sok Hui Michelle</strong>
-<br>Subject Head (VIA)
-<br><a href="mailto:lee_sok_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
