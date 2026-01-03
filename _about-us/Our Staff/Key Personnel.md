@@ -404,6 +404,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Padma.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Murugiah Padma</strong>
+<br>Subject Head (Mathematics) - Covering
+<br><a href="mailto:murugiah_padma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>murugiah_padma@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 MTL/7_TMJC_Staff___Mother_Tongue_Teo_Huey_Boon.jpg">
 </div>
 </td>
