@@ -19,23 +19,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Chai_Ju.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Sze - Seah Chai Ju</strong>
-<br>(Year Head)
-<br><a href="mailto:seah_chai_ju@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">seah_chai_ju@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
 </div>
 </td>
