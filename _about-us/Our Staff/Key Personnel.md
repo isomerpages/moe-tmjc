@@ -293,7 +293,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Subject Head (CCA) - Covering
+<br>Subject Head (CCA)
 <br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_teck_min_abigail@schools.gov.sg</u></a>
 </p>
 </td>
@@ -409,7 +409,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Wei Ming</strong>
-<br>Subject Head (General Paper) - Covering
+<br>Subject Head (General Paper)
 <br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_wei_ming@schools.gov.sg</u></a>
 </p>
 </td>
@@ -528,8 +528,22 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Loe Yiwen Melissa</strong>
-<br>Subject Head (Student Leadership Development) - Covering
+<br>Subject Head (Student Leadership Development)
 <br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loe_yiwen_melissa@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Devi Shunmugam</strong>
+<br>Subject Head (SWB)
+<br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>devi_shunmugam@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
