@@ -87,6 +87,20 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Rendy Valliant Liwang</strong>
+<br>Subject Head (Educational Technology)
+<br><a href="mailto:rendy_valliant_liwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rendy_valliant_liwang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
 </div>
