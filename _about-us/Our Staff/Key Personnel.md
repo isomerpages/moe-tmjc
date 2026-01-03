@@ -36,40 +36,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Chai_Ju.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Sze - Seah Chai Ju</strong>
-<br>(Year Head)
-<br><a rel="noopener noreferrer nofollow" target="_blank">seah_chai_ju@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff___A_H_Liang_Tong.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Wee Liang Tong</strong>
-<br>Head of Department (Arts &amp; Humanities)
-<br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_liang_tong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
 </div>
 </td>
@@ -94,23 +60,6 @@ third_nav_title: Our Staff
 <p><strong>Mr Gohel Amarsinh (Brandon)</strong>
 <br>Head of Department (Curriculum &amp; Assessment)
 <br><a href="mailto:gohel_amarsinh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gohel_amarsinh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Ting_Lin_Ying.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ting - Foo Lin Ying</strong>
-<br>Head of Department(Economics)
-<br><a href="mailto:foo_lin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_lin_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -162,23 +111,6 @@ third_nav_title: Our Staff
 <p><strong>Mr Lim Vanson</strong>
 <br>Head of Department (Mathematics)
 <br><a href="mailto:lim_vanson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_vanson@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Sze_Wei.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Koh Sze Wei</strong>
-<br>Head of Department (Mother Tongue Languages)
-<br><a href="mailto:koh_sze_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sze_wei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -392,14 +324,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Pauline.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pauline Peh Jia Ling</strong>&nbsp;
+<p><strong>Mr Rendy Valliant Liwang</strong>
 <br>Subject Head (Educational Technology)
-<br><a href="mailto:pauline_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_peh@schools.gov.sg</a>
+<br><a href="mailto:rendy_valliant_liwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rendy_valliant_liwang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
