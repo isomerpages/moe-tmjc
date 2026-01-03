@@ -19,23 +19,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Ting_Lin_Ying.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ting - Foo Lin Ying</strong> 
-<br>Head of Department (Economics)
-<br><a href="mailto:foo_lin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_lin_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Aya.jpg">
 </div>
 </td>
