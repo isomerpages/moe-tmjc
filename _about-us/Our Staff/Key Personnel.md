@@ -120,6 +120,20 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Cai Hanfeng</strong>
+<br>Head of Department (Mother Tongue Languages) - Covering
+<br><a href="mailto:cai_hanfeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_hanfeng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Joo_Yee.jpg">
 </div>
