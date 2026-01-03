@@ -188,6 +188,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kristianne.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Kristianne Thea Gibe Magkawas</strong>
@@ -336,3 +339,4 @@ third_nav_title: Our Staff
 </table>
 <p><a href="https://www.tmjc.moe.edu.sg/about-us/Our-Staff/" rel="noopener noreferrer nofollow" target="_blank">Back</a>
 </p>
+<p></p>
