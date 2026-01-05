@@ -162,6 +162,20 @@ third_nav_title: Our Staff
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Mani Daniel</strong>
+<br>Teacher (Tamil Language)
+<br><a href="mailto:mani_daniel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mani_daniel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><a href="https://www.tmjc.moe.edu.sg/about-us/Our-Staff/" rel="noopener noreferrer nofollow" target="_blank">Back</a>
