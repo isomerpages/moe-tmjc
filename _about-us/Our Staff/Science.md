@@ -160,7 +160,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Devi Shunmugam</strong>
-<br>Subject Head (Student Well-Being)
+<br>Subject Head (Student Wellbeing)
 <br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>devi_shunmugam@schools.gov.sg</u></a>
 </p>
 </td>
@@ -375,6 +375,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Megan.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Low Jingwen Megan</strong>
+<br>Teacher (Chemistry)
+<br><a href="mailto:low_jingwen_megan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jingwen_megan_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Daniel_Nah.jpg">
 </div>
 </td>
@@ -450,23 +467,6 @@ third_nav_title: Our Staff
 <p><strong>Mr Wong Ling Keong Jeremy</strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:wong_ling_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ling_keong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Megan.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Low Jingwen Megan</strong>
-<br>Teacher (Chemistry)
-<br><a href="mailto:low_jingwen_megan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jingwen_megan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
