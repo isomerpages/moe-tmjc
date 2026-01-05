@@ -172,6 +172,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 GP/5_TMJC_Staff___GP_Timothy.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Goh Jin Kwang Timothy</strong>
+<br>Teacher (General Paper)
+<br><a href="mailto:goh_jin_kwang_timothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_kwang_timothy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Jacqueline.jpg">
 </div>
 </td>
@@ -240,23 +257,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 GP/5_TMJC_Staff___GP_Nicholas.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Nicholas Chua Bingkai </strong>
-<br>Teacher (General Paper)
-<br><a href="mailto:nicholas_chua_bingkai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_chua_bingkai@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Norzian.jpg">
 </div>
 </td>
@@ -315,23 +315,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Tan Tian Ying Geraldine</strong>
 <br>Teacher (General Paper)
 <br><a href="mailto:geraldine_tan_tian_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">geraldine_tan_tian_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 GP/5_TMJC_Staff___GP_Timothy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Goh Jin Kwang Timothy</strong>
-<br>Teacher (General Paper)
-<br><a href="mailto:goh_jin_kwang_timothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_jin_kwang_timothy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
