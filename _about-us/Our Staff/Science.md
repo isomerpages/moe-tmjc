@@ -138,13 +138,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Pauline.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pauline Peh Jia Ling </strong>
-<br>Subject Head (Educational Technology)
-<br><a href="mailto:pauline_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_peh@schools.gov.sg</a>
+<p><strong>Mr Ong Eng Choy Bryan </strong>
+<br>Subject Head (Physics)
+<br><a href="mailto:bryan_ong_eng_choy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_ong_eng_choy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -155,13 +155,30 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Ong Eng Choy Bryan </strong>
-<br>Subject Head (Physics)
-<br><a href="mailto:bryan_ong_eng_choy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_ong_eng_choy@schools.gov.sg</a>
+<p><strong>Ms Devi Shunmugam</strong>
+<br>Subject Head (Student Wellbeing)
+<br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>devi_shunmugam@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serene.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Serene</strong>
+<br>Senior Teacher (Biology) - Covering
+<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -196,23 +213,6 @@ third_nav_title: Our Staff
 <p><strong>Ms Ong Yan Lin</strong>
 <br>Teacher (Biology)
 <br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_yan_lin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Serene.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Tan Serene</strong>
-<br>Teacher (Biology)
-<br><a href="mailto:serene_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">serene_tan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -341,23 +341,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Devi Shunmugam</strong>
-<br>Teacher (Chemistry)
-<br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">devi_shunmugam@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Hartini.jpg">
 </div>
 </td>
@@ -382,6 +365,23 @@ third_nav_title: Our Staff
 <p><strong>Ms Lim Si Qin </strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:lim_si_qin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_si_qin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Megan.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Low Jingwen Megan</strong>
+<br>Teacher (Chemistry)
+<br><a href="mailto:low_jingwen_megan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jingwen_megan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -467,23 +467,6 @@ third_nav_title: Our Staff
 <p><strong>Mr Wong Ling Keong Jeremy</strong>
 <br>Teacher (Chemistry)
 <br><a href="mailto:wong_ling_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ling_keong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Megan.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Low Jingwen Megan</strong>
-<br>Teacher (Chemistry)
-<br><a href="mailto:low_jingwen_megan_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_jingwen_megan_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

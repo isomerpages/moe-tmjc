@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Rosalind.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,30 +36,13 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Chai_Ju.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Sze - Seah Chai Ju</strong>
-<br>(Year Head)
-<br><a rel="noopener noreferrer nofollow" target="_blank">seah_chai_ju@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff___A_H_Liang_Tong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff___A_H_Liang_Tong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Wee Liang Tong</strong>
 <br>Head of Department (Arts &amp; Humanities)
-<br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_liang_tong@schools.gov.sg</a>
+<br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee_liang_tong@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -70,7 +53,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +70,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Brandon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,24 +87,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Ting_Lin_Ying.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Ting - Foo Lin Ying</strong>
-<br>Head of Department(Economics)
-<br><a href="mailto:foo_lin_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_lin_ying@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kat_Wei.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Kat_Wei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -138,7 +104,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Ming_Kong.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Ming_Kong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +121,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Vanson.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Vanson.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,24 +138,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Sze_Wei.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Koh Sze Wei</strong>
-<br>Head of Department (Mother Tongue Languages)
-<br><a href="mailto:koh_sze_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sze_wei@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Joo_Yee.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Joo_Yee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +155,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yew_Wei.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Yew_Wei.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +172,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_June.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_June.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,7 +189,72 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Arts and Humanities/3_TMJC_Staff___A_H_Aidil.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Aya.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Nagashima Aya</strong>
+<br>Head of Department (Economics) - Covering
+<br><a href="mailto:nagashima_aya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nagashima_aya@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Cai Hanfeng</strong>
+<br>Head of Department (Mother Tongue Languages) - Covering
+<br><a href="mailto:cai_hanfeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_hanfeng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Michelle.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Chen - Lee Sok Hui Michelle</strong>
+<br>Assistant Year Head
+<br><a href="mailto:lee_sok_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_sok_hui@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Delphine.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Tan Hui Bin Delphine</strong>
+<br>Assistant Year Head
+<br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Arts and Humanities/3_TMJC_Staff___A_H_Aidil.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -257,7 +271,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Sunny.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Sunny.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -274,12 +288,12 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Abigail.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Subject Head (CCA) - Covering
+<br>Subject Head (CCA)
 <br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_teck_min_abigail@schools.gov.sg</u></a>
 </p>
 </td>
@@ -291,7 +305,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Kian_Seng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,7 +322,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Beng_Lee.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,7 +339,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Teddy.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,24 +356,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Aya.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Nagashima Aya</strong>
-<br>Subject Head (Economics)
-<br><a href="mailto:nagashima_aya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nagashima_aya@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Keryn.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -376,7 +373,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Cheryl.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,14 +389,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 Science/9_TMJC_Staff___Science_Pauline.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Pauline Peh Jia Ling</strong>&nbsp;
+<p><strong>Mr Rendy Valliant Liwang</strong>
 <br>Subject Head (Educational Technology)
-<br><a href="mailto:pauline_peh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pauline_peh@schools.gov.sg</a>
+<br><a href="mailto:rendy_valliant_liwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rendy_valliant_liwang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -410,12 +404,12 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 GP/5_TMJC_Staff___GP_Chua_Wei_Ming.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Chua Wei Ming</strong>
-<br>Subject Head (General Paper) - Covering
+<br>Subject Head (General Paper)
 <br><a href="mailto:chua_wei_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_wei_ming@schools.gov.sg</u></a>
 </p>
 </td>
@@ -427,7 +421,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Nicolette.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -444,7 +438,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 MTL/7_TMJC_Staff___Mother_Tongue_Teo_Huey_Boon.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2025 MTL/7_TMJC_Staff___Mother_Tongue_Teo_Huey_Boon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -461,7 +455,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 PE/8_TMJC_Staff___PE_Sheng_Xiang.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -478,7 +472,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Bryan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -495,7 +489,7 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff_Jie_Ting.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff_Jie_Ting.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,29 +506,12 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Michelle.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mrs Chen - Lee Sok Hui Michelle</strong>
-<br>Subject Head (SD VIA)
-<br><a href="mailto:lee_sok_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_sok_hui@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Melissa_Loe.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Melissa_Loe.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Loe Yiwen Melissa</strong>
-<br>Subject Head (Student Leadership Development) - Covering
+<br>Subject Head (Student Leadership Development)
 <br><a href="mailto:loe_yiwen_melissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>loe_yiwen_melissa@schools.gov.sg</u></a>
 </p>
 </td>
@@ -546,13 +523,47 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Delphine.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Science/9_TMJC_Staff___Science_Devi.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Tan Hui Bin Delphine</strong>
-<br>Subject Head (Student Management)
-<br><a href="mailto:wong-tan_hui_bin_delphine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong-tan_hui_bin_delphine@schools.gov.sg</a>
+<p><strong>Ms Devi Shunmugam</strong>
+<br>Subject Head (Student Wellbeing)
+<br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>devi_shunmugam@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Padma.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Murugiah Padma</strong>
+<br>Subject Head (Mathematics) - Covering
+<br><a href="mailto:murugiah_padma@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>murugiah_padma@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Econs/4_TMJC_Staff___Econs_Xueting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lee Xueting</strong>
+<br>Subject Head (VIA) - Covering
+<br><a href="mailto:lee_xueting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_xueting@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -560,3 +571,4 @@ third_nav_title: Our Staff
 </table>
 <p><a href="https://www.tmjc.moe.edu.sg/about-us/Our-Staff/" rel="noopener noreferrer nofollow" target="_blank">Back</a>
 </p>
+<p></p>

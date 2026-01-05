@@ -23,9 +23,9 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Wee Liang Tong</strong> 
+<p><strong>Mr Wee Liang Tong</strong>
 <br>Head of Department (Arts &amp; Humanities)
-<br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_liang_tong@schools.gov.sg</a>
+<br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee_liang_tong@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
@@ -43,23 +43,6 @@ third_nav_title: Our Staff
 <p><strong>Mr Muhammad Aidil Bin Ali </strong>
 <br>Subject Head (21 Century Competencies)
 <br><a href="mailto:muhammad_aidil_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_aidil_ali@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff_Audrey.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mdm Chia Sor Siang Audrey</strong> 
-<br>Senior Teacher (History)
-<br><a href="mailto:audrey_chia_sor_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">audrey_chia_sor_siang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -154,14 +137,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff_Vanessa.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Vanessa Anne Nunis</strong> 
+<p><strong>Mr Jeyseelan Kalimuthu</strong>
 <br>Teacher (History)
-<br><a href="mailto:vanessa_nunis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vanessa_nunis@schools.gov.sg</a>
+<br><a href="mailto:jeyseelan_kalimuthu_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeyseelan_kalimuthu_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>

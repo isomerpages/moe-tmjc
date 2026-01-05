@@ -18,14 +18,11 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 MTL/7_TMJC_Staff___Mother_Tongue_Sze_Wei.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Koh Sze Wei</strong>
-<br>Head of Department (Mother Tongue Languages)
-<br><a href="mailto:koh_sze_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_sze_wei@schools.gov.sg</a>
+<p><strong>Mr Cai Hanfeng</strong>
+<br>Head of Department (Mother Tongue Languages) - Covering
+<br><a href="mailto:cai_hanfeng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cai_hanfeng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -162,6 +159,20 @@ third_nav_title: Our Staff
 <p><strong>Mdm Twu Yek Chian</strong>
 <br>Teacher (Chinese Language)
 <br><a href="mailto:twu_yek_chian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">twu_yek_chian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dr Mani Daniel</strong>
+<br>Teacher (Tamil Language)
+<br><a href="mailto:mani_daniel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mani_daniel@schools.gov.sg</a>
 </p>
 </td>
 </tr>

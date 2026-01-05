@@ -41,7 +41,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Tan Teck Min Abigail</strong>
-<br>Subject Head (CCA) - Covering
+<br>Subject Head (CCA)
 <br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_teck_min_abigail@schools.gov.sg</a>
 </p>
 </td>
@@ -94,6 +94,20 @@ third_nav_title: Our Staff
 <p><strong>Ms Cheryl Seet Shi Qian</strong>
 <br>Teacher (Physical Education)
 <br><a href="mailto:Cheryl_Seet_Shi_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_seet_shi_qian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jonathan Heng Wei Zhi</strong>
+<br>Teacher (Physical Education)
+<br><a href="mailto:heng_wei_zhi_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">heng_wei_zhi_jonathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
