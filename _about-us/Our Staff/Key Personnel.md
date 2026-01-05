@@ -528,7 +528,7 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Devi Shunmugam</strong>
-<br>Subject Head (Student Well-Being)
+<br>Subject Head (Student Wellbeing)
 <br><a href="mailto:devi_shunmugam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>devi_shunmugam@schools.gov.sg</u></a>
 </p>
 </td>
