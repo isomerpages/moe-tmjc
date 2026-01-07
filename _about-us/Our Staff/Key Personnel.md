@@ -57,7 +57,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Luo - Tan Jing Ying Amy</strong>
+<p><strong>Ms Tan Jing Ying Amy</strong>
 <br>Head of Department (CCE)
 <br><a href="mailto:amy_tan_jing_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amy_tan_jing_ying@schools.gov.sg</a>
 </p>
