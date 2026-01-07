@@ -6,11 +6,10 @@ description: ""
 third_nav_title: Open House
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026/Approved_Design_2___Edited.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026/OpenHouse_2026_Banner.jpg">
 </div>
-<p><strong>The date for the TMJC Open House 2026 will be confirmed following the announcement of the&nbsp;O-Level&nbsp;results release date by MOE.</strong>
-</p>
 <p><strong><u>Our Programme</u></strong>
 </p>
 <table style="minWidth: 50px">

@@ -26,10 +26,9 @@ sections:
       subtitle: Announcements
       button: Find Out More
       url: /about-us/open-house/tmjc-open-house-2026/
-      image: /images/Open House/2026/Approved_Design_2___Edited.png
+      image: /images/Open House/2026/OpenHouse_2026_Banner.jpg
       alt: Image alt text
-      description: The date for the TMJC Open House 2026 will be confirmed following
-        the announcement of the O-Level results release date by MOE.
+      description: 15 January 2026, 10am - 3pm
   - infopic:
       title: TMJC Deepavali Celebration 2025
       subtitle: Event Highlights
