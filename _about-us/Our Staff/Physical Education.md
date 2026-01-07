@@ -103,6 +103,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2026 PE/TMJC_Staff___PE_Jonathan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jonathan Heng Wei Zhi</strong>
