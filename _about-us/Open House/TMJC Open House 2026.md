@@ -28,7 +28,7 @@ third_nav_title: Open House
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1015</p>
+<p>1010</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hop on Board with Skye - Led by Tampines Meridian Student Council</p>
@@ -36,7 +36,7 @@ third_nav_title: Open House
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1010</p>
+<p>1030</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Skye’ Stage: CCA Showcase #1</p>
