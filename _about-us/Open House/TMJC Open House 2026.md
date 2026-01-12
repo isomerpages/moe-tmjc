@@ -10,6 +10,10 @@ third_nav_title: Open House
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026/OpenHouse_2026_Banner.jpg">
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5EtssoKMhmY?si=yQpF_xwMm58F7KJp"></iframe>
+</div>
 <p><strong><u>Our Programme</u></strong>
 </p>
 <table style="minWidth: 50px">
@@ -28,7 +32,7 @@ third_nav_title: Open House
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1015</p>
+<p>1010</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hop on Board with Skye - Led by Tampines Meridian Student Council</p>
@@ -36,7 +40,7 @@ third_nav_title: Open House
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1010</p>
+<p>1030</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Skye’ Stage: CCA Showcase #1</p>
