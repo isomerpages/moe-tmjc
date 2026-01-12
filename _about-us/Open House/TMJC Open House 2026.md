@@ -14,8 +14,7 @@ third_nav_title: Open House
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5EtssoKMhmY?si=yQpF_xwMm58F7KJp"></iframe>
 </div>
-<p>
-<br><strong><u>Our Programme</u></strong>
+<p><strong><u>Our Programme</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
