@@ -10,7 +10,12 @@ third_nav_title: Open House
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026/OpenHouse_2026_Banner.jpg">
 </div>
-<p><strong><u>Our Programme</u></strong>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5EtssoKMhmY?si=yQpF_xwMm58F7KJp"></iframe>
+</div>
+<p>
+<br><strong><u>Our Programme</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
