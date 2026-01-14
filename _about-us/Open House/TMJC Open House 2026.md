@@ -6,9 +6,8 @@ description: ""
 third_nav_title: Open House
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026/OpenHouse_2026_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open House/2026/OpenHouse_2026_Banner_v2.jpg">
 </div>
 <p></p>
 <div class="iframe-wrapper">
