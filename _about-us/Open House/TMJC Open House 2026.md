@@ -31,7 +31,7 @@ third_nav_title: Open House
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1010</p>
+<p>1015</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hop on Board with Skye - Led by Tampines Meridian Student Council</p>
@@ -125,7 +125,7 @@ third_nav_title: Open House
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1430</p>
+<p>1415</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TSD Performance #3</p>
