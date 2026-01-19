@@ -33,9 +33,8 @@ sexuality matters.
 </p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.
-<br>
-</p>
+that are premised on the family as the basic unit of society.</p>
+<p></p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:
@@ -69,7 +68,7 @@ Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://
 more information on the scope of Sexuality Education in the school curriculum.</p>
 </li>
 </ol>
-<h5>Sexuality Education:</h5>
+<h4>Sexuality Education:</h4>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>The focus for Sexuality Education at Pre-University is on respectful relationships.
@@ -98,6 +97,7 @@ Division instead of HPB. The desired outcome of the eTeens programme is
 that students are empowered to make wise, informed and sensible decisions
 to protect themselves from sexually transmitted infectious diseases.
 <br>
+<br>
 </p>
 </li>
 <li>
@@ -114,25 +114,22 @@ and seeking help. Abstinence and upholding family values are the key messages.</
 <ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education and/or supplementary
-Sexuality Education programmes by MOE-approved external providers.
-<br>
-</p>
+Sexuality Education programmes by MOE-approved external providers.</p>
+<p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
 to parents at the start of the year and is also available <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_Opt_Out_Form_2026__Annex_A_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 02/04/2026.
-<br>
-</p>
+completed form is to be submitted by 02/04/2026.</p>
+<p></p>
 </li>
 <li>
 <p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also available <a href="/files/Our Total Curriculum/Character Citizenship Progs/Sexuality Education/Parents_eTeens_Opt_Out_Form_2026__Annex_B_.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a> The
-completed form is to be submitted by 10/07/2026.
-<br>
-</p>
+completed form is to be submitted by 10/07/2026.</p>
+<p></p>
 </li>
 <li>
 <p>Parents can contact the school at <a href="mailto:tmjc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tmjc@moe.edu.sg</a> for discussion or to seek
