@@ -5,44 +5,53 @@ variant: tiptap
 description: ""
 third_nav_title: Principal's Message
 ---
+<p>I believe in the transformative power of stepping beyond our comfort zones.
+Whether it's mastering an unfamiliar skill, breaking free from routine
+habits, or embarking on an unexpected adventure, it is precisely in these
+moments of gentle discomfort that we discover our greatest capacity for
+growth.
+<br>
+<br>We stand at a pivotal moment in human history. The rapid development of
+Artificial Intelligence (AI) is reshaping not just our technological landscape,
+but the very foundations of how we work, learn, and connect. As educators,
+we cannot afford to be passive observers of this transformation. This year,
+I have challenged myself to delve deeper into understanding AI through
+an educator's lens — exploring how AI works, what this teaches us about
+human reasoning, and how we can harness its potential to enhance rather
+than replace meaningful learning.
+<br>
+<br>My line of inquiry has guided by these questions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What are the irreplaceable human qualities we must nurture in our students?</p>
+</li>
+<li>
+<p>How do we design educational experiences in school that prepare young
+minds for a world we can barely imagine?</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2025/Mr_Sin_Kim_Ho__Principal__2025_Edited.jpg">
-</div>
-<p>Life is an adventure, replete with unexpected challenges and discoveries
-about ourselves and the world around us.
+</li>
+</ul>
+<p>I may never find definitive answers, particularly given the unabating
+pace of advancement. Yet making sense of these uncertainties is not just
+beneficial — it is essential.
 <br>
-<br>Recently, I embarked on the adventure of a lifetime - I leapt from a plane,
-safely strapped to an instructor (of course). The experience was a whirlwind
-of intense emotions, with the nagging 'what if' question constantly hanging
-at the back of my mind.
+<br>One truth has emerged clearly: the irreplaceable value of authentic human
+connection. While AI may excel at processing information and solving complex
+problems, it cannot replicate the depth of empathy, creativity, and genuine
+relationship-building that defines our humanity. These are the qualities
+we must cultivate with renewed vigour in our students, whether in the form
+of ‘soft skills’ or 21CC.
 <br>
-<br>My instructor's expertise made all the difference. His patient explanations,
-constant safety checks, and continual reassurance were crucial in helping
-me overcome my fears and embrace this exhilarating experience.
+<br>As the college embark on our re-envisioning journey for the years ahead,
+I invite each member of our community to awaken the adventurer within.
+Together, let us approach this era of unprecedented change not with trepidation,
+but with curiosity, courage, and an unwavering commitment to preparing
+our students for a future filled with both promises and possibilities.
 <br>
-<br>This guidance from an expert mirrors what our students need as they navigate
-their own adventures of transitioning into adulthood, learning to lead
-themselves and others. Whether grappling with complex academic concepts
-or managing team dynamics in co-curricular activities, new experiences
-can be both bewildering and challenging.
+<br>The journey ahead may be uncertain, but it is one we will navigate together,
+learning and growing every step of the way.
 <br>
-<br>Our teachers, in their various roles as subject tutors, civics tutors,
-and CCA advisors, serve as mentors to our students. Unlike my skydiving
-instructor, they don't simply tell students what to do. Instead, they offer
-advice, present options, and suggest possible directions, empowering students
-to navigate their own paths.
-<br>
-<br>As a college, we collaborate with parents, alumni, the community, and
-industry partners to provide opportunities for students to understand and
-appreciate the future landscape.
-<br>
-<br>Given the trajectory of global events, we anticipate 2025 to be a tumultuous
-year. However, if we approach it with the mindset of adventurers-at-heart,
-I'm confident it will be a year rich with learning opportunities.
-<br>
-<br>Extracting from our college anthem:
-<br><em>The world is every changing <br>No challenge is too big,<br>With courage and resilience,<br>With honour we’ll succeed.</em>
+<br>Let’s once again wake up that little adventurer within each of us.
 <br>
 <br>Mr Sin Kim Ho
 <br>Principal</p>
