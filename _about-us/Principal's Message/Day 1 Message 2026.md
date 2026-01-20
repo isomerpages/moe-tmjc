@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Principal's Message
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Principal's Message/2026/Mr_Sin_Kim_Ho__Principal__2026_Edited.jpg">
+</div>
 <p>I believe in the transformative power of stepping beyond our comfort zones.
 Whether it's mastering an unfamiliar skill, breaking free from routine
 habits, or embarking on an unexpected adventure, it is precisely in these
