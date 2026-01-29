@@ -26,7 +26,7 @@ sections:
       subtitle: Announcements
       image: /images/Announcements/2026/Announcement_2026JC1Orientation.jpg
       alt: Image alt text
-      url: /event-highlight-about-us/permalink/
+      url: /about-us/announcements/
       description: 4 February 2026
       button: Find Out More
   - infopic:
