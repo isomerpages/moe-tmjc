@@ -25,15 +25,15 @@ via JAE Internet System (JAE-IS) within 6 calendar days after the release
 of the Singapore-Cambridge GCE ‘O’ Level Examination results.</p>
 <h3>JAE Appeal Procedure</h3>
 <p>The Appeal period starts after the JAE posting results.</p>
-<p><strong>Start Date:&nbsp; 4 Feb 2025 (Tuesday), 9.00 am</strong>
+<p><strong>Start Date: 3 Feb 2026 (Tuesday), 9.00 am</strong>
 </p>
-<p><strong>End Date: 10 Feb 2025 (Wednesday), 5.00 pm</strong>
+<p><strong>End Date: 9 Feb 2026 (Monday), 5.00 pm</strong>
 </p>
 <p>Only students with&nbsp;<strong>net</strong>&nbsp;L1R5 equal to or less
 than TMJC cut-off points can be considered for appeals.&nbsp;All appeals
 applications&nbsp;<strong>must be</strong>&nbsp;completed&nbsp;<strong>online.</strong>&nbsp;The
 online application form can be accessed&nbsp;here: &nbsp;<a href="https://portal.tmjc.edu.sg/appeal" rel="noopener noreferrer nofollow" target="_blank">https://portal.tmjc.edu.sg/appeal</a>.
-The deadline for submission of the&nbsp;<strong>online appeal application</strong>&nbsp;is&nbsp;<strong>9 Feb, 12.00 pm.</strong>&nbsp;Late
+The deadline for submission of the&nbsp;<strong>online appeal application</strong>&nbsp;is&nbsp;<strong>8 Feb, 12.00 pm.</strong>&nbsp;Late
 or incomplete submission will not be considered.</p>
 <p>Applicants are required to&nbsp;<strong>upload</strong>&nbsp;the following
 relevant documents in the&nbsp;<strong>Online Appeal Portal.</strong>
@@ -60,4 +60,4 @@ grades</p>
 </li>
 </ul>
 <p>Shortlisted applicants will be invited for an interview.&nbsp;Only successful
-applicants will be notified by&nbsp;<strong>10 Feb, 12.00 pm</strong>.</p>
+applicants will be notified by <strong>9 Feb, 12.00 pm</strong>.</p>
