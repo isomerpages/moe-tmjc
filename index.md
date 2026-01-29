@@ -22,6 +22,14 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
+      title: JC1 Orientation 2026
+      subtitle: Announcements
+      image: /images/Announcements/2026/Announcement_2026JC1Orientation.jpg
+      alt: Image alt text
+      url: /about-us/announcements/
+      description: 4 February 2026
+      button: Find Out More
+  - infopic:
       title: TMJC Open House 2026
       subtitle: Announcements
       button: Find Out More
@@ -38,13 +46,4 @@ sections:
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
       image: /images/Homepage/Infopic/Infopic images/2025_T4_Deepavali.jpg
-  - infopic:
-      title: JC1 Higher Education and Careers Fest 2025
-      subtitle: EVENT HIGHLIGHTS
-      image: /images/Homepage/Infopic/Infopic images/2025_T4_HigherEducation.jpg
-      alt: Image alt text
-      url: /event-highlight-about-us/permalink/
-      description: On 14 Oct 2025, our students took part in a valuable higher
-        education and career exploration day.
-      button: Find Out More
 ---
