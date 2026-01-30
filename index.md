@@ -33,7 +33,7 @@ sections:
       title: TMJC Open House 2026
       subtitle: Announcements
       button: Find Out More
-      url: /about-us/open-house/tmjc-open-house-2026/
+      url: /event-highlight-about-us/permalink/
       image: /images/Open House/2026/OpenHouse_2026_Banner_v2.jpg
       alt: Image alt text
       description: 15 January 2026, 10am - 3pm
