@@ -4,7 +4,30 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>TMJC Open House 2026: Soaring New Skyes</h2>
+<h3>Turning Passion into Action!</h3>
+<p>We are incredibly proud of Krystal Sandar Swe (24A301), our Interact Club
+President, for receiving the Junior - Merit Prize at the HSBC NYAA Youth
+Environmental Award 2026!
+<br>
+<br>Krystal walks the talk. From turning canteen waste into compost for our
+Food Digester project to leading beach clean-ups with Project Katharise,
+she blends environmental stewardship with service. Her impact extends to
+the wider community where she leads upcycling workshops for the elderly
+and advocates for sustainable food practices.
+<br>
+<br>We can all play a part in shaping a better future. Find a cause you care
+about and start making a difference too!
+<br>
+<br>Congratulations, Krystal!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_NYAA1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_NYAA2.jpg">
+</div>
+<h2></h2>
+<hr>
+<h3>TMJC Open House 2026: Soaring New Skyes</h3>
 <p>TMJC's Open House 2026, held on 15 January, embraced the inspiring theme
 "Soaring New Skyes," which symbolised new beginnings and endless possibilities
 for prospective TMJC students. This theme represented our College's unwavering
