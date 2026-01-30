@@ -30,13 +30,14 @@ sections:
       description: 4 February 2026
       button: Find Out More
   - infopic:
-      title: TMJC Open House 2026
-      subtitle: Announcements
+      title: "TMJC Open House 2026: Soaring New Skyes"
+      subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
       image: /images/Open House/2026/OpenHouse_2026_Banner_v2.jpg
       alt: Image alt text
-      description: 15 January 2026, 10am - 3pm
+      description: TMJC's Open House 2026, held on 15 January, embraced the inspiring
+        theme "Soaring New Skyes," which symbolised new beginnings...
   - infopic:
       title: TMJC Deepavali Celebration 2025
       subtitle: Event Highlights
