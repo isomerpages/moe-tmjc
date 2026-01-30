@@ -1,8 +1,9 @@
 ---
 title: Term 4
-permalink: /event-highlight-about-us/permalink/
+permalink: /about-us/event-highlights/2025/term-4/
 variant: tiptap
 description: ""
+third_nav_title: "2025"
 ---
 <h3>TMJC Deepavali Celebration 2025</h3>
 <p>The college dive into the electrifying spirit of Deepavali as our students

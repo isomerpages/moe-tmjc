@@ -1,8 +1,9 @@
 ---
 title: Term 2
-permalink: /event-highlight-about-us/term-2/
+permalink: /about-us/event-highlights/2025/term-2/
 variant: tiptap
 description: ""
+third_nav_title: "2025"
 ---
 <h3>Staff Bonding Day</h3>
 <p>Our staff teambuilding day at the National Gallery was a perfect blend

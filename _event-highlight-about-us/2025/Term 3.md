@@ -1,8 +1,9 @@
 ---
 title: Term 3
-permalink: /event-highlight-about-us/term-3/
+permalink: /about-us/event-highlights/2025/term-3/
 variant: tiptap
 description: ""
+third_nav_title: "2025"
 ---
 <h3>Staff Professional Learning Day 2025: Exploring Innovation Beyond the Classroom</h3>
 <p>On 12 September 2025, TMJC teachers participated in a Staff Professional

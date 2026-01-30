@@ -30,20 +30,22 @@ sections:
       description: 4 February 2026
       button: Find Out More
   - infopic:
-      title: TMJC Open House 2026
-      subtitle: Announcements
-      button: Find Out More
-      url: /about-us/open-house/tmjc-open-house-2026/
-      image: /images/Open House/2026/OpenHouse_2026_Banner_v2.jpg
-      alt: Image alt text
-      description: 15 January 2026, 10am - 3pm
-  - infopic:
-      title: TMJC Deepavali Celebration 2025
+      title: "TMJC Open House 2026: Soaring New Skyes"
       subtitle: Event Highlights
-      description: The college dive into the electrifying spirit of Deepavali as our
-        students brought the joyous spirit of Festival of Lights to life!
+      button: Find Out More
+      url: /event-highlight-about-us/permalink/
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_OpenHouse.jpg
+      alt: Image alt text
+      description: TMJC's Open House 2026, held on 15 January, embraced the inspiring
+        theme "Soaring New Skyes," which symbolised new beginnings...
+  - infopic:
+      title: Back To School
+      subtitle: Event Highlights
+      description: The first day back at school at Tampines Meridian Junior College
+        was nothing short of electric, setting the tone for what promises to be
+        a remarkable year...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2025_T4_Deepavali.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_BTS.jpg
 ---
