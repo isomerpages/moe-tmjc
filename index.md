@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: JC1 Orientation 2026
       subtitle: Announcements
-      image: /images/Announcements/2026/Announcement_2026JC1Orientation.jpg
+      image: /images/Announcements/2026/Announcement_2026JC1Orientation_v2.jpg
       alt: Image alt text
       url: /about-us/announcements/
       description: 4 February 2026
