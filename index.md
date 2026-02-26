@@ -22,12 +22,13 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: JC1 Orientation 2026
-      subtitle: Announcements
-      image: /images/Announcements/2026/Announcement_2026JC1Orientation_v2.jpg
+      title: First Day JC1 + Orientation
+      subtitle: Event Highlights
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_Orientation.jpg
       alt: Image alt text
-      url: /about-us/announcements/
-      description: 4 February 2026
+      url: /event-highlight-about-us/permalink/
+      description: On 4 February 2026, TMJC welcomed its JC1 cohort with “OHANA”  – a
+        celebration of family, belonging, and unity.
       button: Find Out More
   - infopic:
       title: "TMJC Open House 2026: Soaring New Skyes"
