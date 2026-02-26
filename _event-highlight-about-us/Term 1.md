@@ -4,6 +4,49 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>First Day JC1 + Orientation</h3>
+<p>On 4 February 2026, TMJC welcomed its JC1 cohort with “OHANA”&nbsp; –
+a celebration of family, belonging, and unity. More than an introduction
+to junior college life, the five-day Orientation marked the beginning of
+each student’s journey into the TMJC family. Guided by dedicated Orientation
+Group Leaders (OGLs) and supported by Orientation Group Teachers (OGTs),
+JC1s forged meaningful connections while immersing themselves in the vibrant
+culture and spirit of the College.
+<br>
+<br>Day 1 set the tone for unity as Orientation and House banners were unveiled,
+symbolising shared pride and community. A high-energy flash mob of the
+College Mass Dance ignited the atmosphere, warmly welcoming the JC1s. Through
+ice-breakers and a guided school tour led by OGLs, students began forming
+friendships and growing familiar with their new environment. The day concluded
+with spirited House walk-ins and the JC1s learning the Mass Dance - their
+first collective experience as one TMJC.
+<br>
+<br>Day 2 focussed on empowerment and assurance. Informative talks on the
+JC curriculum, along with a dialogue session with School Leaders and Academic
+Heads, provided clarity and reaffirmed that guidance and support are always
+available.
+<br>
+<br>On Day 3, games and team-based activities strengthened bonds and fostered
+trust, teamwork, and College spirit. Learning College cheers and Mass Dance
+further unified the cohort in voice and movement.
+<br>
+<br>Day 4 celebrated individuality within unity. OGLs rallied House pride
+by teaching distinctive cheers, while the CCA Leaders’ Walk-in and Oath
+Taking Ceremony inspired JC1s with examples of leadership and camaraderie.
+The CCA exhibition opened doors to new passions and opportunities.
+<br>
+<br>The journey culminated on Day 5 at Pasir Ris Park, where shared experiences
+deepened friendships. The highly anticipated Finale brought the celebration
+to its peak, featuring performances that showcased the heart and spirit
+of TMJC. As the College anthem rang out, sung with pride and joy, the JC1s
+stood not as individuals, but as one united family.
+<br>
+<br>Through OHANA, our JC1 students experienced what it truly means to belong.
+As they begin their journey here at TMJC, we are excited to walk alongside
+them – supporting, celebrating, and growing together as one TMJC family.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_Orientation.jpg">
+</div>
 <h3>Turning Passion into Action!</h3>
 <p>We are incredibly proud of Krystal Sandar Swe (24A301), our Interact Club
 President, for receiving the Junior - Merit Prize at the HSBC NYAA Youth
