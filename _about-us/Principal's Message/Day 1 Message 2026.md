@@ -24,7 +24,7 @@ an educator's lens — exploring how AI works, what this teaches us about
 human reasoning, and how we can harness its potential to enhance rather
 than replace meaningful learning.
 <br>
-<br>My line of inquiry has guided by these questions:</p>
+<br>My line of inquiry has been guided by these questions:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>What are the irreplaceable human qualities we must nurture in our students?</p>
