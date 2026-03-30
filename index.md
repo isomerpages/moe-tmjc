@@ -36,7 +36,7 @@ sections:
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_JC1Awards.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_JC1Awards.jpg
       alt: Image alt text
       description: On 26 February 2026, the JC2 cohort gathered to celebrate their
         peers' milestones at the JC1 Awards Ceremony.
