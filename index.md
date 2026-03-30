@@ -40,11 +40,10 @@ sections:
       description: TMJC's Open House 2026, held on 15 January, embraced the inspiring
         theme "Soaring New Skyes," which symbolised new beginnings...
   - infopic:
-      title: Back To School
+      title: Total Defence Day 2026
       subtitle: Event Highlights
-      description: The first day back at school at Tampines Meridian Junior College
-        was nothing short of electric, setting the tone for what promises to be
-        a remarkable year...
+      description: The College commemorated Total Defence Day 2026 under the theme
+        “Together, We Keep Singapore Strong.”
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
