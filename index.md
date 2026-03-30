@@ -22,13 +22,14 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: First Day JC1 + Orientation
+      title: Congratulations to the Class of 2025!
       subtitle: Event Highlights
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_Orientation.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_ALevelResult.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: On 4 February 2026, TMJC welcomed its JC1 cohort with “OHANA”  – a
-        celebration of family, belonging, and unity.
+      description: On 27 February 2026, our Class of 2025 returned to TMJC to receive
+        their GCE A-Level Examination results, marking the end of an
+        unforgettable JC journey.
       button: Find Out More
   - infopic:
       title: "Celebrating Excellence: JC1 Awards Ceremony 2026"
