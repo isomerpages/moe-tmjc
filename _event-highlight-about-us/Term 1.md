@@ -4,7 +4,52 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
-<h3>Total Defence Day Commemoration 2026</h3>
+<h3>Congratulations to the Class of 2025!</h3>
+<p>On <strong>27 February 2026</strong>, our Class of 2025 returned to TMJC
+to receive their <strong>GCE A-Level Examination results</strong>, marking
+the end of an unforgettable JC journey.
+<br>
+<br>Our Principal, <strong>Mr Sin</strong>, extended his heartfelt congratulations
+to the cohort and shared his best wishes for the future. Over the past
+two years, our students have demonstrated remarkable resilience, perseverance,
+and dedication. Each success reflects the collective spirit, support, and
+camaraderie that defined the Class of 2025.
+<br>
+<br>The day was filled with celebration and reflection, as students reunited
+with friends and teachers to mark this significant moment together.
+<br>
+<br>As our students take their next steps beyond TMJC, we are confident they
+will continue to pursue their dreams with courage and purpose.
+<br>
+<br><strong>TMJC is incredibly proud of you, Class of 2025! The future awaits you.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_ALevelResult.jpg">
+</div>
+<h3>Celebrating Excellence: JC1 Awards Ceremony 2026</h3>
+<p>On 26 February 2026, the JC2 cohort gathered to celebrate their peers'
+milestones at the JC1 Awards Ceremony. This event recognises the dedication
+and resilience displayed by students throughout their first year at TMJC.
+<br>
+<br>Beyond academic excellence—honoured through Best in Subject awards and
+the TMJC Book Prize—the ceremony also celebrated holistic growth. The Edusave
+Character (ECHA) and Edusave Awards for Achievement, Good Leadership &amp;
+Service (EAGLES) awards recognised students for their exemplary character
+and 21st-century competencies. The TMJC Alumni Scholarships were also presented
+to students who demonstrated exceptional holistic development during their
+JC1 year.
+<br>
+<br>The atmosphere was electric, filled with spirited cheers as awardees took
+the stage. Our Principal, Mr. Sin, offered heartfelt affirmation, encouraging
+the cohort to build on their successes. Adding to the inspiration, esteemed
+alumna Ms. Cortel Jillian Erin Gaudia shared poignant stories from her
+own JC journey, offering invaluable perspectives on the road to the A-Levels.
+<br>
+<br>It was a morning of deep reflection and collective pride—a fitting tribute
+to the grit and heart of our students.</p>
+<p></p>
+<p></p>
+<h3><br>Total Defence Day Commemoration 2026</h3>
 <p>The College commemorated Total Defence Day 2026 under the theme “Together,
 We Keep Singapore Strong.” In a world marked by disruptions — from global
 supply chain shocks to energy vulnerabilities — the significance of Total
@@ -26,13 +71,10 @@ and the importance of staying calm and adaptive during discomfort. On 24
 February, JC1 students attended a learning journey to Nippon Koi Farm,
 where they bonded as a CG for the first time and learnt how Singapore leverages
 advanced technologies to strengthen her food security.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3><br><br><br><br><br>TM Unites</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_TDD.jpg">
+</div>
+<h3>TM Unites</h3>
 <p>Our TMJC family came together on Lunar New Year Eve for TM Unites, a morning
 dedicated to refreshing our college and spreading warmth to the community.
 In the spirit of renewal, our JC2 students carried out spring cleaning
