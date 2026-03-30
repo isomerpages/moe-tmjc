@@ -4,6 +4,50 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Total Defence Day Commemoration 2026</h3>
+<p>The College commemorated Total Defence Day 2026 under the theme “Together,
+We Keep Singapore Strong.” In a world marked by disruptions — from global
+supply chain shocks to energy vulnerabilities — the significance of Total
+Defence remains ever relevant. This year’s commemoration focused on strengthening
+students’ crisis-readiness, cultivating both a sense of reality and hope
+amid disruptions.
+<br>
+<br>Students engaged in both reflective and experiential learning. Principal
+Mr Sin and student representatives launched the commemoration with reflections
+on the importance of Total Defence in everyday life. During CCE lessons,
+students gained firsthand insights from RSAF and SAF Volunteer Corps personnel
+who spoke on the enduring importance of Singapore’s military defence.
+<br>
+<br>Reflections aside, two experiential highlights stood out. On 23 February,
+students participated in Exercise SG Ready, a simulated power disruption
+that required lessons to continue without lights, fans and projectors.
+The exercise prompted reflection on Singapore’s energy vulnerabilities
+and the importance of staying calm and adaptive during discomfort. On 24
+February, JC1 students attended a learning journey to Nippon Koi Farm,
+where they bonded as a CG for the first time and learnt how Singapore leverages
+advanced technologies to strengthen her food security.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h3><br><br><br><br><br>TM Unites</h3>
+<p>Our TMJC family came together on Lunar New Year Eve for TM Unites, a morning
+dedicated to refreshing our college and spreading warmth to the community.
+In the spirit of renewal, our JC2 students carried out spring cleaning
+across the college, taking pride in our shared environment. Meanwhile,
+our JC1 students packed care packs and created handcrafted festive lanterns
+and decorations for residents in Tampines.
+<br>
+<br>On 21 February, these care packs were distributed to the residents in
+Tampines. Beyond that, we also collaborated with the Pasir Ris East (PRE)
+Care Store to pack and distribute essentials to residents in Pasir Ris.
+May we continue to carry this spirit of kindness and community in everything
+we do.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_TMUnites.jpg">
+</div>
 <h3>STEM Fest 2026</h3>
 <p>STEM Fest 2026 is a college-wide celebration of curiosity, creativity
 and real-world problem-solving. Anchored on the call to <strong><em>Ignite, Explore, Connect</em></strong> and <strong><em>Empower</em></strong>,
