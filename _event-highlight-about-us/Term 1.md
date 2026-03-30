@@ -4,6 +4,46 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>TMJC Celebrates Chinese New Year with Cultural Festivities and Community Care</h3>
+<p>Tampines Meridian Junior College welcomed 2026's Year of the Horse with
+festive decorations and the theme "Spring in Tampines Meridian."
+<br>
+<br>On Lunar New Year’s Eve, our JC1 and JC2 students gathered for TM Unites,
+a college-wide initiative to refresh our campus and spread community warmth.
+The JC1 students worked together to craft festive decorations and prepare
+care packs for Tampines residents, embodying the spirit of community care.
+Meanwhile, the JC2 students took part in a college-wide spring cleaning,
+reducing the workload for our elderly cleaners. Through these shared responsibilities,
+both cohorts demonstrated great teamwork, and their activities perfectly
+captured the spirit of renewal and giving that defines the Lunar New Year
+season.
+<br>
+<br>The concert celebration opened with Chinese Orchestra performing festive
+pieces "Welcome New Year" and "Joyous Celebration." Guitar Ensemble followed
+with energetic K-pop rendition of “Travel” , filling the hall with hopeful
+melodies for the new year journey. Dance Society captivated audiences with
+their graceful performance, featuring exquisite costumes and fluid choreography
+that drew continuous applause. Taekwondo students delivered powerful demonstrations
+with dynamic formations, showcasing strength and vigour in their New Year
+greetings. Wushu students demonstrated the harmony of strength and grace
+through spear and fan performances, embodying galloping horses' vitality.
+NUS Lion Dance troupe concluded with spectacular performances featuring
+thunderous drums and traditional lion dances.
+<br>
+<br>The celebration concluded with traditional lohei in the TM Oasis, where
+the entire college community gathered for a mass prosperity toss. Teachers
+and students assembled around their respective class tables, creating a
+vibrant atmosphere filled with anticipation. TM Oasis erupted with auspicious
+wishes and cheers as everyone enthusiastically tossed the colourful ingredients
+together, filling the air with fragrant aromas and joyful voices. This
+mass lohei experience brought the entire TMJC family together, embodying
+community care and cultural appreciation whilst creating lasting memories
+of shared celebration.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_CNYCelebration.jpg">
+</div>
+<p></p>
+<hr>
 <h3>First Day JC1 + Orientation</h3>
 <p>On 4 February 2026, TMJC welcomed its JC1 cohort with “OHANA”&nbsp; –
 a celebration of family, belonging, and unity. More than an introduction
