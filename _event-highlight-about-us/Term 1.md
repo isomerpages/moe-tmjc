@@ -11,10 +11,10 @@ the festival invites students to see Science, Technology, Engineering and
 Mathematics not merely as academic subjects, but as powerful lenses through
 which we understand and shape the world.
 <br>
-<br>Over five dynamic days, students experienced a rich spectrum of activities. <strong><em>STEM</em></strong> Fest
-opened with a keynote address by Ms Kong Man Jing — a local science and
-nature content creator better known as Biogirl MJ — followed by the launch
-of the inter-house challenge, <strong><em>Reel Magic</em></strong>, <strong><em>Real STEM</em></strong>,
+<br>Over five dynamic days, students experienced a rich spectrum of activities.
+STEM Fest opened with a keynote address by Ms Kong Man Jing — a local science
+and nature content creator better known as Biogirl MJ — followed by the
+launch of the inter-house challenge, <strong><em>Reel Magic</em></strong>, <strong><em>Real STEM</em></strong>,
 where Orientation Groups transformed “magic” tricks into short science
 reels that uncovered the principles behind the illusion.</p>
 <p>The <strong><em>Curiosity Corridor @ TM Cove</em></strong> transformed everyday
