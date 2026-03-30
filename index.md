@@ -31,14 +31,14 @@ sections:
         celebration of family, belonging, and unity.
       button: Find Out More
   - infopic:
-      title: "TMJC Open House 2026: Soaring New Skyes"
+      title: "Celebrating Excellence: JC1 Awards Ceremony 2026"
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_OpenHouse.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_JC1Awards.jpg
       alt: Image alt text
-      description: TMJC's Open House 2026, held on 15 January, embraced the inspiring
-        theme "Soaring New Skyes," which symbolised new beginnings...
+      description: On 26 February 2026, the JC2 cohort gathered to celebrate their
+        peers' milestones at the JC1 Awards Ceremony.
   - infopic:
       title: Total Defence Day 2026
       subtitle: Event Highlights
