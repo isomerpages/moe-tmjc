@@ -47,5 +47,5 @@ sections:
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_BTS.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_TDD.jpg
 ---
