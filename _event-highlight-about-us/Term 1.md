@@ -47,9 +47,10 @@ own JC journey, offering invaluable perspectives on the road to the A-Levels.
 <br>
 <br>It was a morning of deep reflection and collective pride—a fitting tribute
 to the grit and heart of our students.</p>
-<p></p>
-<p></p>
-<h3><br>Total Defence Day Commemoration 2026</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_JC1Awards.jpg">
+</div>
+<h3>Total Defence Day Commemoration 2026</h3>
 <p>The College commemorated Total Defence Day 2026 under the theme “Together,
 We Keep Singapore Strong.” In a world marked by disruptions — from global
 supply chain shocks to energy vulnerabilities — the significance of Total
