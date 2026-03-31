@@ -105,6 +105,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2026 Maths/TMJC_Staff___Maths_Shor_Peou.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Yeo Shor Peou</strong> 
+<br>Subject Head (CCE)
+<br><a href="mailto:yeo_shor_peou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_shor_peou@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2026 Maths/TMJC_Staff___Maths_Rendy.jpg">
 </div>
 </td>
