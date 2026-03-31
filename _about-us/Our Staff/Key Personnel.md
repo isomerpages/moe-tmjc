@@ -295,7 +295,7 @@ third_nav_title: Our Staff
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Shor Peou
+<p><strong>Ms Yeo Shor Peou </strong>
 <br>Subject Head (CCE)
 <br><a href="mailto:yeo_shor_peou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_shor_peou@schools.gov.sg</a>
 </p>
