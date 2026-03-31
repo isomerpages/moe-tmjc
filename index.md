@@ -22,31 +22,31 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: First Day JC1 + Orientation
+      title: Congratulations to the Class of 2025!
       subtitle: Event Highlights
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_Orientation.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_ALevelResult.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: On 4 February 2026, TMJC welcomed its JC1 cohort with “OHANA”  – a
-        celebration of family, belonging, and unity.
+      description: On 27 February 2026, our Class of 2025 returned to TMJC to receive
+        their GCE A-Level Examination results, marking the end of an
+        unforgettable JC journey.
       button: Find Out More
   - infopic:
-      title: "TMJC Open House 2026: Soaring New Skyes"
+      title: "Celebrating Excellence: JC1 Awards Ceremony 2026"
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_OpenHouse.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_JC1Awards.jpg
       alt: Image alt text
-      description: TMJC's Open House 2026, held on 15 January, embraced the inspiring
-        theme "Soaring New Skyes," which symbolised new beginnings...
+      description: On 26 February 2026, the JC2 cohort gathered to celebrate their
+        peers' milestones at the JC1 Awards Ceremony.
   - infopic:
-      title: Back To School
+      title: Total Defence Day 2026
       subtitle: Event Highlights
-      description: The first day back at school at Tampines Meridian Junior College
-        was nothing short of electric, setting the tone for what promises to be
-        a remarkable year...
+      description: The College commemorated Total Defence Day 2026 under the theme
+        “Together, We Keep Singapore Strong.”
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_BTS.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_TDD.jpg
 ---

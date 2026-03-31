@@ -36,6 +36,23 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2026 EAS/TMJC_Staff___EAS_Charmiane.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Chan Wan Jing Charmian</strong>
+<br>Administration Manager
+<br><a href="mailto:chan_wan_jing_charmian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chan_wan_jing_charmian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 EAS/10_TMJC_Staff___EAS_Azhar.jpg">
 </div>
 </td>

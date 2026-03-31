@@ -36,23 +36,6 @@ third_nav_title: Our Staff
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Arts and Humanities/3_TMJC_Staff___A_H_Liang_Tong.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Wee Liang Tong</strong>
-<br>Head of Department (Arts &amp; Humanities)
-<br><a href="mailto:wee_liang_tong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wee_liang_tong@schools.gov.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2024 Maths/6_TMJC_Staff___Maths_Amy.jpg">
 </div>
 </td>
@@ -205,6 +188,9 @@ third_nav_title: Our Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2026 MTL/TMJC_Staff___MTL_Hanfeng.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Cai Hanfeng</strong>
@@ -295,6 +281,23 @@ third_nav_title: Our Staff
 <p><strong>Ms Tan Teck Min Abigail</strong>
 <br>Subject Head (CCA)
 <br><a href="mailto:tan_teck_min_abigail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_teck_min_abigail@schools.gov.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Staff Photos/2026 Maths/TMJC_Staff___Maths_Shor_Peou.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Yeo Shor Peou </strong>
+<br>Subject Head (CCE)
+<br><a href="mailto:yeo_shor_peou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_shor_peou@schools.gov.sg</a>
 </p>
 </td>
 </tr>

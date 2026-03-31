@@ -4,6 +4,167 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Congratulations to the Class of 2025!</h3>
+<p>On <strong>27 February 2026</strong>, our Class of 2025 returned to TMJC
+to receive their <strong>GCE A-Level Examination results</strong>, marking
+the end of an unforgettable JC journey.
+<br>
+<br>Our Principal, <strong>Mr Sin</strong>, extended his heartfelt congratulations
+to the cohort and shared his best wishes for the future. Over the past
+two years, our students have demonstrated remarkable resilience, perseverance,
+and dedication. Each success reflects the collective spirit, support, and
+camaraderie that defined the Class of 2025.
+<br>
+<br>The day was filled with celebration and reflection, as students reunited
+with friends and teachers to mark this significant moment together.
+<br>
+<br>As our students take their next steps beyond TMJC, we are confident they
+will continue to pursue their dreams with courage and purpose.
+<br>
+<br><strong>TMJC is incredibly proud of you, Class of 2025! The future awaits you.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_ALevelResult.jpg">
+</div>
+<h3>Celebrating Excellence: JC1 Awards Ceremony 2026</h3>
+<p>On 26 February 2026, the JC2 cohort gathered to celebrate their peers'
+milestones at the JC1 Awards Ceremony. This event recognises the dedication
+and resilience displayed by students throughout their first year at TMJC.
+<br>
+<br>Beyond academic excellence—honoured through Best in Subject awards and
+the TMJC Book Prize—the ceremony also celebrated holistic growth. The Edusave
+Character (ECHA) and Edusave Awards for Achievement, Good Leadership &amp;
+Service (EAGLES) awards recognised students for their exemplary character
+and 21st-century competencies. The TMJC Alumni Scholarships were also presented
+to students who demonstrated exceptional holistic development during their
+JC1 year.
+<br>
+<br>The atmosphere was electric, filled with spirited cheers as awardees took
+the stage. Our Principal, Mr. Sin, offered heartfelt affirmation, encouraging
+the cohort to build on their successes. Adding to the inspiration, esteemed
+alumna Ms. Cortel Jillian Erin Gaudia shared poignant stories from her
+own JC journey, offering invaluable perspectives on the road to the A-Levels.
+<br>
+<br>It was a morning of deep reflection and collective pride—a fitting tribute
+to the grit and heart of our students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_JC1Awards.jpg">
+</div>
+<h3>Total Defence Day Commemoration 2026</h3>
+<p>The College commemorated Total Defence Day 2026 under the theme “Together,
+We Keep Singapore Strong.” In a world marked by disruptions — from global
+supply chain shocks to energy vulnerabilities — the significance of Total
+Defence remains ever relevant. This year’s commemoration focused on strengthening
+students’ crisis-readiness, cultivating both a sense of reality and hope
+amid disruptions.
+<br>
+<br>Students engaged in both reflective and experiential learning. Principal
+Mr Sin and student representatives launched the commemoration with reflections
+on the importance of Total Defence in everyday life. During CCE lessons,
+students gained firsthand insights from RSAF and SAF Volunteer Corps personnel
+who spoke on the enduring importance of Singapore’s military defence.
+<br>
+<br>Reflections aside, two experiential highlights stood out. On 23 February,
+students participated in Exercise SG Ready, a simulated power disruption
+that required lessons to continue without lights, fans and projectors.
+The exercise prompted reflection on Singapore’s energy vulnerabilities
+and the importance of staying calm and adaptive during discomfort. On 24
+February, JC1 students attended a learning journey to Nippon Koi Farm,
+where they bonded as a CG for the first time and learnt how Singapore leverages
+advanced technologies to strengthen her food security.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_TDD.jpg">
+</div>
+<h3>TM Unites</h3>
+<p>Our TMJC family came together on Lunar New Year Eve for TM Unites, a morning
+dedicated to refreshing our college and spreading warmth to the community.
+In the spirit of renewal, our JC2 students carried out spring cleaning
+across the college, taking pride in our shared environment. Meanwhile,
+our JC1 students packed care packs and created handcrafted festive lanterns
+and decorations for residents in Tampines.
+<br>
+<br>On 21 February, these care packs were distributed to the residents in
+Tampines. Beyond that, we also collaborated with the Pasir Ris East (PRE)
+Care Store to pack and distribute essentials to residents in Pasir Ris.
+May we continue to carry this spirit of kindness and community in everything
+we do.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_TMUnites.jpg">
+</div>
+<h3>STEM Fest 2026</h3>
+<p>STEM Fest 2026 is a college-wide celebration of curiosity, creativity
+and real-world problem-solving. Anchored on the call to <strong><em>Ignite, Explore, Connect</em></strong> and <strong><em>Empower</em></strong>,
+the festival invites students to see Science, Technology, Engineering and
+Mathematics not merely as academic subjects, but as powerful lenses through
+which we understand and shape the world.
+<br>
+<br>Over five dynamic days, students experienced a rich spectrum of activities.
+STEM Fest opened with a keynote address by Ms Kong Man Jing — a local science
+and nature content creator better known as Biogirl MJ — followed by the
+launch of the inter-house challenge, <strong><em>Reel Magic</em></strong>, <strong><em>Real STEM</em></strong>,
+where Orientation Groups transformed “magic” tricks into short science
+reels that uncovered the principles behind the illusion.</p>
+<p>The <strong><em>Curiosity Corridor @ TM Cove</em></strong> transformed everyday
+spaces into interactive STEM playgrounds, where students completed challenges,
+earned stamps, and rallied house points. A diverse line-up of <strong>talks</strong> explored
+topics ranging from quantum chemistry and semiconductor technology to flavour
+science and space innovation. Hands-on <strong>workshops</strong> — including
+liquid nitrogen ice cream making, forensic math and DNA analysis, 3D printing,
+AI fundamentals and ocean acidification — enabled students to experience
+science in action. <strong>Learning journeys</strong> to industry and research
+sites further connected classroom concepts to cutting-edge applications
+in the real world.</p>
+<p>Beyond knowledge acquisition, STEM Fest 2026 cultivated collaboration,
+communication and critical thinking. Students stepped into the roles of
+presenters, innovators and problem-solvers — whether prototyping with engineers,
+modelling epidemics with Python, or explaining the science behind a magic
+trick.</p>
+<p>By <strong><em>Sparking Thoughts</em></strong> and <strong><em>Empowering Minds</em></strong> through
+STEM Fest, we envision a community that is more confident in asking bold
+questions, making interdisciplinary connections, and recognising that STEM
+is not confined to classrooms and laboratories, but lives in every choice,
+challenge and opportunity around us.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_STEM.jpg">
+</div>
+<h3>TMJC Celebrates Chinese New Year with Cultural Festivities and Community Care</h3>
+<p>Tampines Meridian Junior College welcomed 2026's Year of the Horse with
+festive decorations and the theme "Spring in Tampines Meridian."
+<br>
+<br>On Lunar New Year’s Eve, our JC1 and JC2 students gathered for TM Unites,
+a college-wide initiative to refresh our campus and spread community warmth.
+The JC1 students worked together to craft festive decorations and prepare
+care packs for Tampines residents, embodying the spirit of community care.
+Meanwhile, the JC2 students took part in a college-wide spring cleaning,
+reducing the workload for our elderly cleaners. Through these shared responsibilities,
+both cohorts demonstrated great teamwork, and their activities perfectly
+captured the spirit of renewal and giving that defines the Lunar New Year
+season.
+<br>
+<br>The concert celebration opened with Chinese Orchestra performing festive
+pieces "Welcome New Year" and "Joyous Celebration." Guitar Ensemble followed
+with energetic K-pop rendition of “Travel” , filling the hall with hopeful
+melodies for the new year journey. Dance Society captivated audiences with
+their graceful performance, featuring exquisite costumes and fluid choreography
+that drew continuous applause. Taekwondo students delivered powerful demonstrations
+with dynamic formations, showcasing strength and vigour in their New Year
+greetings. Wushu students demonstrated the harmony of strength and grace
+through spear and fan performances, embodying galloping horses' vitality.
+NUS Lion Dance troupe concluded with spectacular performances featuring
+thunderous drums and traditional lion dances.
+<br>
+<br>The celebration concluded with traditional lohei in the TM Oasis, where
+the entire college community gathered for a mass prosperity toss. Teachers
+and students assembled around their respective class tables, creating a
+vibrant atmosphere filled with anticipation. TM Oasis erupted with auspicious
+wishes and cheers as everyone enthusiastically tossed the colourful ingredients
+together, filling the air with fragrant aromas and joyful voices. This
+mass lohei experience brought the entire TMJC family together, embodying
+community care and cultural appreciation whilst creating lasting memories
+of shared celebration.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_CNYCelebration.jpg">
+</div>
 <h3>First Day JC1 + Orientation</h3>
 <p>On 4 February 2026, TMJC welcomed its JC1 cohort with “OHANA”&nbsp; –
 a celebration of family, belonging, and unity. More than an introduction
@@ -68,8 +229,6 @@ about and start making a difference too!
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_NYAA2.jpg">
 </div>
-<h2></h2>
-<hr>
 <h3>TMJC Open House 2026: Soaring New Skyes</h3>
 <p>TMJC's Open House 2026, held on 15 January, embraced the inspiring theme
 "Soaring New Skyes," which symbolised new beginnings and endless possibilities
@@ -122,8 +281,6 @@ anthem, demonstrating the collaborative spirit and unity that define TMJCians.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_OpenHouse7.jpg">
 </div>
-<p></p>
-<hr>
 <h3>Back To School</h3>
 <p>The first day back at school at <strong>Tampines Meridian Junior College</strong> was
 nothing short of electric, setting the tone for what promises to be a remarkable
