@@ -4,7 +4,7 @@ permalink: /admissions/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h1>2025 Direct School Admission Exercise (DSA)</h1>
+<h1>2026 Direct School Admission Exercise (DSA)</h1>
 <p>The DSA-JC exercise aims to promote holistic education by giving participating
 JCs the flexibility in selecting secondary school students for admission
 to JC1 based on their achievements and talents, while upholding key principles
@@ -20,8 +20,8 @@ and join us if you treasure enriching learning experiences, look forward
 to a well-rounded college life, and aspire to grow and contribute to the
 College.
 <br>
-<br>The 2025 DSA-JC exercise at TMJC is open to students who wish to seek
-direct admission into JC1 in 2026. Graduating students from Singapore secondary
+<br>The 2026 DSA-JC exercise at TMJC is open to students who wish to seek
+direct admission into JC1 in 2027. Graduating students from Singapore secondary
 schools can apply for DSA into TMJC during the application period.
 <br>
 <br><strong>DSA Talent Areas</strong> 
