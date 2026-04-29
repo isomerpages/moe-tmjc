@@ -24,8 +24,15 @@ College.
 direct admission into JC1 in 2027. Graduating students from Singapore secondary
 schools can apply for DSA into TMJC during the application period.
 <br>
-<br><strong>DSA Talent Areas</strong> 
+<br><strong>DSA Talent Areas</strong>
 <br>
 <br>The following <strong>talent areas</strong> are open for DSA applications
-in TMJC.</p>
-<p></p>
+in TMJC.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2026.jpg">
+</div>
+<p>
+<br>
+</p>
