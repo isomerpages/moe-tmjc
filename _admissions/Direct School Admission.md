@@ -12,8 +12,8 @@ of transparency, fairness and meritocracy. It provides students with the
 opportunities to demonstrate a more diverse range of achievements and talents
 in seeking admission to JCs.
 <br>
-<br><strong>Be part of the Tampines Meridian Experience!</strong> You could
-be an exceptional sportsperson who has represented the State or participated
+<br><strong>Be part of the Tampines Meridian Experience!</strong>&nbsp;You
+could be an exceptional sportsperson who has represented the State or participated
 in competitions at the national level, or you could be a performer with
 laudable talent, performance experience and competition achievements. Come
 and join us if you treasure enriching learning experiences, look forward
@@ -22,13 +22,129 @@ College.
 <br>
 <br>The 2026 DSA-JC exercise at TMJC is open to students who wish to seek
 direct admission into JC1 in 2027. Graduating students from Singapore secondary
-schools can apply for DSA into TMJC during the application period.
-<br>
-<br><strong>DSA Talent Areas</strong>
-<br>
-<br>The following <strong>talent areas</strong> are open for DSA applications
-in TMJC.</p>
+schools can apply for DSA into TMJC during the application period.</p>
+<h4><strong>DSA Talent Areas</strong></h4>
+<p>The following&nbsp;<strong>talent areas</strong>&nbsp;are open for DSA
+applications in TMJC.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/dsa_table_2026.png">
 </div>
+<hr>
+<h4><strong>DSA Selection Criteria</strong></h4>
+<p>Applicants will be evaluated and selected according to the following criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Performance at trials / auditions / interviews</p>
+</li>
+<li>
+<p>Acceptable academic results</p>
+</li>
+<li>
+<p>Good conduct</p>
+</li>
+<li>
+<p>Track record in the chosen DSA Talent Area such as Sports/Performing Arts/
+Leaderships/Academics</p>
+</li>
+<li>
+<p>Achievements/Awards in National/Regional/International Competitions</p>
+</li>
+<li>
+<p>Representation at Zonal/National competitions, National or Club level</p>
+</li>
+<li>
+<p>Relevant experience in the DSA Talent Area</p>
+</li>
+<li>
+<p>Relevant leadership skills / initiate projects to make a positive difference
+to the school community or beyond.</p>
+</li>
+</ul>
+<p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
+</p>
+<hr>
+<h4><strong>Application Procedure</strong></h4>
+<p>If you are interested in applying to Tampines Meridian Junior College
+through the DSA-JC exercise, you are required to complete the following:</p>
+<p>All applications must be submitted online using the stipulated&nbsp;DSA
+application form.</p>
+<p>A personal statement (not more than 500 words) is required for the applicants
+to state the reasons for applying to TMJC via DSA in the online application
+form.</p>
+<p>Upload the following supporting documents to the&nbsp;DSA Online Application
+Portal.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA records</p>
+</li>
+<li>
+<p>VIA records</p>
+</li>
+<li>
+<p>Academic result slips showing results of Weighted Assessment, Year End
+Examination, Form Teachers’ comments and conduct grades for <strong>Sec 3, Sec 4, Sec 5</strong> (if
+applicable).</p>
+</li>
+<li>
+<p>Any other relevant supporting documents (eg: CCA achievement/scholarships)</p>
+</li>
+</ul>
+<p>Incomplete applications (e.g. without a complete set of supporting documents,
+or insufficient information provided on the online application form) will
+not be accepted or considered.</p>
+<hr>
+<h4><strong>JC DSA Application Timeline</strong></h4>
+<p><strong><em>The online TMJC DSA application form will open on Wednesday, 6 May 2026, starting at 8:00 a.m.</em></strong>
+</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Deadline for submission of online DSA application</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Phase 1: 12 Jul 2026*</strong>
+</p>
+<p><strong>Phase 2: 12 Aug 2026*</strong>
+</p>
+<p>* Applicants are advised to submit their applications early and by the
+deadline for Phase 1 or Phase 2 as shown above, for the application to
+be duly considered.</p>
+</div>
+</details>
+</div>
+<p>Applicants not being offered a place in Phase 1&nbsp;<strong>need not re-submit</strong>&nbsp;an
+application for Phase 2 as the application will be considered for both
+phases.</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>All shortlisted applicants will be informed of the outcome</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong>Phase 1 - between 28 Jul and 11 Aug 2026</strong>
+</p>
+<p><strong>Phase 2 – between 24 Aug and 7 Sep 2026</strong>
+</p>
+</div>
+</details>
+</div>
+<h4><strong>Date for Trials/Auditions</strong></h4>
+<p><strong>Only shortlisted applicants will be invited for DSA trials or auditions by 28 Aug 2026.</strong>
+</p>
+<p>General inquiries regarding DSA can be made via email to Mrs Rosalind
+Lim, at&nbsp;<a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
+<p>You may click on the&nbsp;<a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to submit the&nbsp;<strong>DSA Online Application</strong>&nbsp;for
+admission to TMJC.
+<br>
+</p>
+<p><strong>Important Note</strong>
+</p>
+<p>Students who have been successfully allocated a school via DSA-JC are
+not allowed to participate in the Joint Admissions Exercise (JAE). They
+will also not be allowed to transfer to another school after the release
+of the GCE O-Level examination results. They are expected to honour their
+commitment to the DSA-JC schools and to participate in activities related
+to the talent selected in, for the duration of the programme admitted to.
+Students who do not fulfil their DSA commitment without valid reason may
+be required to transfer out to another school.</p>
 <p></p>
