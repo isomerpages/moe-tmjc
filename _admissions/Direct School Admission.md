@@ -27,12 +27,8 @@ schools can apply for DSA into TMJC during the application period.
 <br><strong>DSA Talent Areas</strong>
 <br>
 <br>The following <strong>talent areas</strong> are open for DSA applications
-in TMJC.
-<br>
-</p>
+in TMJC.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Table_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/dsa_table_2026.png">
 </div>
-<p>
-<br>
-</p>
+<p></p>
