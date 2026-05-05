@@ -75,6 +75,7 @@ to the school community or beyond.</p>
 <details class="isomer-details">
 <summary>Application Procedure</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>If you are interested in applying to Tampines Meridian Junior College
 through the DSA-JC exercise, you are required to complete the following:</p>
 <p></p>
@@ -112,6 +113,7 @@ not be accepted or considered.</p>
 <details class="isomer-details">
 <summary>JC DSA Application Timeline</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong><em>The online TMJC DSA application form will open on Wednesday, 6 May 2026, starting at 8:00 a.m.</em></strong>
 </p>
 <p></p>
@@ -148,6 +150,7 @@ phases.</p>
 <details class="isomer-details">
 <summary>Date for Trials/Auditions</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p><strong>Only shortlisted applicants will be invited for DSA trials or auditions by 28 Aug 2026.</strong>
 </p>
 <p>General inquiries regarding DSA can be made via email to Mrs Rosalind
