@@ -23,14 +23,22 @@ College.
 <br>The 2026 DSA-JC exercise at TMJC is open to students who wish to seek
 direct admission into JC1 in 2027. Graduating students from Singapore secondary
 schools can apply for DSA into TMJC during the application period.</p>
-<h4><strong>DSA Talent Areas</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>DSA Talent Areas</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>The following&nbsp;<strong>talent areas</strong>&nbsp;are open for DSA
 applications in TMJC.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/dsa_table_2026.png">
 </div>
-<hr>
-<h4><strong>DSA Selection Criteria</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>DSA Selection Criteria</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Applicants will be evaluated and selected according to the following criteria:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -62,15 +70,21 @@ to the school community or beyond.</p>
 </ul>
 <p><em>Applicants who do not have prior experience may also apply. The school will assess applicants based on the selection criteria, which may include assessing the potential of the applicants.</em>
 </p>
-<hr>
-<h4><strong>Application Procedure</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Application Procedure</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>If you are interested in applying to Tampines Meridian Junior College
 through the DSA-JC exercise, you are required to complete the following:</p>
+<p></p>
 <p>All applications must be submitted online using the stipulated&nbsp;DSA
 application form.</p>
+<p></p>
 <p>A personal statement (not more than 500 words) is required for the applicants
 to state the reasons for applying to TMJC via DSA in the online application
 form.</p>
+<p></p>
 <p>Upload the following supporting documents to the&nbsp;DSA Online Application
 Portal.</p>
 <ul data-tight="true" class="tight">
@@ -89,14 +103,18 @@ applicable).</p>
 <p>Any other relevant supporting documents (eg: CCA achievement/scholarships)</p>
 </li>
 </ul>
+<p></p>
 <p>Incomplete applications (e.g. without a complete set of supporting documents,
 or insufficient information provided on the online application form) will
 not be accepted or considered.</p>
-<hr>
-<h4><strong>JC DSA Application Timeline</strong></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary>JC DSA Application Timeline</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong><em>The online TMJC DSA application form will open on Wednesday, 6 May 2026, starting at 8:00 a.m.</em></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
 <details class="isomer-details">
 <summary><strong>Deadline for submission of online DSA application</strong>
 </summary>
@@ -111,11 +129,9 @@ deadline for Phase 1 or Phase 2 as shown above, for the application to
 be duly considered.</p>
 </div>
 </details>
-</div>
 <p>Applicants not being offered a place in Phase 1&nbsp;<strong>need not re-submit</strong>&nbsp;an
 application for Phase 2 as the application will be considered for both
 phases.</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>All shortlisted applicants will be informed of the outcome</strong>
 </summary>
@@ -128,15 +144,20 @@ phases.</p>
 </div>
 </details>
 </div>
-<h4><strong>Date for Trials/Auditions</strong></h4>
+</details>
+<details class="isomer-details">
+<summary>Date for Trials/Auditions</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Only shortlisted applicants will be invited for DSA trials or auditions by 28 Aug 2026.</strong>
 </p>
 <p>General inquiries regarding DSA can be made via email to Mrs Rosalind
 Lim, at&nbsp;<a href="mailto:loh_wee_chin_rosalind@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_wee_chin_rosalind@schools.gov.sg</a>.</p>
 <p>You may click on the&nbsp;<a href="https://dsa.tmjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;to submit the&nbsp;<strong>DSA Online Application</strong>&nbsp;for
-admission to TMJC.
-<br>
-</p>
+admission to TMJC.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong>Important Note</strong>
 </p>
 <p>Students who have been successfully allocated a school via DSA-JC are
