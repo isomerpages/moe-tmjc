@@ -35,7 +35,7 @@ sections:
       title: JC1 CG Day & Parent Teacher Engagement 2026
       subtitle: Event Highlights
       button: Find Out More
-      url: /event-highlight-about-us/permalink/
+      url: /event-highlight-about-us/term-1/
       image: /images/Homepage/Infopic/Infopic images/2026_T1_JC1CGDay.jpg
       alt: Image alt text
       description: On 6 March 2026, Tampines Meridian Junior College (TMJC) held its
