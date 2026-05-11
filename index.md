@@ -49,6 +49,6 @@ sections:
         our JC1s...
       button: Find Out More
       alt: Image alt text
-      url: /event-highlight-about-us/permalink/
+      url: /event-highlight-about-us/term-1/
       image: /images/Homepage/Infopic/Infopic images/2026_T1_JC1BadgePinning.jpg
 ---
