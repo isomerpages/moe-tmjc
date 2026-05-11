@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h3>Strengthening Bonds and Building Partnerships: JC1 CG Day &amp; Parent Teacher Engagement 2026</h3>
-<ul data-tight="true" class="tight">
-<li>
 <p>On 6 March 2026, Tampines Meridian Junior College (TMJC) held its annual <strong>JC1 Civics Group (CG) Day</strong>,
 followed by the <strong>Parent-Teacher Engagement (PTE)</strong> session.
 The day was a meaningful blend of student leadership development, creative
@@ -38,7 +36,7 @@ model that reflected their collective vision for a future TMJC.
 designs:
 <br>
 </p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Future Classroom:</strong> Flexible spaces that support self-directed
 learning.</p>
@@ -75,7 +73,7 @@ we are today while building a collective vision for the TMJC of tomorrow.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_JC1CGDay.jpg">
 </div>
-<h3><br>JC1 Badge Pinning Ceremony</h3>
+<h3>JC1 Badge Pinning Ceremony</h3>
 <p>On 2 March 2026, the TMJC community gathered for the annual JC1 Badge
 Pinning Ceremony, a definitive milestone that officially welcomed our JC1s
 into the college fold. This year, the ceremony was anchored by the evocative
