@@ -22,31 +22,33 @@ sections:
           url: /about-us/year-2025/
       variant: center
   - infopic:
-      title: Congratulations to the Class of 2025!
+      title: Hari Raya Celebrations 2026
       subtitle: Event Highlights
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_ALevelResult.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T2_HariRaya.jpg
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      description: On 27 February 2026, our Class of 2025 returned to TMJC to receive
-        their GCE A-Level Examination results, marking the end of an
-        unforgettable JC journey.
+      description: On 31 March 2026, Tampines Meridian Junior College came alive with
+        the festive spirit of Hari Raya Aidilfitri in a vibrant college-wide
+        celebration...
       button: Find Out More
   - infopic:
-      title: "Celebrating Excellence: JC1 Awards Ceremony 2026"
+      title: JC1 CG Day & Parent Teacher Engagement 2026
       subtitle: Event Highlights
       button: Find Out More
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_JC1Awards.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_JC1CGDay.jpg
       alt: Image alt text
-      description: On 26 February 2026, the JC2 cohort gathered to celebrate their
-        peers' milestones at the JC1 Awards Ceremony.
+      description: On 6 March 2026, Tampines Meridian Junior College (TMJC) held its
+        annual JC1 Civics Group (CG) Day, followed by the Parent-Teacher
+        Engagement (PTE) session.
   - infopic:
-      title: Total Defence Day 2026
+      title: JC1 Badge Pinning Ceremony
       subtitle: Event Highlights
-      description: The College commemorated Total Defence Day 2026 under the theme
-        “Together, We Keep Singapore Strong.”
+      description: On 2 March 2026, the TMJC community gathered for the annual JC1
+        Badge Pinning Ceremony, a definitive milestone that officially welcomed
+        our JC1s...
       button: Find Out More
       alt: Image alt text
       url: /event-highlight-about-us/permalink/
-      image: /images/Homepage/Infopic/Infopic images/2026_T1_TDD.jpg
+      image: /images/Homepage/Infopic/Infopic images/2026_T1_JC1BadgePinning.jpg
 ---
