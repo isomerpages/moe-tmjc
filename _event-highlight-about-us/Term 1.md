@@ -4,6 +4,105 @@ permalink: /event-highlight-about-us/permalink/
 variant: tiptap
 description: ""
 ---
+<h3>Strengthening Bonds and Building Partnerships: JC1 CG Day &amp; Parent Teacher Engagement 2026</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>On 6 March 2026, Tampines Meridian Junior College (TMJC) held its annual <strong>JC1 Civics Group (CG) Day</strong>,
+followed by the <strong>Parent-Teacher Engagement (PTE)</strong> session.
+The day was a meaningful blend of student leadership development, creative
+collaboration, and the strengthening of the vital partnership between the
+College and parents.
+<br>
+<br><strong>A Morning of Gratitude and Connection</strong>
+<br>
+<br>The day began with high energy as students participated in <strong>CG bonding activities and breakfast</strong>.
+These sessions, led by JC1 students who volunteered as game facilitators,
+were designed to foster teamwork, empathy, and inclusivity within each
+class.
+<br>
+<br>A particularly touching segment of the morning was the <strong>"Just For You" gratitude activity</strong>.
+Students crafted gratitude flowers and personalised scratch cards to express
+heartfelt appreciation to their parents for supporting them as they embark
+on their JC journey.
+<br>
+<br><strong>Re-envisioning TMJC: Small Bricks, Big Vision</strong>
+<br>
+<br>In the afternoon, the JC1 cohort transitioned into the <strong>TMJC Re-envisioning Activity</strong>.
+The JC2 CG Leaders and student volunteers guided their JC1 juniors in designing
+the <strong>TMJC of Tomorrow</strong>. This session empowered our students
+to exercise agency and ownership by imagining the future of their college
+campus. Using LEGO bricks, each Civics Group worked together to build a
+model that reflected their collective vision for a future TMJC.
+<br>
+<br>The challenge required students to incorporate four key pillars into their
+designs:
+<br>
+</p>
+</li>
+<li>
+<p><strong>Future Classroom:</strong> Flexible spaces that support self-directed
+learning.</p>
+</li>
+<li>
+<p><strong>Social Hub:</strong> Areas designed to encourage bonding and inclusivity.</p>
+</li>
+<li>
+<p><strong>Wellness Corner:</strong> Spaces to rest, recharge, and manage
+stress.</p>
+</li>
+<li>
+<p><strong>Green Campus:</strong> Sustainable environments connected to nature.</p>
+</li>
+</ul>
+<p>The activity culminated in a showcase in the Hall, where classes presented
+one-minute videos explaining their structures. The session not only sparked <strong>"collaborative innovation"</strong> but
+also deepened the students' sense of belonging to the TMJC family.
+<br>
+<br><strong>Engaging Our Partners-in-Education</strong>
+<br>
+<br>As the student activities concluded, the focus shifted to our parents.
+The <strong>Parent-Teacher Engagement (PTE)</strong> session provided a vital
+platform for parents to meet with Civics Tutors.
+<br>
+<br>These conversations are essential for ensuring that the College and families
+are aligned in supporting the holistic development and well-being of every
+TMJCian. By sharing insights into students' progress and college life,
+we strengthen the <strong>TMJC</strong>  <strong>community,</strong> which
+helps our students thrive.
+<br>
+<br>The day concluded with a sense of shared purpose, having celebrated where
+we are today while building a collective vision for the TMJC of tomorrow.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_JC1CGDay.jpg">
+</div>
+<h3><br>JC1 Badge Pinning Ceremony</h3>
+<p>On 2 March 2026, the TMJC community gathered for the annual JC1 Badge
+Pinning Ceremony, a definitive milestone that officially welcomed our JC1s
+into the college fold. This year, the ceremony was anchored by the evocative
+Orientation theme, "Ohana"—a poignant reminder that within these college
+walls, family means nobody is left behind or forgotten.
+<br>
+<br>The atmosphere was a beautiful reflection of this spirit. In a symbolic
+"passing of the torch," our JC2 CG Chairpersons and Peer Support Leaders
+stepped forward to present the college collar pins to their JC1 juniors.
+This was far more than a formal handover; it was a hand of friendship extended
+across cohorts. Our seniors took the stage to share personal anecdotes
+and wisdom, providing a guiding light for the JC1s as they begin to navigate
+the rigorous yet rewarding two-year journey ahead.
+<br>
+<br>The definitive highlight of the morning was the collective pinning of
+the badges. As the JC1 cohort donned their college pins in unison, they
+did more than just complete their uniforms; they embraced a shared identity.
+<br>
+<br>This act marked the official start of their journey, not merely as individual
+students, but as vital members of the TMJC family. Our JC1s now move forward
+alongside their JC2 seniors, forging a path ahead as one united student
+body.
+<br>
+<br>Welcome to TMJC, JC1s!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T1_Events_JC1BadgePinning.jpg">
+</div>
 <h3>Congratulations to the Class of 2025!</h3>
 <p>On <strong>27 February 2026</strong>, our Class of 2025 returned to TMJC
 to receive their <strong>GCE A-Level Examination results</strong>, marking
