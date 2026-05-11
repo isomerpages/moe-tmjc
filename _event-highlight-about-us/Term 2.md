@@ -58,7 +58,10 @@ to give your best effort, and you will naturally be rewarded.</p>
 <li>
 <p>Passion, perseverance, and consistent hard work are key, and small improvements
 will lead to eventual excellence.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Event Highlights/2026/2026_T2_Events_SYNCO.jpg">
+</div>
 <p></p>
