@@ -30,7 +30,7 @@ applications in TMJC.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Talent_Area_file.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_Talent_Area.jpg">
 </div>
 <p></p>
 <hr>
