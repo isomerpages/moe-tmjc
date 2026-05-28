@@ -24,17 +24,6 @@ College.
 direct admission into JC1 in 2027. Graduating students from Singapore secondary
 schools can apply for DSA into TMJC during the application period.</p>
 <hr>
-<h3><strong>DSA Tea Session</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admissions/DSA/DSA_CCA_Tea_Session_Poster_22042026_v2.jpg">
-</div>
-<p>TMJC would like to invite students who are keen to join TMJC via DSA to
-join us for a DSA Tea Session <strong>on 29 May 2026 (Friday) at 5.00 pm in TMJC, LT1.&nbsp;</strong>
-</p>
-<p>Kindly complete the registration form <a href="https://go.gov.sg/dsateasession2026" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong><u>27 May</u></strong> to
-indicate your interest in joining the TMJC DSA-CCA Tea Session</p>
-<hr>
 <h3><strong>DSA Talent Areas</strong></h3>
 <p>The following&nbsp;<strong>talent areas</strong>&nbsp;are open for DSA
 applications in TMJC.
