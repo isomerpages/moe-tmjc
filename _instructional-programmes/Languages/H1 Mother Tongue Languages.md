@@ -3,6 +3,7 @@ title: H1 Mother Tongue Languages
 permalink: /our-total-curriculum/instructional-programmes/languages/h1-mother-tongue-languages/
 description: ""
 third_nav_title: Languages
+variant: markdown
 ---
 The Mother Tongue Languages Department of TMJC offers different curricula catered to the needs of different students and aims to realise the full potential of students’ ability in their Mother Tongue languages. Through the academic and enrichment programmes, the Department hopes to nurture active learners and proficient users of their Mother Tongue languages, and at the same time, imbue students the skills to plug into a globalised world while being connected to their Asian heritage and roots.  
   
@@ -10,12 +11,8 @@ The majority of our students will do their Mother Tongue Languages at H1 level, 
   
 A key in-House enrichment programme, the Mother Tongue Languages Fortnight (MTLF) is organised annually, that immerse students culturally in their MT languages.  
 
-For more information on the respective H1 MTL syllabus:
+[Find out more information about the H1 MTL syllabus.](https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/)
  
-* [H1 Tamil Language Syllabus Document (8657)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8657_y21_sy.pdf)
-* [H1 Chinese Language Syllabus Document (8655)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8655_y21_sy.pdf)
-* [H1 Malay Language Syllabus Document (8656)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8656_y21_sy.pdf)
-
 ![](/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/H1%20Mother%20Tongue%20Languages/cl%20-%20enrichment%20lecture%20and%20performance%20by%20local%20artistes.jpg)
 CL - Enrichment Lecture and Performance by Local Artistes
 
