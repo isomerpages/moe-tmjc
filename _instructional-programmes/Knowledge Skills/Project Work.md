@@ -39,8 +39,7 @@ developed by Kouzes and Posner, is adopted and modified to the PW context,
 with an added focus on Conflict Resolution. In addition, to support students’
 independent learning, Independent Learning Modules (ILMs) may also be introduced
 at various junctures of the students’ PW journey.</p>
-<p>For more information on the H1 Project Work syllabus:
-<br><a href="/files/Our Total Curriculum/Instructional Programmes/Project_Work_H1_Syllabus_8808.pdf" rel="noopener nofollow" target="_blank">Project Work H1 Syllabus 8808</a>
+<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener nofollow" target="_blank">Find out more information about the H1 Project Work syllabus. </a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Project%20Work/Powerpoint%20Skills%20Workshop.jpg">

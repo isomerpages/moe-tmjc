@@ -42,10 +42,8 @@ and leverages on digital platforms to enable students’ appreciation of
 various theatrical processes. Students are encouraged to reflect after
 every learning journey to develop analytical thinking, confidence in articulation,
 as well as ability to respond critically to creative stimuli.</p>
-<p>For more information on the H2 Theatre Studies &amp; Drama syllabus:</p>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9519_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Theatre Studies &amp; Drama Syllabus Document (9519)</a>
+<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener nofollow" target="_blank">Find out more information about the H2 Theatre Studies &amp; Drama syllabus.</a>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our%20Total%20Curriculum/1%20Instructional%20Programmes/Theatre%20Studies%20and%20Drama/group%20skills%20performance.jpg">
 </div>
