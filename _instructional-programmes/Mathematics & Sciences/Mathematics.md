@@ -52,7 +52,7 @@ in life and develop the joy of learning. These enrichment activities include:</p
 <p>International Mathematical Modelling Challenge</p>
 </li>
 </ul>
-<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener nofollow" target="_blank">Find out more information about the H1, H2 and H3 Mathematics syllabus.</a>
+<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener nofollow" target="_blank">Find out more information about the H1, H2 and H3 Mathematics syllabuses.</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TMJC-OurCurriculum_IP_Maths_01.jpeg">
