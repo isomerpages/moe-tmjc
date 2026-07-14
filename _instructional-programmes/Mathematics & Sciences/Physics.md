@@ -3,6 +3,7 @@ title: Physics
 permalink: /our-total-curriculum/instructional-programmes/mathematics-n-sciences/physics/
 description: ""
 third_nav_title: Mathematics & Sciences
+variant: markdown
 ---
 Through the study of Physics, students learn how the laws of Physics and core ideas can solve real world problems. They will build upon their prior knowledge from their secondary education in Physics by acquiring deeper knowledge linking concepts across branches of Physics.  
   
@@ -18,12 +19,7 @@ We encourage our students to learn beyond the curriculum. Enrichment programmes/
 2. Physics enrichment camps organised by NTU and NUS 
 3. Singapore Physics Olympiad training  
   
-For more information on the H1 and H2 Physics syllabus:  
-
-* [H1 Physics Syllabus Document (8867)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8867_y21_sy.pdf)
-
-
-* [H2 Physics Syllabus Document (9749)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9749_y21_sy.pdf)
+[Find out more about the H1 and H2 Physics syllabuses.](https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/)
 
 ![](/images/TMJC-OurCurriculum_IP_Physics_01.jpeg)
 ![](/images/TMJC-OurCurriculum_IP_Physics_02.jpeg)
