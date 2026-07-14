@@ -52,21 +52,8 @@ in life and develop the joy of learning. These enrichment activities include:</p
 <p>International Mathematical Modelling Challenge</p>
 </li>
 </ul>
-<p>For more information on the H1, H2 and H3 Mathematics syllabus:</p>
-<ul>
-<li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/8865_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics Syllabus Document (8865)</a>
+<p><a href="https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/" rel="noopener nofollow" target="_blank">Find out more information about the H1, H2 and H3 Mathematics syllabus.</a>
 </p>
-</li>
-<li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9758_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics Syllabus Document (9758)</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9820_y21_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics syllabus Document (9820)</a>
-</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TMJC-OurCurriculum_IP_Maths_01.jpeg">
 </div>
