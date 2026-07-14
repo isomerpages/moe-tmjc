@@ -19,7 +19,7 @@ We encourage our students to learn beyond the curriculum. Enrichment programmes/
 2. Physics enrichment camps organised by NTU and NUS 
 3. Singapore Physics Olympiad training  
   
-[Find out more about the H1 and H2 Physics syllabuses.](https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/)
+[Find out more information about the H1 and H2 Physics syllabuses.](https://www.seab.gov.sg/gce-a-level/a-level-syllabuses-examined-for-school-candidates-2026/)
 
 ![](/images/TMJC-OurCurriculum_IP_Physics_01.jpeg)
 ![](/images/TMJC-OurCurriculum_IP_Physics_02.jpeg)
